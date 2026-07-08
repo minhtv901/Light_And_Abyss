@@ -1,0 +1,520 @@
+fileFormatVersion: 2
+guid: 6b06af924fd5f0f4982a705ecdabfc09
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4637833628505129067
+    second: columns_arches_part_1_x3_0
+  - first:
+      213: -4208428667081243590
+    second: columns_arches_part_1_x3_1
+  - first:
+      213: 4613413571158243229
+    second: columns_arches_part_1_x3_2
+  - first:
+      213: -2616955954408113845
+    second: columns_arches_part_1_x3_3
+  - first:
+      213: 8569714648031188896
+    second: columns_arches_part_1_x3_4
+  - first:
+      213: -6976400009959788144
+    second: columns_arches_part_1_x3_5
+  - first:
+      213: 5619880342380954736
+    second: columns_arches_part_1_x3_6
+  - first:
+      213: 5712167766454536830
+    second: columns_arches_part_1_x3_7
+  - first:
+      213: -1378820275605784867
+    second: columns_arches_part_1_x3_8
+  - first:
+      213: -8117158649799908828
+    second: columns_arches_part_1_x3_9
+  - first:
+      213: -2853791851392183008
+    second: columns_arches_part_1_x3_10
+  - first:
+      213: 4904461334241618523
+    second: columns_arches_part_1_x3_11
+  - first:
+      213: 8702360333545606738
+    second: columns_arches_part_1_x3_12
+  - first:
+      213: 284101541013828241
+    second: columns_arches_part_1_x3_13
+  - first:
+      213: 7288072744831354277
+    second: columns_arches_part_1_x3_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: columns_arches_part_1_x3_0
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 120
+        width: 95
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59f379d13ea13afb0800000000000000
+      internalID: -4637833628505129067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: columns_arches_part_1_x3_1
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 29
+        width: 185
+        height: 326
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a344d0cac68a895c0800000000000000
+      internalID: -4208428667081243590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: columns_arches_part_1_x3_2
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 26
+        width: 146
+        height: 449
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d977ad63333260040800000000000000
+      internalID: 4613413571158243229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: columns_arches_part_1_x3_3
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 26
+        width: 164
+        height: 644
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4939a8bc64beabd0800000000000000
+      internalID: -2616955954408113845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: columns_arches_part_1_x3_4
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 29
+        width: 173
+        height: 641
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a75c5e611ebde670800000000000000
+      internalID: 8569714648031188896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: columns_arches_part_1_x3_5
+      rect:
+        serializedVersion: 2
+        x: 1244
+        y: 29
+        width: 242
+        height: 680
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 091b05b4729de2f90800000000000000
+      internalID: -6976400009959788144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: columns_arches_part_1_x3_6
+      rect:
+        serializedVersion: 2
+        x: 1574
+        y: 26
+        width: 236
+        height: 686
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07441df5563ddfd40800000000000000
+      internalID: 5619880342380954736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: columns_arches_part_1_x3_7
+      rect:
+        serializedVersion: 2
+        x: 1877
+        y: 26
+        width: 227
+        height: 572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7a85f8b152b54f40800000000000000
+      internalID: 5712167766454536830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: columns_arches_part_1_x3_8
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 23
+        width: 221
+        height: 566
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd6396fb3427ddce0800000000000000
+      internalID: -1378820275605784867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: columns_arches_part_1_x3_9
+      rect:
+        serializedVersion: 2
+        x: 2432
+        y: 23
+        width: 218
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 422ef2de63f0a5f80800000000000000
+      internalID: -8117158649799908828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: columns_arches_part_1_x3_10
+      rect:
+        serializedVersion: 2
+        x: 2696
+        y: 23
+        width: 212
+        height: 539
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0255dd26e6b4568d0800000000000000
+      internalID: -2853791851392183008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: columns_arches_part_1_x3_11
+      rect:
+        serializedVersion: 2
+        x: 2957
+        y: 23
+        width: 182
+        height: 581
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5a2c1a3995201440800000000000000
+      internalID: 4904461334241618523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: columns_arches_part_1_x3_12
+      rect:
+        serializedVersion: 2
+        x: 3191
+        y: 26
+        width: 260
+        height: 377
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25e8f64cd9ef4c870800000000000000
+      internalID: 8702360333545606738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: columns_arches_part_1_x3_13
+      rect:
+        serializedVersion: 2
+        x: 3506
+        y: 26
+        width: 218
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1923548a8d451f300800000000000000
+      internalID: 284101541013828241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: columns_arches_part_1_x3_14
+      rect:
+        serializedVersion: 2
+        x: 3776
+        y: 23
+        width: 293
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a501ec2c8f642560800000000000000
+      internalID: 7288072744831354277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      columns_arches_part_1_x3_0: -4637833628505129067
+      columns_arches_part_1_x3_1: -4208428667081243590
+      columns_arches_part_1_x3_10: -2853791851392183008
+      columns_arches_part_1_x3_11: 4904461334241618523
+      columns_arches_part_1_x3_12: 8702360333545606738
+      columns_arches_part_1_x3_13: 284101541013828241
+      columns_arches_part_1_x3_14: 7288072744831354277
+      columns_arches_part_1_x3_2: 4613413571158243229
+      columns_arches_part_1_x3_3: -2616955954408113845
+      columns_arches_part_1_x3_4: 8569714648031188896
+      columns_arches_part_1_x3_5: -6976400009959788144
+      columns_arches_part_1_x3_6: 5619880342380954736
+      columns_arches_part_1_x3_7: 5712167766454536830
+      columns_arches_part_1_x3_8: -1378820275605784867
+      columns_arches_part_1_x3_9: -8117158649799908828
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

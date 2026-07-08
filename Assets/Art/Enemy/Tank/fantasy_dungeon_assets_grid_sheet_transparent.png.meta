@@ -1,0 +1,1274 @@
+fileFormatVersion: 2
+guid: b3011b398e6d6a74ab49848943667a5e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3219968549946828918
+    second: fantasy_dungeon_assets_grid_sheet_transparent_0
+  - first:
+      213: 587764152245215851
+    second: fantasy_dungeon_assets_grid_sheet_transparent_1
+  - first:
+      213: 8677491532361036578
+    second: fantasy_dungeon_assets_grid_sheet_transparent_2
+  - first:
+      213: -6823252178966983258
+    second: fantasy_dungeon_assets_grid_sheet_transparent_3
+  - first:
+      213: 2231083463777277876
+    second: fantasy_dungeon_assets_grid_sheet_transparent_4
+  - first:
+      213: -6234475792407932562
+    second: fantasy_dungeon_assets_grid_sheet_transparent_5
+  - first:
+      213: -3399930211424716243
+    second: fantasy_dungeon_assets_grid_sheet_transparent_6
+  - first:
+      213: -7881137103181375013
+    second: fantasy_dungeon_assets_grid_sheet_transparent_7
+  - first:
+      213: 4566919435265424351
+    second: fantasy_dungeon_assets_grid_sheet_transparent_8
+  - first:
+      213: -398121503671319801
+    second: fantasy_dungeon_assets_grid_sheet_transparent_9
+  - first:
+      213: 3447168740968933360
+    second: fantasy_dungeon_assets_grid_sheet_transparent_10
+  - first:
+      213: -1174825531809572718
+    second: fantasy_dungeon_assets_grid_sheet_transparent_11
+  - first:
+      213: 344053710064935759
+    second: fantasy_dungeon_assets_grid_sheet_transparent_12
+  - first:
+      213: -4692925753015463487
+    second: fantasy_dungeon_assets_grid_sheet_transparent_13
+  - first:
+      213: -6210381644479867445
+    second: fantasy_dungeon_assets_grid_sheet_transparent_14
+  - first:
+      213: 2756684692011128914
+    second: fantasy_dungeon_assets_grid_sheet_transparent_15
+  - first:
+      213: 6128530442725666082
+    second: fantasy_dungeon_assets_grid_sheet_transparent_16
+  - first:
+      213: 3147119428851868814
+    second: fantasy_dungeon_assets_grid_sheet_transparent_17
+  - first:
+      213: 7147160621229541025
+    second: fantasy_dungeon_assets_grid_sheet_transparent_18
+  - first:
+      213: 5695957316834735213
+    second: fantasy_dungeon_assets_grid_sheet_transparent_19
+  - first:
+      213: -4418029896928538845
+    second: fantasy_dungeon_assets_grid_sheet_transparent_20
+  - first:
+      213: -6330536970871944953
+    second: fantasy_dungeon_assets_grid_sheet_transparent_21
+  - first:
+      213: -238758387507911293
+    second: fantasy_dungeon_assets_grid_sheet_transparent_22
+  - first:
+      213: 3363907561317702291
+    second: fantasy_dungeon_assets_grid_sheet_transparent_23
+  - first:
+      213: 927836964935924962
+    second: fantasy_dungeon_assets_grid_sheet_transparent_24
+  - first:
+      213: 2520563611811695757
+    second: fantasy_dungeon_assets_grid_sheet_transparent_25
+  - first:
+      213: 1314707451211122276
+    second: fantasy_dungeon_assets_grid_sheet_transparent_26
+  - first:
+      213: 6006213795813566058
+    second: fantasy_dungeon_assets_grid_sheet_transparent_27
+  - first:
+      213: 8252764183999451817
+    second: fantasy_dungeon_assets_grid_sheet_transparent_28
+  - first:
+      213: 8517356951059412599
+    second: fantasy_dungeon_assets_grid_sheet_transparent_29
+  - first:
+      213: 2712177020713018970
+    second: fantasy_dungeon_assets_grid_sheet_transparent_30
+  - first:
+      213: 1474799373742849907
+    second: fantasy_dungeon_assets_grid_sheet_transparent_31
+  - first:
+      213: 273068698352645057
+    second: fantasy_dungeon_assets_grid_sheet_transparent_32
+  - first:
+      213: -999389226227062986
+    second: fantasy_dungeon_assets_grid_sheet_transparent_33
+  - first:
+      213: 384853037749799630
+    second: fantasy_dungeon_assets_grid_sheet_transparent_34
+  - first:
+      213: 5639173568688679951
+    second: fantasy_dungeon_assets_grid_sheet_transparent_35
+  - first:
+      213: 8353769199853902108
+    second: fantasy_dungeon_assets_grid_sheet_transparent_36
+  - first:
+      213: -1194715228288730810
+    second: fantasy_dungeon_assets_grid_sheet_transparent_37
+  - first:
+      213: 5869840474155689119
+    second: fantasy_dungeon_assets_grid_sheet_transparent_38
+  - first:
+      213: 4997306086784931173
+    second: fantasy_dungeon_assets_grid_sheet_transparent_39
+  - first:
+      213: -6422466830169182267
+    second: fantasy_dungeon_assets_grid_sheet_transparent_40
+  - first:
+      213: -5749181504724107026
+    second: fantasy_dungeon_assets_grid_sheet_transparent_41
+  - first:
+      213: 8704140790936848246
+    second: fantasy_dungeon_assets_grid_sheet_transparent_42
+  - first:
+      213: -7149858951865834626
+    second: fantasy_dungeon_assets_grid_sheet_transparent_43
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: fantasy_dungeon_assets_grid_sheet_transparent_0
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 1056
+        width: 101
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 678a2870650afac20800000000000000
+      internalID: 3219968549946828918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_dungeon_assets_grid_sheet_transparent_1
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 1217
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b62e842e168282800800000000000000
+      internalID: 587764152245215851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_dungeon_assets_grid_sheet_transparent_2
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 1057
+        width: 93
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 223f6d7c294ac6870800000000000000
+      internalID: 8677491532361036578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_dungeon_assets_grid_sheet_transparent_3
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 1057
+        width: 94
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ad43cb5b40fe41a0800000000000000
+      internalID: -6823252178966983258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_dungeon_assets_grid_sheet_transparent_4
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 1056
+        width: 101
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b751bae69666fe10800000000000000
+      internalID: 2231083463777277876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_dungeon_assets_grid_sheet_transparent_5
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 1054
+        width: 104
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e61d0c86c41ba79a0800000000000000
+      internalID: -6234475792407932562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_dungeon_assets_grid_sheet_transparent_6
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 1056
+        width: 93
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2a39ee7c7501d0d0800000000000000
+      internalID: -3399930211424716243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_dungeon_assets_grid_sheet_transparent_7
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 1056
+        width: 97
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd919ba8f8390a290800000000000000
+      internalID: -7881137103181375013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_dungeon_assets_grid_sheet_transparent_8
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 1056
+        width: 30
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdbb2d0a705f06f30800000000000000
+      internalID: 4566919435265424351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_dungeon_assets_grid_sheet_transparent_9
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 1054
+        width: 135
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7030a3c0a96997af0800000000000000
+      internalID: -398121503671319801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_dungeon_assets_grid_sheet_transparent_10
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 871
+        width: 54
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f7a84eb4bdc6df20800000000000000
+      internalID: 3447168740968933360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_dungeon_assets_grid_sheet_transparent_11
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 871
+        width: 96
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2985e6f376e22bfe0800000000000000
+      internalID: -1174825531809572718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_dungeon_assets_grid_sheet_transparent_12
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 870
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f436314c60356c400800000000000000
+      internalID: 344053710064935759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_dungeon_assets_grid_sheet_transparent_13
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 869
+        width: 207
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c11b3e44e06fdeb0800000000000000
+      internalID: -4692925753015463487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_dungeon_assets_grid_sheet_transparent_14
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 875
+        width: 148
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc5db216cca40d9a0800000000000000
+      internalID: -6210381644479867445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_dungeon_assets_grid_sheet_transparent_15
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 869
+        width: 213
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25894113f16b14620800000000000000
+      internalID: 2756684692011128914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_dungeon_assets_grid_sheet_transparent_16
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 635
+        width: 157
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22da4d1a7f9ec0550800000000000000
+      internalID: 6128530442725666082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_dungeon_assets_grid_sheet_transparent_17
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 635
+        width: 198
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8422764270dcab20800000000000000
+      internalID: 3147119428851868814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_dungeon_assets_grid_sheet_transparent_18
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 634
+        width: 197
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a60c0db7b0df2360800000000000000
+      internalID: 7147160621229541025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_dungeon_assets_grid_sheet_transparent_19
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 634
+        width: 190
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d64b8bd400b1c0f40800000000000000
+      internalID: 5695957316834735213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_dungeon_assets_grid_sheet_transparent_20
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 632
+        width: 182
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32fc48a673100b2c0800000000000000
+      internalID: -4418029896928538845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_dungeon_assets_grid_sheet_transparent_21
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 384
+        width: 174
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70943b56a2a6528a0800000000000000
+      internalID: -6330536970871944953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_dungeon_assets_grid_sheet_transparent_22
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 384
+        width: 210
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3852275f282cfacf0800000000000000
+      internalID: -238758387507911293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_dungeon_assets_grid_sheet_transparent_23
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 384
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39a9791ba100fae20800000000000000
+      internalID: 3363907561317702291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_dungeon_assets_grid_sheet_transparent_24
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 384
+        width: 209
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ec7b70cdc650ec00800000000000000
+      internalID: 927836964935924962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_dungeon_assets_grid_sheet_transparent_25
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 383
+        width: 205
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8ccfcb1047daf220800000000000000
+      internalID: 2520563611811695757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_dungeon_assets_grid_sheet_transparent_26
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 219
+        width: 77
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4668ff41677ce3210800000000000000
+      internalID: 1314707451211122276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_dungeon_assets_grid_sheet_transparent_27
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 219
+        width: 64
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a66a48000ab5a5350800000000000000
+      internalID: 6006213795813566058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_dungeon_assets_grid_sheet_transparent_28
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 219
+        width: 72
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a29a52ec45b78270800000000000000
+      internalID: 8252764183999451817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_dungeon_assets_grid_sheet_transparent_29
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 219
+        width: 63
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 776b915250bb33670800000000000000
+      internalID: 8517356951059412599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_dungeon_assets_grid_sheet_transparent_30
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 216
+        width: 72
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a56a39f61a693a520800000000000000
+      internalID: 2712177020713018970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_dungeon_assets_grid_sheet_transparent_31
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 216
+        width: 71
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37f39e2773a877410800000000000000
+      internalID: 1474799373742849907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_dungeon_assets_grid_sheet_transparent_32
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 216
+        width: 74
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c3769cc8822ac300800000000000000
+      internalID: 273068698352645057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_dungeon_assets_grid_sheet_transparent_33
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 216
+        width: 67
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63722623bc47122f0800000000000000
+      internalID: -999389226227062986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_dungeon_assets_grid_sheet_transparent_34
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 216
+        width: 65
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eca8ecd7cc5475500800000000000000
+      internalID: 384853037749799630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_dungeon_assets_grid_sheet_transparent_35
+      rect:
+        serializedVersion: 2
+        x: 1143
+        y: 216
+        width: 78
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0ce57cab7e524e40800000000000000
+      internalID: 5639173568688679951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_dungeon_assets_grid_sheet_transparent_36
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 51
+        width: 51
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1914ecb3dc8ee370800000000000000
+      internalID: 8353769199853902108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_dungeon_assets_grid_sheet_transparent_37
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 50
+        width: 70
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 649b91a64d48b6fe0800000000000000
+      internalID: -1194715228288730810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_dungeon_assets_grid_sheet_transparent_38
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 50
+        width: 48
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f94a24ebfccd57150800000000000000
+      internalID: 5869840474155689119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_dungeon_assets_grid_sheet_transparent_39
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 46
+        width: 68
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56596b8b86ff95540800000000000000
+      internalID: 4997306086784931173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_dungeon_assets_grid_sheet_transparent_40
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 45
+        width: 115
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cf69061270ded6a0800000000000000
+      internalID: -6422466830169182267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_dungeon_assets_grid_sheet_transparent_41
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 46
+        width: 124
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee08ca5c1edc630b0800000000000000
+      internalID: -5749181504724107026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_dungeon_assets_grid_sheet_transparent_42
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 42
+        width: 126
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67747cecee15bc870800000000000000
+      internalID: 8704140790936848246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_dungeon_assets_grid_sheet_transparent_43
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 41
+        width: 159
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e73e3e33a2996cc90800000000000000
+      internalID: -7149858951865834626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      fantasy_dungeon_assets_grid_sheet_transparent_0: 3219968549946828918
+      fantasy_dungeon_assets_grid_sheet_transparent_1: 587764152245215851
+      fantasy_dungeon_assets_grid_sheet_transparent_10: 3447168740968933360
+      fantasy_dungeon_assets_grid_sheet_transparent_11: -1174825531809572718
+      fantasy_dungeon_assets_grid_sheet_transparent_12: 344053710064935759
+      fantasy_dungeon_assets_grid_sheet_transparent_13: -4692925753015463487
+      fantasy_dungeon_assets_grid_sheet_transparent_14: -6210381644479867445
+      fantasy_dungeon_assets_grid_sheet_transparent_15: 2756684692011128914
+      fantasy_dungeon_assets_grid_sheet_transparent_16: 6128530442725666082
+      fantasy_dungeon_assets_grid_sheet_transparent_17: 3147119428851868814
+      fantasy_dungeon_assets_grid_sheet_transparent_18: 7147160621229541025
+      fantasy_dungeon_assets_grid_sheet_transparent_19: 5695957316834735213
+      fantasy_dungeon_assets_grid_sheet_transparent_2: 8677491532361036578
+      fantasy_dungeon_assets_grid_sheet_transparent_20: -4418029896928538845
+      fantasy_dungeon_assets_grid_sheet_transparent_21: -6330536970871944953
+      fantasy_dungeon_assets_grid_sheet_transparent_22: -238758387507911293
+      fantasy_dungeon_assets_grid_sheet_transparent_23: 3363907561317702291
+      fantasy_dungeon_assets_grid_sheet_transparent_24: 927836964935924962
+      fantasy_dungeon_assets_grid_sheet_transparent_25: 2520563611811695757
+      fantasy_dungeon_assets_grid_sheet_transparent_26: 1314707451211122276
+      fantasy_dungeon_assets_grid_sheet_transparent_27: 6006213795813566058
+      fantasy_dungeon_assets_grid_sheet_transparent_28: 8252764183999451817
+      fantasy_dungeon_assets_grid_sheet_transparent_29: 8517356951059412599
+      fantasy_dungeon_assets_grid_sheet_transparent_3: -6823252178966983258
+      fantasy_dungeon_assets_grid_sheet_transparent_30: 2712177020713018970
+      fantasy_dungeon_assets_grid_sheet_transparent_31: 1474799373742849907
+      fantasy_dungeon_assets_grid_sheet_transparent_32: 273068698352645057
+      fantasy_dungeon_assets_grid_sheet_transparent_33: -999389226227062986
+      fantasy_dungeon_assets_grid_sheet_transparent_34: 384853037749799630
+      fantasy_dungeon_assets_grid_sheet_transparent_35: 5639173568688679951
+      fantasy_dungeon_assets_grid_sheet_transparent_36: 8353769199853902108
+      fantasy_dungeon_assets_grid_sheet_transparent_37: -1194715228288730810
+      fantasy_dungeon_assets_grid_sheet_transparent_38: 5869840474155689119
+      fantasy_dungeon_assets_grid_sheet_transparent_39: 4997306086784931173
+      fantasy_dungeon_assets_grid_sheet_transparent_4: 2231083463777277876
+      fantasy_dungeon_assets_grid_sheet_transparent_40: -6422466830169182267
+      fantasy_dungeon_assets_grid_sheet_transparent_41: -5749181504724107026
+      fantasy_dungeon_assets_grid_sheet_transparent_42: 8704140790936848246
+      fantasy_dungeon_assets_grid_sheet_transparent_43: -7149858951865834626
+      fantasy_dungeon_assets_grid_sheet_transparent_5: -6234475792407932562
+      fantasy_dungeon_assets_grid_sheet_transparent_6: -3399930211424716243
+      fantasy_dungeon_assets_grid_sheet_transparent_7: -7881137103181375013
+      fantasy_dungeon_assets_grid_sheet_transparent_8: 4566919435265424351
+      fantasy_dungeon_assets_grid_sheet_transparent_9: -398121503671319801
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

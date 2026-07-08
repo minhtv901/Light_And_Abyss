@@ -1,0 +1,1066 @@
+fileFormatVersion: 2
+guid: a45620d13b0ee874d8a3ce14ae4ee0b9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7492037284974423455
+    second: gothic_dungeon_sheet_07_transparent_0
+  - first:
+      213: 2830918451589150657
+    second: gothic_dungeon_sheet_07_transparent_1
+  - first:
+      213: 5735031238829864977
+    second: gothic_dungeon_sheet_07_transparent_2
+  - first:
+      213: -7532085468967707845
+    second: gothic_dungeon_sheet_07_transparent_3
+  - first:
+      213: 4586605934555230994
+    second: gothic_dungeon_sheet_07_transparent_4
+  - first:
+      213: 47894982035624587
+    second: gothic_dungeon_sheet_07_transparent_5
+  - first:
+      213: -1418775283913171336
+    second: gothic_dungeon_sheet_07_transparent_6
+  - first:
+      213: 6631733130675148978
+    second: gothic_dungeon_sheet_07_transparent_7
+  - first:
+      213: 321434911151429759
+    second: gothic_dungeon_sheet_07_transparent_8
+  - first:
+      213: -3966689423155438116
+    second: gothic_dungeon_sheet_07_transparent_9
+  - first:
+      213: 287486733344019423
+    second: gothic_dungeon_sheet_07_transparent_10
+  - first:
+      213: 8679081336589604261
+    second: gothic_dungeon_sheet_07_transparent_11
+  - first:
+      213: 1520216637905790165
+    second: gothic_dungeon_sheet_07_transparent_12
+  - first:
+      213: 4248136662276158776
+    second: gothic_dungeon_sheet_07_transparent_13
+  - first:
+      213: -9002199966504649725
+    second: gothic_dungeon_sheet_07_transparent_14
+  - first:
+      213: -6186618037878482506
+    second: gothic_dungeon_sheet_07_transparent_15
+  - first:
+      213: 4510247850084946433
+    second: gothic_dungeon_sheet_07_transparent_16
+  - first:
+      213: -3998011340896659382
+    second: gothic_dungeon_sheet_07_transparent_17
+  - first:
+      213: 1948941221117555455
+    second: gothic_dungeon_sheet_07_transparent_18
+  - first:
+      213: 975428415569222696
+    second: gothic_dungeon_sheet_07_transparent_19
+  - first:
+      213: 9007717802862757211
+    second: gothic_dungeon_sheet_07_transparent_20
+  - first:
+      213: 4559330794853420812
+    second: gothic_dungeon_sheet_07_transparent_21
+  - first:
+      213: -3545976743912752021
+    second: gothic_dungeon_sheet_07_transparent_22
+  - first:
+      213: 8559698994503636706
+    second: gothic_dungeon_sheet_07_transparent_23
+  - first:
+      213: 8822852102246181698
+    second: gothic_dungeon_sheet_07_transparent_24
+  - first:
+      213: 6011734921938013973
+    second: gothic_dungeon_sheet_07_transparent_25
+  - first:
+      213: -8169511537634860479
+    second: gothic_dungeon_sheet_07_transparent_26
+  - first:
+      213: -2046482913846099940
+    second: gothic_dungeon_sheet_07_transparent_27
+  - first:
+      213: -6784069894454808416
+    second: gothic_dungeon_sheet_07_transparent_28
+  - first:
+      213: 858028154257335764
+    second: gothic_dungeon_sheet_07_transparent_29
+  - first:
+      213: 493344519306051509
+    second: gothic_dungeon_sheet_07_transparent_30
+  - first:
+      213: -804044301423384487
+    second: gothic_dungeon_sheet_07_transparent_31
+  - first:
+      213: 1996429779549294927
+    second: gothic_dungeon_sheet_07_transparent_32
+  - first:
+      213: -7111605293209915720
+    second: gothic_dungeon_sheet_07_transparent_33
+  - first:
+      213: 8527789003422684505
+    second: gothic_dungeon_sheet_07_transparent_34
+  - first:
+      213: 847823475721762538
+    second: gothic_dungeon_sheet_07_transparent_35
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: gothic_dungeon_sheet_07_transparent_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 426
+        width: 55
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1621e19a8cfe60890800000000000000
+      internalID: -7492037284974423455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gothic_dungeon_sheet_07_transparent_1
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 426
+        width: 84
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c7f1173551794720800000000000000
+      internalID: 2830918451589150657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gothic_dungeon_sheet_07_transparent_2
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 427
+        width: 68
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 118f836b68ce69f40800000000000000
+      internalID: 5735031238829864977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gothic_dungeon_sheet_07_transparent_3
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 427
+        width: 77
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3b5c443c28a87790800000000000000
+      internalID: -7532085468967707845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gothic_dungeon_sheet_07_transparent_4
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 427
+        width: 83
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 213fcddebc5e6af30800000000000000
+      internalID: 4586605934555230994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gothic_dungeon_sheet_07_transparent_5
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 427
+        width: 112
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b82d1ce7b382aa000800000000000000
+      internalID: 47894982035624587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gothic_dungeon_sheet_07_transparent_6
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 426
+        width: 109
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87e5042756f7f4ce0800000000000000
+      internalID: -1418775283913171336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gothic_dungeon_sheet_07_transparent_7
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 426
+        width: 102
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b8d41b5526a80c50800000000000000
+      internalID: 6631733130675148978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gothic_dungeon_sheet_07_transparent_8
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 426
+        width: 95
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7817914957f57400800000000000000
+      internalID: 321434911151429759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gothic_dungeon_sheet_07_transparent_9
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 427
+        width: 97
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdd558e6cfc73f8c0800000000000000
+      internalID: -3966689423155438116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gothic_dungeon_sheet_07_transparent_10
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 427
+        width: 95
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd39b9a29ab5df300800000000000000
+      internalID: 287486733344019423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gothic_dungeon_sheet_07_transparent_11
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 428
+        width: 85
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a5552ced7a427870800000000000000
+      internalID: 8679081336589604261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gothic_dungeon_sheet_07_transparent_12
+      rect:
+        serializedVersion: 2
+        x: 1390
+        y: 428
+        width: 117
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d4630c4af4e81510800000000000000
+      internalID: 1520216637905790165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gothic_dungeon_sheet_07_transparent_13
+      rect:
+        serializedVersion: 2
+        x: 1528
+        y: 428
+        width: 97
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 835b84869c964fa30800000000000000
+      internalID: 4248136662276158776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gothic_dungeon_sheet_07_transparent_14
+      rect:
+        serializedVersion: 2
+        x: 1642
+        y: 428
+        width: 124
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30cf47f73d2c11380800000000000000
+      internalID: -9002199966504649725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gothic_dungeon_sheet_07_transparent_15
+      rect:
+        serializedVersion: 2
+        x: 1787
+        y: 427
+        width: 74
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b99a333ca7b42aa0800000000000000
+      internalID: -6186618037878482506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gothic_dungeon_sheet_07_transparent_16
+      rect:
+        serializedVersion: 2
+        x: 1896
+        y: 426
+        width: 73
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1025849f58e979e30800000000000000
+      internalID: 4510247850084946433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gothic_dungeon_sheet_07_transparent_17
+      rect:
+        serializedVersion: 2
+        x: 2004
+        y: 426
+        width: 103
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a481fd92ed53488c0800000000000000
+      internalID: -3998011340896659382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gothic_dungeon_sheet_07_transparent_18
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 209
+        width: 243
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff2f3d4f6b70c0b10800000000000000
+      internalID: 1948941221117555455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gothic_dungeon_sheet_07_transparent_19
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 208
+        width: 290
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82c53d5d9fa698d00800000000000000
+      internalID: 975428415569222696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gothic_dungeon_sheet_07_transparent_20
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 208
+        width: 212
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b55c894ed97d10d70800000000000000
+      internalID: 9007717802862757211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gothic_dungeon_sheet_07_transparent_21
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 205
+        width: 210
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0fccb8933ff54f30800000000000000
+      internalID: 4559330794853420812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gothic_dungeon_sheet_07_transparent_22
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 207
+        width: 236
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6cb84550f82acec0800000000000000
+      internalID: -3545976743912752021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gothic_dungeon_sheet_07_transparent_23
+      rect:
+        serializedVersion: 2
+        x: 1341
+        y: 207
+        width: 213
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e658af52e82ac670800000000000000
+      internalID: 8559698994503636706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gothic_dungeon_sheet_07_transparent_24
+      rect:
+        serializedVersion: 2
+        x: 1598
+        y: 207
+        width: 217
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24b2134dd31117a70800000000000000
+      internalID: 8822852102246181698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gothic_dungeon_sheet_07_transparent_25
+      rect:
+        serializedVersion: 2
+        x: 1863
+        y: 207
+        width: 260
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51f0de95f09fd6350800000000000000
+      internalID: 6011734921938013973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gothic_dungeon_sheet_07_transparent_26
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 8
+        width: 235
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 142a1da5a8010ae80800000000000000
+      internalID: -8169511537634860479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gothic_dungeon_sheet_07_transparent_27
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 7
+        width: 141
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c100c41f1ae6993e0800000000000000
+      internalID: -2046482913846099940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gothic_dungeon_sheet_07_transparent_28
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 8
+        width: 97
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a07991ef542ad1a0800000000000000
+      internalID: -6784069894454808416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gothic_dungeon_sheet_07_transparent_29
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 7
+        width: 216
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d5eacd6f0458eb00800000000000000
+      internalID: 858028154257335764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gothic_dungeon_sheet_07_transparent_30
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 7
+        width: 148
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bf7f19f936b8d600800000000000000
+      internalID: 493344519306051509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gothic_dungeon_sheet_07_transparent_31
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 8
+        width: 66
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9586bf5c7f577d4f0800000000000000
+      internalID: -804044301423384487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gothic_dungeon_sheet_07_transparent_32
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 7
+        width: 262
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f411c059e4eb4bb10800000000000000
+      internalID: 1996429779549294927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gothic_dungeon_sheet_07_transparent_33
+      rect:
+        serializedVersion: 2
+        x: 1489
+        y: 7
+        width: 92
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8be6f6b2aa08e4d90800000000000000
+      internalID: -7111605293209915720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gothic_dungeon_sheet_07_transparent_34
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 7
+        width: 210
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 955dd7c9aeac85670800000000000000
+      internalID: 8527789003422684505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gothic_dungeon_sheet_07_transparent_35
+      rect:
+        serializedVersion: 2
+        x: 1867
+        y: 7
+        width: 279
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae6f1ae85f214cb00800000000000000
+      internalID: 847823475721762538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      gothic_dungeon_sheet_07_transparent_0: -7492037284974423455
+      gothic_dungeon_sheet_07_transparent_1: 2830918451589150657
+      gothic_dungeon_sheet_07_transparent_10: 287486733344019423
+      gothic_dungeon_sheet_07_transparent_11: 8679081336589604261
+      gothic_dungeon_sheet_07_transparent_12: 1520216637905790165
+      gothic_dungeon_sheet_07_transparent_13: 4248136662276158776
+      gothic_dungeon_sheet_07_transparent_14: -9002199966504649725
+      gothic_dungeon_sheet_07_transparent_15: -6186618037878482506
+      gothic_dungeon_sheet_07_transparent_16: 4510247850084946433
+      gothic_dungeon_sheet_07_transparent_17: -3998011340896659382
+      gothic_dungeon_sheet_07_transparent_18: 1948941221117555455
+      gothic_dungeon_sheet_07_transparent_19: 975428415569222696
+      gothic_dungeon_sheet_07_transparent_2: 5735031238829864977
+      gothic_dungeon_sheet_07_transparent_20: 9007717802862757211
+      gothic_dungeon_sheet_07_transparent_21: 4559330794853420812
+      gothic_dungeon_sheet_07_transparent_22: -3545976743912752021
+      gothic_dungeon_sheet_07_transparent_23: 8559698994503636706
+      gothic_dungeon_sheet_07_transparent_24: 8822852102246181698
+      gothic_dungeon_sheet_07_transparent_25: 6011734921938013973
+      gothic_dungeon_sheet_07_transparent_26: -8169511537634860479
+      gothic_dungeon_sheet_07_transparent_27: -2046482913846099940
+      gothic_dungeon_sheet_07_transparent_28: -6784069894454808416
+      gothic_dungeon_sheet_07_transparent_29: 858028154257335764
+      gothic_dungeon_sheet_07_transparent_3: -7532085468967707845
+      gothic_dungeon_sheet_07_transparent_30: 493344519306051509
+      gothic_dungeon_sheet_07_transparent_31: -804044301423384487
+      gothic_dungeon_sheet_07_transparent_32: 1996429779549294927
+      gothic_dungeon_sheet_07_transparent_33: -7111605293209915720
+      gothic_dungeon_sheet_07_transparent_34: 8527789003422684505
+      gothic_dungeon_sheet_07_transparent_35: 847823475721762538
+      gothic_dungeon_sheet_07_transparent_4: 4586605934555230994
+      gothic_dungeon_sheet_07_transparent_5: 47894982035624587
+      gothic_dungeon_sheet_07_transparent_6: -1418775283913171336
+      gothic_dungeon_sheet_07_transparent_7: 6631733130675148978
+      gothic_dungeon_sheet_07_transparent_8: 321434911151429759
+      gothic_dungeon_sheet_07_transparent_9: -3966689423155438116
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

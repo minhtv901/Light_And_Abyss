@@ -1,0 +1,2860 @@
+fileFormatVersion: 2
+guid: cc5eec5f94b036c40a69137ba92e388e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 695512301300567714
+    second: RockFlameBoss_0
+  - first:
+      213: -4867364736190385399
+    second: RockFlameBoss_1
+  - first:
+      213: 2303236602286028133
+    second: RockFlameBoss_2
+  - first:
+      213: -7508878267613501901
+    second: RockFlameBoss_3
+  - first:
+      213: 186029419880012668
+    second: RockFlameBoss_4
+  - first:
+      213: -6096244368662589989
+    second: RockFlameBoss_5
+  - first:
+      213: -7251230454629992922
+    second: RockFlameBoss_6
+  - first:
+      213: 8047082167337733695
+    second: RockFlameBoss_7
+  - first:
+      213: 4538664159616843470
+    second: RockFlameBoss_8
+  - first:
+      213: 96817383491019616
+    second: RockFlameBoss_9
+  - first:
+      213: -2648907846379691981
+    second: RockFlameBoss_10
+  - first:
+      213: 971715098314207185
+    second: RockFlameBoss_11
+  - first:
+      213: -5916128636496276563
+    second: RockFlameBoss_12
+  - first:
+      213: 8819934392772633770
+    second: RockFlameBoss_13
+  - first:
+      213: -2372681242633619469
+    second: RockFlameBoss_14
+  - first:
+      213: -8647358796618893332
+    second: RockFlameBoss_15
+  - first:
+      213: -3795715304357637993
+    second: RockFlameBoss_16
+  - first:
+      213: -2502674121479358509
+    second: RockFlameBoss_17
+  - first:
+      213: -3988253567538080829
+    second: RockFlameBoss_18
+  - first:
+      213: 6714768050088878333
+    second: RockFlameBoss_19
+  - first:
+      213: 6557888344236246416
+    second: RockFlameBoss_20
+  - first:
+      213: -923905829088165042
+    second: RockFlameBoss_21
+  - first:
+      213: 7907140888858212656
+    second: RockFlameBoss_22
+  - first:
+      213: 3570535438488471639
+    second: RockFlameBoss_23
+  - first:
+      213: 1438020955053383023
+    second: RockFlameBoss_24
+  - first:
+      213: 2128610823410298923
+    second: RockFlameBoss_25
+  - first:
+      213: -1699578086379250801
+    second: RockFlameBoss_26
+  - first:
+      213: 6050771222221165581
+    second: RockFlameBoss_27
+  - first:
+      213: 4853438830203741731
+    second: RockFlameBoss_28
+  - first:
+      213: 8820378831670284594
+    second: RockFlameBoss_29
+  - first:
+      213: 9103221420174108256
+    second: RockFlameBoss_30
+  - first:
+      213: 8185042957816707425
+    second: RockFlameBoss_31
+  - first:
+      213: -8691334374502867618
+    second: RockFlameBoss_32
+  - first:
+      213: 4881279346272002416
+    second: RockFlameBoss_33
+  - first:
+      213: 6383870419940910301
+    second: RockFlameBoss_34
+  - first:
+      213: 6884712541757506935
+    second: RockFlameBoss_35
+  - first:
+      213: -6671210670661742220
+    second: RockFlameBoss_36
+  - first:
+      213: 4625832797170535478
+    second: RockFlameBoss_37
+  - first:
+      213: 2623194687124296932
+    second: RockFlameBoss_38
+  - first:
+      213: -7583310392574681978
+    second: RockFlameBoss_39
+  - first:
+      213: 3977226081824091969
+    second: RockFlameBoss_40
+  - first:
+      213: 7106766179625648686
+    second: RockFlameBoss_41
+  - first:
+      213: -7400465285438707000
+    second: RockFlameBoss_42
+  - first:
+      213: -2819522961563569662
+    second: RockFlameBoss_43
+  - first:
+      213: -7960946125110164038
+    second: RockFlameBoss_44
+  - first:
+      213: 4098288339132917867
+    second: RockFlameBoss_45
+  - first:
+      213: -7460743868539307107
+    second: RockFlameBoss_46
+  - first:
+      213: -1783094364091661699
+    second: RockFlameBoss_47
+  - first:
+      213: -259338865283998749
+    second: RockFlameBoss_48
+  - first:
+      213: -8063159097123189883
+    second: RockFlameBoss_49
+  - first:
+      213: 2706630222412171157
+    second: RockFlameBoss_50
+  - first:
+      213: 618846948912858394
+    second: RockFlameBoss_51
+  - first:
+      213: 2052174563185967544
+    second: RockFlameBoss_52
+  - first:
+      213: 3506842055198337589
+    second: RockFlameBoss_53
+  - first:
+      213: 491910304768374784
+    second: RockFlameBoss_54
+  - first:
+      213: -6709248801992971098
+    second: RockFlameBoss_55
+  - first:
+      213: 4134286531193571474
+    second: RockFlameBoss_56
+  - first:
+      213: 7259860709292935543
+    second: RockFlameBoss_57
+  - first:
+      213: -8055354425522812042
+    second: RockFlameBoss_58
+  - first:
+      213: -7888887282367691202
+    second: RockFlameBoss_59
+  - first:
+      213: -529357751517449551
+    second: RockFlameBoss_60
+  - first:
+      213: -3829343480393940536
+    second: RockFlameBoss_61
+  - first:
+      213: 4097978674002819765
+    second: RockFlameBoss_62
+  - first:
+      213: -7638134569931315226
+    second: RockFlameBoss_63
+  - first:
+      213: -9122364957752894738
+    second: RockFlameBoss_64
+  - first:
+      213: 6139698008658875451
+    second: RockFlameBoss_65
+  - first:
+      213: 8958924670173489581
+    second: RockFlameBoss_66
+  - first:
+      213: -8635743436141679319
+    second: RockFlameBoss_67
+  - first:
+      213: 4137582184345903965
+    second: RockFlameBoss_68
+  - first:
+      213: -8204755847326932501
+    second: RockFlameBoss_69
+  - first:
+      213: -8622424217841017691
+    second: RockFlameBoss_70
+  - first:
+      213: 6158222355694469570
+    second: RockFlameBoss_71
+  - first:
+      213: -2871576503426764844
+    second: RockFlameBoss_72
+  - first:
+      213: 9162805070147750394
+    second: RockFlameBoss_73
+  - first:
+      213: 3085763507918061492
+    second: RockFlameBoss_74
+  - first:
+      213: 3849236271140909742
+    second: RockFlameBoss_75
+  - first:
+      213: -4196952665866861261
+    second: RockFlameBoss_76
+  - first:
+      213: -7266754864539825482
+    second: RockFlameBoss_77
+  - first:
+      213: -8677984151439260902
+    second: RockFlameBoss_78
+  - first:
+      213: 2853977152245793633
+    second: RockFlameBoss_79
+  - first:
+      213: 1521032957574133166
+    second: RockFlameBoss_80
+  - first:
+      213: 8638266954212816428
+    second: RockFlameBoss_81
+  - first:
+      213: 6881535912020538434
+    second: RockFlameBoss_82
+  - first:
+      213: 3468975160765139615
+    second: RockFlameBoss_83
+  - first:
+      213: -6600004460099655078
+    second: RockFlameBoss_84
+  - first:
+      213: -8231527630753218427
+    second: RockFlameBoss_85
+  - first:
+      213: 2818158045652737038
+    second: RockFlameBoss_86
+  - first:
+      213: -5263997295410164916
+    second: RockFlameBoss_87
+  - first:
+      213: -891372654859770895
+    second: RockFlameBoss_88
+  - first:
+      213: 6847821083588623587
+    second: RockFlameBoss_89
+  - first:
+      213: 6886664555838025261
+    second: RockFlameBoss_90
+  - first:
+      213: -5834989362263949450
+    second: RockFlameBoss_91
+  - first:
+      213: -7990387422296877228
+    second: RockFlameBoss_92
+  - first:
+      213: -5022179314531796058
+    second: RockFlameBoss_93
+  - first:
+      213: -4347177231342536686
+    second: RockFlameBoss_94
+  - first:
+      213: 3790711661957694098
+    second: RockFlameBoss_95
+  - first:
+      213: -606170063284251795
+    second: RockFlameBoss_96
+  - first:
+      213: -7126114155043090469
+    second: RockFlameBoss_97
+  - first:
+      213: 6320664654633065131
+    second: RockFlameBoss_98
+  - first:
+      213: -7913091420145292167
+    second: RockFlameBoss_99
+  - first:
+      213: -4707628518955604224
+    second: RockFlameBoss_100
+  - first:
+      213: -8301629363201177415
+    second: RockFlameBoss_101
+  - first:
+      213: 7639729205367013183
+    second: RockFlameBoss_102
+  - first:
+      213: 802590604812145172
+    second: RockFlameBoss_103
+  - first:
+      213: 6315141771482002786
+    second: RockFlameBoss_104
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: RockFlameBoss_0
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 1775
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ae4fe7c0c4f6a900800000000000000
+      internalID: 695512301300567714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RockFlameBoss_1
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 1781
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 903fb139f85a37cb0800000000000000
+      internalID: -4867364736190385399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RockFlameBoss_2
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 1769
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 565bfe89c7db6ff10800000000000000
+      internalID: 2303236602286028133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RockFlameBoss_3
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 1787
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3362f35dffa1bc790800000000000000
+      internalID: -7508878267613501901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RockFlameBoss_4
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 1775
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7b58b195c8e49200800000000000000
+      internalID: 186029419880012668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RockFlameBoss_5
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 1781
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdd04e5cb0ac56ba0800000000000000
+      internalID: -6096244368662589989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RockFlameBoss_6
+      rect:
+        serializedVersion: 2
+        x: 1313
+        y: 1775
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 626f847f1547e5b90800000000000000
+      internalID: -7251230454629992922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RockFlameBoss_7
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1499
+        width: 296
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3ecb8e889afcaf60800000000000000
+      internalID: 8047082167337733695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RockFlameBoss_8
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 1757
+        width: 8
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ece32cc91039cfe30800000000000000
+      internalID: 4538664159616843470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RockFlameBoss_9
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 1499
+        width: 302
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 063a017b5e6f75100800000000000000
+      internalID: 96817383491019616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RockFlameBoss_10
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 1769
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3302bc529503d3bd0800000000000000
+      internalID: -2648907846379691981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RockFlameBoss_11
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 1499
+        width: 296
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dfe6e9cbb93c7d00800000000000000
+      internalID: 971715098314207185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RockFlameBoss_12
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 1751
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da39f10a950b5eda0800000000000000
+      internalID: -5916128636496276563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RockFlameBoss_13
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 1745
+        width: 14
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa4a677a993b66a70800000000000000
+      internalID: 8819934392772633770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RockFlameBoss_14
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 1499
+        width: 290
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f737971bfa821fd0800000000000000
+      internalID: -2372681242633619469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RockFlameBoss_15
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 1757
+        width: 8
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce77e2a7df86ef780800000000000000
+      internalID: -8647358796618893332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RockFlameBoss_16
+      rect:
+        serializedVersion: 2
+        x: 1205
+        y: 1499
+        width: 284
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 790df3f8a09e25bc0800000000000000
+      internalID: -3795715304357637993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RockFlameBoss_17
+      rect:
+        serializedVersion: 2
+        x: 1367
+        y: 1763
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d7f8a07527b44dd0800000000000000
+      internalID: -2502674121479358509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RockFlameBoss_18
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 1631
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c355b0d280e6a8c0800000000000000
+      internalID: -3988253567538080829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RockFlameBoss_19
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 1625
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df0a0b617f5af2d50800000000000000
+      internalID: 6714768050088878333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RockFlameBoss_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1589
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09540e234bc420b50800000000000000
+      internalID: 6557888344236246416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RockFlameBoss_21
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 1589
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4389432b80ad23f0800000000000000
+      internalID: -923905829088165042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RockFlameBoss_22
+      rect:
+        serializedVersion: 2
+        x: 1199
+        y: 1589
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0393c5d9ebecbbd60800000000000000
+      internalID: 7907140888858212656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RockFlameBoss_23
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1199
+        width: 290
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7588c0550171d8130800000000000000
+      internalID: 3570535438488471639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RockFlameBoss_24
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 1451
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6d568d8070e4f310800000000000000
+      internalID: 1438020955053383023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RockFlameBoss_25
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 1445
+        width: 14
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b203c6a14485a8d10800000000000000
+      internalID: 2128610823410298923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RockFlameBoss_26
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 1445
+        width: 20
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8b93553cb2e968e0800000000000000
+      internalID: -1699578086379250801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RockFlameBoss_27
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 1457
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0416a54e58a8f350800000000000000
+      internalID: 6050771222221165581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RockFlameBoss_28
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 1211
+        width: 188
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 326a165c6e0ea5340800000000000000
+      internalID: 4853438830203741731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RockFlameBoss_29
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 1451
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2311516a0d7486a70800000000000000
+      internalID: 8820378831670284594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RockFlameBoss_30
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 1445
+        width: 14
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 066643596a3255e70800000000000000
+      internalID: 9103221420174108256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RockFlameBoss_31
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 1445
+        width: 20
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1693af3343d179170800000000000000
+      internalID: 8185042957816707425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RockFlameBoss_32
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 1457
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5d5d9f5f6d226780800000000000000
+      internalID: -8691334374502867618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RockFlameBoss_33
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 1205
+        width: 188
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0716efb04b9cdb340800000000000000
+      internalID: 4881279346272002416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RockFlameBoss_34
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 1451
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd4a3b0e250189850800000000000000
+      internalID: 6383870419940910301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RockFlameBoss_35
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 1445
+        width: 14
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 775022874996b8f50800000000000000
+      internalID: 6884712541757506935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RockFlameBoss_36
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 1445
+        width: 20
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47159699d391b63a0800000000000000
+      internalID: -6671210670661742220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RockFlameBoss_37
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 1457
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63c83b99b62423040800000000000000
+      internalID: 4625832797170535478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RockFlameBoss_38
+      rect:
+        serializedVersion: 2
+        x: 1199
+        y: 1319
+        width: 98
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e45cbe6ba5776420800000000000000
+      internalID: 2623194687124296932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RockFlameBoss_39
+      rect:
+        serializedVersion: 2
+        x: 1379
+        y: 1325
+        width: 110
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68cde05406ba2c690800000000000000
+      internalID: -7583310392574681978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RockFlameBoss_40
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 1211
+        width: 110
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14f2b869c02f13730800000000000000
+      internalID: 3977226081824091969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RockFlameBoss_41
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 1355
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e22c856ef2e40a260800000000000000
+      internalID: 7106766179625648686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RockFlameBoss_42
+      rect:
+        serializedVersion: 2
+        x: 1103
+        y: 1211
+        width: 98
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cae0d048044c4990800000000000000
+      internalID: -7400465285438707000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RockFlameBoss_43
+      rect:
+        serializedVersion: 2
+        x: 1445
+        y: 1319
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20232ff0eca0fd8d0800000000000000
+      internalID: -2819522961563569662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RockFlameBoss_44
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 1157
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab549c89da9058190800000000000000
+      internalID: -7960946125110164038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RockFlameBoss_45
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 1175
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b68a421e78b00e830800000000000000
+      internalID: 4098288339132917867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RockFlameBoss_46
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 1181
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9b7a83fafc167890800000000000000
+      internalID: -7460743868539307107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RockFlameBoss_47
+      rect:
+        serializedVersion: 2
+        x: 1097
+        y: 1169
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d72c0538f1d2147e0800000000000000
+      internalID: -1783094364091661699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RockFlameBoss_48
+      rect:
+        serializedVersion: 2
+        x: 1337
+        y: 1187
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3eb5b421da4a66cf0800000000000000
+      internalID: -259338865283998749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RockFlameBoss_49
+      rect:
+        serializedVersion: 2
+        x: 1355
+        y: 1175
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58b43888587e91090800000000000000
+      internalID: -8063159097123189883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RockFlameBoss_50
+      rect:
+        serializedVersion: 2
+        x: 1385
+        y: 1181
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 597c631d8d1ef8520800000000000000
+      internalID: 2706630222412171157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RockFlameBoss_51
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 911
+        width: 188
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1509407506969800800000000000000
+      internalID: 618846948912858394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RockFlameBoss_52
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 1151
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b1cacf64e9ca7c10800000000000000
+      internalID: 2052174563185967544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RockFlameBoss_53
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 1145
+        width: 14
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53a6f77e44ecaa030800000000000000
+      internalID: 3506842055198337589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RockFlameBoss_54
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 1145
+        width: 20
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 008b211e0dd93d600800000000000000
+      internalID: 491910304768374784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RockFlameBoss_55
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 899
+        width: 242
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ac6e7ff2c5f3e2a0800000000000000
+      internalID: -6709248801992971098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RockFlameBoss_56
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 1157
+        width: 8
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 298897b12bfef5930800000000000000
+      internalID: 4134286531193571474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RockFlameBoss_57
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 899
+        width: 248
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7798838c9d430c460800000000000000
+      internalID: 7259860709292935543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RockFlameBoss_58
+      rect:
+        serializedVersion: 2
+        x: 1073
+        y: 1169
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67b87de34d1a53090800000000000000
+      internalID: -8055354425522812042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RockFlameBoss_59
+      rect:
+        serializedVersion: 2
+        x: 1235
+        y: 899
+        width: 265
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e36806550da058290800000000000000
+      internalID: -7888887282367691202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RockFlameBoss_60
+      rect:
+        serializedVersion: 2
+        x: 1301
+        y: 1151
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b2f3bdfde757a8f0800000000000000
+      internalID: -529357751517449551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RockFlameBoss_61
+      rect:
+        serializedVersion: 2
+        x: 1337
+        y: 1145
+        width: 14
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c14920b4607bdac0800000000000000
+      internalID: -3829343480393940536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RockFlameBoss_62
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1049
+        width: 169
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ba701954e1fed830800000000000000
+      internalID: 4097978674002819765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RockFlameBoss_63
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 1115
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e7ec94c315eff590800000000000000
+      internalID: -7638134569931315226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RockFlameBoss_64
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 965
+        width: 176
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeadaad3769d66180800000000000000
+      internalID: -9122364957752894738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RockFlameBoss_65
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 875
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3419423fc6943550800000000000000
+      internalID: 6139698008658875451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RockFlameBoss_66
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 881
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da9ac27658e745c70800000000000000
+      internalID: 8958924670173489581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RockFlameBoss_67
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 869
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92d2d55591da72880800000000000000
+      internalID: -8635743436141679319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RockFlameBoss_68
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 599
+        width: 284
+        height: 296
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d532ce62315ab6930800000000000000
+      internalID: 4137582184345903965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RockFlameBoss_69
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 599
+        width: 290
+        height: 296
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be1e44b070ad22e80800000000000000
+      internalID: -8204755847326932501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RockFlameBoss_70
+      rect:
+        serializedVersion: 2
+        x: 1205
+        y: 599
+        width: 284
+        height: 296
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ac5cd08bdef65880800000000000000
+      internalID: -8622424217841017691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RockFlameBoss_71
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 599
+        width: 284
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c1c907da96667550800000000000000
+      internalID: 6158222355694469570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RockFlameBoss_72
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 857
+        width: 8
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dfa3e7626c1628d0800000000000000
+      internalID: -2871576503426764844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RockFlameBoss_73
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 599
+        width: 296
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af90e482aa2d82f70800000000000000
+      internalID: 9162805070147750394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RockFlameBoss_74
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 869
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bfb156bf85d2da20800000000000000
+      internalID: 3085763507918061492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RockFlameBoss_75
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 725
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea237e59efb3b6530800000000000000
+      internalID: 3849236271140909742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RockFlameBoss_76
+      rect:
+        serializedVersion: 2
+        x: 1199
+        y: 689
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33580eb69cd61c5c0800000000000000
+      internalID: -4196952665866861261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RockFlameBoss_77
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 299
+        width: 301
+        height: 296
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ba034d93fc472b90800000000000000
+      internalID: -7266754864539825482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RockFlameBoss_78
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 413
+        width: 110
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a134ef6646b919780800000000000000
+      internalID: -8677984151439260902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RockFlameBoss_79
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 413
+        width: 122
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16301b4591d5b9720800000000000000
+      internalID: 2853977152245793633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RockFlameBoss_80
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 509
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea53ed78a6bcb1510800000000000000
+      internalID: 1521032957574133166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RockFlameBoss_81
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 509
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c26b9d0070a41e770800000000000000
+      internalID: 8638266954212816428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RockFlameBoss_82
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 413
+        width: 104
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 244f319b370208f50800000000000000
+      internalID: 6881535912020538434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RockFlameBoss_83
+      rect:
+        serializedVersion: 2
+        x: 1103
+        y: 503
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9a4f008786442030800000000000000
+      internalID: 3468975160765139615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RockFlameBoss_84
+      rect:
+        serializedVersion: 2
+        x: 1277
+        y: 407
+        width: 134
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5a24cf69e21864a0800000000000000
+      internalID: -6600004460099655078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RockFlameBoss_85
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 485
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 580442a7b3db3cd80800000000000000
+      internalID: -8231527630753218427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RockFlameBoss_86
+      rect:
+        serializedVersion: 2
+        x: 1103
+        y: 467
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0c5a00bfcb1c1720800000000000000
+      internalID: 2818158045652737038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RockFlameBoss_87
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 473
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4bc574895682f6b0800000000000000
+      internalID: -5263997295410164916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RockFlameBoss_88
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 455
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f326980b4531a3f0800000000000000
+      internalID: -891372654859770895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RockFlameBoss_89
+      rect:
+        serializedVersion: 2
+        x: 1409
+        y: 455
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ecfab48ef8580f50800000000000000
+      internalID: 6847821083588623587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RockFlameBoss_90
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 0
+        width: 296
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2eaff92de8529f50800000000000000
+      internalID: 6886664555838025261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RockFlameBoss_91
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 245
+        width: 8
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67ff2121714f50fa0800000000000000
+      internalID: -5834989362263949450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RockFlameBoss_92
+      rect:
+        serializedVersion: 2
+        x: 1199
+        y: 5
+        width: 290
+        height: 296
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 457de3c69f07c1190800000000000000
+      internalID: -7990387422296877228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RockFlameBoss_93
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 107
+        width: 134
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ab7407a582ad4ab0800000000000000
+      internalID: -5022179314531796058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RockFlameBoss_94
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 209
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21879262759bba3c0800000000000000
+      internalID: -4347177231342536686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RockFlameBoss_95
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 209
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2924be82c205b9430800000000000000
+      internalID: 3790711661957694098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RockFlameBoss_96
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 107
+        width: 134
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6357700a837697f0800000000000000
+      internalID: -606170063284251795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RockFlameBoss_97
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 209
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdf06c78ee4fa1d90800000000000000
+      internalID: -7126114155043090469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RockFlameBoss_98
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 209
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baa55cbd30387b750800000000000000
+      internalID: 6320664654633065131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RockFlameBoss_99
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 107
+        width: 128
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97c6c0b574d0f2290800000000000000
+      internalID: -7913091420145292167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RockFlameBoss_100
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 215
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0072729ddc42baeb0800000000000000
+      internalID: -4707628518955604224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RockFlameBoss_101
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 215
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b8017df310bacc80800000000000000
+      internalID: -8301629363201177415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RockFlameBoss_102
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 203
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3ff31a3c35c50a60800000000000000
+      internalID: 7639729205367013183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RockFlameBoss_103
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 167
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 412d4eb17ef532b00800000000000000
+      internalID: 802590604812145172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RockFlameBoss_104
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 77
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2657a6b6bf3e3a750800000000000000
+      internalID: 6315141771482002786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      RockFlameBoss_0: 695512301300567714
+      RockFlameBoss_1: -4867364736190385399
+      RockFlameBoss_10: -2648907846379691981
+      RockFlameBoss_100: -4707628518955604224
+      RockFlameBoss_101: -8301629363201177415
+      RockFlameBoss_102: 7639729205367013183
+      RockFlameBoss_103: 802590604812145172
+      RockFlameBoss_104: 6315141771482002786
+      RockFlameBoss_11: 971715098314207185
+      RockFlameBoss_12: -5916128636496276563
+      RockFlameBoss_13: 8819934392772633770
+      RockFlameBoss_14: -2372681242633619469
+      RockFlameBoss_15: -8647358796618893332
+      RockFlameBoss_16: -3795715304357637993
+      RockFlameBoss_17: -2502674121479358509
+      RockFlameBoss_18: -3988253567538080829
+      RockFlameBoss_19: 6714768050088878333
+      RockFlameBoss_2: 2303236602286028133
+      RockFlameBoss_20: 6557888344236246416
+      RockFlameBoss_21: -923905829088165042
+      RockFlameBoss_22: 7907140888858212656
+      RockFlameBoss_23: 3570535438488471639
+      RockFlameBoss_24: 1438020955053383023
+      RockFlameBoss_25: 2128610823410298923
+      RockFlameBoss_26: -1699578086379250801
+      RockFlameBoss_27: 6050771222221165581
+      RockFlameBoss_28: 4853438830203741731
+      RockFlameBoss_29: 8820378831670284594
+      RockFlameBoss_3: -7508878267613501901
+      RockFlameBoss_30: 9103221420174108256
+      RockFlameBoss_31: 8185042957816707425
+      RockFlameBoss_32: -8691334374502867618
+      RockFlameBoss_33: 4881279346272002416
+      RockFlameBoss_34: 6383870419940910301
+      RockFlameBoss_35: 6884712541757506935
+      RockFlameBoss_36: -6671210670661742220
+      RockFlameBoss_37: 4625832797170535478
+      RockFlameBoss_38: 2623194687124296932
+      RockFlameBoss_39: -7583310392574681978
+      RockFlameBoss_4: 186029419880012668
+      RockFlameBoss_40: 3977226081824091969
+      RockFlameBoss_41: 7106766179625648686
+      RockFlameBoss_42: -7400465285438707000
+      RockFlameBoss_43: -2819522961563569662
+      RockFlameBoss_44: -7960946125110164038
+      RockFlameBoss_45: 4098288339132917867
+      RockFlameBoss_46: -7460743868539307107
+      RockFlameBoss_47: -1783094364091661699
+      RockFlameBoss_48: -259338865283998749
+      RockFlameBoss_49: -8063159097123189883
+      RockFlameBoss_5: -6096244368662589989
+      RockFlameBoss_50: 2706630222412171157
+      RockFlameBoss_51: 618846948912858394
+      RockFlameBoss_52: 2052174563185967544
+      RockFlameBoss_53: 3506842055198337589
+      RockFlameBoss_54: 491910304768374784
+      RockFlameBoss_55: -6709248801992971098
+      RockFlameBoss_56: 4134286531193571474
+      RockFlameBoss_57: 7259860709292935543
+      RockFlameBoss_58: -8055354425522812042
+      RockFlameBoss_59: -7888887282367691202
+      RockFlameBoss_6: -7251230454629992922
+      RockFlameBoss_60: -529357751517449551
+      RockFlameBoss_61: -3829343480393940536
+      RockFlameBoss_62: 4097978674002819765
+      RockFlameBoss_63: -7638134569931315226
+      RockFlameBoss_64: -9122364957752894738
+      RockFlameBoss_65: 6139698008658875451
+      RockFlameBoss_66: 8958924670173489581
+      RockFlameBoss_67: -8635743436141679319
+      RockFlameBoss_68: 4137582184345903965
+      RockFlameBoss_69: -8204755847326932501
+      RockFlameBoss_7: 8047082167337733695
+      RockFlameBoss_70: -8622424217841017691
+      RockFlameBoss_71: 6158222355694469570
+      RockFlameBoss_72: -2871576503426764844
+      RockFlameBoss_73: 9162805070147750394
+      RockFlameBoss_74: 3085763507918061492
+      RockFlameBoss_75: 3849236271140909742
+      RockFlameBoss_76: -4196952665866861261
+      RockFlameBoss_77: -7266754864539825482
+      RockFlameBoss_78: -8677984151439260902
+      RockFlameBoss_79: 2853977152245793633
+      RockFlameBoss_8: 4538664159616843470
+      RockFlameBoss_80: 1521032957574133166
+      RockFlameBoss_81: 8638266954212816428
+      RockFlameBoss_82: 6881535912020538434
+      RockFlameBoss_83: 3468975160765139615
+      RockFlameBoss_84: -6600004460099655078
+      RockFlameBoss_85: -8231527630753218427
+      RockFlameBoss_86: 2818158045652737038
+      RockFlameBoss_87: -5263997295410164916
+      RockFlameBoss_88: -891372654859770895
+      RockFlameBoss_89: 6847821083588623587
+      RockFlameBoss_9: 96817383491019616
+      RockFlameBoss_90: 6886664555838025261
+      RockFlameBoss_91: -5834989362263949450
+      RockFlameBoss_92: -7990387422296877228
+      RockFlameBoss_93: -5022179314531796058
+      RockFlameBoss_94: -4347177231342536686
+      RockFlameBoss_95: 3790711661957694098
+      RockFlameBoss_96: -606170063284251795
+      RockFlameBoss_97: -7126114155043090469
+      RockFlameBoss_98: 6320664654633065131
+      RockFlameBoss_99: -7913091420145292167
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

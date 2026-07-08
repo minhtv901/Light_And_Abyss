@@ -1,0 +1,468 @@
+fileFormatVersion: 2
+guid: 0e8421a8b55fc714a90b7cd4cc77289d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4175082048366233492
+    second: slash_ice-Sheet_0
+  - first:
+      213: 5390156421959533545
+    second: slash_ice-Sheet_1
+  - first:
+      213: -5016156244818452736
+    second: slash_ice-Sheet_2
+  - first:
+      213: 8211847138075906444
+    second: slash_ice-Sheet_3
+  - first:
+      213: 6220190247274556649
+    second: slash_ice-Sheet_4
+  - first:
+      213: -7088356167658011439
+    second: slash_ice-Sheet_5
+  - first:
+      213: -6058094372480214092
+    second: slash_ice-Sheet_6
+  - first:
+      213: -6501837409944088628
+    second: slash_ice-Sheet_7
+  - first:
+      213: -7847676605570117671
+    second: slash_ice-Sheet_8
+  - first:
+      213: 1212960274689982508
+    second: slash_ice-Sheet_9
+  - first:
+      213: 5026855338139347260
+    second: slash_ice-Sheet_10
+  - first:
+      213: 10839285462570404
+    second: slash_ice-Sheet_11
+  - first:
+      213: 3267505085970123500
+    second: slash_ice-Sheet_12
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: slash_ice-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 25
+        width: 23
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c68350f5ff02f06c0800000000000000
+      internalID: -4175082048366233492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slash_ice-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 19
+        width: 24
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e340be15beadca40800000000000000
+      internalID: 5390156421959533545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slash_ice-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 14
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00f1db9d878036ab0800000000000000
+      internalID: -5016156244818452736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slash_ice-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 22
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8192deb67756f170800000000000000
+      internalID: 8211847138075906444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slash_ice-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 8
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ec262ce21e825650800000000000000
+      internalID: 6220190247274556649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slash_ice-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 1
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d48b490f9911ad90800000000000000
+      internalID: -7088356167658011439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slash_ice-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 1
+        width: 38
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bb1680f3435deba0800000000000000
+      internalID: -6058094372480214092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slash_ice-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 4
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccfcfe8e255d4c5a0800000000000000
+      internalID: -6501837409944088628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slash_ice-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 26
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9df89dcb4b3771390800000000000000
+      internalID: -7847676605570117671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slash_ice-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 8
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c208e8b71fc45d010800000000000000
+      internalID: 1212960274689982508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slash_ice-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 13
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c39621feb4af2c540800000000000000
+      internalID: 5026855338139347260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slash_ice-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 13
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a59d9fc542862000800000000000000
+      internalID: 10839285462570404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slash_ice-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 15
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cea080f4092885d20800000000000000
+      internalID: 3267505085970123500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      slash_ice-Sheet_0: -4175082048366233492
+      slash_ice-Sheet_1: 5390156421959533545
+      slash_ice-Sheet_10: 5026855338139347260
+      slash_ice-Sheet_11: 10839285462570404
+      slash_ice-Sheet_12: 3267505085970123500
+      slash_ice-Sheet_2: -5016156244818452736
+      slash_ice-Sheet_3: 8211847138075906444
+      slash_ice-Sheet_4: 6220190247274556649
+      slash_ice-Sheet_5: -7088356167658011439
+      slash_ice-Sheet_6: -6058094372480214092
+      slash_ice-Sheet_7: -6501837409944088628
+      slash_ice-Sheet_8: -7847676605570117671
+      slash_ice-Sheet_9: 1212960274689982508
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

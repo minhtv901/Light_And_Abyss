@@ -1,0 +1,330 @@
+fileFormatVersion: 2
+guid: f92c9e466f86e8945a7f78d989faf4b2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2923645337216849646
+    second: duelist_spawn_6f_318x247_0
+  - first:
+      213: -1265930348985666662
+    second: duelist_spawn_6f_318x247_1
+  - first:
+      213: -2801694148847399632
+    second: duelist_spawn_6f_318x247_2
+  - first:
+      213: 6843791731934157027
+    second: duelist_spawn_6f_318x247_3
+  - first:
+      213: -5694470683417544802
+    second: duelist_spawn_6f_318x247_4
+  - first:
+      213: -1811307088340286981
+    second: duelist_spawn_6f_318x247_5
+  - first:
+      213: -918079433557035821
+    second: duelist_spawn_6f_318x247_6
+  - first:
+      213: -3509640853852759036
+    second: duelist_spawn_6f_318x247_7
+  - first:
+      213: -6836506634297304659
+    second: duelist_spawn_6f_318x247_8
+  - first:
+      213: 2956207053412480402
+    second: duelist_spawn_6f_318x247_9
+  - first:
+      213: 7158610132438225985
+    second: duelist_spawn_6f_318x247_10
+  - first:
+      213: 4396134584404746125
+    second: duelist_spawn_6f_318x247_11
+  - first:
+      213: 4263593013595105183
+    second: duelist_spawn_6f_318x247_12
+  - first:
+      213: 7906889798506712335
+    second: duelist_spawn_6f_318x247_13
+  - first:
+      213: 939546918348231725
+    second: duelist_spawn_6f_318x247_14
+  - first:
+      213: -2961465995994754692
+    second: duelist_spawn_6f_318x247_15
+  - first:
+      213: -5514134274734357032
+    second: duelist_spawn_6f_318x247_16
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: duelist_spawn_6f_318x247_4
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 0
+        width: 320
+        height: 247
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e977503851d29f0b0800000000000000
+      internalID: -5694470683417544802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duelist_spawn_6f_318x247_5
+      rect:
+        serializedVersion: 2
+        x: 1271
+        y: 0
+        width: 320
+        height: 247
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf18454ccc1fcd6e0800000000000000
+      internalID: -1811307088340286981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duelist_spawn_6f_318x247_6
+      rect:
+        serializedVersion: 2
+        x: 1589
+        y: 0
+        width: 319
+        height: 247
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d4bd3f8e935243f0800000000000000
+      internalID: -918079433557035821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duelist_spawn_6f_318x247_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 329
+        height: 247
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40c58e00d304b4fc0800000000000000
+      internalID: -3509640853852759036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duelist_spawn_6f_318x247_13
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 0
+        width: 315
+        height: 247
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0d0726116aeabd60800000000000000
+      internalID: 7906889798506712335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duelist_spawn_6f_318x247_16
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 0
+        width: 308
+        height: 247
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d507ae971cd973b0800000000000000
+      internalID: -5514134274734357032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: a44981b445a95224bb8971556060242f
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      duelist_spawn_6f_318x247_0: -2923645337216849646
+      duelist_spawn_6f_318x247_1: -1265930348985666662
+      duelist_spawn_6f_318x247_10: 7158610132438225985
+      duelist_spawn_6f_318x247_11: 4396134584404746125
+      duelist_spawn_6f_318x247_12: 4263593013595105183
+      duelist_spawn_6f_318x247_13: 7906889798506712335
+      duelist_spawn_6f_318x247_14: 939546918348231725
+      duelist_spawn_6f_318x247_15: -2961465995994754692
+      duelist_spawn_6f_318x247_16: -5514134274734357032
+      duelist_spawn_6f_318x247_2: -2801694148847399632
+      duelist_spawn_6f_318x247_3: 6843791731934157027
+      duelist_spawn_6f_318x247_4: -5694470683417544802
+      duelist_spawn_6f_318x247_5: -1811307088340286981
+      duelist_spawn_6f_318x247_6: -918079433557035821
+      duelist_spawn_6f_318x247_7: -3509640853852759036
+      duelist_spawn_6f_318x247_8: -6836506634297304659
+      duelist_spawn_6f_318x247_9: 2956207053412480402
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

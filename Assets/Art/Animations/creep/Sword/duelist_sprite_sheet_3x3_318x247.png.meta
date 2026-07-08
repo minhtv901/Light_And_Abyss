@@ -1,0 +1,364 @@
+fileFormatVersion: 2
+guid: c7ac22b0024e71e4a9f61278649661dd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5324517013150401436
+    second: duelist_sprite_sheet_3x3_318x247_0
+  - first:
+      213: -662954693493421975
+    second: duelist_sprite_sheet_3x3_318x247_1
+  - first:
+      213: 5933510113549683713
+    second: duelist_sprite_sheet_3x3_318x247_2
+  - first:
+      213: 7986717067287077470
+    second: duelist_sprite_sheet_3x3_318x247_3
+  - first:
+      213: -3013398008561899523
+    second: duelist_sprite_sheet_3x3_318x247_4
+  - first:
+      213: -2345118964215298695
+    second: duelist_sprite_sheet_3x3_318x247_5
+  - first:
+      213: -3761254330666175611
+    second: duelist_sprite_sheet_3x3_318x247_6
+  - first:
+      213: -7875268064707344471
+    second: duelist_sprite_sheet_3x3_318x247_7
+  - first:
+      213: -7436570167444924800
+    second: duelist_sprite_sheet_3x3_318x247_8
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: duelist_sprite_sheet_3x3_318x247_0
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 529
+        width: 249
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c938a51530c74e940800000000000000
+      internalID: 5324517013150401436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duelist_sprite_sheet_3x3_318x247_1
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 529
+        width: 239
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96885200836bcc6f0800000000000000
+      internalID: -662954693493421975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duelist_sprite_sheet_3x3_318x247_2
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 529
+        width: 234
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10c015dd200185250800000000000000
+      internalID: 5933510113549683713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duelist_sprite_sheet_3x3_318x247_3
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 270
+        width: 227
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5222357bd486de60800000000000000
+      internalID: 7986717067287077470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duelist_sprite_sheet_3x3_318x247_4
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 270
+        width: 233
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df76cc41a724e26d0800000000000000
+      internalID: -3013398008561899523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duelist_sprite_sheet_3x3_318x247_5
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 270
+        width: 234
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9754aed1ab6747fd0800000000000000
+      internalID: -2345118964215298695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duelist_sprite_sheet_3x3_318x247_6
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 11
+        width: 234
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5833ebe3d175dcbc0800000000000000
+      internalID: -3761254330666175611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duelist_sprite_sheet_3x3_318x247_7
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 11
+        width: 254
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a7042c8b6d65b290800000000000000
+      internalID: -7875268064707344471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duelist_sprite_sheet_3x3_318x247_8
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 11
+        width: 244
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0869d2655defbc890800000000000000
+      internalID: -7436570167444924800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      duelist_sprite_sheet_3x3_318x247_0: 5324517013150401436
+      duelist_sprite_sheet_3x3_318x247_1: -662954693493421975
+      duelist_sprite_sheet_3x3_318x247_2: 5933510113549683713
+      duelist_sprite_sheet_3x3_318x247_3: 7986717067287077470
+      duelist_sprite_sheet_3x3_318x247_4: -3013398008561899523
+      duelist_sprite_sheet_3x3_318x247_5: -2345118964215298695
+      duelist_sprite_sheet_3x3_318x247_6: -3761254330666175611
+      duelist_sprite_sheet_3x3_318x247_7: -7875268064707344471
+      duelist_sprite_sheet_3x3_318x247_8: -7436570167444924800
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

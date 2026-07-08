@@ -1,0 +1,520 @@
+fileFormatVersion: 2
+guid: fa77edf368d79564098e952126f7c65b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3531926086291737827
+    second: duelist_death_transparent_0
+  - first:
+      213: 7039621237767901856
+    second: duelist_death_transparent_1
+  - first:
+      213: -3238360355274237041
+    second: duelist_death_transparent_2
+  - first:
+      213: -3242986436595809871
+    second: duelist_death_transparent_3
+  - first:
+      213: -7673305418319830353
+    second: duelist_death_transparent_4
+  - first:
+      213: -761120534665767893
+    second: duelist_death_transparent_5
+  - first:
+      213: -8786809036146632273
+    second: duelist_death_transparent_6
+  - first:
+      213: 8311229622659622252
+    second: duelist_death_transparent_7
+  - first:
+      213: 4870050189335963401
+    second: duelist_death_transparent_8
+  - first:
+      213: 8427387306353409533
+    second: duelist_death_transparent_9
+  - first:
+      213: 217259723767662559
+    second: duelist_death_transparent_10
+  - first:
+      213: 8414662654122329176
+    second: duelist_death_transparent_11
+  - first:
+      213: 6346899430840817639
+    second: duelist_death_transparent_12
+  - first:
+      213: 1757115323158112033
+    second: duelist_death_transparent_13
+  - first:
+      213: 1574307106184826825
+    second: duelist_death_transparent_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: duelist_death_transparent_0
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 308
+        width: 315
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ecca52001ce30130800000000000000
+      internalID: 3531926086291737827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duelist_death_transparent_1
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 306
+        width: 284
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a2937ed732c1b160800000000000000
+      internalID: 7039621237767901856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duelist_death_transparent_2
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 301
+        width: 238
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8bdb291a680f03d0800000000000000
+      internalID: -3238360355274237041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duelist_death_transparent_3
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 297
+        width: 266
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b10c4b94099ef2d0800000000000000
+      internalID: -3242986436595809871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duelist_death_transparent_4
+      rect:
+        serializedVersion: 2
+        x: 1017
+        y: 543
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa267ff7061f28590800000000000000
+      internalID: -7673305418319830353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duelist_death_transparent_5
+      rect:
+        serializedVersion: 2
+        x: 1172
+        y: 292
+        width: 226
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b24ddf308e4ff65f0800000000000000
+      internalID: -761120534665767893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duelist_death_transparent_6
+      rect:
+        serializedVersion: 2
+        x: 1292
+        y: 475
+        width: 11
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa999437cbbfe0680800000000000000
+      internalID: -8786809036146632273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duelist_death_transparent_7
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 379
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c65a4599e4b675370800000000000000
+      internalID: 8311229622659622252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duelist_death_transparent_8
+      rect:
+        serializedVersion: 2
+        x: 1447
+        y: 290
+        width: 191
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 907a1b538d4e59340800000000000000
+      internalID: 4870050189335963401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duelist_death_transparent_9
+      rect:
+        serializedVersion: 2
+        x: 1534
+        y: 376
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfdb4dbda1814f470800000000000000
+      internalID: 8427387306353409533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duelist_death_transparent_10
+      rect:
+        serializedVersion: 2
+        x: 1537
+        y: 389
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd7cb23519cd30300800000000000000
+      internalID: 217259723767662559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duelist_death_transparent_11
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 343
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85405b3e913e6c470800000000000000
+      internalID: 8414662654122329176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duelist_death_transparent_12
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 327
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e75560b767b41850800000000000000
+      internalID: 6346899430840817639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duelist_death_transparent_13
+      rect:
+        serializedVersion: 2
+        x: 1388
+        y: 300
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1272c3aa317826810800000000000000
+      internalID: 1757115323158112033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duelist_death_transparent_14
+      rect:
+        serializedVersion: 2
+        x: 1404
+        y: 301
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cf0587d8ff09d510800000000000000
+      internalID: 1574307106184826825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      duelist_death_transparent_0: 3531926086291737827
+      duelist_death_transparent_1: 7039621237767901856
+      duelist_death_transparent_10: 217259723767662559
+      duelist_death_transparent_11: 8414662654122329176
+      duelist_death_transparent_12: 6346899430840817639
+      duelist_death_transparent_13: 1757115323158112033
+      duelist_death_transparent_14: 1574307106184826825
+      duelist_death_transparent_2: -3238360355274237041
+      duelist_death_transparent_3: -3242986436595809871
+      duelist_death_transparent_4: -7673305418319830353
+      duelist_death_transparent_5: -761120534665767893
+      duelist_death_transparent_6: -8786809036146632273
+      duelist_death_transparent_7: 8311229622659622252
+      duelist_death_transparent_8: 4870050189335963401
+      duelist_death_transparent_9: 8427387306353409533
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

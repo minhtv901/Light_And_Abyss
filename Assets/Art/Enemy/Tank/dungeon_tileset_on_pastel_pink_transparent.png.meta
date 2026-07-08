@@ -1,0 +1,1950 @@
+fileFormatVersion: 2
+guid: 7179089be8fc68a4e9ed37c078c7a3f1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3133772557489247417
+    second: dungeon_tileset_on_pastel_pink_transparent_0
+  - first:
+      213: 6816725209091160350
+    second: dungeon_tileset_on_pastel_pink_transparent_1
+  - first:
+      213: 8076383339528905398
+    second: dungeon_tileset_on_pastel_pink_transparent_2
+  - first:
+      213: -7735693205243321102
+    second: dungeon_tileset_on_pastel_pink_transparent_3
+  - first:
+      213: 5708897028470341194
+    second: dungeon_tileset_on_pastel_pink_transparent_4
+  - first:
+      213: 9121709758582603342
+    second: dungeon_tileset_on_pastel_pink_transparent_5
+  - first:
+      213: 2846861136103552124
+    second: dungeon_tileset_on_pastel_pink_transparent_6
+  - first:
+      213: -13534564855133973
+    second: dungeon_tileset_on_pastel_pink_transparent_7
+  - first:
+      213: 6531851210823903923
+    second: dungeon_tileset_on_pastel_pink_transparent_8
+  - first:
+      213: 5086559918918858467
+    second: dungeon_tileset_on_pastel_pink_transparent_9
+  - first:
+      213: 1025694167044519063
+    second: dungeon_tileset_on_pastel_pink_transparent_10
+  - first:
+      213: 2362661665337132984
+    second: dungeon_tileset_on_pastel_pink_transparent_11
+  - first:
+      213: -9127805303907363334
+    second: dungeon_tileset_on_pastel_pink_transparent_12
+  - first:
+      213: 2679358067585214872
+    second: dungeon_tileset_on_pastel_pink_transparent_13
+  - first:
+      213: 7264854971899321310
+    second: dungeon_tileset_on_pastel_pink_transparent_14
+  - first:
+      213: -5721023038088454129
+    second: dungeon_tileset_on_pastel_pink_transparent_15
+  - first:
+      213: 2058925566011851281
+    second: dungeon_tileset_on_pastel_pink_transparent_16
+  - first:
+      213: -2075339395798749431
+    second: dungeon_tileset_on_pastel_pink_transparent_17
+  - first:
+      213: 8048139991318412487
+    second: dungeon_tileset_on_pastel_pink_transparent_18
+  - first:
+      213: -6328276347658512919
+    second: dungeon_tileset_on_pastel_pink_transparent_19
+  - first:
+      213: 2309528930534224372
+    second: dungeon_tileset_on_pastel_pink_transparent_20
+  - first:
+      213: -3012289377794952611
+    second: dungeon_tileset_on_pastel_pink_transparent_21
+  - first:
+      213: 9004613099844254411
+    second: dungeon_tileset_on_pastel_pink_transparent_22
+  - first:
+      213: -5296688631433909995
+    second: dungeon_tileset_on_pastel_pink_transparent_23
+  - first:
+      213: -856065551305893662
+    second: dungeon_tileset_on_pastel_pink_transparent_24
+  - first:
+      213: 2262853308902754363
+    second: dungeon_tileset_on_pastel_pink_transparent_25
+  - first:
+      213: 3369224199347331298
+    second: dungeon_tileset_on_pastel_pink_transparent_26
+  - first:
+      213: 429997353932300176
+    second: dungeon_tileset_on_pastel_pink_transparent_27
+  - first:
+      213: 6817647247193697989
+    second: dungeon_tileset_on_pastel_pink_transparent_28
+  - first:
+      213: 5629150220850221677
+    second: dungeon_tileset_on_pastel_pink_transparent_29
+  - first:
+      213: -5396046986386703936
+    second: dungeon_tileset_on_pastel_pink_transparent_30
+  - first:
+      213: 7621213531710882645
+    second: dungeon_tileset_on_pastel_pink_transparent_31
+  - first:
+      213: 3278932128107632235
+    second: dungeon_tileset_on_pastel_pink_transparent_32
+  - first:
+      213: -1827576009642211620
+    second: dungeon_tileset_on_pastel_pink_transparent_33
+  - first:
+      213: -3644967673804572212
+    second: dungeon_tileset_on_pastel_pink_transparent_34
+  - first:
+      213: -6782117805632896066
+    second: dungeon_tileset_on_pastel_pink_transparent_35
+  - first:
+      213: -5747763457102822023
+    second: dungeon_tileset_on_pastel_pink_transparent_36
+  - first:
+      213: -8209002717206077538
+    second: dungeon_tileset_on_pastel_pink_transparent_37
+  - first:
+      213: 5796039730065214915
+    second: dungeon_tileset_on_pastel_pink_transparent_38
+  - first:
+      213: 1891870792302759023
+    second: dungeon_tileset_on_pastel_pink_transparent_39
+  - first:
+      213: 4789888794470516937
+    second: dungeon_tileset_on_pastel_pink_transparent_40
+  - first:
+      213: 1446637508201983681
+    second: dungeon_tileset_on_pastel_pink_transparent_41
+  - first:
+      213: -2035272583397778520
+    second: dungeon_tileset_on_pastel_pink_transparent_42
+  - first:
+      213: -900304569693855438
+    second: dungeon_tileset_on_pastel_pink_transparent_43
+  - first:
+      213: 5233589555214765359
+    second: dungeon_tileset_on_pastel_pink_transparent_44
+  - first:
+      213: 3611221538577488513
+    second: dungeon_tileset_on_pastel_pink_transparent_45
+  - first:
+      213: -5350940528806755442
+    second: dungeon_tileset_on_pastel_pink_transparent_46
+  - first:
+      213: -7633393471605682055
+    second: dungeon_tileset_on_pastel_pink_transparent_47
+  - first:
+      213: 8321665914495378339
+    second: dungeon_tileset_on_pastel_pink_transparent_48
+  - first:
+      213: 335277595546712700
+    second: dungeon_tileset_on_pastel_pink_transparent_49
+  - first:
+      213: 4188320619751132264
+    second: dungeon_tileset_on_pastel_pink_transparent_50
+  - first:
+      213: -5206504159814855010
+    second: dungeon_tileset_on_pastel_pink_transparent_51
+  - first:
+      213: -8526296084375199802
+    second: dungeon_tileset_on_pastel_pink_transparent_52
+  - first:
+      213: 2303405339530353107
+    second: dungeon_tileset_on_pastel_pink_transparent_53
+  - first:
+      213: 3455429235915688064
+    second: dungeon_tileset_on_pastel_pink_transparent_54
+  - first:
+      213: -579308189635704897
+    second: dungeon_tileset_on_pastel_pink_transparent_55
+  - first:
+      213: 8154788062824425190
+    second: dungeon_tileset_on_pastel_pink_transparent_56
+  - first:
+      213: 7084840441535632108
+    second: dungeon_tileset_on_pastel_pink_transparent_57
+  - first:
+      213: -2026244966176858640
+    second: dungeon_tileset_on_pastel_pink_transparent_58
+  - first:
+      213: -6091641332503240773
+    second: dungeon_tileset_on_pastel_pink_transparent_59
+  - first:
+      213: 836005568092987916
+    second: dungeon_tileset_on_pastel_pink_transparent_60
+  - first:
+      213: -7087967508530265091
+    second: dungeon_tileset_on_pastel_pink_transparent_61
+  - first:
+      213: -5794792616608357809
+    second: dungeon_tileset_on_pastel_pink_transparent_62
+  - first:
+      213: 7534585942103159663
+    second: dungeon_tileset_on_pastel_pink_transparent_63
+  - first:
+      213: 33830333874501526
+    second: dungeon_tileset_on_pastel_pink_transparent_64
+  - first:
+      213: 2728542501614956010
+    second: dungeon_tileset_on_pastel_pink_transparent_65
+  - first:
+      213: -8818678972237565195
+    second: dungeon_tileset_on_pastel_pink_transparent_66
+  - first:
+      213: -4091950062905122649
+    second: dungeon_tileset_on_pastel_pink_transparent_67
+  - first:
+      213: -2459983236663204583
+    second: dungeon_tileset_on_pastel_pink_transparent_68
+  - first:
+      213: 3413391788837079849
+    second: dungeon_tileset_on_pastel_pink_transparent_69
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: dungeon_tileset_on_pastel_pink_transparent_0
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 957
+        width: 105
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b49300a9856d7b20800000000000000
+      internalID: 3133772557489247417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon_tileset_on_pastel_pink_transparent_1
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 957
+        width: 94
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e19345b067fd99e50800000000000000
+      internalID: 6816725209091160350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon_tileset_on_pastel_pink_transparent_2
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 957
+        width: 126
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b2e0865bd3151070800000000000000
+      internalID: 8076383339528905398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon_tileset_on_pastel_pink_transparent_3
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 957
+        width: 119
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f4a11ae30c45a490800000000000000
+      internalID: -7735693205243321102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon_tileset_on_pastel_pink_transparent_4
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 946
+        width: 133
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4ef141b9931a3f40800000000000000
+      internalID: 5708897028470341194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon_tileset_on_pastel_pink_transparent_5
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 938
+        width: 118
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4eb78052b2d69e70800000000000000
+      internalID: 9121709758582603342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon_tileset_on_pastel_pink_transparent_6
+      rect:
+        serializedVersion: 2
+        x: 1073
+        y: 938
+        width: 107
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c743156be15128720800000000000000
+      internalID: 2846861136103552124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon_tileset_on_pastel_pink_transparent_7
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 938
+        width: 136
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be8ce9d826aefcff0800000000000000
+      internalID: -13534564855133973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon_tileset_on_pastel_pink_transparent_8
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 839
+        width: 100
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ba2ddaa11cc5aa50800000000000000
+      internalID: 6531851210823903923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon_tileset_on_pastel_pink_transparent_9
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 839
+        width: 89
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e6f5e7eb47179640800000000000000
+      internalID: 5086559918918858467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon_tileset_on_pastel_pink_transparent_10
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 839
+        width: 120
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 794f0ea196ffb3e00800000000000000
+      internalID: 1025694167044519063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon_tileset_on_pastel_pink_transparent_11
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 839
+        width: 113
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b74ad6444cd9c020800000000000000
+      internalID: 2362661665337132984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon_tileset_on_pastel_pink_transparent_12
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 839
+        width: 127
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af5dca1ff65835180800000000000000
+      internalID: -9127805303907363334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon_tileset_on_pastel_pink_transparent_13
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 839
+        width: 94
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8996e7477fdfe2520800000000000000
+      internalID: 2679358067585214872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon_tileset_on_pastel_pink_transparent_14
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 839
+        width: 93
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edb1ac82b13f1d460800000000000000
+      internalID: 7264854971899321310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon_tileset_on_pastel_pink_transparent_15
+      rect:
+        serializedVersion: 2
+        x: 1227
+        y: 839
+        width: 109
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0069eeabd7da90b0800000000000000
+      internalID: -5721023038088454129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon_tileset_on_pastel_pink_transparent_16
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 711
+        width: 99
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1124b15c4e5c29c10800000000000000
+      internalID: 2058925566011851281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon_tileset_on_pastel_pink_transparent_17
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 711
+        width: 90
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90faa0da0d9e233e0800000000000000
+      internalID: -2075339395798749431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon_tileset_on_pastel_pink_transparent_18
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 711
+        width: 117
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cc36256eacb0bf60800000000000000
+      internalID: 8048139991318412487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon_tileset_on_pastel_pink_transparent_19
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 711
+        width: 112
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e5de41c0327d28a0800000000000000
+      internalID: -6328276347658512919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon_tileset_on_pastel_pink_transparent_20
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 711
+        width: 126
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f1fafe63581d0020800000000000000
+      internalID: 2309528930534224372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon_tileset_on_pastel_pink_transparent_21
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 711
+        width: 94
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5279db45c23236d0800000000000000
+      internalID: -3012289377794952611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon_tileset_on_pastel_pink_transparent_22
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 711
+        width: 93
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcabb04e7efc6fc70800000000000000
+      internalID: 9004613099844254411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon_tileset_on_pastel_pink_transparent_23
+      rect:
+        serializedVersion: 2
+        x: 1227
+        y: 711
+        width: 103
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5192885b0c16e76b0800000000000000
+      internalID: -5296688631433909995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon_tileset_on_pastel_pink_transparent_24
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 608
+        width: 97
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e896fdaae4ae14f0800000000000000
+      internalID: -856065551305893662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon_tileset_on_pastel_pink_transparent_25
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 608
+        width: 93
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3847f76815476f10800000000000000
+      internalID: 2262853308902754363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon_tileset_on_pastel_pink_transparent_26
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 608
+        width: 118
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e06fb2fe83e1ce20800000000000000
+      internalID: 3369224199347331298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon_tileset_on_pastel_pink_transparent_27
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 608
+        width: 115
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09f1e7fa058a7f500800000000000000
+      internalID: 429997353932300176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon_tileset_on_pastel_pink_transparent_28
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 608
+        width: 130
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ce66e4cc062d9e50800000000000000
+      internalID: 6817647247193697989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon_tileset_on_pastel_pink_transparent_29
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 616
+        width: 118
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d62d6152d42ce1e40800000000000000
+      internalID: 5629150220850221677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon_tileset_on_pastel_pink_transparent_30
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 610
+        width: 108
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c97a19fad36d15b0800000000000000
+      internalID: -5396046986386703936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon_tileset_on_pastel_pink_transparent_31
+      rect:
+        serializedVersion: 2
+        x: 1223
+        y: 608
+        width: 125
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5530703045df3c960800000000000000
+      internalID: 7621213531710882645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon_tileset_on_pastel_pink_transparent_32
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 511
+        width: 78
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b669872e56b118d20800000000000000
+      internalID: 3278932128107632235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon_tileset_on_pastel_pink_transparent_33
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 511
+        width: 78
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd600495d4523a6e0800000000000000
+      internalID: -1827576009642211620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon_tileset_on_pastel_pink_transparent_34
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 512
+        width: 87
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc9b81966397a6dc0800000000000000
+      internalID: -3644967673804572212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon_tileset_on_pastel_pink_transparent_35
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 512
+        width: 94
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb3466af9c311e1a0800000000000000
+      internalID: -6782117805632896066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon_tileset_on_pastel_pink_transparent_36
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 511
+        width: 90
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9754a66b697db30b0800000000000000
+      internalID: -5747763457102822023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon_tileset_on_pastel_pink_transparent_37
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 511
+        width: 86
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9f17b89583c31e80800000000000000
+      internalID: -8209002717206077538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon_tileset_on_pastel_pink_transparent_38
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 512
+        width: 83
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cd869efc6baf6050800000000000000
+      internalID: 5796039730065214915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon_tileset_on_pastel_pink_transparent_39
+      rect:
+        serializedVersion: 2
+        x: 1234
+        y: 511
+        width: 86
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6c84284676414a10800000000000000
+      internalID: 1891870792302759023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon_tileset_on_pastel_pink_transparent_40
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 414
+        width: 47
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c80a0c0b7a197240800000000000000
+      internalID: 4789888794470516937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon_tileset_on_pastel_pink_transparent_41
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 414
+        width: 47
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cea22b262d731410800000000000000
+      internalID: 1446637508201983681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon_tileset_on_pastel_pink_transparent_42
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 414
+        width: 60
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8abdb756e5241c3e0800000000000000
+      internalID: -2035272583397778520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon_tileset_on_pastel_pink_transparent_43
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 414
+        width: 66
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 231acbd83c97183f0800000000000000
+      internalID: -900304569693855438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon_tileset_on_pastel_pink_transparent_44
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 414
+        width: 62
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2d45c2c8f171a840800000000000000
+      internalID: 5233589555214765359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon_tileset_on_pastel_pink_transparent_45
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 414
+        width: 57
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18a96243bd2ad1230800000000000000
+      internalID: 3611221538577488513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon_tileset_on_pastel_pink_transparent_46
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 414
+        width: 54
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e838b3680f3adb5b0800000000000000
+      internalID: -5350940528806755442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon_tileset_on_pastel_pink_transparent_47
+      rect:
+        serializedVersion: 2
+        x: 1249
+        y: 414
+        width: 56
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 970582eb41db01690800000000000000
+      internalID: -7633393471605682055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon_tileset_on_pastel_pink_transparent_48
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 352
+        width: 83
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a329f42f0f7c7370800000000000000
+      internalID: 8321665914495378339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon_tileset_on_pastel_pink_transparent_49
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 352
+        width: 85
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7a75bf523527a400800000000000000
+      internalID: 335277595546712700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon_tileset_on_pastel_pink_transparent_50
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 352
+        width: 103
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86cc5b9b967ef1a30800000000000000
+      internalID: 4188320619751132264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon_tileset_on_pastel_pink_transparent_51
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 352
+        width: 103
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9654a84d08ceb7b0800000000000000
+      internalID: -5206504159814855010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon_tileset_on_pastel_pink_transparent_52
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 352
+        width: 105
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cf1301b2e28ca980800000000000000
+      internalID: -8526296084375199802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon_tileset_on_pastel_pink_transparent_53
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 352
+        width: 92
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d9d17cc3f657ff10800000000000000
+      internalID: 2303405339530353107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon_tileset_on_pastel_pink_transparent_54
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 352
+        width: 87
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0880149159624ff20800000000000000
+      internalID: 3455429235915688064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon_tileset_on_pastel_pink_transparent_55
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 352
+        width: 90
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb70a455542e5f7f0800000000000000
+      internalID: -579308189635704897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon_tileset_on_pastel_pink_transparent_56
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 227
+        width: 92
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e6ee378980ab2170800000000000000
+      internalID: 8154788062824425190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon_tileset_on_pastel_pink_transparent_57
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 227
+        width: 289
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce29d0038d8625260800000000000000
+      internalID: 7084840441535632108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon_tileset_on_pastel_pink_transparent_58
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 226
+        width: 114
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fdda1350f451e3e0800000000000000
+      internalID: -2026244966176858640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon_tileset_on_pastel_pink_transparent_59
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 226
+        width: 146
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbf9e05ab74267ba0800000000000000
+      internalID: -6091641332503240773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon_tileset_on_pastel_pink_transparent_60
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 226
+        width: 112
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c026e6482a61a9b00800000000000000
+      internalID: 836005568092987916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon_tileset_on_pastel_pink_transparent_61
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 229
+        width: 132
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df30b8aca1b72ad90800000000000000
+      internalID: -7087967508530265091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon_tileset_on_pastel_pink_transparent_62
+      rect:
+        serializedVersion: 2
+        x: 1229
+        y: 227
+        width: 123
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f42a00c31d2c49fa0800000000000000
+      internalID: -5794792616608357809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon_tileset_on_pastel_pink_transparent_63
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 84
+        width: 66
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f63f5b09ef9309860800000000000000
+      internalID: 7534585942103159663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon_tileset_on_pastel_pink_transparent_64
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 79
+        width: 82
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 697f8396280387000800000000000000
+      internalID: 33830333874501526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon_tileset_on_pastel_pink_transparent_65
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 70
+        width: 103
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aeda053e2fabdd520800000000000000
+      internalID: 2728542501614956010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon_tileset_on_pastel_pink_transparent_66
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 70
+        width: 119
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f2b297b232cd9580800000000000000
+      internalID: -8818678972237565195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon_tileset_on_pastel_pink_transparent_67
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 62
+        width: 135
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a027ed09197637c0800000000000000
+      internalID: -4091950062905122649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon_tileset_on_pastel_pink_transparent_68
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 70
+        width: 130
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9152641a7426cddd0800000000000000
+      internalID: -2459983236663204583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon_tileset_on_pastel_pink_transparent_69
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 70
+        width: 133
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92b8edc3fbdce5f20800000000000000
+      internalID: 3413391788837079849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      dungeon_tileset_on_pastel_pink_transparent_0: 3133772557489247417
+      dungeon_tileset_on_pastel_pink_transparent_1: 6816725209091160350
+      dungeon_tileset_on_pastel_pink_transparent_10: 1025694167044519063
+      dungeon_tileset_on_pastel_pink_transparent_11: 2362661665337132984
+      dungeon_tileset_on_pastel_pink_transparent_12: -9127805303907363334
+      dungeon_tileset_on_pastel_pink_transparent_13: 2679358067585214872
+      dungeon_tileset_on_pastel_pink_transparent_14: 7264854971899321310
+      dungeon_tileset_on_pastel_pink_transparent_15: -5721023038088454129
+      dungeon_tileset_on_pastel_pink_transparent_16: 2058925566011851281
+      dungeon_tileset_on_pastel_pink_transparent_17: -2075339395798749431
+      dungeon_tileset_on_pastel_pink_transparent_18: 8048139991318412487
+      dungeon_tileset_on_pastel_pink_transparent_19: -6328276347658512919
+      dungeon_tileset_on_pastel_pink_transparent_2: 8076383339528905398
+      dungeon_tileset_on_pastel_pink_transparent_20: 2309528930534224372
+      dungeon_tileset_on_pastel_pink_transparent_21: -3012289377794952611
+      dungeon_tileset_on_pastel_pink_transparent_22: 9004613099844254411
+      dungeon_tileset_on_pastel_pink_transparent_23: -5296688631433909995
+      dungeon_tileset_on_pastel_pink_transparent_24: -856065551305893662
+      dungeon_tileset_on_pastel_pink_transparent_25: 2262853308902754363
+      dungeon_tileset_on_pastel_pink_transparent_26: 3369224199347331298
+      dungeon_tileset_on_pastel_pink_transparent_27: 429997353932300176
+      dungeon_tileset_on_pastel_pink_transparent_28: 6817647247193697989
+      dungeon_tileset_on_pastel_pink_transparent_29: 5629150220850221677
+      dungeon_tileset_on_pastel_pink_transparent_3: -7735693205243321102
+      dungeon_tileset_on_pastel_pink_transparent_30: -5396046986386703936
+      dungeon_tileset_on_pastel_pink_transparent_31: 7621213531710882645
+      dungeon_tileset_on_pastel_pink_transparent_32: 3278932128107632235
+      dungeon_tileset_on_pastel_pink_transparent_33: -1827576009642211620
+      dungeon_tileset_on_pastel_pink_transparent_34: -3644967673804572212
+      dungeon_tileset_on_pastel_pink_transparent_35: -6782117805632896066
+      dungeon_tileset_on_pastel_pink_transparent_36: -5747763457102822023
+      dungeon_tileset_on_pastel_pink_transparent_37: -8209002717206077538
+      dungeon_tileset_on_pastel_pink_transparent_38: 5796039730065214915
+      dungeon_tileset_on_pastel_pink_transparent_39: 1891870792302759023
+      dungeon_tileset_on_pastel_pink_transparent_4: 5708897028470341194
+      dungeon_tileset_on_pastel_pink_transparent_40: 4789888794470516937
+      dungeon_tileset_on_pastel_pink_transparent_41: 1446637508201983681
+      dungeon_tileset_on_pastel_pink_transparent_42: -2035272583397778520
+      dungeon_tileset_on_pastel_pink_transparent_43: -900304569693855438
+      dungeon_tileset_on_pastel_pink_transparent_44: 5233589555214765359
+      dungeon_tileset_on_pastel_pink_transparent_45: 3611221538577488513
+      dungeon_tileset_on_pastel_pink_transparent_46: -5350940528806755442
+      dungeon_tileset_on_pastel_pink_transparent_47: -7633393471605682055
+      dungeon_tileset_on_pastel_pink_transparent_48: 8321665914495378339
+      dungeon_tileset_on_pastel_pink_transparent_49: 335277595546712700
+      dungeon_tileset_on_pastel_pink_transparent_5: 9121709758582603342
+      dungeon_tileset_on_pastel_pink_transparent_50: 4188320619751132264
+      dungeon_tileset_on_pastel_pink_transparent_51: -5206504159814855010
+      dungeon_tileset_on_pastel_pink_transparent_52: -8526296084375199802
+      dungeon_tileset_on_pastel_pink_transparent_53: 2303405339530353107
+      dungeon_tileset_on_pastel_pink_transparent_54: 3455429235915688064
+      dungeon_tileset_on_pastel_pink_transparent_55: -579308189635704897
+      dungeon_tileset_on_pastel_pink_transparent_56: 8154788062824425190
+      dungeon_tileset_on_pastel_pink_transparent_57: 7084840441535632108
+      dungeon_tileset_on_pastel_pink_transparent_58: -2026244966176858640
+      dungeon_tileset_on_pastel_pink_transparent_59: -6091641332503240773
+      dungeon_tileset_on_pastel_pink_transparent_6: 2846861136103552124
+      dungeon_tileset_on_pastel_pink_transparent_60: 836005568092987916
+      dungeon_tileset_on_pastel_pink_transparent_61: -7087967508530265091
+      dungeon_tileset_on_pastel_pink_transparent_62: -5794792616608357809
+      dungeon_tileset_on_pastel_pink_transparent_63: 7534585942103159663
+      dungeon_tileset_on_pastel_pink_transparent_64: 33830333874501526
+      dungeon_tileset_on_pastel_pink_transparent_65: 2728542501614956010
+      dungeon_tileset_on_pastel_pink_transparent_66: -8818678972237565195
+      dungeon_tileset_on_pastel_pink_transparent_67: -4091950062905122649
+      dungeon_tileset_on_pastel_pink_transparent_68: -2459983236663204583
+      dungeon_tileset_on_pastel_pink_transparent_69: 3413391788837079849
+      dungeon_tileset_on_pastel_pink_transparent_7: -13534564855133973
+      dungeon_tileset_on_pastel_pink_transparent_8: 6531851210823903923
+      dungeon_tileset_on_pastel_pink_transparent_9: 5086559918918858467
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

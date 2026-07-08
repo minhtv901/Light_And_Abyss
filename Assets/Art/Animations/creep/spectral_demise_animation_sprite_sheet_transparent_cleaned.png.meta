@@ -1,0 +1,1092 @@
+fileFormatVersion: 2
+guid: 5664e9687d0be924bb950c0751eab4fa
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8115788032048135263
+    second: spectral_demise_animation_sprite_sheet_transparent_cleaned_0
+  - first:
+      213: 1184579747685838301
+    second: spectral_demise_animation_sprite_sheet_transparent_cleaned_1
+  - first:
+      213: 3973460264645595375
+    second: spectral_demise_animation_sprite_sheet_transparent_cleaned_2
+  - first:
+      213: -8377194585148705838
+    second: spectral_demise_animation_sprite_sheet_transparent_cleaned_3
+  - first:
+      213: -8810904377776427393
+    second: spectral_demise_animation_sprite_sheet_transparent_cleaned_4
+  - first:
+      213: -4169858220807408433
+    second: spectral_demise_animation_sprite_sheet_transparent_cleaned_5
+  - first:
+      213: -4322037720420915518
+    second: spectral_demise_animation_sprite_sheet_transparent_cleaned_6
+  - first:
+      213: 1402626537541464388
+    second: spectral_demise_animation_sprite_sheet_transparent_cleaned_7
+  - first:
+      213: -7006763779172468277
+    second: spectral_demise_animation_sprite_sheet_transparent_cleaned_8
+  - first:
+      213: -6749269818035764311
+    second: spectral_demise_animation_sprite_sheet_transparent_cleaned_9
+  - first:
+      213: -6157754008673445999
+    second: spectral_demise_animation_sprite_sheet_transparent_cleaned_10
+  - first:
+      213: 4232222342864204984
+    second: spectral_demise_animation_sprite_sheet_transparent_cleaned_11
+  - first:
+      213: 1946546202264301176
+    second: spectral_demise_animation_sprite_sheet_transparent_cleaned_12
+  - first:
+      213: -128570004194933483
+    second: spectral_demise_animation_sprite_sheet_transparent_cleaned_13
+  - first:
+      213: -4901632369556000708
+    second: spectral_demise_animation_sprite_sheet_transparent_cleaned_14
+  - first:
+      213: 2407259478844757625
+    second: spectral_demise_animation_sprite_sheet_transparent_cleaned_15
+  - first:
+      213: -3718755049314043812
+    second: spectral_demise_animation_sprite_sheet_transparent_cleaned_16
+  - first:
+      213: -9159971155284579155
+    second: spectral_demise_animation_sprite_sheet_transparent_cleaned_17
+  - first:
+      213: 3071728393150070460
+    second: spectral_demise_animation_sprite_sheet_transparent_cleaned_18
+  - first:
+      213: -5863466238552793049
+    second: spectral_demise_animation_sprite_sheet_transparent_cleaned_19
+  - first:
+      213: -4577348009825589401
+    second: spectral_demise_animation_sprite_sheet_transparent_cleaned_20
+  - first:
+      213: -6419439300141477558
+    second: spectral_demise_animation_sprite_sheet_transparent_cleaned_21
+  - first:
+      213: -3795058000097290189
+    second: spectral_demise_animation_sprite_sheet_transparent_cleaned_22
+  - first:
+      213: -8212537400356088518
+    second: spectral_demise_animation_sprite_sheet_transparent_cleaned_23
+  - first:
+      213: -5617329781209990200
+    second: spectral_demise_animation_sprite_sheet_transparent_cleaned_24
+  - first:
+      213: 2433230694391280413
+    second: spectral_demise_animation_sprite_sheet_transparent_cleaned_25
+  - first:
+      213: -6680972775404297775
+    second: spectral_demise_animation_sprite_sheet_transparent_cleaned_26
+  - first:
+      213: -282030315079725830
+    second: spectral_demise_animation_sprite_sheet_transparent_cleaned_27
+  - first:
+      213: 2721259131545454965
+    second: spectral_demise_animation_sprite_sheet_transparent_cleaned_28
+  - first:
+      213: 7231409156509411614
+    second: spectral_demise_animation_sprite_sheet_transparent_cleaned_29
+  - first:
+      213: 5515223268717641181
+    second: spectral_demise_animation_sprite_sheet_transparent_cleaned_30
+  - first:
+      213: -1498728878383816120
+    second: spectral_demise_animation_sprite_sheet_transparent_cleaned_31
+  - first:
+      213: -3643816859785243416
+    second: spectral_demise_animation_sprite_sheet_transparent_cleaned_32
+  - first:
+      213: 3892522331814836159
+    second: spectral_demise_animation_sprite_sheet_transparent_cleaned_33
+  - first:
+      213: 6188266660556817668
+    second: spectral_demise_animation_sprite_sheet_transparent_cleaned_34
+  - first:
+      213: -1112560066129448581
+    second: spectral_demise_animation_sprite_sheet_transparent_cleaned_35
+  - first:
+      213: -7786345108158832235
+    second: spectral_demise_animation_sprite_sheet_transparent_cleaned_36
+  - first:
+      213: 7682310523409448244
+    second: spectral_demise_animation_sprite_sheet_transparent_cleaned_37
+  - first:
+      213: -881025560534094742
+    second: spectral_demise_animation_sprite_sheet_transparent_cleaned_38
+  - first:
+      213: 6758725922164777605
+    second: spectral_demise_animation_sprite_sheet_transparent_cleaned_39
+  - first:
+      213: -4811230269764389658
+    second: spectral_demise_animation_sprite_sheet_transparent_cleaned_40
+  - first:
+      213: -3917930867240034547
+    second: spectral_demise_animation_sprite_sheet_transparent_cleaned_41
+  - first:
+      213: 8928934581312181998
+    second: spectral_demise_animation_sprite_sheet_transparent_cleaned_42
+  - first:
+      213: 192330019789463598
+    second: spectral_demise_animation_sprite_sheet_transparent_cleaned_43
+  - first:
+      213: -1419531655183675863
+    second: spectral_demise_animation_sprite_sheet_transparent_cleaned_44
+  - first:
+      213: -6721743175647397428
+    second: spectral_demise_animation_sprite_sheet_transparent_cleaned_45
+  - first:
+      213: -8959571251032674418
+    second: spectral_demise_animation_sprite_sheet_transparent_cleaned_46
+  - first:
+      213: 1516105749987763794
+    second: spectral_demise_animation_sprite_sheet_transparent_cleaned_47
+  - first:
+      213: -4929829090420061624
+    second: spectral_demise_animation_sprite_sheet_transparent_cleaned_48
+  - first:
+      213: 3130178689083254997
+    second: spectral_demise_animation_sprite_sheet_transparent_cleaned_49
+  - first:
+      213: 4401948264646045267
+    second: spectral_demise_animation_sprite_sheet_transparent_cleaned_50
+  - first:
+      213: 4241472491257139157
+    second: spectral_demise_animation_sprite_sheet_transparent_cleaned_51
+  - first:
+      213: -6871689189214805017
+    second: spectral_demise_animation_sprite_sheet_transparent_cleaned_52
+  - first:
+      213: 2961088390632499040
+    second: spectral_demise_animation_sprite_sheet_transparent_cleaned_53
+  - first:
+      213: -1009196775404116534
+    second: spectral_demise_animation_sprite_sheet_transparent_cleaned_54
+  - first:
+      213: 3153911033312400501
+    second: spectral_demise_animation_sprite_sheet_transparent_cleaned_55
+  - first:
+      213: 4063302702355641118
+    second: spectral_demise_animation_sprite_sheet_transparent_cleaned_56
+  - first:
+      213: -885795271085218182
+    second: spectral_demise_animation_sprite_sheet_transparent_cleaned_57
+  - first:
+      213: 5198211769032404095
+    second: spectral_demise_animation_sprite_sheet_transparent_cleaned_58
+  - first:
+      213: -5029152162291896509
+    second: spectral_demise_animation_sprite_sheet_transparent_cleaned_59
+  - first:
+      213: -6723789504070486481
+    second: spectral_demise_animation_sprite_sheet_transparent_cleaned_60
+  - first:
+      213: -6686876885504560228
+    second: spectral_demise_animation_sprite_sheet_transparent_cleaned_61
+  - first:
+      213: 3362726160828132614
+    second: spectral_demise_animation_sprite_sheet_transparent_cleaned_62
+  - first:
+      213: -8041283573317680638
+    second: spectral_demise_animation_sprite_sheet_transparent_cleaned_63
+  - first:
+      213: -4720858826861595993
+    second: spectral_demise_animation_sprite_sheet_transparent_cleaned_64
+  - first:
+      213: 7298416724172272439
+    second: spectral_demise_animation_sprite_sheet_transparent_cleaned_65
+  - first:
+      213: 172764232146827800
+    second: spectral_demise_animation_sprite_sheet_transparent_cleaned_66
+  - first:
+      213: 6090660245736820485
+    second: spectral_demise_animation_sprite_sheet_transparent_cleaned_67
+  - first:
+      213: -5182932299751808844
+    second: spectral_demise_animation_sprite_sheet_transparent_cleaned_68
+  - first:
+      213: 2914144406679514838
+    second: spectral_demise_animation_sprite_sheet_transparent_cleaned_69
+  - first:
+      213: -6979697625575622810
+    second: spectral_demise_animation_sprite_sheet_transparent_cleaned_70
+  - first:
+      213: 7881626939505314060
+    second: spectral_demise_animation_sprite_sheet_transparent_cleaned_71
+  - first:
+      213: 2007192630038051785
+    second: spectral_demise_animation_sprite_sheet_transparent_cleaned_72
+  - first:
+      213: 7226262775172002107
+    second: spectral_demise_animation_sprite_sheet_transparent_cleaned_73
+  - first:
+      213: 7658694936608368276
+    second: spectral_demise_animation_sprite_sheet_transparent_cleaned_74
+  - first:
+      213: -6200925955404739726
+    second: spectral_demise_animation_sprite_sheet_transparent_cleaned_75
+  - first:
+      213: -8583440254031423364
+    second: spectral_demise_animation_sprite_sheet_transparent_cleaned_76
+  - first:
+      213: -3636879527827744193
+    second: spectral_demise_animation_sprite_sheet_transparent_cleaned_77
+  - first:
+      213: -3088023982498325946
+    second: spectral_demise_animation_sprite_sheet_transparent_cleaned_78
+  - first:
+      213: -2879385073546898883
+    second: spectral_demise_animation_sprite_sheet_transparent_cleaned_79
+  - first:
+      213: 2211747864834496214
+    second: spectral_demise_animation_sprite_sheet_transparent_cleaned_80
+  - first:
+      213: -4035224729049015737
+    second: spectral_demise_animation_sprite_sheet_transparent_cleaned_81
+  - first:
+      213: -6197692695538931231
+    second: spectral_demise_animation_sprite_sheet_transparent_cleaned_82
+  - first:
+      213: -8745735425165490203
+    second: spectral_demise_animation_sprite_sheet_transparent_cleaned_83
+  - first:
+      213: -8670755257280186659
+    second: spectral_demise_animation_sprite_sheet_transparent_cleaned_84
+  - first:
+      213: 2360771280581109613
+    second: spectral_demise_animation_sprite_sheet_transparent_cleaned_85
+  - first:
+      213: 1393654853419821444
+    second: spectral_demise_animation_sprite_sheet_transparent_cleaned_86
+  - first:
+      213: 3888453816467247597
+    second: spectral_demise_animation_sprite_sheet_transparent_cleaned_87
+  - first:
+      213: -7228534013839774125
+    second: spectral_demise_animation_sprite_sheet_transparent_cleaned_88
+  - first:
+      213: -5707369840325401769
+    second: spectral_demise_animation_sprite_sheet_transparent_cleaned_89
+  - first:
+      213: 2909362650229635862
+    second: spectral_demise_animation_sprite_sheet_transparent_cleaned_90
+  - first:
+      213: 6334116821852125143
+    second: spectral_demise_animation_sprite_sheet_transparent_cleaned_91
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: spectral_demise_animation_sprite_sheet_transparent_cleaned_0
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 793
+        width: 234
+        height: 202
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5c7892473211a070800000000000000
+      internalID: 8115788032048135263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spectral_demise_animation_sprite_sheet_transparent_cleaned_2
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 784
+        width: 234
+        height: 202
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe09453fe01942730800000000000000
+      internalID: 3973460264645595375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spectral_demise_animation_sprite_sheet_transparent_cleaned_6
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 776
+        width: 234
+        height: 202
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c6e878a7990504c0800000000000000
+      internalID: -4322037720420915518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spectral_demise_animation_sprite_sheet_transparent_cleaned_7
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 772
+        width: 234
+        height: 202
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 441f1ba8761277310800000000000000
+      internalID: 1402626537541464388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spectral_demise_animation_sprite_sheet_transparent_cleaned_11
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 772
+        width: 234
+        height: 202
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b474ec2ccfdbba30800000000000000
+      internalID: 4232222342864204984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spectral_demise_animation_sprite_sheet_transparent_cleaned_13
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 773
+        width: 234
+        height: 202
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 515c03b234a373ef0800000000000000
+      internalID: -128570004194933483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spectral_demise_animation_sprite_sheet_transparent_cleaned_18
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 783
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbef038e2b8f0aa20800000000000000
+      internalID: 3071728393150070460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spectral_demise_animation_sprite_sheet_transparent_cleaned_19
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 777
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 720a092a588c0aea0800000000000000
+      internalID: -5863466238552793049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spectral_demise_animation_sprite_sheet_transparent_cleaned_23
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 532
+        width: 236
+        height: 228
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a355a2b0fb4370e80800000000000000
+      internalID: -8212537400356088518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spectral_demise_animation_sprite_sheet_transparent_cleaned_24
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 526
+        width: 236
+        height: 228
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cb71cc635c3b02b0800000000000000
+      internalID: -5617329781209990200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spectral_demise_animation_sprite_sheet_transparent_cleaned_25
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 525
+        width: 236
+        height: 228
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d13f4cbbc6294c120800000000000000
+      internalID: 2433230694391280413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spectral_demise_animation_sprite_sheet_transparent_cleaned_31
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 520
+        width: 236
+        height: 228
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84220559602733be0800000000000000
+      internalID: -1498728878383816120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spectral_demise_animation_sprite_sheet_transparent_cleaned_32
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 511
+        width: 236
+        height: 228
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e4dbed2fdf8e6dc0800000000000000
+      internalID: -3643816859785243416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spectral_demise_animation_sprite_sheet_transparent_cleaned_35
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 509
+        width: 236
+        height: 228
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b71b113b3846f80f0800000000000000
+      internalID: -1112560066129448581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spectral_demise_animation_sprite_sheet_transparent_cleaned_37
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 531
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43db01ae7bc0d9a60800000000000000
+      internalID: 7682310523409448244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spectral_demise_animation_sprite_sheet_transparent_cleaned_40
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 269
+        width: 198
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e436168f831b3db0800000000000000
+      internalID: -4811230269764389658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spectral_demise_animation_sprite_sheet_transparent_cleaned_41
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 277
+        width: 198
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0f9e9362a6b0a9c0800000000000000
+      internalID: -3917930867240034547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spectral_demise_animation_sprite_sheet_transparent_cleaned_42
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 280
+        width: 198
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee650d5b1b2f9eb70800000000000000
+      internalID: 8928934581312181998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spectral_demise_animation_sprite_sheet_transparent_cleaned_44
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 279
+        width: 198
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92eca590b7fcc4ce0800000000000000
+      internalID: -1419531655183675863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spectral_demise_animation_sprite_sheet_transparent_cleaned_45
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 280
+        width: 198
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc97120f13297b2a0800000000000000
+      internalID: -6721743175647397428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spectral_demise_animation_sprite_sheet_transparent_cleaned_46
+      rect:
+        serializedVersion: 2
+        x: 1277
+        y: 279
+        width: 198
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8f2562ca6539a380800000000000000
+      internalID: -8959571251032674418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spectral_demise_animation_sprite_sheet_transparent_cleaned_54
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 22
+        width: 174
+        height: 234
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac5619531ec9ef1f0800000000000000
+      internalID: -1009196775404116534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spectral_demise_animation_sprite_sheet_transparent_cleaned_55
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 22
+        width: 174
+        height: 234
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57455c9ef51f4cb20800000000000000
+      internalID: 3153911033312400501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spectral_demise_animation_sprite_sheet_transparent_cleaned_56
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 32
+        width: 174
+        height: 234
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e13facc8740c36830800000000000000
+      internalID: 4063302702355641118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spectral_demise_animation_sprite_sheet_transparent_cleaned_60
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 31
+        width: 174
+        height: 234
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f26f069f11d40b2a0800000000000000
+      internalID: -6723789504070486481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spectral_demise_animation_sprite_sheet_transparent_cleaned_72
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 29
+        width: 174
+        height: 234
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cb333dff0bfadb10800000000000000
+      internalID: 2007192630038051785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spectral_demise_animation_sprite_sheet_transparent_cleaned_76
+      rect:
+        serializedVersion: 2
+        x: 1284
+        y: 31
+        width: 174
+        height: 234
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c781ba3e09e71e880800000000000000
+      internalID: -8583440254031423364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 449ed8d22ab76da4d8946d22c3490c7b
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      spectral_demise_animation_sprite_sheet_transparent_cleaned_0: 8115788032048135263
+      spectral_demise_animation_sprite_sheet_transparent_cleaned_1: 1184579747685838301
+      spectral_demise_animation_sprite_sheet_transparent_cleaned_10: -6157754008673445999
+      spectral_demise_animation_sprite_sheet_transparent_cleaned_11: 4232222342864204984
+      spectral_demise_animation_sprite_sheet_transparent_cleaned_12: 1946546202264301176
+      spectral_demise_animation_sprite_sheet_transparent_cleaned_13: -128570004194933483
+      spectral_demise_animation_sprite_sheet_transparent_cleaned_14: -4901632369556000708
+      spectral_demise_animation_sprite_sheet_transparent_cleaned_15: 2407259478844757625
+      spectral_demise_animation_sprite_sheet_transparent_cleaned_16: -3718755049314043812
+      spectral_demise_animation_sprite_sheet_transparent_cleaned_17: -9159971155284579155
+      spectral_demise_animation_sprite_sheet_transparent_cleaned_18: 3071728393150070460
+      spectral_demise_animation_sprite_sheet_transparent_cleaned_19: -5863466238552793049
+      spectral_demise_animation_sprite_sheet_transparent_cleaned_2: 3973460264645595375
+      spectral_demise_animation_sprite_sheet_transparent_cleaned_20: -4577348009825589401
+      spectral_demise_animation_sprite_sheet_transparent_cleaned_21: -6419439300141477558
+      spectral_demise_animation_sprite_sheet_transparent_cleaned_22: -3795058000097290189
+      spectral_demise_animation_sprite_sheet_transparent_cleaned_23: -8212537400356088518
+      spectral_demise_animation_sprite_sheet_transparent_cleaned_24: -5617329781209990200
+      spectral_demise_animation_sprite_sheet_transparent_cleaned_25: 2433230694391280413
+      spectral_demise_animation_sprite_sheet_transparent_cleaned_26: -6680972775404297775
+      spectral_demise_animation_sprite_sheet_transparent_cleaned_27: -282030315079725830
+      spectral_demise_animation_sprite_sheet_transparent_cleaned_28: 2721259131545454965
+      spectral_demise_animation_sprite_sheet_transparent_cleaned_29: 7231409156509411614
+      spectral_demise_animation_sprite_sheet_transparent_cleaned_3: -8377194585148705838
+      spectral_demise_animation_sprite_sheet_transparent_cleaned_30: 5515223268717641181
+      spectral_demise_animation_sprite_sheet_transparent_cleaned_31: -1498728878383816120
+      spectral_demise_animation_sprite_sheet_transparent_cleaned_32: -3643816859785243416
+      spectral_demise_animation_sprite_sheet_transparent_cleaned_33: 3892522331814836159
+      spectral_demise_animation_sprite_sheet_transparent_cleaned_34: 6188266660556817668
+      spectral_demise_animation_sprite_sheet_transparent_cleaned_35: -1112560066129448581
+      spectral_demise_animation_sprite_sheet_transparent_cleaned_36: -7786345108158832235
+      spectral_demise_animation_sprite_sheet_transparent_cleaned_37: 7682310523409448244
+      spectral_demise_animation_sprite_sheet_transparent_cleaned_38: -881025560534094742
+      spectral_demise_animation_sprite_sheet_transparent_cleaned_39: 6758725922164777605
+      spectral_demise_animation_sprite_sheet_transparent_cleaned_4: -8810904377776427393
+      spectral_demise_animation_sprite_sheet_transparent_cleaned_40: -4811230269764389658
+      spectral_demise_animation_sprite_sheet_transparent_cleaned_41: -3917930867240034547
+      spectral_demise_animation_sprite_sheet_transparent_cleaned_42: 8928934581312181998
+      spectral_demise_animation_sprite_sheet_transparent_cleaned_43: 192330019789463598
+      spectral_demise_animation_sprite_sheet_transparent_cleaned_44: -1419531655183675863
+      spectral_demise_animation_sprite_sheet_transparent_cleaned_45: -6721743175647397428
+      spectral_demise_animation_sprite_sheet_transparent_cleaned_46: -8959571251032674418
+      spectral_demise_animation_sprite_sheet_transparent_cleaned_47: 1516105749987763794
+      spectral_demise_animation_sprite_sheet_transparent_cleaned_48: -4929829090420061624
+      spectral_demise_animation_sprite_sheet_transparent_cleaned_49: 3130178689083254997
+      spectral_demise_animation_sprite_sheet_transparent_cleaned_5: -4169858220807408433
+      spectral_demise_animation_sprite_sheet_transparent_cleaned_50: 4401948264646045267
+      spectral_demise_animation_sprite_sheet_transparent_cleaned_51: 4241472491257139157
+      spectral_demise_animation_sprite_sheet_transparent_cleaned_52: -6871689189214805017
+      spectral_demise_animation_sprite_sheet_transparent_cleaned_53: 2961088390632499040
+      spectral_demise_animation_sprite_sheet_transparent_cleaned_54: -1009196775404116534
+      spectral_demise_animation_sprite_sheet_transparent_cleaned_55: 3153911033312400501
+      spectral_demise_animation_sprite_sheet_transparent_cleaned_56: 4063302702355641118
+      spectral_demise_animation_sprite_sheet_transparent_cleaned_57: -885795271085218182
+      spectral_demise_animation_sprite_sheet_transparent_cleaned_58: 5198211769032404095
+      spectral_demise_animation_sprite_sheet_transparent_cleaned_59: -5029152162291896509
+      spectral_demise_animation_sprite_sheet_transparent_cleaned_6: -4322037720420915518
+      spectral_demise_animation_sprite_sheet_transparent_cleaned_60: -6723789504070486481
+      spectral_demise_animation_sprite_sheet_transparent_cleaned_61: -6686876885504560228
+      spectral_demise_animation_sprite_sheet_transparent_cleaned_62: 3362726160828132614
+      spectral_demise_animation_sprite_sheet_transparent_cleaned_63: -8041283573317680638
+      spectral_demise_animation_sprite_sheet_transparent_cleaned_64: -4720858826861595993
+      spectral_demise_animation_sprite_sheet_transparent_cleaned_65: 7298416724172272439
+      spectral_demise_animation_sprite_sheet_transparent_cleaned_66: 172764232146827800
+      spectral_demise_animation_sprite_sheet_transparent_cleaned_67: 6090660245736820485
+      spectral_demise_animation_sprite_sheet_transparent_cleaned_68: -5182932299751808844
+      spectral_demise_animation_sprite_sheet_transparent_cleaned_69: 2914144406679514838
+      spectral_demise_animation_sprite_sheet_transparent_cleaned_7: 1402626537541464388
+      spectral_demise_animation_sprite_sheet_transparent_cleaned_70: -6979697625575622810
+      spectral_demise_animation_sprite_sheet_transparent_cleaned_71: 7881626939505314060
+      spectral_demise_animation_sprite_sheet_transparent_cleaned_72: 2007192630038051785
+      spectral_demise_animation_sprite_sheet_transparent_cleaned_73: 7226262775172002107
+      spectral_demise_animation_sprite_sheet_transparent_cleaned_74: 7658694936608368276
+      spectral_demise_animation_sprite_sheet_transparent_cleaned_75: -6200925955404739726
+      spectral_demise_animation_sprite_sheet_transparent_cleaned_76: -8583440254031423364
+      spectral_demise_animation_sprite_sheet_transparent_cleaned_77: -3636879527827744193
+      spectral_demise_animation_sprite_sheet_transparent_cleaned_78: -3088023982498325946
+      spectral_demise_animation_sprite_sheet_transparent_cleaned_79: -2879385073546898883
+      spectral_demise_animation_sprite_sheet_transparent_cleaned_8: -7006763779172468277
+      spectral_demise_animation_sprite_sheet_transparent_cleaned_80: 2211747864834496214
+      spectral_demise_animation_sprite_sheet_transparent_cleaned_81: -4035224729049015737
+      spectral_demise_animation_sprite_sheet_transparent_cleaned_82: -6197692695538931231
+      spectral_demise_animation_sprite_sheet_transparent_cleaned_83: -8745735425165490203
+      spectral_demise_animation_sprite_sheet_transparent_cleaned_84: -8670755257280186659
+      spectral_demise_animation_sprite_sheet_transparent_cleaned_85: 2360771280581109613
+      spectral_demise_animation_sprite_sheet_transparent_cleaned_86: 1393654853419821444
+      spectral_demise_animation_sprite_sheet_transparent_cleaned_87: 3888453816467247597
+      spectral_demise_animation_sprite_sheet_transparent_cleaned_88: -7228534013839774125
+      spectral_demise_animation_sprite_sheet_transparent_cleaned_89: -5707369840325401769
+      spectral_demise_animation_sprite_sheet_transparent_cleaned_9: -6749269818035764311
+      spectral_demise_animation_sprite_sheet_transparent_cleaned_90: 2909362650229635862
+      spectral_demise_animation_sprite_sheet_transparent_cleaned_91: 6334116821852125143
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

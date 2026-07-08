@@ -1,0 +1,5122 @@
+fileFormatVersion: 2
+guid: d7e3d4de134a57948b93cb516e9b8e87
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1009704503010139616
+    second: tank_shield_unity_grid_5x5_256_0
+  - first:
+      213: -4332563058060347284
+    second: tank_shield_unity_grid_5x5_256_1
+  - first:
+      213: -8660182164954263873
+    second: tank_shield_unity_grid_5x5_256_2
+  - first:
+      213: -182451989334485123
+    second: tank_shield_unity_grid_5x5_256_3
+  - first:
+      213: 2008242536899383977
+    second: tank_shield_unity_grid_5x5_256_4
+  - first:
+      213: 8909716090147706229
+    second: tank_shield_unity_grid_5x5_256_5
+  - first:
+      213: -908662909022088216
+    second: tank_shield_unity_grid_5x5_256_6
+  - first:
+      213: -8408012178124359121
+    second: tank_shield_unity_grid_5x5_256_7
+  - first:
+      213: -59659373330954504
+    second: tank_shield_unity_grid_5x5_256_8
+  - first:
+      213: 2962239561692473129
+    second: tank_shield_unity_grid_5x5_256_9
+  - first:
+      213: -212817381923946451
+    second: tank_shield_unity_grid_5x5_256_10
+  - first:
+      213: -4565231295604262639
+    second: tank_shield_unity_grid_5x5_256_11
+  - first:
+      213: -6919928392229568748
+    second: tank_shield_unity_grid_5x5_256_12
+  - first:
+      213: 452507634046233712
+    second: tank_shield_unity_grid_5x5_256_13
+  - first:
+      213: 7789053619703718328
+    second: tank_shield_unity_grid_5x5_256_14
+  - first:
+      213: 9177673462549109045
+    second: tank_shield_unity_grid_5x5_256_15
+  - first:
+      213: 7885176204244555692
+    second: tank_shield_unity_grid_5x5_256_16
+  - first:
+      213: -5188532924911304376
+    second: tank_shield_unity_grid_5x5_256_17
+  - first:
+      213: -1612677827574112053
+    second: tank_shield_unity_grid_5x5_256_18
+  - first:
+      213: -6114931464073441849
+    second: tank_shield_unity_grid_5x5_256_19
+  - first:
+      213: -6538097177997509328
+    second: tank_shield_unity_grid_5x5_256_20
+  - first:
+      213: -7836912082594032439
+    second: tank_shield_unity_grid_5x5_256_21
+  - first:
+      213: -7419694094552309008
+    second: tank_shield_unity_grid_5x5_256_22
+  - first:
+      213: -7440436284509715979
+    second: tank_shield_unity_grid_5x5_256_23
+  - first:
+      213: -2785613947740037877
+    second: tank_shield_unity_grid_5x5_256_24
+  - first:
+      213: 4959443825841105067
+    second: tank_shield_unity_grid_5x5_256_25
+  - first:
+      213: 1966327482480686052
+    second: tank_shield_unity_grid_5x5_256_26
+  - first:
+      213: -8720768505122569815
+    second: tank_shield_unity_grid_5x5_256_27
+  - first:
+      213: -340100928099377226
+    second: tank_shield_unity_grid_5x5_256_28
+  - first:
+      213: 6193143392276778104
+    second: tank_shield_unity_grid_5x5_256_29
+  - first:
+      213: 7144826918268262218
+    second: tank_shield_unity_grid_5x5_256_30
+  - first:
+      213: 3933195870043022570
+    second: tank_shield_unity_grid_5x5_256_31
+  - first:
+      213: 8860477515370525424
+    second: tank_shield_unity_grid_5x5_256_32
+  - first:
+      213: -4305242458888420135
+    second: tank_shield_unity_grid_5x5_256_33
+  - first:
+      213: -4618495450741340692
+    second: tank_shield_unity_grid_5x5_256_34
+  - first:
+      213: 8064102131352224081
+    second: tank_shield_unity_grid_5x5_256_35
+  - first:
+      213: -4376756994076494498
+    second: tank_shield_unity_grid_5x5_256_36
+  - first:
+      213: -753458782269706039
+    second: tank_shield_unity_grid_5x5_256_37
+  - first:
+      213: -1820280223121650348
+    second: tank_shield_unity_grid_5x5_256_38
+  - first:
+      213: 5304143665242497635
+    second: tank_shield_unity_grid_5x5_256_39
+  - first:
+      213: 6858332638294228925
+    second: tank_shield_unity_grid_5x5_256_40
+  - first:
+      213: 6701725247059491792
+    second: tank_shield_unity_grid_5x5_256_41
+  - first:
+      213: 5649976572489424824
+    second: tank_shield_unity_grid_5x5_256_42
+  - first:
+      213: 1946166992460489885
+    second: tank_shield_unity_grid_5x5_256_43
+  - first:
+      213: -994030494000338330
+    second: tank_shield_unity_grid_5x5_256_44
+  - first:
+      213: 5523342151580271135
+    second: tank_shield_unity_grid_5x5_256_45
+  - first:
+      213: -3597798763113198929
+    second: tank_shield_unity_grid_5x5_256_46
+  - first:
+      213: 1899038296526539737
+    second: tank_shield_unity_grid_5x5_256_47
+  - first:
+      213: -8775993907811576855
+    second: tank_shield_unity_grid_5x5_256_48
+  - first:
+      213: 984438474131394199
+    second: tank_shield_unity_grid_5x5_256_49
+  - first:
+      213: 2145913895422658086
+    second: tank_shield_unity_grid_5x5_256_50
+  - first:
+      213: 3474339485036469611
+    second: tank_shield_unity_grid_5x5_256_51
+  - first:
+      213: -4069933388438847428
+    second: tank_shield_unity_grid_5x5_256_52
+  - first:
+      213: -2846802662429856074
+    second: tank_shield_unity_grid_5x5_256_53
+  - first:
+      213: -2786134774773315472
+    second: tank_shield_unity_grid_5x5_256_54
+  - first:
+      213: -4075175767386219838
+    second: tank_shield_unity_grid_5x5_256_55
+  - first:
+      213: 5092622397637022692
+    second: tank_shield_unity_grid_5x5_256_56
+  - first:
+      213: 3150080412356618790
+    second: tank_shield_unity_grid_5x5_256_57
+  - first:
+      213: -8491714562007161575
+    second: tank_shield_unity_grid_5x5_256_58
+  - first:
+      213: -6653285138635818995
+    second: tank_shield_unity_grid_5x5_256_59
+  - first:
+      213: 1558468472810392503
+    second: tank_shield_unity_grid_5x5_256_60
+  - first:
+      213: 4844737190974202065
+    second: tank_shield_unity_grid_5x5_256_61
+  - first:
+      213: -7475961953838830063
+    second: tank_shield_unity_grid_5x5_256_62
+  - first:
+      213: -4195814889291829442
+    second: tank_shield_unity_grid_5x5_256_63
+  - first:
+      213: -6784383352673740133
+    second: tank_shield_unity_grid_5x5_256_64
+  - first:
+      213: 3606514777306262362
+    second: tank_shield_unity_grid_5x5_256_65
+  - first:
+      213: -3148844036786705226
+    second: tank_shield_unity_grid_5x5_256_66
+  - first:
+      213: 6681125693856095164
+    second: tank_shield_unity_grid_5x5_256_67
+  - first:
+      213: -6433174242973444058
+    second: tank_shield_unity_grid_5x5_256_68
+  - first:
+      213: 110052598166759747
+    second: tank_shield_unity_grid_5x5_256_69
+  - first:
+      213: -4030527261699615782
+    second: tank_shield_unity_grid_5x5_256_70
+  - first:
+      213: 7074959131918756794
+    second: tank_shield_unity_grid_5x5_256_71
+  - first:
+      213: 8849228890071445243
+    second: tank_shield_unity_grid_5x5_256_72
+  - first:
+      213: -4025871174603553642
+    second: tank_shield_unity_grid_5x5_256_73
+  - first:
+      213: -1531497619029122089
+    second: tank_shield_unity_grid_5x5_256_74
+  - first:
+      213: 6834641067656724857
+    second: tank_shield_unity_grid_5x5_256_75
+  - first:
+      213: 6423512669970010998
+    second: tank_shield_unity_grid_5x5_256_76
+  - first:
+      213: 836664851626291108
+    second: tank_shield_unity_grid_5x5_256_77
+  - first:
+      213: -4340737255603495319
+    second: tank_shield_unity_grid_5x5_256_78
+  - first:
+      213: -2016459982894111730
+    second: tank_shield_unity_grid_5x5_256_79
+  - first:
+      213: -2963675015930258762
+    second: tank_shield_unity_grid_5x5_256_80
+  - first:
+      213: -604538418753509338
+    second: tank_shield_unity_grid_5x5_256_81
+  - first:
+      213: 759255564359680271
+    second: tank_shield_unity_grid_5x5_256_82
+  - first:
+      213: 4104833816626510107
+    second: tank_shield_unity_grid_5x5_256_83
+  - first:
+      213: -7868257337139955910
+    second: tank_shield_unity_grid_5x5_256_84
+  - first:
+      213: -793626335620716065
+    second: tank_shield_unity_grid_5x5_256_85
+  - first:
+      213: -3884123814088842
+    second: tank_shield_unity_grid_5x5_256_86
+  - first:
+      213: 5559350272164615401
+    second: tank_shield_unity_grid_5x5_256_87
+  - first:
+      213: 8126285113705100416
+    second: tank_shield_unity_grid_5x5_256_88
+  - first:
+      213: 4945577063139345088
+    second: tank_shield_unity_grid_5x5_256_89
+  - first:
+      213: -1041279752246397292
+    second: tank_shield_unity_grid_5x5_256_90
+  - first:
+      213: -1302745451882398987
+    second: tank_shield_unity_grid_5x5_256_91
+  - first:
+      213: -4294911573501190924
+    second: tank_shield_unity_grid_5x5_256_92
+  - first:
+      213: 4128794550251085783
+    second: tank_shield_unity_grid_5x5_256_93
+  - first:
+      213: 129388442644121513
+    second: tank_shield_unity_grid_5x5_256_94
+  - first:
+      213: -4738152547493869916
+    second: tank_shield_unity_grid_5x5_256_95
+  - first:
+      213: 8936915447820406259
+    second: tank_shield_unity_grid_5x5_256_96
+  - first:
+      213: -1970178453560309234
+    second: tank_shield_unity_grid_5x5_256_97
+  - first:
+      213: 1097973875015110207
+    second: tank_shield_unity_grid_5x5_256_98
+  - first:
+      213: -3360184039112557316
+    second: tank_shield_unity_grid_5x5_256_99
+  - first:
+      213: 886545450985365244
+    second: tank_shield_unity_grid_5x5_256_100
+  - first:
+      213: 7180462105014011577
+    second: tank_shield_unity_grid_5x5_256_101
+  - first:
+      213: 5773682580875414954
+    second: tank_shield_unity_grid_5x5_256_102
+  - first:
+      213: 8851745821353153787
+    second: tank_shield_unity_grid_5x5_256_103
+  - first:
+      213: 3352947423558304838
+    second: tank_shield_unity_grid_5x5_256_104
+  - first:
+      213: -4826213757900009689
+    second: tank_shield_unity_grid_5x5_256_105
+  - first:
+      213: 4103678102012855382
+    second: tank_shield_unity_grid_5x5_256_106
+  - first:
+      213: -5117920884655880850
+    second: tank_shield_unity_grid_5x5_256_107
+  - first:
+      213: 5761588895455113332
+    second: tank_shield_unity_grid_5x5_256_108
+  - first:
+      213: 4470327988036519252
+    second: tank_shield_unity_grid_5x5_256_109
+  - first:
+      213: -1844745993923541015
+    second: tank_shield_unity_grid_5x5_256_110
+  - first:
+      213: 7895630734332771465
+    second: tank_shield_unity_grid_5x5_256_111
+  - first:
+      213: 3872573172152734147
+    second: tank_shield_unity_grid_5x5_256_112
+  - first:
+      213: -8316964259307282100
+    second: tank_shield_unity_grid_5x5_256_113
+  - first:
+      213: 1154950128486091572
+    second: tank_shield_unity_grid_5x5_256_114
+  - first:
+      213: -8897802425816961285
+    second: tank_shield_unity_grid_5x5_256_115
+  - first:
+      213: -3310519533084866993
+    second: tank_shield_unity_grid_5x5_256_116
+  - first:
+      213: -593160914936347441
+    second: tank_shield_unity_grid_5x5_256_117
+  - first:
+      213: -4422965017293314432
+    second: tank_shield_unity_grid_5x5_256_118
+  - first:
+      213: 380255810290057922
+    second: tank_shield_unity_grid_5x5_256_119
+  - first:
+      213: -8028699826531646008
+    second: tank_shield_unity_grid_5x5_256_120
+  - first:
+      213: 7775135912203807161
+    second: tank_shield_unity_grid_5x5_256_121
+  - first:
+      213: -8996258380671519190
+    second: tank_shield_unity_grid_5x5_256_122
+  - first:
+      213: -3282030265127968637
+    second: tank_shield_unity_grid_5x5_256_123
+  - first:
+      213: 307290191184906662
+    second: tank_shield_unity_grid_5x5_256_124
+  - first:
+      213: -7691861456837981192
+    second: tank_shield_unity_grid_5x5_256_125
+  - first:
+      213: 1448002122993189823
+    second: tank_shield_unity_grid_5x5_256_126
+  - first:
+      213: -6788267551475995869
+    second: tank_shield_unity_grid_5x5_256_127
+  - first:
+      213: -2334067880827938504
+    second: tank_shield_unity_grid_5x5_256_128
+  - first:
+      213: -5804316075914374810
+    second: tank_shield_unity_grid_5x5_256_129
+  - first:
+      213: 1055436517612801724
+    second: tank_shield_unity_grid_5x5_256_130
+  - first:
+      213: -2733936571230723432
+    second: tank_shield_unity_grid_5x5_256_131
+  - first:
+      213: 3458531422366351968
+    second: tank_shield_unity_grid_5x5_256_132
+  - first:
+      213: 4933478931728317729
+    second: tank_shield_unity_grid_5x5_256_133
+  - first:
+      213: -5963986616308809088
+    second: tank_shield_unity_grid_5x5_256_134
+  - first:
+      213: 7948694327355886738
+    second: tank_shield_unity_grid_5x5_256_135
+  - first:
+      213: -3397473233576171955
+    second: tank_shield_unity_grid_5x5_256_136
+  - first:
+      213: 4859763124944300103
+    second: tank_shield_unity_grid_5x5_256_137
+  - first:
+      213: 1335566889280321037
+    second: tank_shield_unity_grid_5x5_256_138
+  - first:
+      213: -3842078883764187229
+    second: tank_shield_unity_grid_5x5_256_139
+  - first:
+      213: 4276504227241003097
+    second: tank_shield_unity_grid_5x5_256_140
+  - first:
+      213: -1555290941475011937
+    second: tank_shield_unity_grid_5x5_256_141
+  - first:
+      213: 5720626615816755055
+    second: tank_shield_unity_grid_5x5_256_142
+  - first:
+      213: -1136357686726863961
+    second: tank_shield_unity_grid_5x5_256_143
+  - first:
+      213: 2870181760080115261
+    second: tank_shield_unity_grid_5x5_256_144
+  - first:
+      213: 2353865136599306981
+    second: tank_shield_unity_grid_5x5_256_145
+  - first:
+      213: -4200246077970644391
+    second: tank_shield_unity_grid_5x5_256_146
+  - first:
+      213: 4508413160998291737
+    second: tank_shield_unity_grid_5x5_256_147
+  - first:
+      213: 2117709450141697109
+    second: tank_shield_unity_grid_5x5_256_148
+  - first:
+      213: 8036323222814627766
+    second: tank_shield_unity_grid_5x5_256_149
+  - first:
+      213: 3740871980638919732
+    second: tank_shield_unity_grid_5x5_256_150
+  - first:
+      213: 163526103474717644
+    second: tank_shield_unity_grid_5x5_256_151
+  - first:
+      213: -7119126461822999354
+    second: tank_shield_unity_grid_5x5_256_152
+  - first:
+      213: 4116576167675155945
+    second: tank_shield_unity_grid_5x5_256_153
+  - first:
+      213: -2947245269540788955
+    second: tank_shield_unity_grid_5x5_256_154
+  - first:
+      213: -8002624850861947012
+    second: tank_shield_unity_grid_5x5_256_155
+  - first:
+      213: -8390236856403073291
+    second: tank_shield_unity_grid_5x5_256_156
+  - first:
+      213: -4510330909783967643
+    second: tank_shield_unity_grid_5x5_256_157
+  - first:
+      213: 1584352429651852753
+    second: tank_shield_unity_grid_5x5_256_158
+  - first:
+      213: -7913442763985103782
+    second: tank_shield_unity_grid_5x5_256_159
+  - first:
+      213: -5047848845224887574
+    second: tank_shield_unity_grid_5x5_256_160
+  - first:
+      213: -4949298247869909313
+    second: tank_shield_unity_grid_5x5_256_161
+  - first:
+      213: 7588723085167625442
+    second: tank_shield_unity_grid_5x5_256_162
+  - first:
+      213: 1522451340753610848
+    second: tank_shield_unity_grid_5x5_256_163
+  - first:
+      213: -4681978979034739016
+    second: tank_shield_unity_grid_5x5_256_164
+  - first:
+      213: -674217630649778389
+    second: tank_shield_unity_grid_5x5_256_165
+  - first:
+      213: 3504961834003594745
+    second: tank_shield_unity_grid_5x5_256_166
+  - first:
+      213: 393134225034107809
+    second: tank_shield_unity_grid_5x5_256_167
+  - first:
+      213: 3666749861608574871
+    second: tank_shield_unity_grid_5x5_256_168
+  - first:
+      213: -2963415933509678379
+    second: tank_shield_unity_grid_5x5_256_169
+  - first:
+      213: 281323573679684240
+    second: tank_shield_unity_grid_5x5_256_170
+  - first:
+      213: -784229808064400678
+    second: tank_shield_unity_grid_5x5_256_171
+  - first:
+      213: -3339629301555857299
+    second: tank_shield_unity_grid_5x5_256_172
+  - first:
+      213: -6305350450163885424
+    second: tank_shield_unity_grid_5x5_256_173
+  - first:
+      213: -3655398634197171823
+    second: tank_shield_unity_grid_5x5_256_174
+  - first:
+      213: 2716834174712358005
+    second: tank_shield_unity_grid_5x5_256_175
+  - first:
+      213: 5857202923599540348
+    second: tank_shield_unity_grid_5x5_256_176
+  - first:
+      213: 3798732446153565680
+    second: tank_shield_unity_grid_5x5_256_177
+  - first:
+      213: -2899507531195466106
+    second: tank_shield_unity_grid_5x5_256_178
+  - first:
+      213: -1922089597366626423
+    second: tank_shield_unity_grid_5x5_256_179
+  - first:
+      213: 7513547426887321192
+    second: tank_shield_unity_grid_5x5_256_180
+  - first:
+      213: -8265337753187905659
+    second: tank_shield_unity_grid_5x5_256_181
+  - first:
+      213: -3945295288133702714
+    second: tank_shield_unity_grid_5x5_256_182
+  - first:
+      213: -6673353677450771622
+    second: tank_shield_unity_grid_5x5_256_183
+  - first:
+      213: 9151739620068537021
+    second: tank_shield_unity_grid_5x5_256_184
+  - first:
+      213: 203675553867968034
+    second: tank_shield_unity_grid_5x5_256_185
+  - first:
+      213: 7342978810052221620
+    second: tank_shield_unity_grid_5x5_256_186
+  - first:
+      213: 4106643515221857954
+    second: tank_shield_unity_grid_5x5_256_187
+  - first:
+      213: -3347513666230084899
+    second: tank_shield_unity_grid_5x5_256_188
+  - first:
+      213: 937175201330834994
+    second: tank_shield_unity_grid_5x5_256_189
+  - first:
+      213: -5111998418268248140
+    second: tank_shield_unity_grid_5x5_256_190
+  - first:
+      213: -3949243094300479617
+    second: tank_shield_unity_grid_5x5_256_191
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tank_shield_unity_grid_5x5_256_0
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 1198
+        width: 27
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 022e7f9aa1fccf1f0800000000000000
+      internalID: -1009704503010139616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_shield_unity_grid_5x5_256_1
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1205
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6835558ad4afd3c0800000000000000
+      internalID: -4332563058060347284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_shield_unity_grid_5x5_256_2
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 1213
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbe4abf543ad0d780800000000000000
+      internalID: -8660182164954263873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_shield_unity_grid_5x5_256_3
+      rect:
+        serializedVersion: 2
+        x: 1069
+        y: 1208
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d779723e1ecc77df0800000000000000
+      internalID: -182451989334485123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_shield_unity_grid_5x5_256_4
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 1040
+        width: 159
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a297ba72f5bedb10800000000000000
+      internalID: 2008242536899383977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_shield_unity_grid_5x5_256_5
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1189
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57516da049ba5ab70800000000000000
+      internalID: 8909716090147706229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_shield_unity_grid_5x5_256_6
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 1041
+        width: 156
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e35a2706e7c363f0800000000000000
+      internalID: -908662909022088216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_shield_unity_grid_5x5_256_7
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 1042
+        width: 180
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2a3db7b87db05b80800000000000000
+      internalID: -8408012178124359121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_shield_unity_grid_5x5_256_8
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 1035
+        width: 137
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f60615bd1c0c2ff0800000000000000
+      internalID: -59659373330954504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_shield_unity_grid_5x5_256_9
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 1174
+        width: 14
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 927e94ecf2dfb1920800000000000000
+      internalID: 2962239561692473129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_shield_unity_grid_5x5_256_10
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 1168
+        width: 9
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d20056cf7bbeb0df0800000000000000
+      internalID: -212817381923946451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_shield_unity_grid_5x5_256_11
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 1041
+        width: 108
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 119f204035a05a0c0800000000000000
+      internalID: -4565231295604262639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_shield_unity_grid_5x5_256_12
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 1101
+        width: 28
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41f34066ac977ff90800000000000000
+      internalID: -6919928392229568748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_shield_unity_grid_5x5_256_13
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 1085
+        width: 28
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07c6a71bb41a74600800000000000000
+      internalID: 452507634046233712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_shield_unity_grid_5x5_256_14
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 1038
+        width: 44
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b129eabff6481c60800000000000000
+      internalID: 7789053619703718328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_shield_unity_grid_5x5_256_15
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 1145
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 539d4c78365ad5f70800000000000000
+      internalID: 9177673462549109045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_shield_unity_grid_5x5_256_16
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 1044
+        width: 67
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca71c55faf5cd6d60800000000000000
+      internalID: 7885176204244555692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_shield_unity_grid_5x5_256_17
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 1039
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8414e397bc0aef7b0800000000000000
+      internalID: -5188532924911304376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_shield_unity_grid_5x5_256_18
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 1039
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc0eb466f0e9e99e0800000000000000
+      internalID: -1612677827574112053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_shield_unity_grid_5x5_256_19
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 1039
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cd0b025b36632ba0800000000000000
+      internalID: -6114931464073441849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_shield_unity_grid_5x5_256_20
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 1041
+        width: 12
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03d7976c1430445a0800000000000000
+      internalID: -6538097177997509328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_shield_unity_grid_5x5_256_21
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 1039
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c4140d8bf1bd3390800000000000000
+      internalID: -7836912082594032439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_shield_unity_grid_5x5_256_22
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 944
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f265204883f70990800000000000000
+      internalID: -7419694094552309008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_shield_unity_grid_5x5_256_23
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 935
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f10fdfce924eb890800000000000000
+      internalID: -7440436284509715979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_shield_unity_grid_5x5_256_24
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 801
+        width: 151
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0dd4939fd28759d0800000000000000
+      internalID: -2785613947740037877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_shield_unity_grid_5x5_256_25
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 948
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba863c222eb73d440800000000000000
+      internalID: 4959443825841105067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_shield_unity_grid_5x5_256_26
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 807
+        width: 186
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e379516d6cc94b10800000000000000
+      internalID: 1966327482480686052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_shield_unity_grid_5x5_256_27
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 943
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a141cbcf3b99f680800000000000000
+      internalID: -8720768505122569815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_shield_unity_grid_5x5_256_28
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 944
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bf1bd00208b74bf0800000000000000
+      internalID: -340100928099377226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_shield_unity_grid_5x5_256_29
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 941
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87c07b34a1772f550800000000000000
+      internalID: 6193143392276778104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_shield_unity_grid_5x5_256_30
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 798
+        width: 146
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a47570d2a36872360800000000000000
+      internalID: 7144826918268262218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_shield_unity_grid_5x5_256_31
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 941
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae4a2f90ec4859630800000000000000
+      internalID: 3933195870043022570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_shield_unity_grid_5x5_256_32
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 950
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f2fefbfa5db6fa70800000000000000
+      internalID: 8860477515370525424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_shield_unity_grid_5x5_256_33
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 801
+        width: 184
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d4c6063bc4b044c0800000000000000
+      internalID: -4305242458888420135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_shield_unity_grid_5x5_256_34
+      rect:
+        serializedVersion: 2
+        x: 1132
+        y: 938
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce50ecd7bdec7efb0800000000000000
+      internalID: -4618495450741340692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_shield_unity_grid_5x5_256_35
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 919
+        width: 40
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15148bbb92279ef60800000000000000
+      internalID: 8064102131352224081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_shield_unity_grid_5x5_256_36
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 907
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e553dd3f3b2a243c0800000000000000
+      internalID: -4376756994076494498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_shield_unity_grid_5x5_256_37
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 798
+        width: 166
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c07ae1ca3d2b85f0800000000000000
+      internalID: -753458782269706039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_shield_unity_grid_5x5_256_38
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 864
+        width: 34
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45d4a2508c01db6e0800000000000000
+      internalID: -1820280223121650348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_shield_unity_grid_5x5_256_39
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 852
+        width: 20
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 362ea6c9f8a1c9940800000000000000
+      internalID: 5304143665242497635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_shield_unity_grid_5x5_256_40
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 898
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbfbef09231bd2f50800000000000000
+      internalID: 6858332638294228925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_shield_unity_grid_5x5_256_41
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 897
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0db7f3dda9f410d50800000000000000
+      internalID: 6701725247059491792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_shield_unity_grid_5x5_256_42
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 884
+        width: 45
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bfd28002cfb86e40800000000000000
+      internalID: 5649976572489424824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_shield_unity_grid_5x5_256_43
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 883
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d94a233819c220b10800000000000000
+      internalID: 1946166992460489885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_shield_unity_grid_5x5_256_44
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 872
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66a2435488e7432f0800000000000000
+      internalID: -994030494000338330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_shield_unity_grid_5x5_256_45
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 833
+        width: 31
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1242e54c6ad6ac40800000000000000
+      internalID: 5523342151580271135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_shield_unity_grid_5x5_256_46
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 852
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faa4c4f361d021ec0800000000000000
+      internalID: -3597798763113198929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_shield_unity_grid_5x5_256_47
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 865
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dbc357e44dba5a10800000000000000
+      internalID: 1899038296526539737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_shield_unity_grid_5x5_256_48
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 845
+        width: 39
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e316edb908653680800000000000000
+      internalID: -8775993907811576855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_shield_unity_grid_5x5_256_49
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 836
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79e44d1939d69ad00800000000000000
+      internalID: 984438474131394199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_shield_unity_grid_5x5_256_50
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 833
+        width: 24
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6260e3f7151d7cd10800000000000000
+      internalID: 2145913895422658086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_shield_unity_grid_5x5_256_51
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 798
+        width: 49
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6d56b29a55573030800000000000000
+      internalID: 3474339485036469611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_shield_unity_grid_5x5_256_52
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 794
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c30c99a8521b487c0800000000000000
+      internalID: -4069933388438847428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_shield_unity_grid_5x5_256_53
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 798
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6be6b30cf002e78d0800000000000000
+      internalID: -2846802662429856074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_shield_unity_grid_5x5_256_54
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 798
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07806451f29a559d0800000000000000
+      internalID: -2786134774773315472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_shield_unity_grid_5x5_256_55
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 791
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ca1aa31b311277c0800000000000000
+      internalID: -4075175767386219838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_shield_unity_grid_5x5_256_56
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 799
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e35a5ab611aca640800000000000000
+      internalID: 5092622397637022692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_shield_unity_grid_5x5_256_57
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 801
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62aae68f17557bb20800000000000000
+      internalID: 3150080412356618790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_shield_unity_grid_5x5_256_58
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 805
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9152d8dc89e572a80800000000000000
+      internalID: -8491714562007161575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_shield_unity_grid_5x5_256_59
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 798
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d08f932ca68caa3a0800000000000000
+      internalID: -6653285138635818995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_shield_unity_grid_5x5_256_60
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 799
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bb4283a1dac0a510800000000000000
+      internalID: 1558468472810392503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_shield_unity_grid_5x5_256_61
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 702
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d024228ec6fb3340800000000000000
+      internalID: 4844737190974202065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_shield_unity_grid_5x5_256_62
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 536
+        width: 195
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11ee91b563c004890800000000000000
+      internalID: -7475961953838830063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_shield_unity_grid_5x5_256_63
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 704
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3f277ca69875c5c0800000000000000
+      internalID: -4195814889291829442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_shield_unity_grid_5x5_256_64
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 693
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9adec3394709d1a0800000000000000
+      internalID: -6784383352673740133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_shield_unity_grid_5x5_256_65
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 696
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5b6982f41aec0230800000000000000
+      internalID: 3606514777306262362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_shield_unity_grid_5x5_256_66
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 521
+        width: 206
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bca836280f0d44d0800000000000000
+      internalID: -3148844036786705226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_shield_unity_grid_5x5_256_67
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 514
+        width: 202
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbb1702ab6028bc50800000000000000
+      internalID: 6681125693856095164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_shield_unity_grid_5x5_256_68
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 508
+        width: 197
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62810654c16c8b6a0800000000000000
+      internalID: -6433174242973444058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_shield_unity_grid_5x5_256_69
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 542
+        width: 190
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 349a654414cf68100800000000000000
+      internalID: 110052598166759747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_shield_unity_grid_5x5_256_70
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 669
+        width: 13
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad3ddd46fc0b018c0800000000000000
+      internalID: -4030527261699615782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_shield_unity_grid_5x5_256_71
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 687
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abb6c6288dd4f2260800000000000000
+      internalID: 7074959131918756794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_shield_unity_grid_5x5_256_72
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 539
+        width: 59
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfe25d05ac6ceca70800000000000000
+      internalID: 8849228890071445243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_shield_unity_grid_5x5_256_73
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 665
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69445462f7b3128c0800000000000000
+      internalID: -4025871174603553642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_shield_unity_grid_5x5_256_74
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 641
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d3a96b97070fbae0800000000000000
+      internalID: -1531497619029122089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_shield_unity_grid_5x5_256_75
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 642
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 971c9fce6d589de50800000000000000
+      internalID: 6834641067656724857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_shield_unity_grid_5x5_256_76
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 628
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67398c77db6e42950800000000000000
+      internalID: 6423512669970010998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_shield_unity_grid_5x5_256_77
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 631
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4af6d3def3e6c9b00800000000000000
+      internalID: 836664851626291108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_shield_unity_grid_5x5_256_78
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 614
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96e1378d67a92c3c0800000000000000
+      internalID: -4340737255603495319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_shield_unity_grid_5x5_256_79
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 605
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e046ec744581404e0800000000000000
+      internalID: -2016459982894111730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_shield_unity_grid_5x5_256_80
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 606
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bad6c57649eed6d0800000000000000
+      internalID: -2963675015930258762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_shield_unity_grid_5x5_256_81
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 605
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 628ee19d28f3c97f0800000000000000
+      internalID: -604538418753509338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_shield_unity_grid_5x5_256_82
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 605
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f01c56fb9ea698a00800000000000000
+      internalID: 759255564359680271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_shield_unity_grid_5x5_256_83
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 595
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b19b80e9b9c47f830800000000000000
+      internalID: 4104833816626510107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_shield_unity_grid_5x5_256_84
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 602
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a377962c3a55ec290800000000000000
+      internalID: -7868257337139955910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_shield_unity_grid_5x5_256_85
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 586
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd9aee47d097cf4f0800000000000000
+      internalID: -793626335620716065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_shield_unity_grid_5x5_256_86
+      rect:
+        serializedVersion: 2
+        x: 1203
+        y: 561
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67f2cc3f86332fff0800000000000000
+      internalID: -3884123814088842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_shield_unity_grid_5x5_256_87
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 540
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e4d75a2e97c62d40800000000000000
+      internalID: 5559350272164615401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_shield_unity_grid_5x5_256_88
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 447
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 084ffe9814d56c070800000000000000
+      internalID: 8126285113705100416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_shield_unity_grid_5x5_256_89
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 434
+        width: 9
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c28db9d22832a440800000000000000
+      internalID: 4945577063139345088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_shield_unity_grid_5x5_256_90
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 258
+        width: 224
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 496fb8f0591ac81f0800000000000000
+      internalID: -1041279752246397292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_shield_unity_grid_5x5_256_91
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 470
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fa3bcbe9e7bbede0800000000000000
+      internalID: -1302745451882398987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_shield_unity_grid_5x5_256_92
+      rect:
+        serializedVersion: 2
+        x: 1129
+        y: 477
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fc5fb7eda86564c0800000000000000
+      internalID: -4294911573501190924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_shield_unity_grid_5x5_256_93
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 471
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dfd846a4cc6c4930800000000000000
+      internalID: 4128794550251085783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_shield_unity_grid_5x5_256_94
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 443
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a708d16a1eabc100800000000000000
+      internalID: 129388442644121513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_shield_unity_grid_5x5_256_95
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 463
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a60403ac53be3eb0800000000000000
+      internalID: -4738152547493869916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_shield_unity_grid_5x5_256_96
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 460
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fd490fff3d460c70800000000000000
+      internalID: 8936915447820406259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_shield_unity_grid_5x5_256_97
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 445
+        width: 40
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0ac86b822588a4e0800000000000000
+      internalID: -1970178453560309234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_shield_unity_grid_5x5_256_98
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 464
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3e4fe80c69cc3f00800000000000000
+      internalID: 1097973875015110207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_shield_unity_grid_5x5_256_99
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 448
+        width: 28
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfc32c06b6a3e51d0800000000000000
+      internalID: -3360184039112557316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_shield_unity_grid_5x5_256_100
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 260
+        width: 167
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfe983bf364ad4c00800000000000000
+      internalID: 886545450985365244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_shield_unity_grid_5x5_256_101
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 459
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b68384ad3026a360800000000000000
+      internalID: 7180462105014011577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_shield_unity_grid_5x5_256_102
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 258
+        width: 195
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aad80fe87bd302050800000000000000
+      internalID: 5773682580875414954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_shield_unity_grid_5x5_256_103
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 252
+        width: 163
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf49dcb0de7b7da70800000000000000
+      internalID: 8851745821353153787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_shield_unity_grid_5x5_256_104
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 447
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64401c3caef088e20800000000000000
+      internalID: 3352947423558304838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_shield_unity_grid_5x5_256_105
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 428
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72f44465828d50db0800000000000000
+      internalID: -4826213757900009689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_shield_unity_grid_5x5_256_106
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 262
+        width: 121
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6548607dd7133f830800000000000000
+      internalID: 4103678102012855382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_shield_unity_grid_5x5_256_107
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 450
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e658881421e79f8b0800000000000000
+      internalID: -5117920884655880850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_shield_unity_grid_5x5_256_108
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 438
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 470ff6ff29645ff40800000000000000
+      internalID: 5761588895455113332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_shield_unity_grid_5x5_256_109
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 418
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 455476cce9bc90e30800000000000000
+      internalID: 4470327988036519252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_shield_unity_grid_5x5_256_110
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 424
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e7cc5bda452666e0800000000000000
+      internalID: -1844745993923541015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_shield_unity_grid_5x5_256_111
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 419
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98cbf8de15ae29d60800000000000000
+      internalID: 7895630734332771465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_shield_unity_grid_5x5_256_112
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 260
+        width: 54
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c11fd448c42eb530800000000000000
+      internalID: 3872573172152734147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_shield_unity_grid_5x5_256_113
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 289
+        width: 44
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c41ae524215349c80800000000000000
+      internalID: -8316964259307282100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_shield_unity_grid_5x5_256_114
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 425
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43b84bdc505370010800000000000000
+      internalID: 1154950128486091572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_shield_unity_grid_5x5_256_115
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 389
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfe229716d7a48480800000000000000
+      internalID: -8897802425816961285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_shield_unity_grid_5x5_256_116
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 405
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f460c78460cae02d0800000000000000
+      internalID: -3310519533084866993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_shield_unity_grid_5x5_256_117
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 401
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc4c2926a4ba4c7f0800000000000000
+      internalID: -593160914936347441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_shield_unity_grid_5x5_256_118
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 317
+        width: 30
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 086a04a20c87e92c0800000000000000
+      internalID: -4422965017293314432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_shield_unity_grid_5x5_256_119
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 395
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c20e1015a0f64500800000000000000
+      internalID: 380255810290057922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_shield_unity_grid_5x5_256_120
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 321
+        width: 21
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c5475fab04549090800000000000000
+      internalID: -8028699826531646008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_shield_unity_grid_5x5_256_121
+      rect:
+        serializedVersion: 2
+        x: 1239
+        y: 393
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b96a4feae4d6eb60800000000000000
+      internalID: 7775135912203807161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_shield_unity_grid_5x5_256_122
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 367
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a267170caaed62380800000000000000
+      internalID: -8996258380671519190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_shield_unity_grid_5x5_256_123
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 359
+        width: 11
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38067f0ecd2e372d0800000000000000
+      internalID: -3282030265127968637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_shield_unity_grid_5x5_256_124
+      rect:
+        serializedVersion: 2
+        x: 1240
+        y: 370
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a9c9800dc6b34400800000000000000
+      internalID: 307290191184906662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_shield_unity_grid_5x5_256_125
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 361
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fb47ab12c4014590800000000000000
+      internalID: -7691861456837981192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_shield_unity_grid_5x5_256_126
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 320
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb3450f4246581410800000000000000
+      internalID: 1448002122993189823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_shield_unity_grid_5x5_256_127
+      rect:
+        serializedVersion: 2
+        x: 1243
+        y: 330
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32b66f1b0aa3bc1a0800000000000000
+      internalID: -6788267551475995869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_shield_unity_grid_5x5_256_128
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 320
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8391a99f0a9bb9fd0800000000000000
+      internalID: -2334067880827938504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_shield_unity_grid_5x5_256_129
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 318
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 661d803184de27fa0800000000000000
+      internalID: -5804316075914374810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_shield_unity_grid_5x5_256_130
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 281
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbe494bbbe9a5ae00800000000000000
+      internalID: 1055436517612801724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_shield_unity_grid_5x5_256_131
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 276
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 892e7596c2b1f0ad0800000000000000
+      internalID: -2733936571230723432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_shield_unity_grid_5x5_256_132
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 296
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0624caa210c2fff20800000000000000
+      internalID: 3458531422366351968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_shield_unity_grid_5x5_256_133
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 284
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12d3a8023fc377440800000000000000
+      internalID: 4933478931728317729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_shield_unity_grid_5x5_256_134
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 280
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 082cab165c9ab3da0800000000000000
+      internalID: -5963986616308809088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_shield_unity_grid_5x5_256_135
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 283
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29cc532706f6f4e60800000000000000
+      internalID: 7948694327355886738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_shield_unity_grid_5x5_256_136
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 260
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d466bca3810c9d0d0800000000000000
+      internalID: -3397473233576171955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_shield_unity_grid_5x5_256_137
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 252
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 748e8d260d8517340800000000000000
+      internalID: 4859763124944300103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_shield_unity_grid_5x5_256_138
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 260
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d06b3597203e88210800000000000000
+      internalID: 1335566889280321037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_shield_unity_grid_5x5_256_139
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 239
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3afc4368c913eaac0800000000000000
+      internalID: -3842078883764187229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_shield_unity_grid_5x5_256_140
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 246
+        width: 77
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9580821dfe1395b30800000000000000
+      internalID: 4276504227241003097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_shield_unity_grid_5x5_256_141
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 240
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f92cff6012f7a6ae0800000000000000
+      internalID: -1555290941475011937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_shield_unity_grid_5x5_256_142
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 239
+        width: 105
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f671760199fb36f40800000000000000
+      internalID: 5720626615816755055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_shield_unity_grid_5x5_256_143
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 245
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a35cd064b8da30f0800000000000000
+      internalID: -1136357686726863961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_shield_unity_grid_5x5_256_144
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 244
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d36716a9a1fe4d720800000000000000
+      internalID: 2870181760080115261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_shield_unity_grid_5x5_256_145
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 232
+        width: 130
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e29d24dedb9aa020800000000000000
+      internalID: 2353865136599306981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_shield_unity_grid_5x5_256_146
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 246
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9520559227ab5b5c0800000000000000
+      internalID: -4200246077970644391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_shield_unity_grid_5x5_256_147
+      rect:
+        serializedVersion: 2
+        x: 1203
+        y: 245
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 919cff122e9119e30800000000000000
+      internalID: 4508413160998291737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_shield_unity_grid_5x5_256_148
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 233
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5540f29568d936d10800000000000000
+      internalID: 2117709450141697109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_shield_unity_grid_5x5_256_149
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 228
+        width: 28
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b796149461c68f60800000000000000
+      internalID: 8036323222814627766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_shield_unity_grid_5x5_256_150
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 236
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43cd1341f3f3ae330800000000000000
+      internalID: 3740871980638919732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_shield_unity_grid_5x5_256_151
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 233
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc34d1def16f44200800000000000000
+      internalID: 163526103474717644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_shield_unity_grid_5x5_256_152
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 230
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c4e4f3a338c33d90800000000000000
+      internalID: -7119126461822999354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_shield_unity_grid_5x5_256_153
+      rect:
+        serializedVersion: 2
+        x: 1163
+        y: 228
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e5dd15c634012930800000000000000
+      internalID: 4116576167675155945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_shield_unity_grid_5x5_256_154
+      rect:
+        serializedVersion: 2
+        x: 1091
+        y: 226
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5252213ea084917d0800000000000000
+      internalID: -2947245269540788955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_shield_unity_grid_5x5_256_155
+      rect:
+        serializedVersion: 2
+        x: 1132
+        y: 224
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7709ad0917f0f090800000000000000
+      internalID: -8002624850861947012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_shield_unity_grid_5x5_256_156
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 44
+        width: 147
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f664b05804ef8b80800000000000000
+      internalID: -8390236856403073291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_shield_unity_grid_5x5_256_157
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 171
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 568bcde2fe51861c0800000000000000
+      internalID: -4510330909783967643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_shield_unity_grid_5x5_256_158
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 187
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ddfc68f320ccf510800000000000000
+      internalID: 1584352429651852753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_shield_unity_grid_5x5_256_159
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 188
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a54584ebbbdcd2290800000000000000
+      internalID: -7913442763985103782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_shield_unity_grid_5x5_256_160
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 42
+        width: 143
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aea318c483072f9b0800000000000000
+      internalID: -5047848845224887574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_shield_unity_grid_5x5_256_161
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 125
+        width: 29
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb63040577f805bb0800000000000000
+      internalID: -4949298247869909313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_shield_unity_grid_5x5_256_162
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 44
+        width: 163
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e4093e607f805960800000000000000
+      internalID: 7588723085167625442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_shield_unity_grid_5x5_256_163
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 44
+        width: 159
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 068af699d65d02510800000000000000
+      internalID: 1522451340753610848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_shield_unity_grid_5x5_256_164
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 187
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bec9ccbce4460fb0800000000000000
+      internalID: -4681978979034739016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_shield_unity_grid_5x5_256_165
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 178
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2f70d713a2b4a6f0800000000000000
+      internalID: -674217630649778389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_shield_unity_grid_5x5_256_166
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 184
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fdf51bc73024a030800000000000000
+      internalID: 3504961834003594745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_shield_unity_grid_5x5_256_167
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 122
+        width: 30
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1abd438ae71b47500800000000000000
+      internalID: 393134225034107809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_shield_unity_grid_5x5_256_168
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 125
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79f44656299e2e230800000000000000
+      internalID: 3666749861608574871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_shield_unity_grid_5x5_256_169
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 168
+        width: 25
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5da4c69c8e4dfd6d0800000000000000
+      internalID: -2963415933509678379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_shield_unity_grid_5x5_256_170
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 41
+        width: 136
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09afe1cbc4677e300800000000000000
+      internalID: 281323573679684240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_shield_unity_grid_5x5_256_171
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 108
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad27c04052bdd15f0800000000000000
+      internalID: -784229808064400678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_shield_unity_grid_5x5_256_172
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 158
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d68f64728d047a1d0800000000000000
+      internalID: -3339629301555857299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_shield_unity_grid_5x5_256_173
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 152
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09ad1a93c25ee78a0800000000000000
+      internalID: -6305350450163885424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_shield_unity_grid_5x5_256_174
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 53
+        width: 19
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 191ca303f4a654dc0800000000000000
+      internalID: -3655398634197171823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_shield_unity_grid_5x5_256_175
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 152
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5742f59994224b520800000000000000
+      internalID: 2716834174712358005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_shield_unity_grid_5x5_256_176
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 46
+        width: 23
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c70b786b607f84150800000000000000
+      internalID: 5857202923599540348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_shield_unity_grid_5x5_256_177
+      rect:
+        serializedVersion: 2
+        x: 1210
+        y: 152
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f5ebb1880fc7b430800000000000000
+      internalID: 3798732446153565680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_shield_unity_grid_5x5_256_178
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 66
+        width: 12
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68e368b3341e2c7d0800000000000000
+      internalID: -2899507531195466106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_shield_unity_grid_5x5_256_179
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 138
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9871d72e1bd5355e0800000000000000
+      internalID: -1922089597366626423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_shield_unity_grid_5x5_256_180
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 78
+        width: 29
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8664ba6839b754860800000000000000
+      internalID: 7513547426887321192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_shield_unity_grid_5x5_256_181
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 129
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58f0c98ea1f9b4d80800000000000000
+      internalID: -8265337753187905659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_shield_unity_grid_5x5_256_182
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 55
+        width: 16
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cba4c8a6de7f39c0800000000000000
+      internalID: -3945295288133702714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_shield_unity_grid_5x5_256_183
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 91
+        width: 29
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a530003ff2c7363a0800000000000000
+      internalID: -6673353677450771622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_shield_unity_grid_5x5_256_184
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 139
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db2bd0b42b2810f70800000000000000
+      internalID: 9151739620068537021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_shield_unity_grid_5x5_256_185
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 98
+        width: 32
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22e2bbd46d993d200800000000000000
+      internalID: 203675553867968034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_shield_unity_grid_5x5_256_186
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 122
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ba126ea25087e560800000000000000
+      internalID: 7342978810052221620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_shield_unity_grid_5x5_256_187
+      rect:
+        serializedVersion: 2
+        x: 1208
+        y: 129
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a6d5f7e48abdf830800000000000000
+      internalID: 4106643515221857954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_shield_unity_grid_5x5_256_188
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 115
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dda17937e0e3b81d0800000000000000
+      internalID: -3347513666230084899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_shield_unity_grid_5x5_256_189
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 43
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23e21a751e3810d00800000000000000
+      internalID: 937175201330834994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_shield_unity_grid_5x5_256_190
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 43
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b723cae5888e09b0800000000000000
+      internalID: -5111998418268248140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_shield_unity_grid_5x5_256_191
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 43
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7f2e8864587139c0800000000000000
+      internalID: -3949243094300479617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      tank_shield_unity_grid_5x5_256_0: -1009704503010139616
+      tank_shield_unity_grid_5x5_256_1: -4332563058060347284
+      tank_shield_unity_grid_5x5_256_10: -212817381923946451
+      tank_shield_unity_grid_5x5_256_100: 886545450985365244
+      tank_shield_unity_grid_5x5_256_101: 7180462105014011577
+      tank_shield_unity_grid_5x5_256_102: 5773682580875414954
+      tank_shield_unity_grid_5x5_256_103: 8851745821353153787
+      tank_shield_unity_grid_5x5_256_104: 3352947423558304838
+      tank_shield_unity_grid_5x5_256_105: -4826213757900009689
+      tank_shield_unity_grid_5x5_256_106: 4103678102012855382
+      tank_shield_unity_grid_5x5_256_107: -5117920884655880850
+      tank_shield_unity_grid_5x5_256_108: 5761588895455113332
+      tank_shield_unity_grid_5x5_256_109: 4470327988036519252
+      tank_shield_unity_grid_5x5_256_11: -4565231295604262639
+      tank_shield_unity_grid_5x5_256_110: -1844745993923541015
+      tank_shield_unity_grid_5x5_256_111: 7895630734332771465
+      tank_shield_unity_grid_5x5_256_112: 3872573172152734147
+      tank_shield_unity_grid_5x5_256_113: -8316964259307282100
+      tank_shield_unity_grid_5x5_256_114: 1154950128486091572
+      tank_shield_unity_grid_5x5_256_115: -8897802425816961285
+      tank_shield_unity_grid_5x5_256_116: -3310519533084866993
+      tank_shield_unity_grid_5x5_256_117: -593160914936347441
+      tank_shield_unity_grid_5x5_256_118: -4422965017293314432
+      tank_shield_unity_grid_5x5_256_119: 380255810290057922
+      tank_shield_unity_grid_5x5_256_12: -6919928392229568748
+      tank_shield_unity_grid_5x5_256_120: -8028699826531646008
+      tank_shield_unity_grid_5x5_256_121: 7775135912203807161
+      tank_shield_unity_grid_5x5_256_122: -8996258380671519190
+      tank_shield_unity_grid_5x5_256_123: -3282030265127968637
+      tank_shield_unity_grid_5x5_256_124: 307290191184906662
+      tank_shield_unity_grid_5x5_256_125: -7691861456837981192
+      tank_shield_unity_grid_5x5_256_126: 1448002122993189823
+      tank_shield_unity_grid_5x5_256_127: -6788267551475995869
+      tank_shield_unity_grid_5x5_256_128: -2334067880827938504
+      tank_shield_unity_grid_5x5_256_129: -5804316075914374810
+      tank_shield_unity_grid_5x5_256_13: 452507634046233712
+      tank_shield_unity_grid_5x5_256_130: 1055436517612801724
+      tank_shield_unity_grid_5x5_256_131: -2733936571230723432
+      tank_shield_unity_grid_5x5_256_132: 3458531422366351968
+      tank_shield_unity_grid_5x5_256_133: 4933478931728317729
+      tank_shield_unity_grid_5x5_256_134: -5963986616308809088
+      tank_shield_unity_grid_5x5_256_135: 7948694327355886738
+      tank_shield_unity_grid_5x5_256_136: -3397473233576171955
+      tank_shield_unity_grid_5x5_256_137: 4859763124944300103
+      tank_shield_unity_grid_5x5_256_138: 1335566889280321037
+      tank_shield_unity_grid_5x5_256_139: -3842078883764187229
+      tank_shield_unity_grid_5x5_256_14: 7789053619703718328
+      tank_shield_unity_grid_5x5_256_140: 4276504227241003097
+      tank_shield_unity_grid_5x5_256_141: -1555290941475011937
+      tank_shield_unity_grid_5x5_256_142: 5720626615816755055
+      tank_shield_unity_grid_5x5_256_143: -1136357686726863961
+      tank_shield_unity_grid_5x5_256_144: 2870181760080115261
+      tank_shield_unity_grid_5x5_256_145: 2353865136599306981
+      tank_shield_unity_grid_5x5_256_146: -4200246077970644391
+      tank_shield_unity_grid_5x5_256_147: 4508413160998291737
+      tank_shield_unity_grid_5x5_256_148: 2117709450141697109
+      tank_shield_unity_grid_5x5_256_149: 8036323222814627766
+      tank_shield_unity_grid_5x5_256_15: 9177673462549109045
+      tank_shield_unity_grid_5x5_256_150: 3740871980638919732
+      tank_shield_unity_grid_5x5_256_151: 163526103474717644
+      tank_shield_unity_grid_5x5_256_152: -7119126461822999354
+      tank_shield_unity_grid_5x5_256_153: 4116576167675155945
+      tank_shield_unity_grid_5x5_256_154: -2947245269540788955
+      tank_shield_unity_grid_5x5_256_155: -8002624850861947012
+      tank_shield_unity_grid_5x5_256_156: -8390236856403073291
+      tank_shield_unity_grid_5x5_256_157: -4510330909783967643
+      tank_shield_unity_grid_5x5_256_158: 1584352429651852753
+      tank_shield_unity_grid_5x5_256_159: -7913442763985103782
+      tank_shield_unity_grid_5x5_256_16: 7885176204244555692
+      tank_shield_unity_grid_5x5_256_160: -5047848845224887574
+      tank_shield_unity_grid_5x5_256_161: -4949298247869909313
+      tank_shield_unity_grid_5x5_256_162: 7588723085167625442
+      tank_shield_unity_grid_5x5_256_163: 1522451340753610848
+      tank_shield_unity_grid_5x5_256_164: -4681978979034739016
+      tank_shield_unity_grid_5x5_256_165: -674217630649778389
+      tank_shield_unity_grid_5x5_256_166: 3504961834003594745
+      tank_shield_unity_grid_5x5_256_167: 393134225034107809
+      tank_shield_unity_grid_5x5_256_168: 3666749861608574871
+      tank_shield_unity_grid_5x5_256_169: -2963415933509678379
+      tank_shield_unity_grid_5x5_256_17: -5188532924911304376
+      tank_shield_unity_grid_5x5_256_170: 281323573679684240
+      tank_shield_unity_grid_5x5_256_171: -784229808064400678
+      tank_shield_unity_grid_5x5_256_172: -3339629301555857299
+      tank_shield_unity_grid_5x5_256_173: -6305350450163885424
+      tank_shield_unity_grid_5x5_256_174: -3655398634197171823
+      tank_shield_unity_grid_5x5_256_175: 2716834174712358005
+      tank_shield_unity_grid_5x5_256_176: 5857202923599540348
+      tank_shield_unity_grid_5x5_256_177: 3798732446153565680
+      tank_shield_unity_grid_5x5_256_178: -2899507531195466106
+      tank_shield_unity_grid_5x5_256_179: -1922089597366626423
+      tank_shield_unity_grid_5x5_256_18: -1612677827574112053
+      tank_shield_unity_grid_5x5_256_180: 7513547426887321192
+      tank_shield_unity_grid_5x5_256_181: -8265337753187905659
+      tank_shield_unity_grid_5x5_256_182: -3945295288133702714
+      tank_shield_unity_grid_5x5_256_183: -6673353677450771622
+      tank_shield_unity_grid_5x5_256_184: 9151739620068537021
+      tank_shield_unity_grid_5x5_256_185: 203675553867968034
+      tank_shield_unity_grid_5x5_256_186: 7342978810052221620
+      tank_shield_unity_grid_5x5_256_187: 4106643515221857954
+      tank_shield_unity_grid_5x5_256_188: -3347513666230084899
+      tank_shield_unity_grid_5x5_256_189: 937175201330834994
+      tank_shield_unity_grid_5x5_256_19: -6114931464073441849
+      tank_shield_unity_grid_5x5_256_190: -5111998418268248140
+      tank_shield_unity_grid_5x5_256_191: -3949243094300479617
+      tank_shield_unity_grid_5x5_256_2: -8660182164954263873
+      tank_shield_unity_grid_5x5_256_20: -6538097177997509328
+      tank_shield_unity_grid_5x5_256_21: -7836912082594032439
+      tank_shield_unity_grid_5x5_256_22: -7419694094552309008
+      tank_shield_unity_grid_5x5_256_23: -7440436284509715979
+      tank_shield_unity_grid_5x5_256_24: -2785613947740037877
+      tank_shield_unity_grid_5x5_256_25: 4959443825841105067
+      tank_shield_unity_grid_5x5_256_26: 1966327482480686052
+      tank_shield_unity_grid_5x5_256_27: -8720768505122569815
+      tank_shield_unity_grid_5x5_256_28: -340100928099377226
+      tank_shield_unity_grid_5x5_256_29: 6193143392276778104
+      tank_shield_unity_grid_5x5_256_3: -182451989334485123
+      tank_shield_unity_grid_5x5_256_30: 7144826918268262218
+      tank_shield_unity_grid_5x5_256_31: 3933195870043022570
+      tank_shield_unity_grid_5x5_256_32: 8860477515370525424
+      tank_shield_unity_grid_5x5_256_33: -4305242458888420135
+      tank_shield_unity_grid_5x5_256_34: -4618495450741340692
+      tank_shield_unity_grid_5x5_256_35: 8064102131352224081
+      tank_shield_unity_grid_5x5_256_36: -4376756994076494498
+      tank_shield_unity_grid_5x5_256_37: -753458782269706039
+      tank_shield_unity_grid_5x5_256_38: -1820280223121650348
+      tank_shield_unity_grid_5x5_256_39: 5304143665242497635
+      tank_shield_unity_grid_5x5_256_4: 2008242536899383977
+      tank_shield_unity_grid_5x5_256_40: 6858332638294228925
+      tank_shield_unity_grid_5x5_256_41: 6701725247059491792
+      tank_shield_unity_grid_5x5_256_42: 5649976572489424824
+      tank_shield_unity_grid_5x5_256_43: 1946166992460489885
+      tank_shield_unity_grid_5x5_256_44: -994030494000338330
+      tank_shield_unity_grid_5x5_256_45: 5523342151580271135
+      tank_shield_unity_grid_5x5_256_46: -3597798763113198929
+      tank_shield_unity_grid_5x5_256_47: 1899038296526539737
+      tank_shield_unity_grid_5x5_256_48: -8775993907811576855
+      tank_shield_unity_grid_5x5_256_49: 984438474131394199
+      tank_shield_unity_grid_5x5_256_5: 8909716090147706229
+      tank_shield_unity_grid_5x5_256_50: 2145913895422658086
+      tank_shield_unity_grid_5x5_256_51: 3474339485036469611
+      tank_shield_unity_grid_5x5_256_52: -4069933388438847428
+      tank_shield_unity_grid_5x5_256_53: -2846802662429856074
+      tank_shield_unity_grid_5x5_256_54: -2786134774773315472
+      tank_shield_unity_grid_5x5_256_55: -4075175767386219838
+      tank_shield_unity_grid_5x5_256_56: 5092622397637022692
+      tank_shield_unity_grid_5x5_256_57: 3150080412356618790
+      tank_shield_unity_grid_5x5_256_58: -8491714562007161575
+      tank_shield_unity_grid_5x5_256_59: -6653285138635818995
+      tank_shield_unity_grid_5x5_256_6: -908662909022088216
+      tank_shield_unity_grid_5x5_256_60: 1558468472810392503
+      tank_shield_unity_grid_5x5_256_61: 4844737190974202065
+      tank_shield_unity_grid_5x5_256_62: -7475961953838830063
+      tank_shield_unity_grid_5x5_256_63: -4195814889291829442
+      tank_shield_unity_grid_5x5_256_64: -6784383352673740133
+      tank_shield_unity_grid_5x5_256_65: 3606514777306262362
+      tank_shield_unity_grid_5x5_256_66: -3148844036786705226
+      tank_shield_unity_grid_5x5_256_67: 6681125693856095164
+      tank_shield_unity_grid_5x5_256_68: -6433174242973444058
+      tank_shield_unity_grid_5x5_256_69: 110052598166759747
+      tank_shield_unity_grid_5x5_256_7: -8408012178124359121
+      tank_shield_unity_grid_5x5_256_70: -4030527261699615782
+      tank_shield_unity_grid_5x5_256_71: 7074959131918756794
+      tank_shield_unity_grid_5x5_256_72: 8849228890071445243
+      tank_shield_unity_grid_5x5_256_73: -4025871174603553642
+      tank_shield_unity_grid_5x5_256_74: -1531497619029122089
+      tank_shield_unity_grid_5x5_256_75: 6834641067656724857
+      tank_shield_unity_grid_5x5_256_76: 6423512669970010998
+      tank_shield_unity_grid_5x5_256_77: 836664851626291108
+      tank_shield_unity_grid_5x5_256_78: -4340737255603495319
+      tank_shield_unity_grid_5x5_256_79: -2016459982894111730
+      tank_shield_unity_grid_5x5_256_8: -59659373330954504
+      tank_shield_unity_grid_5x5_256_80: -2963675015930258762
+      tank_shield_unity_grid_5x5_256_81: -604538418753509338
+      tank_shield_unity_grid_5x5_256_82: 759255564359680271
+      tank_shield_unity_grid_5x5_256_83: 4104833816626510107
+      tank_shield_unity_grid_5x5_256_84: -7868257337139955910
+      tank_shield_unity_grid_5x5_256_85: -793626335620716065
+      tank_shield_unity_grid_5x5_256_86: -3884123814088842
+      tank_shield_unity_grid_5x5_256_87: 5559350272164615401
+      tank_shield_unity_grid_5x5_256_88: 8126285113705100416
+      tank_shield_unity_grid_5x5_256_89: 4945577063139345088
+      tank_shield_unity_grid_5x5_256_9: 2962239561692473129
+      tank_shield_unity_grid_5x5_256_90: -1041279752246397292
+      tank_shield_unity_grid_5x5_256_91: -1302745451882398987
+      tank_shield_unity_grid_5x5_256_92: -4294911573501190924
+      tank_shield_unity_grid_5x5_256_93: 4128794550251085783
+      tank_shield_unity_grid_5x5_256_94: 129388442644121513
+      tank_shield_unity_grid_5x5_256_95: -4738152547493869916
+      tank_shield_unity_grid_5x5_256_96: 8936915447820406259
+      tank_shield_unity_grid_5x5_256_97: -1970178453560309234
+      tank_shield_unity_grid_5x5_256_98: 1097973875015110207
+      tank_shield_unity_grid_5x5_256_99: -3360184039112557316
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

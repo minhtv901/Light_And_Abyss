@@ -1,0 +1,676 @@
+fileFormatVersion: 2
+guid: b16f0996080ba3c4ba786ede82835447
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4647914316778546521
+    second: duelist_attack_sprite_sheet_transparent_0
+  - first:
+      213: -92559917680687347
+    second: duelist_attack_sprite_sheet_transparent_1
+  - first:
+      213: 5395664733543490298
+    second: duelist_attack_sprite_sheet_transparent_2
+  - first:
+      213: 8938629022055172410
+    second: duelist_attack_sprite_sheet_transparent_3
+  - first:
+      213: -8964996942310683580
+    second: duelist_attack_sprite_sheet_transparent_4
+  - first:
+      213: 6333563584426295756
+    second: duelist_attack_sprite_sheet_transparent_5
+  - first:
+      213: 8229525975898796780
+    second: duelist_attack_sprite_sheet_transparent_6
+  - first:
+      213: -8955995788130791395
+    second: duelist_attack_sprite_sheet_transparent_7
+  - first:
+      213: -3300165942155384084
+    second: duelist_attack_sprite_sheet_transparent_8
+  - first:
+      213: 7330383692087440087
+    second: duelist_attack_sprite_sheet_transparent_9
+  - first:
+      213: -8000473229175381727
+    second: duelist_attack_sprite_sheet_transparent_10
+  - first:
+      213: 3016500485247500902
+    second: duelist_attack_sprite_sheet_transparent_11
+  - first:
+      213: 3343848558350417435
+    second: duelist_attack_sprite_sheet_transparent_12
+  - first:
+      213: -51969179612914521
+    second: duelist_attack_sprite_sheet_transparent_13
+  - first:
+      213: -1176049832807440352
+    second: duelist_attack_sprite_sheet_transparent_14
+  - first:
+      213: -3388393415076696099
+    second: duelist_attack_sprite_sheet_transparent_15
+  - first:
+      213: -5209548183334574870
+    second: duelist_attack_sprite_sheet_transparent_16
+  - first:
+      213: -8021961076698491792
+    second: duelist_attack_sprite_sheet_transparent_17
+  - first:
+      213: -7385619210250689115
+    second: duelist_attack_sprite_sheet_transparent_18
+  - first:
+      213: -1743122178119135044
+    second: duelist_attack_sprite_sheet_transparent_19
+  - first:
+      213: -8978762072078746028
+    second: duelist_attack_sprite_sheet_transparent_20
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: duelist_attack_sprite_sheet_transparent_0
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 467
+        width: 316
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7aa56f9fd8a4f7fb0800000000000000
+      internalID: -4647914316778546521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duelist_attack_sprite_sheet_transparent_1
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 468
+        width: 250
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d07043ace3927bef0800000000000000
+      internalID: -92559917680687347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duelist_attack_sprite_sheet_transparent_2
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 468
+        width: 251
+        height: 307
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af266f9dc7041ea40800000000000000
+      internalID: 5395664733543490298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duelist_attack_sprite_sheet_transparent_3
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 468
+        width: 247
+        height: 291
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3988969cb36c0c70800000000000000
+      internalID: 8938629022055172410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duelist_attack_sprite_sheet_transparent_4
+      rect:
+        serializedVersion: 2
+        x: 1519
+        y: 468
+        width: 283
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44ccb1197cee59380800000000000000
+      internalID: -8964996942310683580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duelist_attack_sprite_sheet_transparent_5
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 430
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc1441cf58655e750800000000000000
+      internalID: 6333563584426295756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duelist_attack_sprite_sheet_transparent_6
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 430
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce23c4fe546253270800000000000000
+      internalID: 8229525975898796780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duelist_attack_sprite_sheet_transparent_7
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 430
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d10d1961849e5b380800000000000000
+      internalID: -8955995788130791395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duelist_attack_sprite_sheet_transparent_8
+      rect:
+        serializedVersion: 2
+        x: 1247
+        y: 431
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cea6cf58f847332d0800000000000000
+      internalID: -3300165942155384084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duelist_attack_sprite_sheet_transparent_9
+      rect:
+        serializedVersion: 2
+        x: 1637
+        y: 430
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d230324121cab560800000000000000
+      internalID: 7330383692087440087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duelist_attack_sprite_sheet_transparent_10
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 105
+        width: 269
+        height: 271
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 121aaf38cfb98f090800000000000000
+      internalID: -8000473229175381727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duelist_attack_sprite_sheet_transparent_11
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 110
+        width: 261
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66288ff8533ccd920800000000000000
+      internalID: 3016500485247500902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duelist_attack_sprite_sheet_transparent_12
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 111
+        width: 318
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1ebd2f1c8cb76e20800000000000000
+      internalID: 3343848558350417435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duelist_attack_sprite_sheet_transparent_13
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 114
+        width: 311
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ac57e57e4e574ff0800000000000000
+      internalID: -51969179612914521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duelist_attack_sprite_sheet_transparent_14
+      rect:
+        serializedVersion: 2
+        x: 1499
+        y: 114
+        width: 314
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 020ea5578e4ddafe0800000000000000
+      internalID: -1176049832807440352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duelist_attack_sprite_sheet_transparent_15
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 65
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddfa41734220af0d0800000000000000
+      internalID: -3388393415076696099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duelist_attack_sprite_sheet_transparent_16
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 64
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae4af045787f3b7b0800000000000000
+      internalID: -5209548183334574870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duelist_attack_sprite_sheet_transparent_17
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 65
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 074506527e44ca090800000000000000
+      internalID: -8021961076698491792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duelist_attack_sprite_sheet_transparent_18
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 65
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a5e4be7572018990800000000000000
+      internalID: -7385619210250689115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duelist_attack_sprite_sheet_transparent_19
+      rect:
+        serializedVersion: 2
+        x: 1634
+        y: 65
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb09a1d4d9f2fc7e0800000000000000
+      internalID: -1743122178119135044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duelist_attack_sprite_sheet_transparent_20
+      rect:
+        serializedVersion: 2
+        x: 1656
+        y: 65
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45efefa8777056380800000000000000
+      internalID: -8978762072078746028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      duelist_attack_sprite_sheet_transparent_0: -4647914316778546521
+      duelist_attack_sprite_sheet_transparent_1: -92559917680687347
+      duelist_attack_sprite_sheet_transparent_10: -8000473229175381727
+      duelist_attack_sprite_sheet_transparent_11: 3016500485247500902
+      duelist_attack_sprite_sheet_transparent_12: 3343848558350417435
+      duelist_attack_sprite_sheet_transparent_13: -51969179612914521
+      duelist_attack_sprite_sheet_transparent_14: -1176049832807440352
+      duelist_attack_sprite_sheet_transparent_15: -3388393415076696099
+      duelist_attack_sprite_sheet_transparent_16: -5209548183334574870
+      duelist_attack_sprite_sheet_transparent_17: -8021961076698491792
+      duelist_attack_sprite_sheet_transparent_18: -7385619210250689115
+      duelist_attack_sprite_sheet_transparent_19: -1743122178119135044
+      duelist_attack_sprite_sheet_transparent_2: 5395664733543490298
+      duelist_attack_sprite_sheet_transparent_20: -8978762072078746028
+      duelist_attack_sprite_sheet_transparent_3: 8938629022055172410
+      duelist_attack_sprite_sheet_transparent_4: -8964996942310683580
+      duelist_attack_sprite_sheet_transparent_5: 6333563584426295756
+      duelist_attack_sprite_sheet_transparent_6: 8229525975898796780
+      duelist_attack_sprite_sheet_transparent_7: -8955995788130791395
+      duelist_attack_sprite_sheet_transparent_8: -3300165942155384084
+      duelist_attack_sprite_sheet_transparent_9: 7330383692087440087
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

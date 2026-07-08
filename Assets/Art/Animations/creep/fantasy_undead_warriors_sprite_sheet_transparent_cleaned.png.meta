@@ -1,0 +1,522 @@
+fileFormatVersion: 2
+guid: d50aa42dfa887d84fbf18be5a9d7e9a0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1419052201041748142
+    second: fantasy_undead_warriors_sprite_sheet_transparent_cleaned_0
+  - first:
+      213: 3851790113249579614
+    second: fantasy_undead_warriors_sprite_sheet_transparent_cleaned_1
+  - first:
+      213: -2243614206888731201
+    second: fantasy_undead_warriors_sprite_sheet_transparent_cleaned_2
+  - first:
+      213: -1305433862682269691
+    second: fantasy_undead_warriors_sprite_sheet_transparent_cleaned_3
+  - first:
+      213: 6027475659890257516
+    second: fantasy_undead_warriors_sprite_sheet_transparent_cleaned_4
+  - first:
+      213: 6210919035793405963
+    second: fantasy_undead_warriors_sprite_sheet_transparent_cleaned_5
+  - first:
+      213: 5932758351090647292
+    second: fantasy_undead_warriors_sprite_sheet_transparent_cleaned_6
+  - first:
+      213: 76620235817357677
+    second: fantasy_undead_warriors_sprite_sheet_transparent_cleaned_7
+  - first:
+      213: 5332285656408315624
+    second: fantasy_undead_warriors_sprite_sheet_transparent_cleaned_8
+  - first:
+      213: -8810478299505342604
+    second: fantasy_undead_warriors_sprite_sheet_transparent_cleaned_9
+  - first:
+      213: -2322345050536090484
+    second: fantasy_undead_warriors_sprite_sheet_transparent_cleaned_10
+  - first:
+      213: 7239505419239969379
+    second: fantasy_undead_warriors_sprite_sheet_transparent_cleaned_11
+  - first:
+      213: 4261382803874391754
+    second: fantasy_undead_warriors_sprite_sheet_transparent_cleaned_12
+  - first:
+      213: -5827552316644138928
+    second: fantasy_undead_warriors_sprite_sheet_transparent_cleaned_13
+  - first:
+      213: -5201886725368063449
+    second: fantasy_undead_warriors_sprite_sheet_transparent_cleaned_14
+  - first:
+      213: 3505822239634551792
+    second: fantasy_undead_warriors_sprite_sheet_transparent_cleaned_15
+  - first:
+      213: 5575708469068714478
+    second: fantasy_undead_warriors_sprite_sheet_transparent_cleaned_16
+  - first:
+      213: -5507455463843829007
+    second: fantasy_undead_warriors_sprite_sheet_transparent_cleaned_17
+  - first:
+      213: 5853782051792344548
+    second: fantasy_undead_warriors_sprite_sheet_transparent_cleaned_18
+  - first:
+      213: -5142077638844762245
+    second: fantasy_undead_warriors_sprite_sheet_transparent_cleaned_19
+  - first:
+      213: 591077026065218023
+    second: fantasy_undead_warriors_sprite_sheet_transparent_cleaned_20
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: fantasy_undead_warriors_sprite_sheet_transparent_cleaned_0
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 829
+        width: 302
+        height: 242
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25f9b27aa838e4ce0800000000000000
+      internalID: -1419052201041748142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_undead_warriors_sprite_sheet_transparent_cleaned_2
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 830
+        width: 302
+        height: 242
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbd906914c41dd0e0800000000000000
+      internalID: -2243614206888731201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_undead_warriors_sprite_sheet_transparent_cleaned_3
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 830
+        width: 302
+        height: 242
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 508ae0181da22ede0800000000000000
+      internalID: -1305433862682269691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_undead_warriors_sprite_sheet_transparent_cleaned_5
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 590
+        width: 285
+        height: 236
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b087d29c4fd913650800000000000000
+      internalID: 6210919035793405963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_undead_warriors_sprite_sheet_transparent_cleaned_8
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 589
+        width: 285
+        height: 236
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e6d0278d85100a40800000000000000
+      internalID: 5332285656408315624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_undead_warriors_sprite_sheet_transparent_cleaned_9
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 589
+        width: 285
+        height: 236
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47742b0aaa4eab580800000000000000
+      internalID: -8810478299505342604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_undead_warriors_sprite_sheet_transparent_cleaned_12
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 325
+        width: 244
+        height: 249
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac624e41519732b30800000000000000
+      internalID: 4261382803874391754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_undead_warriors_sprite_sheet_transparent_cleaned_13
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 326
+        width: 244
+        height: 249
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 050eb603b00602fa0800000000000000
+      internalID: -5827552316644138928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_undead_warriors_sprite_sheet_transparent_cleaned_15
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 326
+        width: 244
+        height: 249
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f3f41790ce27a030800000000000000
+      internalID: 3505822239634551792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_undead_warriors_sprite_sheet_transparent_cleaned_16
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 426
+        width: 27
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee15afdaf45e06d40800000000000000
+      internalID: 5575708469068714478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_undead_warriors_sprite_sheet_transparent_cleaned_17
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 35
+        width: 218
+        height: 289
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1faed457f669193b0800000000000000
+      internalID: -5507455463843829007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_undead_warriors_sprite_sheet_transparent_cleaned_18
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 42
+        width: 218
+        height: 289
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e5d3ade2cfcc3150800000000000000
+      internalID: 5853782051792344548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_undead_warriors_sprite_sheet_transparent_cleaned_19
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 38
+        width: 218
+        height: 289
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b77bd21a1aba3a8b0800000000000000
+      internalID: -5142077638844762245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_undead_warriors_sprite_sheet_transparent_cleaned_20
+      rect:
+        serializedVersion: 2
+        x: 1162
+        y: 258
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e9f28d6c6de33800800000000000000
+      internalID: 591077026065218023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 4ae83001e7315a941bde3d9fe5414e6e
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      fantasy_undead_warriors_sprite_sheet_transparent_cleaned_0: -1419052201041748142
+      fantasy_undead_warriors_sprite_sheet_transparent_cleaned_1: 3851790113249579614
+      fantasy_undead_warriors_sprite_sheet_transparent_cleaned_10: -2322345050536090484
+      fantasy_undead_warriors_sprite_sheet_transparent_cleaned_11: 7239505419239969379
+      fantasy_undead_warriors_sprite_sheet_transparent_cleaned_12: 4261382803874391754
+      fantasy_undead_warriors_sprite_sheet_transparent_cleaned_13: -5827552316644138928
+      fantasy_undead_warriors_sprite_sheet_transparent_cleaned_14: -5201886725368063449
+      fantasy_undead_warriors_sprite_sheet_transparent_cleaned_15: 3505822239634551792
+      fantasy_undead_warriors_sprite_sheet_transparent_cleaned_16: 5575708469068714478
+      fantasy_undead_warriors_sprite_sheet_transparent_cleaned_17: -5507455463843829007
+      fantasy_undead_warriors_sprite_sheet_transparent_cleaned_18: 5853782051792344548
+      fantasy_undead_warriors_sprite_sheet_transparent_cleaned_19: -5142077638844762245
+      fantasy_undead_warriors_sprite_sheet_transparent_cleaned_2: -2243614206888731201
+      fantasy_undead_warriors_sprite_sheet_transparent_cleaned_20: 591077026065218023
+      fantasy_undead_warriors_sprite_sheet_transparent_cleaned_3: -1305433862682269691
+      fantasy_undead_warriors_sprite_sheet_transparent_cleaned_4: 6027475659890257516
+      fantasy_undead_warriors_sprite_sheet_transparent_cleaned_5: 6210919035793405963
+      fantasy_undead_warriors_sprite_sheet_transparent_cleaned_6: 5932758351090647292
+      fantasy_undead_warriors_sprite_sheet_transparent_cleaned_7: 76620235817357677
+      fantasy_undead_warriors_sprite_sheet_transparent_cleaned_8: 5332285656408315624
+      fantasy_undead_warriors_sprite_sheet_transparent_cleaned_9: -8810478299505342604
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

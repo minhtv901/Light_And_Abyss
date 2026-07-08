@@ -1,0 +1,939 @@
+fileFormatVersion: 2
+guid: d1e5de1a41ea77f469477648c5b56a43
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3215373092719168363
+    second: barrel_20_frames_transparent_0
+  - first:
+      213: -1052472645749123505
+    second: barrel_20_frames_transparent_1
+  - first:
+      213: -3173574859093447926
+    second: barrel_20_frames_transparent_2
+  - first:
+      213: -8243431016664048442
+    second: barrel_20_frames_transparent_3
+  - first:
+      213: 7072583407055348194
+    second: barrel_20_frames_transparent_4
+  - first:
+      213: -8377899223230547718
+    second: barrel_20_frames_transparent_5
+  - first:
+      213: 7341591290973087486
+    second: barrel_20_frames_transparent_6
+  - first:
+      213: 3812375288397798822
+    second: barrel_20_frames_transparent_7
+  - first:
+      213: -1976212711891281918
+    second: barrel_20_frames_transparent_8
+  - first:
+      213: 7806521785890456672
+    second: barrel_20_frames_transparent_9
+  - first:
+      213: 1253775992126061761
+    second: barrel_20_frames_transparent_10
+  - first:
+      213: 4800001840689311543
+    second: barrel_20_frames_transparent_11
+  - first:
+      213: -7196400478700779346
+    second: barrel_20_frames_transparent_12
+  - first:
+      213: -6202025666767328892
+    second: barrel_20_frames_transparent_13
+  - first:
+      213: -7771290358580011911
+    second: barrel_20_frames_transparent_14
+  - first:
+      213: -3004191756795316634
+    second: barrel_20_frames_transparent_15
+  - first:
+      213: -6719949019208444426
+    second: barrel_20_frames_transparent_16
+  - first:
+      213: -5024631553928758200
+    second: barrel_20_frames_transparent_17
+  - first:
+      213: -6448719664920124459
+    second: barrel_20_frames_transparent_18
+  - first:
+      213: -6616203760489133645
+    second: barrel_20_frames_transparent_19
+  - first:
+      213: -8906536673858747760
+    second: barrel_20_frames_transparent_20
+  - first:
+      213: -4410587103959860702
+    second: barrel_20_frames_transparent_21
+  - first:
+      213: 6554465969041257091
+    second: barrel_20_frames_transparent_22
+  - first:
+      213: -56160961961193864
+    second: barrel_20_frames_transparent_23
+  - first:
+      213: -5342048161389499181
+    second: barrel_20_frames_transparent_24
+  - first:
+      213: -8399459400511912804
+    second: barrel_20_frames_transparent_25
+  - first:
+      213: 843633974358319672
+    second: barrel_20_frames_transparent_26
+  - first:
+      213: 2039943559886232625
+    second: barrel_20_frames_transparent_27
+  - first:
+      213: -3159393710631062028
+    second: barrel_20_frames_transparent_28
+  - first:
+      213: -7186956667626831875
+    second: barrel_20_frames_transparent_29
+  - first:
+      213: -8426325935477818909
+    second: barrel_20_frames_transparent_30
+  - first:
+      213: -7266162657006033679
+    second: barrel_20_frames_transparent_31
+  - first:
+      213: -351322190755947100
+    second: barrel_20_frames_transparent_32
+  - first:
+      213: 3777704093311434014
+    second: barrel_20_frames_transparent_33
+  - first:
+      213: -1732645929670099999
+    second: barrel_20_frames_transparent_34
+  - first:
+      213: -7223982957174486636
+    second: barrel_20_frames_transparent_35
+  - first:
+      213: 5589549545852634690
+    second: barrel_20_frames_transparent_36
+  - first:
+      213: -4746601889663936626
+    second: barrel_20_frames_transparent_37
+  - first:
+      213: 264936433922142490
+    second: barrel_20_frames_transparent_38
+  - first:
+      213: 8837267707033913565
+    second: barrel_20_frames_transparent_39
+  - first:
+      213: -2148217132094782636
+    second: barrel_20_frames_transparent_40
+  - first:
+      213: 3873607788882654713
+    second: barrel_20_frames_transparent_41
+  - first:
+      213: -6930890868784696833
+    second: barrel_20_frames_transparent_42
+  - first:
+      213: 5356154267432337336
+    second: barrel_20_frames_transparent_43
+  - first:
+      213: 3190528935202814531
+    second: barrel_20_frames_transparent_44
+  - first:
+      213: -5734810488738007467
+    second: barrel_20_frames_transparent_45
+  - first:
+      213: -79642761969646638
+    second: barrel_20_frames_transparent_46
+  - first:
+      213: 3770283111851691351
+    second: barrel_20_frames_transparent_47
+  - first:
+      213: 5831471314740627151
+    second: barrel_20_frames_transparent_48
+  - first:
+      213: 4483983715397122312
+    second: barrel_20_frames_transparent_49
+  - first:
+      213: -206847596573606616
+    second: barrel_20_frames_transparent_50
+  - first:
+      213: 8342673452227919213
+    second: barrel_20_frames_transparent_51
+  - first:
+      213: -2406005553990536469
+    second: barrel_20_frames_transparent_52
+  - first:
+      213: 2214587654610261854
+    second: barrel_20_frames_transparent_53
+  - first:
+      213: 4369473719034981161
+    second: barrel_20_frames_transparent_54
+  - first:
+      213: -231362016821561613
+    second: barrel_20_frames_transparent_55
+  - first:
+      213: 1428366826114475210
+    second: barrel_20_frames_transparent_56
+  - first:
+      213: -6455141357887525212
+    second: barrel_20_frames_transparent_57
+  - first:
+      213: -8650816695987689386
+    second: barrel_20_frames_transparent_58
+  - first:
+      213: 8920223912892034327
+    second: barrel_20_frames_transparent_59
+  - first:
+      213: -3507941786702442499
+    second: barrel_20_frames_transparent_60
+  - first:
+      213: -2449384176169250149
+    second: barrel_20_frames_transparent_61
+  - first:
+      213: 8021517170869429423
+    second: barrel_20_frames_transparent_62
+  - first:
+      213: -372786515133657125
+    second: barrel_20_frames_transparent_63
+  - first:
+      213: -1168241473136273389
+    second: barrel_20_frames_transparent_64
+  - first:
+      213: 6432249822657513520
+    second: barrel_20_frames_transparent_65
+  - first:
+      213: -2711127135606911691
+    second: barrel_20_frames_transparent_66
+  - first:
+      213: 1301405382798459074
+    second: barrel_20_frames_transparent_67
+  - first:
+      213: 6878584446281703739
+    second: barrel_20_frames_transparent_68
+  - first:
+      213: 6177917270868837384
+    second: barrel_20_frames_transparent_69
+  - first:
+      213: -9127757341006252978
+    second: barrel_20_frames_transparent_70
+  - first:
+      213: -2368596935280408173
+    second: barrel_20_frames_transparent_71
+  - first:
+      213: 8789714186940963640
+    second: barrel_20_frames_transparent_72
+  - first:
+      213: 8306102552726341422
+    second: barrel_20_frames_transparent_73
+  - first:
+      213: -2041068808019340511
+    second: barrel_20_frames_transparent_74
+  - first:
+      213: -6709205638446694509
+    second: barrel_20_frames_transparent_75
+  - first:
+      213: 1276593027296514994
+    second: barrel_20_frames_transparent_76
+  - first:
+      213: 6882365210198112748
+    second: barrel_20_frames_transparent_77
+  - first:
+      213: -5496560108399327405
+    second: barrel_20_frames_transparent_78
+  - first:
+      213: 5020518197038804564
+    second: barrel_20_frames_transparent_79
+  - first:
+      213: -5460854179380508374
+    second: barrel_20_frames_transparent_80
+  - first:
+      213: 4723033830690946085
+    second: barrel_20_frames_transparent_81
+  - first:
+      213: 4016387587399712593
+    second: barrel_20_frames_transparent_82
+  - first:
+      213: -6057880775486185660
+    second: barrel_20_frames_transparent_83
+  - first:
+      213: 1282987673417509618
+    second: barrel_20_frames_transparent_84
+  - first:
+      213: -7710056134630615274
+    second: barrel_20_frames_transparent_85
+  - first:
+      213: 2762479690125739680
+    second: barrel_20_frames_transparent_86
+  - first:
+      213: -5432407470589771393
+    second: barrel_20_frames_transparent_87
+  - first:
+      213: -1795656925000201855
+    second: barrel_20_frames_transparent_88
+  - first:
+      213: 734729550862237016
+    second: barrel_20_frames_transparent_89
+  - first:
+      213: 3252603316470370348
+    second: barrel_20_frames_transparent_90
+  - first:
+      213: 8237786917351862798
+    second: barrel_20_frames_transparent_91
+  - first:
+      213: 6881222843642246131
+    second: barrel_20_frames_transparent_92
+  - first:
+      213: 1391240818517160680
+    second: barrel_20_frames_transparent_93
+  - first:
+      213: 4135733267816204878
+    second: barrel_20_frames_transparent_94
+  - first:
+      213: -6198067651163755524
+    second: barrel_20_frames_transparent_95
+  - first:
+      213: 1906845949719318996
+    second: barrel_20_frames_transparent_96
+  - first:
+      213: -6185671119549262854
+    second: barrel_20_frames_transparent_97
+  - first:
+      213: -775220854162032575
+    second: barrel_20_frames_transparent_98
+  - first:
+      213: 5620369840053364206
+    second: barrel_20_frames_transparent_99
+  - first:
+      213: 2774471960474374781
+    second: barrel_20_frames_transparent_100
+  - first:
+      213: 5609153335466282916
+    second: barrel_20_frames_transparent_101
+  - first:
+      213: -7969739567851873766
+    second: barrel_20_frames_transparent_102
+  - first:
+      213: -5087616637013229067
+    second: barrel_20_frames_transparent_103
+  - first:
+      213: 6575196390858839477
+    second: barrel_20_frames_transparent_104
+  - first:
+      213: -6205869031883100381
+    second: barrel_20_frames_transparent_105
+  - first:
+      213: -1807696136468973555
+    second: barrel_20_frames_transparent_106
+  - first:
+      213: 2757943316744203917
+    second: barrel_20_frames_transparent_107
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: barrel_20_frames_transparent_3
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 924
+        width: 210
+        height: 270
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cc5d497a23799d80800000000000000
+      internalID: -8243431016664048442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barrel_20_frames_transparent_5
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 625
+        width: 210
+        height: 270
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af872536b09bbbb80800000000000000
+      internalID: -8377899223230547718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barrel_20_frames_transparent_7
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 628
+        width: 210
+        height: 270
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ad9d6f302748e430800000000000000
+      internalID: 3812375288397798822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barrel_20_frames_transparent_8
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 629
+        width: 210
+        height: 270
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 208db1b42051394e0800000000000000
+      internalID: -1976212711891281918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barrel_20_frames_transparent_9
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 630
+        width: 210
+        height: 270
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 064495b1436565c60800000000000000
+      internalID: 7806521785890456672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barrel_20_frames_transparent_12
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 351
+        width: 210
+        height: 270
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea8c69d84ef312c90800000000000000
+      internalID: -7196400478700779346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barrel_20_frames_transparent_18
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 88
+        width: 210
+        height: 270
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d32c5ca1ab8186a0800000000000000
+      internalID: -6448719664920124459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barrel_20_frames_transparent_19
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 86
+        width: 210
+        height: 270
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b90176ebb58e24a0800000000000000
+      internalID: -6616203760489133645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barrel_20_frames_transparent_0
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 926
+        width: 210
+        height: 270
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b1da930ece305f47ba9f6e804ffad1f
+      internalID: 3215373092719168363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barrel_20_frames_transparent_1
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 923
+        width: 210
+        height: 270
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c39a317dcda1b3448586c77becf36ae
+      internalID: -1052472645749123505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barrel_20_frames_transparent_2
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 922
+        width: 210
+        height: 270
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96c30743b9ba9154db39de8b8cf2b337
+      internalID: -3173574859093447926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barrel_20_frames_transparent_4
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 922
+        width: 210
+        height: 270
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 794d1f3e065d0f743b838b03b6f1fb2c
+      internalID: 7072583407055348194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barrel_20_frames_transparent_6
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 629
+        width: 210
+        height: 270
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b1ec4faf8a30e946ba6e7955db7b9fe
+      internalID: 7341591290973087486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barrel_20_frames_transparent_10
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 346
+        width: 210
+        height: 270
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 210a94a79b1908e4998d907635734c17
+      internalID: 1253775992126061761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barrel_20_frames_transparent_11
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 349
+        width: 210
+        height: 270
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b450e6bc93d9334aadc198bb1ab04bc
+      internalID: 4800001840689311543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barrel_20_frames_transparent_13
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 348
+        width: 210
+        height: 270
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf55fe7dc954581449a2491bdf91e887
+      internalID: -6202025666767328892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barrel_20_frames_transparent_14
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 346
+        width: 210
+        height: 270
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e0894f6c2f45f84c9f50a33f340998d
+      internalID: -7771290358580011911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barrel_20_frames_transparent_15
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 90
+        width: 210
+        height: 270
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9dff75d40928d245a2dc51913710b8a
+      internalID: -3004191756795316634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barrel_20_frames_transparent_16
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 91
+        width: 210
+        height: 270
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfd014acc708969439d4bab065745dd9
+      internalID: -6719949019208444426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barrel_20_frames_transparent_17
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 89
+        width: 210
+        height: 270
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3b769ff0ccd37d4c8fdef6a27ba6af0
+      internalID: -5024631553928758200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barrel_20_frames_transparent_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 73
+        width: 1243
+        height: 1155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43abc5c7125b82640a3a83d9e3c6ac89
+      internalID: -600022317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: d4c16d268d443594c85d2f0d83a87352
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":5.0,"y":4.0},"gridSpriteSize":{"x":250.0,"y":313.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.0},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":7,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      barrel_20_frames_transparent_0: 3215373092719168363
+      barrel_20_frames_transparent_1: -1052472645749123505
+      barrel_20_frames_transparent_10: 1253775992126061761
+      barrel_20_frames_transparent_11: 4800001840689311543
+      barrel_20_frames_transparent_12: -7196400478700779346
+      barrel_20_frames_transparent_13: -6202025666767328892
+      barrel_20_frames_transparent_14: -7771290358580011911
+      barrel_20_frames_transparent_15: -3004191756795316634
+      barrel_20_frames_transparent_16: -6719949019208444426
+      barrel_20_frames_transparent_17: -5024631553928758200
+      barrel_20_frames_transparent_18: -6448719664920124459
+      barrel_20_frames_transparent_19: -6616203760489133645
+      barrel_20_frames_transparent_2: -3173574859093447926
+      barrel_20_frames_transparent_20: -600022317
+      barrel_20_frames_transparent_3: -8243431016664048442
+      barrel_20_frames_transparent_4: 7072583407055348194
+      barrel_20_frames_transparent_5: -8377899223230547718
+      barrel_20_frames_transparent_6: 7341591290973087486
+      barrel_20_frames_transparent_7: 3812375288397798822
+      barrel_20_frames_transparent_8: -1976212711891281918
+      barrel_20_frames_transparent_9: 7806521785890456672
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

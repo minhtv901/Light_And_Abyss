@@ -1,0 +1,416 @@
+fileFormatVersion: 2
+guid: 482bb162eb01f1549bb77ce42ddd0a26
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5594651599792589175
+    second: mage_death_6f_251x324_0
+  - first:
+      213: 7290286054442006452
+    second: mage_death_6f_251x324_1
+  - first:
+      213: 1347039076020626207
+    second: mage_death_6f_251x324_2
+  - first:
+      213: 7212693569255711726
+    second: mage_death_6f_251x324_3
+  - first:
+      213: -6806081613669146893
+    second: mage_death_6f_251x324_4
+  - first:
+      213: 3806839022571798097
+    second: mage_death_6f_251x324_5
+  - first:
+      213: 3538820660828833083
+    second: mage_death_6f_251x324_6
+  - first:
+      213: 8641724575828709819
+    second: mage_death_6f_251x324_7
+  - first:
+      213: -4349782013749668386
+    second: mage_death_6f_251x324_8
+  - first:
+      213: -7422075045861577536
+    second: mage_death_6f_251x324_9
+  - first:
+      213: -378447391730735656
+    second: mage_death_6f_251x324_10
+  - first:
+      213: 5879337361855858405
+    second: mage_death_6f_251x324_11
+  - first:
+      213: 2731857395609641561
+    second: mage_death_6f_251x324_12
+  - first:
+      213: -6578912805852547405
+    second: mage_death_6f_251x324_13
+  - first:
+      213: 5409404800330870047
+    second: mage_death_6f_251x324_14
+  - first:
+      213: 7688703981442535135
+    second: mage_death_6f_251x324_15
+  - first:
+      213: 3431512259741438369
+    second: mage_death_6f_251x324_16
+  - first:
+      213: -8378315513610708314
+    second: mage_death_6f_251x324_17
+  - first:
+      213: -7131328550400609303
+    second: mage_death_6f_251x324_18
+  - first:
+      213: 2064633706051994237
+    second: mage_death_6f_251x324_19
+  - first:
+      213: 225920635322495055
+    second: mage_death_6f_251x324_20
+  - first:
+      213: -1047725134598547693
+    second: mage_death_6f_251x324_21
+  - first:
+      213: -9186532230924891712
+    second: mage_death_6f_251x324_22
+  - first:
+      213: -1604967645994408546
+    second: mage_death_6f_251x324_23
+  - first:
+      213: -5921814380651834406
+    second: mage_death_6f_251x324_24
+  - first:
+      213: 1293898719342756085
+    second: mage_death_6f_251x324_25
+  - first:
+      213: -2478725883022293758
+    second: mage_death_6f_251x324_26
+  - first:
+      213: -5426324535630593921
+    second: mage_death_6f_251x324_27
+  - first:
+      213: -658142533936625871
+    second: mage_death_6f_251x324_28
+  - first:
+      213: 3335463769753344088
+    second: mage_death_6f_251x324_29
+  - first:
+      213: 9063505208637531389
+    second: mage_death_6f_251x324_30
+  - first:
+      213: -2663162130624177443
+    second: mage_death_6f_251x324_31
+  - first:
+      213: -6969406501415997205
+    second: mage_death_6f_251x324_32
+  - first:
+      213: -2052081183167000651
+    second: mage_death_6f_251x324_33
+  - first:
+      213: -5078400311986830827
+    second: mage_death_6f_251x324_34
+  - first:
+      213: 6872739203637370714
+    second: mage_death_6f_251x324_35
+  - first:
+      213: 4777456174375102165
+    second: mage_death_6f_251x324_36
+  - first:
+      213: -3031681854900084322
+    second: mage_death_6f_251x324_37
+  - first:
+      213: -7179970151683112259
+    second: mage_death_6f_251x324_38
+  - first:
+      213: -6866263713691831519
+    second: mage_death_6f_251x324_39
+  - first:
+      213: 3063731335062082780
+    second: mage_death_6f_251x324_40
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mage_death_6f_251x324_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 250
+        height: 324
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 986ba40030ecb52b0800000000000000
+      internalID: -5594651599792589175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_death_6f_251x324_1
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 0
+        width: 250
+        height: 324
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b7fff97a8c4c2560800000000000000
+      internalID: 7290286054442006452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_death_6f_251x324_2
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 0
+        width: 250
+        height: 324
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f13a7c817e4a1b210800000000000000
+      internalID: 1347039076020626207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_death_6f_251x324_3
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 0
+        width: 250
+        height: 324
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee32b353692a81460800000000000000
+      internalID: 7212693569255711726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_death_6f_251x324_4
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 0
+        width: 250
+        height: 324
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fedee025d0fb81a0800000000000000
+      internalID: -6806081613669146893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_death_6f_251x324_5
+      rect:
+        serializedVersion: 2
+        x: 1256
+        y: 0
+        width: 250
+        height: 324
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15ebc79ebeb94d430800000000000000
+      internalID: 3806839022571798097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_death_6f_251x324_6
+      rect:
+        serializedVersion: 2
+        x: 1505
+        y: 0
+        width: 1
+        height: 324
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b35048c34aa6c1130800000000000000
+      internalID: 3538820660828833083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: fdc93f000ff30694abf34feda6c5b802
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":200.0,"y":324.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      mage_death_6f_251x324_0: -5594651599792589175
+      mage_death_6f_251x324_1: 7290286054442006452
+      mage_death_6f_251x324_2: 1347039076020626207
+      mage_death_6f_251x324_3: 7212693569255711726
+      mage_death_6f_251x324_4: -6806081613669146893
+      mage_death_6f_251x324_5: 3806839022571798097
+      mage_death_6f_251x324_6: 3538820660828833083
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

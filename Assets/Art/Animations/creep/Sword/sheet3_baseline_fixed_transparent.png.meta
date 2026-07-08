@@ -1,0 +1,334 @@
+fileFormatVersion: 2
+guid: a2f329e68cc2ea3428e13f76d11569fd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7554880252197053056
+    second: sheet3_baseline_fixed_transparent_0
+  - first:
+      213: 994012131551806609
+    second: sheet3_baseline_fixed_transparent_1
+  - first:
+      213: 1232067918457378347
+    second: sheet3_baseline_fixed_transparent_2
+  - first:
+      213: 486086469456301017
+    second: sheet3_baseline_fixed_transparent_3
+  - first:
+      213: 8449203009924570731
+    second: sheet3_baseline_fixed_transparent_4
+  - first:
+      213: 2087478191217079183
+    second: sheet3_baseline_fixed_transparent_5
+  - first:
+      213: -4644863482069110320
+    second: sheet3_baseline_fixed_transparent_6
+  - first:
+      213: -3481550558452489452
+    second: sheet3_baseline_fixed_transparent_7
+  - first:
+      213: -8106557420643138402
+    second: sheet3_baseline_fixed_transparent_8
+  - first:
+      213: 6112036537001276648
+    second: sheet3_baseline_fixed_transparent_9
+  - first:
+      213: -5886314016791360263
+    second: sheet3_baseline_fixed_transparent_10
+  - first:
+      213: 5027366434918331183
+    second: sheet3_baseline_fixed_transparent_11
+  - first:
+      213: 6769030830018281606
+    second: sheet3_baseline_fixed_transparent_12
+  - first:
+      213: -1842535873612064619
+    second: sheet3_baseline_fixed_transparent_13
+  - first:
+      213: -7529061595695927177
+    second: sheet3_baseline_fixed_transparent_14
+  - first:
+      213: 6002278905080490278
+    second: sheet3_baseline_fixed_transparent_15
+  - first:
+      213: -7110222107991127038
+    second: sheet3_baseline_fixed_transparent_16
+  - first:
+      213: -237008174254101641
+    second: sheet3_baseline_fixed_transparent_17
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sheet3_baseline_fixed_transparent_4
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 50
+        width: 320
+        height: 249
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6e17b92f59914570800000000000000
+      internalID: 8449203009924570731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet3_baseline_fixed_transparent_5
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 49
+        width: 320
+        height: 249
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f837edfda5638fc10800000000000000
+      internalID: 2087478191217079183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet3_baseline_fixed_transparent_6
+      rect:
+        serializedVersion: 2
+        x: 1952
+        y: 49
+        width: 320
+        height: 249
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d13619c5412a8fb0800000000000000
+      internalID: -4644863482069110320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet3_baseline_fixed_transparent_7
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 49
+        width: 320
+        height: 249
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41360ef863c0fafc0800000000000000
+      internalID: -3481550558452489452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet3_baseline_fixed_transparent_13
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 49
+        width: 320
+        height: 249
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5985077926ffd66e0800000000000000
+      internalID: -1842535873612064619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet3_baseline_fixed_transparent_17
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 49
+        width: 320
+        height: 249
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77b68bc325af5bcf0800000000000000
+      internalID: -237008174254101641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: eb76f6358d853714091d0f1a5a1a2c46
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      sheet3_baseline_fixed_transparent_0: 7554880252197053056
+      sheet3_baseline_fixed_transparent_1: 994012131551806609
+      sheet3_baseline_fixed_transparent_10: -5886314016791360263
+      sheet3_baseline_fixed_transparent_11: 5027366434918331183
+      sheet3_baseline_fixed_transparent_12: 6769030830018281606
+      sheet3_baseline_fixed_transparent_13: -1842535873612064619
+      sheet3_baseline_fixed_transparent_14: -7529061595695927177
+      sheet3_baseline_fixed_transparent_15: 6002278905080490278
+      sheet3_baseline_fixed_transparent_16: -7110222107991127038
+      sheet3_baseline_fixed_transparent_17: -237008174254101641
+      sheet3_baseline_fixed_transparent_2: 1232067918457378347
+      sheet3_baseline_fixed_transparent_3: 486086469456301017
+      sheet3_baseline_fixed_transparent_4: 8449203009924570731
+      sheet3_baseline_fixed_transparent_5: 2087478191217079183
+      sheet3_baseline_fixed_transparent_6: -4644863482069110320
+      sheet3_baseline_fixed_transparent_7: -3481550558452489452
+      sheet3_baseline_fixed_transparent_8: -8106557420643138402
+      sheet3_baseline_fixed_transparent_9: 6112036537001276648
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

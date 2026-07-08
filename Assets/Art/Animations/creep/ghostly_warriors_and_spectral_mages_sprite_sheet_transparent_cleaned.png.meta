@@ -1,0 +1,922 @@
+fileFormatVersion: 2
+guid: 9af96722b8684044b8fdb9e58f398995
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1168696469567809647
+    second: ghostly_warriors_and_spectral_mages_sprite_sheet_transparent_cleaned_0
+  - first:
+      213: 68168861712816735
+    second: ghostly_warriors_and_spectral_mages_sprite_sheet_transparent_cleaned_1
+  - first:
+      213: 2121953892096062984
+    second: ghostly_warriors_and_spectral_mages_sprite_sheet_transparent_cleaned_2
+  - first:
+      213: -9019883625135628145
+    second: ghostly_warriors_and_spectral_mages_sprite_sheet_transparent_cleaned_3
+  - first:
+      213: 1863700684510532189
+    second: ghostly_warriors_and_spectral_mages_sprite_sheet_transparent_cleaned_4
+  - first:
+      213: 3652971834628503624
+    second: ghostly_warriors_and_spectral_mages_sprite_sheet_transparent_cleaned_5
+  - first:
+      213: 2030732665503610695
+    second: ghostly_warriors_and_spectral_mages_sprite_sheet_transparent_cleaned_6
+  - first:
+      213: 3442886064034322963
+    second: ghostly_warriors_and_spectral_mages_sprite_sheet_transparent_cleaned_7
+  - first:
+      213: 1189934065730769811
+    second: ghostly_warriors_and_spectral_mages_sprite_sheet_transparent_cleaned_8
+  - first:
+      213: -123650104126757895
+    second: ghostly_warriors_and_spectral_mages_sprite_sheet_transparent_cleaned_9
+  - first:
+      213: 6653631408034214215
+    second: ghostly_warriors_and_spectral_mages_sprite_sheet_transparent_cleaned_10
+  - first:
+      213: 4415255410206494259
+    second: ghostly_warriors_and_spectral_mages_sprite_sheet_transparent_cleaned_11
+  - first:
+      213: -4013576482966459258
+    second: ghostly_warriors_and_spectral_mages_sprite_sheet_transparent_cleaned_12
+  - first:
+      213: -3997853727084443366
+    second: ghostly_warriors_and_spectral_mages_sprite_sheet_transparent_cleaned_13
+  - first:
+      213: 6589209095922954981
+    second: ghostly_warriors_and_spectral_mages_sprite_sheet_transparent_cleaned_14
+  - first:
+      213: 1202622470958037375
+    second: ghostly_warriors_and_spectral_mages_sprite_sheet_transparent_cleaned_15
+  - first:
+      213: 8473663856960755679
+    second: ghostly_warriors_and_spectral_mages_sprite_sheet_transparent_cleaned_16
+  - first:
+      213: -1648207189648072487
+    second: ghostly_warriors_and_spectral_mages_sprite_sheet_transparent_cleaned_17
+  - first:
+      213: 3185771204389822893
+    second: ghostly_warriors_and_spectral_mages_sprite_sheet_transparent_cleaned_18
+  - first:
+      213: 6885108006023795005
+    second: ghostly_warriors_and_spectral_mages_sprite_sheet_transparent_cleaned_19
+  - first:
+      213: -318466146428730792
+    second: ghostly_warriors_and_spectral_mages_sprite_sheet_transparent_cleaned_20
+  - first:
+      213: -7735959552712056823
+    second: ghostly_warriors_and_spectral_mages_sprite_sheet_transparent_cleaned_21
+  - first:
+      213: -6909543575641975967
+    second: ghostly_warriors_and_spectral_mages_sprite_sheet_transparent_cleaned_22
+  - first:
+      213: -3601454764760148555
+    second: ghostly_warriors_and_spectral_mages_sprite_sheet_transparent_cleaned_23
+  - first:
+      213: 2565036684403876094
+    second: ghostly_warriors_and_spectral_mages_sprite_sheet_transparent_cleaned_24
+  - first:
+      213: 5179168787132703684
+    second: ghostly_warriors_and_spectral_mages_sprite_sheet_transparent_cleaned_25
+  - first:
+      213: 7758978780580237816
+    second: ghostly_warriors_and_spectral_mages_sprite_sheet_transparent_cleaned_26
+  - first:
+      213: -436133829851207923
+    second: ghostly_warriors_and_spectral_mages_sprite_sheet_transparent_cleaned_27
+  - first:
+      213: 8728629537651649789
+    second: ghostly_warriors_and_spectral_mages_sprite_sheet_transparent_cleaned_28
+  - first:
+      213: 712797491758962658
+    second: ghostly_warriors_and_spectral_mages_sprite_sheet_transparent_cleaned_29
+  - first:
+      213: -483869891716931853
+    second: ghostly_warriors_and_spectral_mages_sprite_sheet_transparent_cleaned_30
+  - first:
+      213: 9037117440688825407
+    second: ghostly_warriors_and_spectral_mages_sprite_sheet_transparent_cleaned_31
+  - first:
+      213: -6746051787237922351
+    second: ghostly_warriors_and_spectral_mages_sprite_sheet_transparent_cleaned_32
+  - first:
+      213: -7545035041365682301
+    second: ghostly_warriors_and_spectral_mages_sprite_sheet_transparent_cleaned_33
+  - first:
+      213: -1217484524471702219
+    second: ghostly_warriors_and_spectral_mages_sprite_sheet_transparent_cleaned_34
+  - first:
+      213: -5811564788239248557
+    second: ghostly_warriors_and_spectral_mages_sprite_sheet_transparent_cleaned_35
+  - first:
+      213: -6461587134668100586
+    second: ghostly_warriors_and_spectral_mages_sprite_sheet_transparent_cleaned_36
+  - first:
+      213: -8892982287563481744
+    second: ghostly_warriors_and_spectral_mages_sprite_sheet_transparent_cleaned_37
+  - first:
+      213: 6864107637950742390
+    second: ghostly_warriors_and_spectral_mages_sprite_sheet_transparent_cleaned_38
+  - first:
+      213: 2301911094032161497
+    second: ghostly_warriors_and_spectral_mages_sprite_sheet_transparent_cleaned_39
+  - first:
+      213: 3736795493560526076
+    second: ghostly_warriors_and_spectral_mages_sprite_sheet_transparent_cleaned_40
+  - first:
+      213: 5446874521087004329
+    second: ghostly_warriors_and_spectral_mages_sprite_sheet_transparent_cleaned_41
+  - first:
+      213: 8234353903933450621
+    second: ghostly_warriors_and_spectral_mages_sprite_sheet_transparent_cleaned_42
+  - first:
+      213: -8618771946714771564
+    second: ghostly_warriors_and_spectral_mages_sprite_sheet_transparent_cleaned_43
+  - first:
+      213: 247488305568757770
+    second: ghostly_warriors_and_spectral_mages_sprite_sheet_transparent_cleaned_44
+  - first:
+      213: 3125528784652224633
+    second: ghostly_warriors_and_spectral_mages_sprite_sheet_transparent_cleaned_45
+  - first:
+      213: -4985828418104488232
+    second: ghostly_warriors_and_spectral_mages_sprite_sheet_transparent_cleaned_46
+  - first:
+      213: -5680465359059995050
+    second: ghostly_warriors_and_spectral_mages_sprite_sheet_transparent_cleaned_47
+  - first:
+      213: -7493369097283430918
+    second: ghostly_warriors_and_spectral_mages_sprite_sheet_transparent_cleaned_48
+  - first:
+      213: -8243339982774377094
+    second: ghostly_warriors_and_spectral_mages_sprite_sheet_transparent_cleaned_49
+  - first:
+      213: -3732356607589916804
+    second: ghostly_warriors_and_spectral_mages_sprite_sheet_transparent_cleaned_50
+  - first:
+      213: -7942180281730517568
+    second: ghostly_warriors_and_spectral_mages_sprite_sheet_transparent_cleaned_51
+  - first:
+      213: -7855053517212983223
+    second: ghostly_warriors_and_spectral_mages_sprite_sheet_transparent_cleaned_52
+  - first:
+      213: 6598523052662885588
+    second: ghostly_warriors_and_spectral_mages_sprite_sheet_transparent_cleaned_53
+  - first:
+      213: 4420888973909139897
+    second: ghostly_warriors_and_spectral_mages_sprite_sheet_transparent_cleaned_54
+  - first:
+      213: -7672941748502058307
+    second: ghostly_warriors_and_spectral_mages_sprite_sheet_transparent_cleaned_55
+  - first:
+      213: 7515574119208491405
+    second: ghostly_warriors_and_spectral_mages_sprite_sheet_transparent_cleaned_56
+  - first:
+      213: 5850445569211840508
+    second: ghostly_warriors_and_spectral_mages_sprite_sheet_transparent_cleaned_57
+  - first:
+      213: 2431767607730353180
+    second: ghostly_warriors_and_spectral_mages_sprite_sheet_transparent_cleaned_58
+  - first:
+      213: 5283414626509617783
+    second: ghostly_warriors_and_spectral_mages_sprite_sheet_transparent_cleaned_59
+  - first:
+      213: -6516376020455321678
+    second: ghostly_warriors_and_spectral_mages_sprite_sheet_transparent_cleaned_60
+  - first:
+      213: 3965509419168269909
+    second: ghostly_warriors_and_spectral_mages_sprite_sheet_transparent_cleaned_61
+  - first:
+      213: -7077306442936261848
+    second: ghostly_warriors_and_spectral_mages_sprite_sheet_transparent_cleaned_62
+  - first:
+      213: 180584092652053595
+    second: ghostly_warriors_and_spectral_mages_sprite_sheet_transparent_cleaned_63
+  - first:
+      213: -1053389308676256960
+    second: ghostly_warriors_and_spectral_mages_sprite_sheet_transparent_cleaned_64
+  - first:
+      213: -3309034896963513790
+    second: ghostly_warriors_and_spectral_mages_sprite_sheet_transparent_cleaned_65
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ghostly_warriors_and_spectral_mages_sprite_sheet_transparent_cleaned_6
+      rect:
+        serializedVersion: 2
+        x: 1270
+        y: 787
+        width: 243
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 747ff19999c9e2c10800000000000000
+      internalID: 2030732665503610695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghostly_warriors_and_spectral_mages_sprite_sheet_transparent_cleaned_7
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 775
+        width: 243
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31a98e052a697cf20800000000000000
+      internalID: 3442886064034322963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghostly_warriors_and_spectral_mages_sprite_sheet_transparent_cleaned_8
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 776
+        width: 243
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 393d40e6abe738010800000000000000
+      internalID: 1189934065730769811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghostly_warriors_and_spectral_mages_sprite_sheet_transparent_cleaned_13
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 781
+        width: 243
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a19092d7735c488c0800000000000000
+      internalID: -3997853727084443366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghostly_warriors_and_spectral_mages_sprite_sheet_transparent_cleaned_14
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 785
+        width: 243
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e2b249f2c2917b50800000000000000
+      internalID: 6589209095922954981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghostly_warriors_and_spectral_mages_sprite_sheet_transparent_cleaned_15
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 778
+        width: 243
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f793b5cf3c290b010800000000000000
+      internalID: 1202622470958037375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghostly_warriors_and_spectral_mages_sprite_sheet_transparent_cleaned_19
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 547
+        width: 228
+        height: 215
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d311f3ba041dc8f50800000000000000
+      internalID: 6885108006023795005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghostly_warriors_and_spectral_mages_sprite_sheet_transparent_cleaned_21
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 547
+        width: 228
+        height: 215
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 900eecf06c954a490800000000000000
+      internalID: -7735959552712056823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghostly_warriors_and_spectral_mages_sprite_sheet_transparent_cleaned_22
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 549
+        width: 228
+        height: 215
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16317cde9be5c10a0800000000000000
+      internalID: -6909543575641975967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghostly_warriors_and_spectral_mages_sprite_sheet_transparent_cleaned_23
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 554
+        width: 228
+        height: 215
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b555d709ff050ec0800000000000000
+      internalID: -3601454764760148555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghostly_warriors_and_spectral_mages_sprite_sheet_transparent_cleaned_24
+      rect:
+        serializedVersion: 2
+        x: 1255
+        y: 555
+        width: 228
+        height: 215
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef02db93647d89320800000000000000
+      internalID: 2565036684403876094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghostly_warriors_and_spectral_mages_sprite_sheet_transparent_cleaned_25
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 544
+        width: 228
+        height: 215
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c3e5dc429a10e740800000000000000
+      internalID: 5179168787132703684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghostly_warriors_and_spectral_mages_sprite_sheet_transparent_cleaned_33
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 306
+        width: 206
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 387168dea96aa4790800000000000000
+      internalID: -7545035041365682301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghostly_warriors_and_spectral_mages_sprite_sheet_transparent_cleaned_35
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 308
+        width: 206
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 353d4d7bd9c295fa0800000000000000
+      internalID: -5811564788239248557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghostly_warriors_and_spectral_mages_sprite_sheet_transparent_cleaned_36
+      rect:
+        serializedVersion: 2
+        x: 1019
+        y: 302
+        width: 206
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61cafd86cb4d356a0800000000000000
+      internalID: -6461587134668100586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghostly_warriors_and_spectral_mages_sprite_sheet_transparent_cleaned_37
+      rect:
+        serializedVersion: 2
+        x: 1263
+        y: 302
+        width: 206
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07d10fbf9b7c59480800000000000000
+      internalID: -8892982287563481744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghostly_warriors_and_spectral_mages_sprite_sheet_transparent_cleaned_38
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 301
+        width: 206
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67f79147785324f50800000000000000
+      internalID: 6864107637950742390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghostly_warriors_and_spectral_mages_sprite_sheet_transparent_cleaned_43
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 302
+        width: 206
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49fc6f32498f36880800000000000000
+      internalID: -8618771946714771564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghostly_warriors_and_spectral_mages_sprite_sheet_transparent_cleaned_55
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 29
+        width: 186
+        height: 251
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dba254af12c348590800000000000000
+      internalID: -7672941748502058307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghostly_warriors_and_spectral_mages_sprite_sheet_transparent_cleaned_56
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 25
+        width: 186
+        height: 251
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d899a8a97deac4860800000000000000
+      internalID: 7515574119208491405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghostly_warriors_and_spectral_mages_sprite_sheet_transparent_cleaned_57
+      rect:
+        serializedVersion: 2
+        x: 1265
+        y: 30
+        width: 186
+        height: 251
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf731aa8f35f03150800000000000000
+      internalID: 5850445569211840508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghostly_warriors_and_spectral_mages_sprite_sheet_transparent_cleaned_60
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 48
+        width: 186
+        height: 251
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bf03edd88e2195a0800000000000000
+      internalID: -6516376020455321678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghostly_warriors_and_spectral_mages_sprite_sheet_transparent_cleaned_61
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 45
+        width: 186
+        height: 251
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5568dfa7ec1580730800000000000000
+      internalID: 3965509419168269909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghostly_warriors_and_spectral_mages_sprite_sheet_transparent_cleaned_63
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 50
+        width: 186
+        height: 251
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b54ac968640918200800000000000000
+      internalID: 180584092652053595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 2a6f6e4219cbee543a8707c51601a3f9
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ghostly_warriors_and_spectral_mages_sprite_sheet_transparent_cleaned_0: -1168696469567809647
+      ghostly_warriors_and_spectral_mages_sprite_sheet_transparent_cleaned_1: 68168861712816735
+      ghostly_warriors_and_spectral_mages_sprite_sheet_transparent_cleaned_10: 6653631408034214215
+      ghostly_warriors_and_spectral_mages_sprite_sheet_transparent_cleaned_11: 4415255410206494259
+      ghostly_warriors_and_spectral_mages_sprite_sheet_transparent_cleaned_12: -4013576482966459258
+      ghostly_warriors_and_spectral_mages_sprite_sheet_transparent_cleaned_13: -3997853727084443366
+      ghostly_warriors_and_spectral_mages_sprite_sheet_transparent_cleaned_14: 6589209095922954981
+      ghostly_warriors_and_spectral_mages_sprite_sheet_transparent_cleaned_15: 1202622470958037375
+      ghostly_warriors_and_spectral_mages_sprite_sheet_transparent_cleaned_16: 8473663856960755679
+      ghostly_warriors_and_spectral_mages_sprite_sheet_transparent_cleaned_17: -1648207189648072487
+      ghostly_warriors_and_spectral_mages_sprite_sheet_transparent_cleaned_18: 3185771204389822893
+      ghostly_warriors_and_spectral_mages_sprite_sheet_transparent_cleaned_19: 6885108006023795005
+      ghostly_warriors_and_spectral_mages_sprite_sheet_transparent_cleaned_2: 2121953892096062984
+      ghostly_warriors_and_spectral_mages_sprite_sheet_transparent_cleaned_20: -318466146428730792
+      ghostly_warriors_and_spectral_mages_sprite_sheet_transparent_cleaned_21: -7735959552712056823
+      ghostly_warriors_and_spectral_mages_sprite_sheet_transparent_cleaned_22: -6909543575641975967
+      ghostly_warriors_and_spectral_mages_sprite_sheet_transparent_cleaned_23: -3601454764760148555
+      ghostly_warriors_and_spectral_mages_sprite_sheet_transparent_cleaned_24: 2565036684403876094
+      ghostly_warriors_and_spectral_mages_sprite_sheet_transparent_cleaned_25: 5179168787132703684
+      ghostly_warriors_and_spectral_mages_sprite_sheet_transparent_cleaned_26: 7758978780580237816
+      ghostly_warriors_and_spectral_mages_sprite_sheet_transparent_cleaned_27: -436133829851207923
+      ghostly_warriors_and_spectral_mages_sprite_sheet_transparent_cleaned_28: 8728629537651649789
+      ghostly_warriors_and_spectral_mages_sprite_sheet_transparent_cleaned_29: 712797491758962658
+      ghostly_warriors_and_spectral_mages_sprite_sheet_transparent_cleaned_3: -9019883625135628145
+      ghostly_warriors_and_spectral_mages_sprite_sheet_transparent_cleaned_30: -483869891716931853
+      ghostly_warriors_and_spectral_mages_sprite_sheet_transparent_cleaned_31: 9037117440688825407
+      ghostly_warriors_and_spectral_mages_sprite_sheet_transparent_cleaned_32: -6746051787237922351
+      ghostly_warriors_and_spectral_mages_sprite_sheet_transparent_cleaned_33: -7545035041365682301
+      ghostly_warriors_and_spectral_mages_sprite_sheet_transparent_cleaned_34: -1217484524471702219
+      ghostly_warriors_and_spectral_mages_sprite_sheet_transparent_cleaned_35: -5811564788239248557
+      ghostly_warriors_and_spectral_mages_sprite_sheet_transparent_cleaned_36: -6461587134668100586
+      ghostly_warriors_and_spectral_mages_sprite_sheet_transparent_cleaned_37: -8892982287563481744
+      ghostly_warriors_and_spectral_mages_sprite_sheet_transparent_cleaned_38: 6864107637950742390
+      ghostly_warriors_and_spectral_mages_sprite_sheet_transparent_cleaned_39: 2301911094032161497
+      ghostly_warriors_and_spectral_mages_sprite_sheet_transparent_cleaned_4: 1863700684510532189
+      ghostly_warriors_and_spectral_mages_sprite_sheet_transparent_cleaned_40: 3736795493560526076
+      ghostly_warriors_and_spectral_mages_sprite_sheet_transparent_cleaned_41: 5446874521087004329
+      ghostly_warriors_and_spectral_mages_sprite_sheet_transparent_cleaned_42: 8234353903933450621
+      ghostly_warriors_and_spectral_mages_sprite_sheet_transparent_cleaned_43: -8618771946714771564
+      ghostly_warriors_and_spectral_mages_sprite_sheet_transparent_cleaned_44: 247488305568757770
+      ghostly_warriors_and_spectral_mages_sprite_sheet_transparent_cleaned_45: 3125528784652224633
+      ghostly_warriors_and_spectral_mages_sprite_sheet_transparent_cleaned_46: -4985828418104488232
+      ghostly_warriors_and_spectral_mages_sprite_sheet_transparent_cleaned_47: -5680465359059995050
+      ghostly_warriors_and_spectral_mages_sprite_sheet_transparent_cleaned_48: -7493369097283430918
+      ghostly_warriors_and_spectral_mages_sprite_sheet_transparent_cleaned_49: -8243339982774377094
+      ghostly_warriors_and_spectral_mages_sprite_sheet_transparent_cleaned_5: 3652971834628503624
+      ghostly_warriors_and_spectral_mages_sprite_sheet_transparent_cleaned_50: -3732356607589916804
+      ghostly_warriors_and_spectral_mages_sprite_sheet_transparent_cleaned_51: -7942180281730517568
+      ghostly_warriors_and_spectral_mages_sprite_sheet_transparent_cleaned_52: -7855053517212983223
+      ghostly_warriors_and_spectral_mages_sprite_sheet_transparent_cleaned_53: 6598523052662885588
+      ghostly_warriors_and_spectral_mages_sprite_sheet_transparent_cleaned_54: 4420888973909139897
+      ghostly_warriors_and_spectral_mages_sprite_sheet_transparent_cleaned_55: -7672941748502058307
+      ghostly_warriors_and_spectral_mages_sprite_sheet_transparent_cleaned_56: 7515574119208491405
+      ghostly_warriors_and_spectral_mages_sprite_sheet_transparent_cleaned_57: 5850445569211840508
+      ghostly_warriors_and_spectral_mages_sprite_sheet_transparent_cleaned_58: 2431767607730353180
+      ghostly_warriors_and_spectral_mages_sprite_sheet_transparent_cleaned_59: 5283414626509617783
+      ghostly_warriors_and_spectral_mages_sprite_sheet_transparent_cleaned_6: 2030732665503610695
+      ghostly_warriors_and_spectral_mages_sprite_sheet_transparent_cleaned_60: -6516376020455321678
+      ghostly_warriors_and_spectral_mages_sprite_sheet_transparent_cleaned_61: 3965509419168269909
+      ghostly_warriors_and_spectral_mages_sprite_sheet_transparent_cleaned_62: -7077306442936261848
+      ghostly_warriors_and_spectral_mages_sprite_sheet_transparent_cleaned_63: 180584092652053595
+      ghostly_warriors_and_spectral_mages_sprite_sheet_transparent_cleaned_64: -1053389308676256960
+      ghostly_warriors_and_spectral_mages_sprite_sheet_transparent_cleaned_65: -3309034896963513790
+      ghostly_warriors_and_spectral_mages_sprite_sheet_transparent_cleaned_7: 3442886064034322963
+      ghostly_warriors_and_spectral_mages_sprite_sheet_transparent_cleaned_8: 1189934065730769811
+      ghostly_warriors_and_spectral_mages_sprite_sheet_transparent_cleaned_9: -123650104126757895
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

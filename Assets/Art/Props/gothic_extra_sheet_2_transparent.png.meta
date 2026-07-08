@@ -1,0 +1,1742 @@
+fileFormatVersion: 2
+guid: e19a9dfe830433f408afebf0611cfd6d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2604889474211725584
+    second: gothic_extra_sheet_2_transparent_0
+  - first:
+      213: -9187402828117182225
+    second: gothic_extra_sheet_2_transparent_1
+  - first:
+      213: -9052891561367195317
+    second: gothic_extra_sheet_2_transparent_2
+  - first:
+      213: -6060795214903291280
+    second: gothic_extra_sheet_2_transparent_3
+  - first:
+      213: -5959943220373578741
+    second: gothic_extra_sheet_2_transparent_4
+  - first:
+      213: 1067259479358772793
+    second: gothic_extra_sheet_2_transparent_5
+  - first:
+      213: -5205373541090270085
+    second: gothic_extra_sheet_2_transparent_6
+  - first:
+      213: -1762939273219883440
+    second: gothic_extra_sheet_2_transparent_7
+  - first:
+      213: 8135054326426171126
+    second: gothic_extra_sheet_2_transparent_8
+  - first:
+      213: -3657987796760041013
+    second: gothic_extra_sheet_2_transparent_9
+  - first:
+      213: -8777582894564654258
+    second: gothic_extra_sheet_2_transparent_10
+  - first:
+      213: 6427323341664477951
+    second: gothic_extra_sheet_2_transparent_11
+  - first:
+      213: 4994889102146834783
+    second: gothic_extra_sheet_2_transparent_12
+  - first:
+      213: -9037055724670774677
+    second: gothic_extra_sheet_2_transparent_13
+  - first:
+      213: 1821486547540855302
+    second: gothic_extra_sheet_2_transparent_14
+  - first:
+      213: 6150356555356422266
+    second: gothic_extra_sheet_2_transparent_15
+  - first:
+      213: -9000142327113096629
+    second: gothic_extra_sheet_2_transparent_16
+  - first:
+      213: -2627274990720238320
+    second: gothic_extra_sheet_2_transparent_17
+  - first:
+      213: -1439650680264693650
+    second: gothic_extra_sheet_2_transparent_18
+  - first:
+      213: 1382000994221998084
+    second: gothic_extra_sheet_2_transparent_19
+  - first:
+      213: 8228025212539580256
+    second: gothic_extra_sheet_2_transparent_20
+  - first:
+      213: -6772656619026122136
+    second: gothic_extra_sheet_2_transparent_21
+  - first:
+      213: 6726855926887387674
+    second: gothic_extra_sheet_2_transparent_22
+  - first:
+      213: -8228351518581421729
+    second: gothic_extra_sheet_2_transparent_23
+  - first:
+      213: 2155708919808799837
+    second: gothic_extra_sheet_2_transparent_24
+  - first:
+      213: -4477730819644303811
+    second: gothic_extra_sheet_2_transparent_25
+  - first:
+      213: -3044062214081632431
+    second: gothic_extra_sheet_2_transparent_26
+  - first:
+      213: 7781349799723810248
+    second: gothic_extra_sheet_2_transparent_27
+  - first:
+      213: 3438180021364889125
+    second: gothic_extra_sheet_2_transparent_28
+  - first:
+      213: -7362838870787132150
+    second: gothic_extra_sheet_2_transparent_29
+  - first:
+      213: -4796370914910910259
+    second: gothic_extra_sheet_2_transparent_30
+  - first:
+      213: 5250635066852729427
+    second: gothic_extra_sheet_2_transparent_31
+  - first:
+      213: 5893554334497459431
+    second: gothic_extra_sheet_2_transparent_32
+  - first:
+      213: -2964331636181420163
+    second: gothic_extra_sheet_2_transparent_33
+  - first:
+      213: -5343364660953578826
+    second: gothic_extra_sheet_2_transparent_34
+  - first:
+      213: 7437971838506976026
+    second: gothic_extra_sheet_2_transparent_35
+  - first:
+      213: -6373209977896544598
+    second: gothic_extra_sheet_2_transparent_36
+  - first:
+      213: 3756305832605350467
+    second: gothic_extra_sheet_2_transparent_37
+  - first:
+      213: -1700064835038352265
+    second: gothic_extra_sheet_2_transparent_38
+  - first:
+      213: 1047829595121354644
+    second: gothic_extra_sheet_2_transparent_39
+  - first:
+      213: -6381065462511473266
+    second: gothic_extra_sheet_2_transparent_40
+  - first:
+      213: -6502038066859561204
+    second: gothic_extra_sheet_2_transparent_41
+  - first:
+      213: -1384683527475805202
+    second: gothic_extra_sheet_2_transparent_42
+  - first:
+      213: -697067073538876947
+    second: gothic_extra_sheet_2_transparent_43
+  - first:
+      213: -677259880427851368
+    second: gothic_extra_sheet_2_transparent_44
+  - first:
+      213: 3419720238933166815
+    second: gothic_extra_sheet_2_transparent_45
+  - first:
+      213: 2871712859438971705
+    second: gothic_extra_sheet_2_transparent_46
+  - first:
+      213: 6292388340715748435
+    second: gothic_extra_sheet_2_transparent_47
+  - first:
+      213: -5274395463357205501
+    second: gothic_extra_sheet_2_transparent_48
+  - first:
+      213: -5464465089139774265
+    second: gothic_extra_sheet_2_transparent_49
+  - first:
+      213: 3358364322614228564
+    second: gothic_extra_sheet_2_transparent_50
+  - first:
+      213: -482448474462214779
+    second: gothic_extra_sheet_2_transparent_51
+  - first:
+      213: -6377044024006420095
+    second: gothic_extra_sheet_2_transparent_52
+  - first:
+      213: 1800684733616298066
+    second: gothic_extra_sheet_2_transparent_53
+  - first:
+      213: -1973503277042060817
+    second: gothic_extra_sheet_2_transparent_54
+  - first:
+      213: -7556290727133938145
+    second: gothic_extra_sheet_2_transparent_55
+  - first:
+      213: -6379445816806596776
+    second: gothic_extra_sheet_2_transparent_56
+  - first:
+      213: -7556047354178117158
+    second: gothic_extra_sheet_2_transparent_57
+  - first:
+      213: 8578321232610362678
+    second: gothic_extra_sheet_2_transparent_58
+  - first:
+      213: -6432778392152124144
+    second: gothic_extra_sheet_2_transparent_59
+  - first:
+      213: -6401821286383497648
+    second: gothic_extra_sheet_2_transparent_60
+  - first:
+      213: -7149585515657023592
+    second: gothic_extra_sheet_2_transparent_61
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: gothic_extra_sheet_2_transparent_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 978
+        width: 567
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0114b8dec2d662420800000000000000
+      internalID: 2604889474211725584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gothic_extra_sheet_2_transparent_1
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 968
+        width: 217
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe8f7a50ec9cf7080800000000000000
+      internalID: -9187402828117182225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gothic_extra_sheet_2_transparent_2
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 970
+        width: 121
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b41b396d61bad5280800000000000000
+      internalID: -9052891561367195317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gothic_extra_sheet_2_transparent_3
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 970
+        width: 276
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0725d4f0ddab3eba0800000000000000
+      internalID: -6060795214903291280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gothic_extra_sheet_2_transparent_4
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 964
+        width: 146
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0c922cd7370a4da0800000000000000
+      internalID: -5959943220373578741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gothic_extra_sheet_2_transparent_5
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 857
+        width: 499
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 936195687daafce00800000000000000
+      internalID: 1067259479358772793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gothic_extra_sheet_2_transparent_6
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 857
+        width: 131
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b74e818f75cc2c7b0800000000000000
+      internalID: -5205373541090270085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gothic_extra_sheet_2_transparent_7
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 865
+        width: 103
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05eb42b4218c887e0800000000000000
+      internalID: -1762939273219883440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gothic_extra_sheet_2_transparent_8
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 855
+        width: 173
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f6f22bfec485e070800000000000000
+      internalID: 8135054326426171126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gothic_extra_sheet_2_transparent_9
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 857
+        width: 193
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc9676dca773c3dc0800000000000000
+      internalID: -3657987796760041013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gothic_extra_sheet_2_transparent_10
+      rect:
+        serializedVersion: 2
+        x: 1209
+        y: 865
+        width: 219
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e43cdeeecd2cf2680800000000000000
+      internalID: -8777582894564654258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gothic_extra_sheet_2_transparent_11
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 734
+        width: 359
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff2ec7c9680723950800000000000000
+      internalID: 6427323341664477951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gothic_extra_sheet_2_transparent_12
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 732
+        width: 300
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f519ee1ac29615540800000000000000
+      internalID: 4994889102146834783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gothic_extra_sheet_2_transparent_13
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 734
+        width: 124
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b629693e2bde59280800000000000000
+      internalID: -9037055724670774677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gothic_extra_sheet_2_transparent_14
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 735
+        width: 265
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60a43554d58374910800000000000000
+      internalID: 1821486547540855302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gothic_extra_sheet_2_transparent_15
+      rect:
+        serializedVersion: 2
+        x: 1147
+        y: 751
+        width: 138
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a70c30c73b47a5550800000000000000
+      internalID: 6150356555356422266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gothic_extra_sheet_2_transparent_16
+      rect:
+        serializedVersion: 2
+        x: 1307
+        y: 742
+        width: 120
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4267700d32191380800000000000000
+      internalID: -9000142327113096629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gothic_extra_sheet_2_transparent_17
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 618
+        width: 205
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01d3adad05b0a8bd0800000000000000
+      internalID: -2627274990720238320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gothic_extra_sheet_2_transparent_18
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 601
+        width: 99
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e686c2a7555550ce0800000000000000
+      internalID: -1439650680264693650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gothic_extra_sheet_2_transparent_19
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 601
+        width: 341
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 400c6d3059add2310800000000000000
+      internalID: 1382000994221998084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gothic_extra_sheet_2_transparent_20
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 606
+        width: 176
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06f216c3651df2270800000000000000
+      internalID: 8228025212539580256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gothic_extra_sheet_2_transparent_21
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 625
+        width: 51
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86aff3520b0b202a0800000000000000
+      internalID: -6772656619026122136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gothic_extra_sheet_2_transparent_22
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 594
+        width: 148
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a129a5933d79a5d50800000000000000
+      internalID: 6726855926887387674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gothic_extra_sheet_2_transparent_23
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 602
+        width: 145
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5988e7b3e50fcd80800000000000000
+      internalID: -8228351518581421729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gothic_extra_sheet_2_transparent_24
+      rect:
+        serializedVersion: 2
+        x: 1337
+        y: 617
+        width: 90
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d54385457dd9aed10800000000000000
+      internalID: 2155708919808799837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gothic_extra_sheet_2_transparent_25
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 465
+        width: 162
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3658472b87ebd1c0800000000000000
+      internalID: -4477730819644303811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gothic_extra_sheet_2_transparent_26
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 486
+        width: 154
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 157a97f5b8151c5d0800000000000000
+      internalID: -3044062214081632431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gothic_extra_sheet_2_transparent_27
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 464
+        width: 135
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cd389d5a68ecfb60800000000000000
+      internalID: 7781349799723810248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gothic_extra_sheet_2_transparent_28
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 464
+        width: 90
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5269c4f538ed6bf20800000000000000
+      internalID: 3438180021364889125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gothic_extra_sheet_2_transparent_29
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 479
+        width: 120
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a057b489e01f1d990800000000000000
+      internalID: -7362838870787132150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gothic_extra_sheet_2_transparent_30
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 462
+        width: 117
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc848bda01edf6db0800000000000000
+      internalID: -4796370914910910259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gothic_extra_sheet_2_transparent_31
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 479
+        width: 52
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35267f436c00ed840800000000000000
+      internalID: 5250635066852729427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gothic_extra_sheet_2_transparent_32
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 480
+        width: 141
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ec4f2c117c1ac150800000000000000
+      internalID: 5893554334497459431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gothic_extra_sheet_2_transparent_33
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 458
+        width: 119
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7734f425149cd6d0800000000000000
+      internalID: -2964331636181420163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gothic_extra_sheet_2_transparent_34
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 471
+        width: 125
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b28c76b62e88d5b0800000000000000
+      internalID: -5343364660953578826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gothic_extra_sheet_2_transparent_35
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 306
+        width: 179
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a134193aafbf83760800000000000000
+      internalID: 7437971838506976026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gothic_extra_sheet_2_transparent_36
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 343
+        width: 199
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa65084ba4fcd87a0800000000000000
+      internalID: -6373209977896544598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gothic_extra_sheet_2_transparent_37
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 319
+        width: 107
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34a7b24c044112430800000000000000
+      internalID: 3756305832605350467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gothic_extra_sheet_2_transparent_38
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 306
+        width: 165
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77ce7643a082868e0800000000000000
+      internalID: -1700064835038352265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gothic_extra_sheet_2_transparent_39
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 306
+        width: 91
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49789521773aa8e00800000000000000
+      internalID: 1047829595121354644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gothic_extra_sheet_2_transparent_40
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 339
+        width: 180
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8d6d7a25c6e177a0800000000000000
+      internalID: -6381065462511473266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gothic_extra_sheet_2_transparent_41
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 306
+        width: 118
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0fa4c4d3de14c5a0800000000000000
+      internalID: -6502038066859561204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gothic_extra_sheet_2_transparent_42
+      rect:
+        serializedVersion: 2
+        x: 1162
+        y: 305
+        width: 97
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee3487a0bad98cce0800000000000000
+      internalID: -1384683527475805202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gothic_extra_sheet_2_transparent_43
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 306
+        width: 148
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de9181990358356f0800000000000000
+      internalID: -697067073538876947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gothic_extra_sheet_2_transparent_44
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 175
+        width: 229
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 891797e1ab3e996f0800000000000000
+      internalID: -677259880427851368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gothic_extra_sheet_2_transparent_45
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 175
+        width: 189
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fda43d85079457f20800000000000000
+      internalID: 3419720238933166815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gothic_extra_sheet_2_transparent_46
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 172
+        width: 214
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93bf7c371af5ad720800000000000000
+      internalID: 2871712859438971705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gothic_extra_sheet_2_transparent_47
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 161
+        width: 177
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35cfb2d7bdd035750800000000000000
+      internalID: 6292388340715748435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gothic_extra_sheet_2_transparent_48
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 161
+        width: 96
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30479a165459dc6b0800000000000000
+      internalID: -5274395463357205501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gothic_extra_sheet_2_transparent_49
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 167
+        width: 115
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ccec4214f15a24b0800000000000000
+      internalID: -5464465089139774265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gothic_extra_sheet_2_transparent_50
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 164
+        width: 75
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45634cbde8e4b9e20800000000000000
+      internalID: 3358364322614228564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gothic_extra_sheet_2_transparent_51
+      rect:
+        serializedVersion: 2
+        x: 1292
+        y: 162
+        width: 139
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58520492baffd49f0800000000000000
+      internalID: -482448474462214779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gothic_extra_sheet_2_transparent_52
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 29
+        width: 131
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 189d1184f303087a0800000000000000
+      internalID: -6377044024006420095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gothic_extra_sheet_2_transparent_53
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 29
+        width: 124
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2581bab89315df810800000000000000
+      internalID: 1800684733616298066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gothic_extra_sheet_2_transparent_54
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 29
+        width: 167
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe1b6d0c935bc94e0800000000000000
+      internalID: -1973503277042060817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gothic_extra_sheet_2_transparent_55
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 29
+        width: 142
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1e7a9d5e99a22790800000000000000
+      internalID: -7556290727133938145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gothic_extra_sheet_2_transparent_56
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 29
+        width: 69
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85f146154d7a777a0800000000000000
+      internalID: -6379445816806596776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gothic_extra_sheet_2_transparent_57
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 29
+        width: 140
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad1ee2c07f6832790800000000000000
+      internalID: -7556047354178117158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gothic_extra_sheet_2_transparent_58
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 29
+        width: 80
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6358eee06b15c0770800000000000000
+      internalID: 8578321232610362678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gothic_extra_sheet_2_transparent_59
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 29
+        width: 75
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 015d6f8722e2ab6a0800000000000000
+      internalID: -6432778392152124144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gothic_extra_sheet_2_transparent_60
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 29
+        width: 70
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05ec39555792827a0800000000000000
+      internalID: -6401821286383497648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gothic_extra_sheet_2_transparent_61
+      rect:
+        serializedVersion: 2
+        x: 1242
+        y: 29
+        width: 189
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89f2cf78ad197cc90800000000000000
+      internalID: -7149585515657023592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      gothic_extra_sheet_2_transparent_0: 2604889474211725584
+      gothic_extra_sheet_2_transparent_1: -9187402828117182225
+      gothic_extra_sheet_2_transparent_10: -8777582894564654258
+      gothic_extra_sheet_2_transparent_11: 6427323341664477951
+      gothic_extra_sheet_2_transparent_12: 4994889102146834783
+      gothic_extra_sheet_2_transparent_13: -9037055724670774677
+      gothic_extra_sheet_2_transparent_14: 1821486547540855302
+      gothic_extra_sheet_2_transparent_15: 6150356555356422266
+      gothic_extra_sheet_2_transparent_16: -9000142327113096629
+      gothic_extra_sheet_2_transparent_17: -2627274990720238320
+      gothic_extra_sheet_2_transparent_18: -1439650680264693650
+      gothic_extra_sheet_2_transparent_19: 1382000994221998084
+      gothic_extra_sheet_2_transparent_2: -9052891561367195317
+      gothic_extra_sheet_2_transparent_20: 8228025212539580256
+      gothic_extra_sheet_2_transparent_21: -6772656619026122136
+      gothic_extra_sheet_2_transparent_22: 6726855926887387674
+      gothic_extra_sheet_2_transparent_23: -8228351518581421729
+      gothic_extra_sheet_2_transparent_24: 2155708919808799837
+      gothic_extra_sheet_2_transparent_25: -4477730819644303811
+      gothic_extra_sheet_2_transparent_26: -3044062214081632431
+      gothic_extra_sheet_2_transparent_27: 7781349799723810248
+      gothic_extra_sheet_2_transparent_28: 3438180021364889125
+      gothic_extra_sheet_2_transparent_29: -7362838870787132150
+      gothic_extra_sheet_2_transparent_3: -6060795214903291280
+      gothic_extra_sheet_2_transparent_30: -4796370914910910259
+      gothic_extra_sheet_2_transparent_31: 5250635066852729427
+      gothic_extra_sheet_2_transparent_32: 5893554334497459431
+      gothic_extra_sheet_2_transparent_33: -2964331636181420163
+      gothic_extra_sheet_2_transparent_34: -5343364660953578826
+      gothic_extra_sheet_2_transparent_35: 7437971838506976026
+      gothic_extra_sheet_2_transparent_36: -6373209977896544598
+      gothic_extra_sheet_2_transparent_37: 3756305832605350467
+      gothic_extra_sheet_2_transparent_38: -1700064835038352265
+      gothic_extra_sheet_2_transparent_39: 1047829595121354644
+      gothic_extra_sheet_2_transparent_4: -5959943220373578741
+      gothic_extra_sheet_2_transparent_40: -6381065462511473266
+      gothic_extra_sheet_2_transparent_41: -6502038066859561204
+      gothic_extra_sheet_2_transparent_42: -1384683527475805202
+      gothic_extra_sheet_2_transparent_43: -697067073538876947
+      gothic_extra_sheet_2_transparent_44: -677259880427851368
+      gothic_extra_sheet_2_transparent_45: 3419720238933166815
+      gothic_extra_sheet_2_transparent_46: 2871712859438971705
+      gothic_extra_sheet_2_transparent_47: 6292388340715748435
+      gothic_extra_sheet_2_transparent_48: -5274395463357205501
+      gothic_extra_sheet_2_transparent_49: -5464465089139774265
+      gothic_extra_sheet_2_transparent_5: 1067259479358772793
+      gothic_extra_sheet_2_transparent_50: 3358364322614228564
+      gothic_extra_sheet_2_transparent_51: -482448474462214779
+      gothic_extra_sheet_2_transparent_52: -6377044024006420095
+      gothic_extra_sheet_2_transparent_53: 1800684733616298066
+      gothic_extra_sheet_2_transparent_54: -1973503277042060817
+      gothic_extra_sheet_2_transparent_55: -7556290727133938145
+      gothic_extra_sheet_2_transparent_56: -6379445816806596776
+      gothic_extra_sheet_2_transparent_57: -7556047354178117158
+      gothic_extra_sheet_2_transparent_58: 8578321232610362678
+      gothic_extra_sheet_2_transparent_59: -6432778392152124144
+      gothic_extra_sheet_2_transparent_6: -5205373541090270085
+      gothic_extra_sheet_2_transparent_60: -6401821286383497648
+      gothic_extra_sheet_2_transparent_61: -7149585515657023592
+      gothic_extra_sheet_2_transparent_7: -1762939273219883440
+      gothic_extra_sheet_2_transparent_8: 8135054326426171126
+      gothic_extra_sheet_2_transparent_9: -3657987796760041013
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,4784 @@
+fileFormatVersion: 2
+guid: 8b160f42ec6847c43aef499e44e6aa42
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5476835546816306191
+    second: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_0
+  - first:
+      213: 1520720843737325038
+    second: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_1
+  - first:
+      213: 3273153583251578952
+    second: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_2
+  - first:
+      213: 3499119931130351446
+    second: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_3
+  - first:
+      213: -514326716273281798
+    second: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_4
+  - first:
+      213: -3317269130958526373
+    second: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_5
+  - first:
+      213: -1746801473906502894
+    second: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_6
+  - first:
+      213: 8737234882428013529
+    second: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_7
+  - first:
+      213: 5921064164649332684
+    second: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_8
+  - first:
+      213: 71292629349069867
+    second: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_9
+  - first:
+      213: -2576118446544247267
+    second: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_10
+  - first:
+      213: 3538825946194895630
+    second: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_11
+  - first:
+      213: -3923381995166455947
+    second: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_12
+  - first:
+      213: 581918391212982649
+    second: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_13
+  - first:
+      213: 3824083078346485208
+    second: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_14
+  - first:
+      213: -3338100544068768562
+    second: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_15
+  - first:
+      213: -3852893456622245725
+    second: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_16
+  - first:
+      213: 2207043516786099866
+    second: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_17
+  - first:
+      213: 768358337449505776
+    second: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_18
+  - first:
+      213: -4516333820494862567
+    second: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_19
+  - first:
+      213: -8734128594925837431
+    second: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_20
+  - first:
+      213: 754947367506293467
+    second: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_21
+  - first:
+      213: -4639686445130220072
+    second: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_22
+  - first:
+      213: -7905440777636413714
+    second: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_23
+  - first:
+      213: 7899951775707704227
+    second: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_24
+  - first:
+      213: -7914455866324897971
+    second: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_25
+  - first:
+      213: 6853387282075992053
+    second: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_26
+  - first:
+      213: 1029759916682950656
+    second: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_27
+  - first:
+      213: -3358617087804347064
+    second: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_28
+  - first:
+      213: -1753159087081513560
+    second: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_29
+  - first:
+      213: -2734743300963334539
+    second: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_30
+  - first:
+      213: -904485405189263887
+    second: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_31
+  - first:
+      213: 3170724167180879960
+    second: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_32
+  - first:
+      213: 9091689169560616838
+    second: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_33
+  - first:
+      213: 6113514897322319941
+    second: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_34
+  - first:
+      213: -7250171789897701319
+    second: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_35
+  - first:
+      213: 7626724305585083289
+    second: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_36
+  - first:
+      213: -1193658944037319814
+    second: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_37
+  - first:
+      213: 8579426184255302368
+    second: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_38
+  - first:
+      213: 598969806568844969
+    second: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_39
+  - first:
+      213: 5116876905130642166
+    second: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_40
+  - first:
+      213: 1409129824378056662
+    second: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_41
+  - first:
+      213: 2332308054728633033
+    second: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_42
+  - first:
+      213: -4548314736718392104
+    second: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_43
+  - first:
+      213: 4747148676890000893
+    second: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_44
+  - first:
+      213: -3949149547784770038
+    second: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_45
+  - first:
+      213: 7125766224300440638
+    second: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_46
+  - first:
+      213: 5696470621936708170
+    second: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_47
+  - first:
+      213: -5503815880656584582
+    second: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_48
+  - first:
+      213: -220471955865820084
+    second: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_49
+  - first:
+      213: 4848336395481156357
+    second: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_50
+  - first:
+      213: 7141861253692319633
+    second: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_51
+  - first:
+      213: 6845704496348664586
+    second: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_52
+  - first:
+      213: -3428221136290829128
+    second: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_53
+  - first:
+      213: 6569697027404543564
+    second: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_54
+  - first:
+      213: 3553861079138329877
+    second: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_55
+  - first:
+      213: -3786870570465926066
+    second: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_56
+  - first:
+      213: 8195052509738186493
+    second: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_57
+  - first:
+      213: 2628357908337762279
+    second: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_58
+  - first:
+      213: -2571258834313967448
+    second: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_59
+  - first:
+      213: 3741898776308476219
+    second: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_60
+  - first:
+      213: 6775637681533850170
+    second: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_61
+  - first:
+      213: 1005787753623418967
+    second: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_62
+  - first:
+      213: 1431359516212097271
+    second: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_63
+  - first:
+      213: -7749735958956947985
+    second: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_64
+  - first:
+      213: -3370881168847779065
+    second: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_65
+  - first:
+      213: -2336814054739654371
+    second: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_66
+  - first:
+      213: -4801540563785734389
+    second: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_67
+  - first:
+      213: 1767145470449752564
+    second: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_68
+  - first:
+      213: -5690887883329503274
+    second: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_69
+  - first:
+      213: -3199428121717870842
+    second: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_70
+  - first:
+      213: -3479373109095210652
+    second: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_71
+  - first:
+      213: 1302727636073984540
+    second: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_72
+  - first:
+      213: -8495105690039948251
+    second: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_73
+  - first:
+      213: -272724260681408212
+    second: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_74
+  - first:
+      213: -6850913394019376161
+    second: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_75
+  - first:
+      213: -5446391354612252169
+    second: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_76
+  - first:
+      213: -6148564618603933511
+    second: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_77
+  - first:
+      213: 7266947978907469232
+    second: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_78
+  - first:
+      213: 6561363013236735066
+    second: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_79
+  - first:
+      213: -441612254325565953
+    second: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_80
+  - first:
+      213: 4778063993737809916
+    second: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_81
+  - first:
+      213: 4613204066742298874
+    second: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_82
+  - first:
+      213: 9221434215412167460
+    second: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_83
+  - first:
+      213: -6311516971592108621
+    second: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_84
+  - first:
+      213: -4071729793917931408
+    second: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_85
+  - first:
+      213: -3965687170441501264
+    second: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_86
+  - first:
+      213: 8881160681602550937
+    second: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_87
+  - first:
+      213: -2782133751470537889
+    second: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_88
+  - first:
+      213: 7870587409532776582
+    second: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_89
+  - first:
+      213: -8100405608279683374
+    second: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_90
+  - first:
+      213: 4412541998542613916
+    second: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_91
+  - first:
+      213: 4960950832459719181
+    second: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_92
+  - first:
+      213: 5740023395284929236
+    second: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_93
+  - first:
+      213: 8008431482554027462
+    second: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_94
+  - first:
+      213: 565564508207563334
+    second: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_95
+  - first:
+      213: 8818426993908696859
+    second: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_96
+  - first:
+      213: -2526559025900853685
+    second: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_97
+  - first:
+      213: -1236668131773166777
+    second: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_98
+  - first:
+      213: 750357277182548742
+    second: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_99
+  - first:
+      213: 2264119884247668734
+    second: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_100
+  - first:
+      213: 3448108103585158678
+    second: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_101
+  - first:
+      213: -1730336362857072274
+    second: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_102
+  - first:
+      213: -6896231609330506704
+    second: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_103
+  - first:
+      213: 1141867697203128746
+    second: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_104
+  - first:
+      213: -1723556429852452570
+    second: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_105
+  - first:
+      213: 6020065384849976843
+    second: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_106
+  - first:
+      213: -8542312795326916872
+    second: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_107
+  - first:
+      213: -7537684177765766090
+    second: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_108
+  - first:
+      213: -2503841802591123045
+    second: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_109
+  - first:
+      213: -2993004736695865595
+    second: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_110
+  - first:
+      213: -8755965842614687582
+    second: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_111
+  - first:
+      213: 1285126585905729359
+    second: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_112
+  - first:
+      213: -7947219252742002084
+    second: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_113
+  - first:
+      213: 8844640761202547940
+    second: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_114
+  - first:
+      213: 4353111852944464304
+    second: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_115
+  - first:
+      213: -9042985003743928609
+    second: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_116
+  - first:
+      213: 576812628762167950
+    second: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_117
+  - first:
+      213: 7076405108464221982
+    second: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_118
+  - first:
+      213: 6386868746031821227
+    second: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_119
+  - first:
+      213: 5970818070884363518
+    second: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_120
+  - first:
+      213: -2251253306041635605
+    second: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_121
+  - first:
+      213: 8355399099211083125
+    second: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_122
+  - first:
+      213: -7241052913738187364
+    second: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_123
+  - first:
+      213: -2796272650129702252
+    second: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_124
+  - first:
+      213: -8303190940606166348
+    second: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_125
+  - first:
+      213: -5602829960101308829
+    second: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_126
+  - first:
+      213: 4568241455872427466
+    second: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_127
+  - first:
+      213: -2122294000103711431
+    second: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_128
+  - first:
+      213: -4510678195025668423
+    second: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_129
+  - first:
+      213: 2731841673162831512
+    second: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_130
+  - first:
+      213: -5790712855947918029
+    second: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_131
+  - first:
+      213: -8175900341063270137
+    second: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_132
+  - first:
+      213: 7888904503062298072
+    second: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_133
+  - first:
+      213: -4428521600541573528
+    second: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_134
+  - first:
+      213: 298265450315364493
+    second: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_135
+  - first:
+      213: -3495046736351469357
+    second: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_136
+  - first:
+      213: 583729356767629086
+    second: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_137
+  - first:
+      213: -5537180200669648300
+    second: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_138
+  - first:
+      213: 5113654150098653980
+    second: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_139
+  - first:
+      213: -9119844994188043954
+    second: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_140
+  - first:
+      213: -6920563018034575429
+    second: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_141
+  - first:
+      213: 7465803942820089302
+    second: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_142
+  - first:
+      213: 3378153306005936861
+    second: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_143
+  - first:
+      213: 5244782849013894616
+    second: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_144
+  - first:
+      213: -1279232682209720488
+    second: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_145
+  - first:
+      213: -2404997032534247491
+    second: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_146
+  - first:
+      213: -6420342101388009138
+    second: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_147
+  - first:
+      213: 6901042945150982595
+    second: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_148
+  - first:
+      213: -8710510368889157631
+    second: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_149
+  - first:
+      213: 7178084502078514144
+    second: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_150
+  - first:
+      213: -7046717274098101595
+    second: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_151
+  - first:
+      213: -7725322887988260664
+    second: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_152
+  - first:
+      213: -2052949321636517185
+    second: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_153
+  - first:
+      213: -550121231773373269
+    second: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_154
+  - first:
+      213: -5228440989324892355
+    second: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_155
+  - first:
+      213: -5219951435209977631
+    second: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_156
+  - first:
+      213: 5199588649731788498
+    second: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_157
+  - first:
+      213: -9133281865125166676
+    second: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_158
+  - first:
+      213: 1053270587639826047
+    second: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_159
+  - first:
+      213: 1839393686482730372
+    second: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_160
+  - first:
+      213: 1836941046790211313
+    second: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_161
+  - first:
+      213: -6904920037038891649
+    second: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_162
+  - first:
+      213: 3245976359094571812
+    second: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_163
+  - first:
+      213: -100028008768604366
+    second: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_164
+  - first:
+      213: -74416328266311828
+    second: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_165
+  - first:
+      213: -836229224381247892
+    second: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_166
+  - first:
+      213: 6520266239781479529
+    second: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_167
+  - first:
+      213: -6429813863721369668
+    second: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_168
+  - first:
+      213: -8147076389252998545
+    second: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_169
+  - first:
+      213: -9115033334871161927
+    second: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_170
+  - first:
+      213: -5708105173638849588
+    second: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_171
+  - first:
+      213: 4288436587036367366
+    second: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_172
+  - first:
+      213: -6751599053697977457
+    second: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_173
+  - first:
+      213: 58567813938645146
+    second: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_174
+  - first:
+      213: -1712892438863007068
+    second: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_175
+  - first:
+      213: -6930571067560938693
+    second: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_176
+  - first:
+      213: 2957760463895471852
+    second: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_177
+  - first:
+      213: -4135508562267073887
+    second: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_178
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_0
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 1174
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0cd73d89e0a10c40800000000000000
+      internalID: 5476835546816306191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_1
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 1179
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eedde7ddc8faa1510800000000000000
+      internalID: 1520720843737325038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_2
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 1010
+        width: 155
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 840e10197d39c6d20800000000000000
+      internalID: 3273153583251578952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_3
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 1183
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65f8389c90f5f8030800000000000000
+      internalID: 3499119931130351446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_4
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 1179
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af4b90a939ebcd8f0800000000000000
+      internalID: -514326716273281798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_5
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 1011
+        width: 175
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5829d01d41b6f1d0800000000000000
+      internalID: -3317269130958526373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_6
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 1010
+        width: 176
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2139cae705d12c7e0800000000000000
+      internalID: -1746801473906502894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_7
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 1169
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9db064e65d4e04970800000000000000
+      internalID: 8737234882428013529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_8
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1169
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccfe7329c78db2250800000000000000
+      internalID: 5921064164649332684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_9
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 1009
+        width: 177
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b247477c4484df000800000000000000
+      internalID: 71292629349069867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_10
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 1166
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d162666fbe9cf3cd0800000000000000
+      internalID: -2576118446544247267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_11
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 1009
+        width: 175
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e03e1e4d27f6c1130800000000000000
+      internalID: 3538825946194895630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_12
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 1169
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 577a0f3ccd85d89c0800000000000000
+      internalID: -3923381995166455947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_13
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 1094
+        width: 28
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 971448491b3631800800000000000000
+      internalID: 581918391212982649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_14
+      rect:
+        serializedVersion: 2
+        x: 1108
+        y: 1140
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ddac648c4fd11530800000000000000
+      internalID: 3824083078346485208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_15
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 1124
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecc2e3ebd3faca1d0800000000000000
+      internalID: -3338100544068768562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_16
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 1118
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a8aa9090d5c78ac0800000000000000
+      internalID: -3852893456622245725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_17
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 930
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a964dd5926ef0ae10800000000000000
+      internalID: 2207043516786099866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_18
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 925
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f333e346d1c9aa00800000000000000
+      internalID: 768358337449505776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_19
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 929
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 917225e9152c251c0800000000000000
+      internalID: -4516333820494862567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_20
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 937
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9832ddc71542ac680800000000000000
+      internalID: -8734128594925837431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_21
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 904
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd2345081ac1a7a00800000000000000
+      internalID: 754947367506293467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_22
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 934
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dd71d0a2c58c9fb0800000000000000
+      internalID: -4639686445130220072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_23
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 772
+        width: 155
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeef7106f7b3a4290800000000000000
+      internalID: -7905440777636413714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_24
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 927
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ab26c5c84442ad60800000000000000
+      internalID: 7899951775707704227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_25
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 769
+        width: 184
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4fa23972543a2290800000000000000
+      internalID: -7914455866324897971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_26
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 769
+        width: 169
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ffb1581c6f1c1f50800000000000000
+      internalID: 6853387282075992053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_27
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 917
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 008b2d530317a4e00800000000000000
+      internalID: 1029759916682950656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_28
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 769
+        width: 175
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84d6dd8ad8bc361d0800000000000000
+      internalID: -3358617087804347064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_29
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 773
+        width: 146
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ad12c359178ba7e0800000000000000
+      internalID: -1753159087081513560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_30
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 925
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5768332057d3c0ad0800000000000000
+      internalID: -2734743300963334539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_31
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 893
+        width: 50
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fd2b2fe05f9273f0800000000000000
+      internalID: -904485405189263887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_32
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 893
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8580091b4dca00c20800000000000000
+      internalID: 3170724167180879960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_33
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 849
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68f3def312b2c2e70800000000000000
+      internalID: 9091689169560616838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_34
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 896
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 540a4f7886197d450800000000000000
+      internalID: 6113514897322319941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_35
+      rect:
+        serializedVersion: 2
+        x: 1163
+        y: 844
+        width: 29
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 938e69e8b27326b90800000000000000
+      internalID: -7250171789897701319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_36
+      rect:
+        serializedVersion: 2
+        x: 1174
+        y: 896
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9939c3a095197d960800000000000000
+      internalID: 7626724305585083289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_37
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 882
+        width: 26
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7b00b1c3854f6fe0800000000000000
+      internalID: -1193658944037319814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_38
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 880
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0eae839a8ae301770800000000000000
+      internalID: 8579426184255302368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_39
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 877
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ae68b79dd7ff4800800000000000000
+      internalID: 598969806568844969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_40
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 865
+        width: 35
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fa46b15f6cc20740800000000000000
+      internalID: 5116876905130642166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_41
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 820
+        width: 25
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6df66700c1c3e8310800000000000000
+      internalID: 1409129824378056662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_42
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 846
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cae1e491d50e5020800000000000000
+      internalID: 2332308054728633033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_43
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 826
+        width: 32
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d4d93f48d321e0c0800000000000000
+      internalID: -4548314736718392104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_44
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 814
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfd7ef5f19241e140800000000000000
+      internalID: 4747148676890000893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_45
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 777
+        width: 48
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0ee467e86dc139c0800000000000000
+      internalID: -3949149547784770038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_46
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 765
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3c77e780aec3e260800000000000000
+      internalID: 7125766224300440638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_47
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 697
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4a6cf579dded0f40800000000000000
+      internalID: 5696470621936708170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_48
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 697
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a708f44fd948e93b0800000000000000
+      internalID: -5503815880656584582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_49
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 511
+        width: 197
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c44aeab9ce9b0fcf0800000000000000
+      internalID: -220471955865820084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_50
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 692
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50b804c9340c84340800000000000000
+      internalID: 4848336395481156357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_51
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 692
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 197e47598fcfc1360800000000000000
+      internalID: 7141861253692319633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_52
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 697
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a03182628f3d00f50800000000000000
+      internalID: 6845704496348664586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_53
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 684
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bc26ef3a038c60d0800000000000000
+      internalID: -3428221136290829128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_54
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 502
+        width: 191
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c46336083a04c2b50800000000000000
+      internalID: 6569697027404543564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_55
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 695
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 515602382d9d15130800000000000000
+      internalID: 3553861079138329877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_56
+      rect:
+        serializedVersion: 2
+        x: 1103
+        y: 697
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e446ff4a745527bc0800000000000000
+      internalID: -3786870570465926066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_57
+      rect:
+        serializedVersion: 2
+        x: 1119
+        y: 689
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df63e9e96dcaab170800000000000000
+      internalID: 8195052509738186493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_58
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 519
+        width: 154
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ef9f0d879dc97420800000000000000
+      internalID: 2628357908337762279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_59
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 519
+        width: 197
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a8812b96bd015cd0800000000000000
+      internalID: -2571258834313967448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_60
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 686
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b39e5539c15ede330800000000000000
+      internalID: 3741898776308476219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_61
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 686
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a32939e8296e70e50800000000000000
+      internalID: 6775637681533850170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_62
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 687
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 758792e02a645fd00800000000000000
+      internalID: 1005787753623418967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_63
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 689
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f072b575e53dd310800000000000000
+      internalID: 1431359516212097271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_64
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 681
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe5cc478438637490800000000000000
+      internalID: -7749735958956947985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_65
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 502
+        width: 197
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70b46c6cf693831d0800000000000000
+      internalID: -3370881168847779065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_66
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 675
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d194a198ff7f19fd0800000000000000
+      internalID: -2336814054739654371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_67
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 601
+        width: 28
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b072ce00c408d5db0800000000000000
+      internalID: -4801540563785734389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_68
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 652
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f919905179268810800000000000000
+      internalID: 1767145470449752564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_69
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 624
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dff1992f97e501b0800000000000000
+      internalID: -5690887883329503274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_70
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 627
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60f6c9813195993d0800000000000000
+      internalID: -3199428121717870842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_71
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 633
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 461655f7798c6bfc0800000000000000
+      internalID: -3479373109095210652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_72
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 630
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c12364302e7341210800000000000000
+      internalID: 1302727636073984540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_73
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 615
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52ce4c742625b1a80800000000000000
+      internalID: -8495105690039948251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_74
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 621
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c212478dab6173cf0800000000000000
+      internalID: -272724260681408212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_75
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 617
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd3628ad09aace0a0800000000000000
+      internalID: -6850913394019376161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_76
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 601
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f104905be78a64b0800000000000000
+      internalID: -5446391354612252169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_77
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 594
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b0d39d4e09ebaaa0800000000000000
+      internalID: -6148564618603933511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_78
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 596
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b5c5045fa269d460800000000000000
+      internalID: 7266947978907469232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_79
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 593
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5cbc5e95e4ae0b50800000000000000
+      internalID: 6561363013236735066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_80
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 596
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff517749ef31fd9f0800000000000000
+      internalID: -441612254325565953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_81
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 579
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cff83d413e71f4240800000000000000
+      internalID: 4778063993737809916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_82
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 582
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af8ef8a28a4650040800000000000000
+      internalID: 4613204066742298874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_83
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 575
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4237649cf8d19ff70800000000000000
+      internalID: 9221434215412167460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_84
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 567
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b5376211ccf868a0800000000000000
+      internalID: -6311516971592108621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_85
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 570
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 070b52c435f4e77c0800000000000000
+      internalID: -4071729793917931408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_86
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 556
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b5a283978c07f8c0800000000000000
+      internalID: -3965687170441501264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_87
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 556
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99c0614e598304b70800000000000000
+      internalID: 8881160681602550937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_88
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 541
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5349f9e710e369d0800000000000000
+      internalID: -2782133751470537889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_89
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 432
+        width: 6
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 680fcde7c81f93d60800000000000000
+      internalID: 7870587409532776582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_90
+      rect:
+        serializedVersion: 2
+        x: 1103
+        y: 473
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2de48ed5404959f80800000000000000
+      internalID: -8100405608279683374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_91
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 457
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9def9ba19f7c3d30800000000000000
+      internalID: 4412541998542613916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_92
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 444
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d02a0f47f76d8d440800000000000000
+      internalID: 4960950832459719181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_93
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 464
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dac366bdd8a8af40800000000000000
+      internalID: 5740023395284929236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_94
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 463
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cd00bdb00aa32f60800000000000000
+      internalID: 8008431482554027462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_95
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 460
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 642c7497ce949d700800000000000000
+      internalID: 565564508207563334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_96
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 438
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b17c4a101a8516a70800000000000000
+      internalID: 8818426993908696859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_97
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 452
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b466f15c3fbdfecd0800000000000000
+      internalID: -2526559025900853685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_98
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 449
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74b4d94e2e876dee0800000000000000
+      internalID: -1236668131773166777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_99
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 444
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60b5811d7fdc96a00800000000000000
+      internalID: 750357277182548742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_100
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 449
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef71b75f905cb6f10800000000000000
+      internalID: 2264119884247668734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_101
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 439
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 616d6552d042adf20800000000000000
+      internalID: 3448108103585158678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_102
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 255
+        width: 285
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6976f5ee3c9cf7e0800000000000000
+      internalID: -1730336362857072274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_103
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 229
+        width: 250
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 034e80d93e9ab40a0800000000000000
+      internalID: -6896231609330506704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_104
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 238
+        width: 193
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa92948ee9ab8df00800000000000000
+      internalID: 1141867697203128746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_105
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 441
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 629dd401f82b418e0800000000000000
+      internalID: -1723556429852452570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_106
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 436
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0eab9462919b8350800000000000000
+      internalID: 6020065384849976843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_107
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 232
+        width: 201
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f6d34295cb937980800000000000000
+      internalID: -8542312795326916872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_108
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 424
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63c603b3d24c46790800000000000000
+      internalID: -7537684177765766090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_109
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 413
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9948ce7521904dd0800000000000000
+      internalID: -2503841802591123045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_110
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 397
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50f6e22bc06b676d0800000000000000
+      internalID: -2993004736695865595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_111
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 404
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a86f7d057f8c7680800000000000000
+      internalID: -8755965842614687582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_112
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 317
+        width: 30
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4f425c22dfa5d110800000000000000
+      internalID: 1285126585905729359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_113
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 390
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5aea20223ec5b190800000000000000
+      internalID: -7947219252742002084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_114
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 385
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ec1b6159e97eba70800000000000000
+      internalID: 8844640761202547940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_115
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 381
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b91c4e9a2c596c30800000000000000
+      internalID: 4353111852944464304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_116
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 382
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fde98a60d0dd08280800000000000000
+      internalID: -9042985003743928609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_117
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 298
+        width: 28
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8a045f9700410800800000000000000
+      internalID: 576812628762167950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_118
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 360
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1ff4c824f0743260800000000000000
+      internalID: 7076405108464221982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_119
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 360
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba175421947b2a850800000000000000
+      internalID: 6386868746031821227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_120
+      rect:
+        serializedVersion: 2
+        x: 1213
+        y: 362
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efcab85966b9cd250800000000000000
+      internalID: 5970818070884363518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_121
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 344
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bece6f9bb01f1c0e0800000000000000
+      internalID: -2251253306041635605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_122
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 352
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57d6811463754f370800000000000000
+      internalID: 8355399099211083125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_123
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 352
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9df3dc5dbc928b90800000000000000
+      internalID: -7241052913738187364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_124
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 330
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49201e907d4a139d0800000000000000
+      internalID: -2796272650129702252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_125
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 325
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ba8deae4d325cc80800000000000000
+      internalID: -8303190940606166348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_126
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 311
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 366de3b16dfbe32b0800000000000000
+      internalID: -5602829960101308829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_127
+      rect:
+        serializedVersion: 2
+        x: 1204
+        y: 322
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac54d798667a56f30800000000000000
+      internalID: 4568241455872427466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_128
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 311
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93d10eee9d81c82e0800000000000000
+      internalID: -2122294000103711431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_129
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 310
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b61569841ad661c0800000000000000
+      internalID: -4510678195025668423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_130
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 310
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 896ba7f178379e520800000000000000
+      internalID: 2731841673162831512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_131
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 269
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 335cfe8865143afa0800000000000000
+      internalID: -5790712855947918029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_132
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 265
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 701cde325fd598e80800000000000000
+      internalID: -8175900341063270137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_133
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 282
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ddf10c29d40b7d60800000000000000
+      internalID: 7888904503062298072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_134
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 282
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86e339f411bba82c0800000000000000
+      internalID: -4428521600541573528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_135
+      rect:
+        serializedVersion: 2
+        x: 1204
+        y: 284
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d88b1d6c8d6a32400800000000000000
+      internalID: 298265450315364493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_136
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 271
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d0e166c2891f7fc0800000000000000
+      internalID: -3495046736351469357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_137
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 249
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1f0a1bd1c2d91800800000000000000
+      internalID: 583729356767629086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_138
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 241
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45a62c9d1fbf723b0800000000000000
+      internalID: -5537180200669648300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_139
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 249
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1315d03b5957f640800000000000000
+      internalID: 5113654150098653980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_140
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 235
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e491ccafb4dcf6180800000000000000
+      internalID: -9119844994188043954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_141
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 226
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb708501a9835ff90800000000000000
+      internalID: -6920563018034575429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_142
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 224
+        width: 30
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dd8086612ddb9760800000000000000
+      internalID: 7465803942820089302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_143
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 233
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dda9b49988c91ee20800000000000000
+      internalID: 3378153306005936861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_144
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 223
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ddc88f863639c840800000000000000
+      internalID: 5244782849013894616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_145
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 224
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 857c1d737a04f3ee0800000000000000
+      internalID: -1279232682209720488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_146
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 221
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db77dede0fbbf9ed0800000000000000
+      internalID: -2404997032534247491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_147
+      rect:
+        serializedVersion: 2
+        x: 1106
+        y: 218
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e41684e00ec56e6a0800000000000000
+      internalID: -6420342101388009138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_148
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 223
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c9907dcefd65cf50800000000000000
+      internalID: 6901042945150982595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_149
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 37
+        width: 148
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 108410248fc0e1780800000000000000
+      internalID: -8710510368889157631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_150
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 191
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e36022d2ddad9360800000000000000
+      internalID: 7178084502078514144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_151
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 191
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a216cc69f7053e90800000000000000
+      internalID: -7046717274098101595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_152
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 37
+        width: 169
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c0d34e83c32ac490800000000000000
+      internalID: -7725322887988260664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_153
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 190
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbae9fd08757283e0800000000000000
+      internalID: -2052949321636517185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_154
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 179
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bac6fb487a39d58f0800000000000000
+      internalID: -550121231773373269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_155
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 37
+        width: 155
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d37a2362f98d077b0800000000000000
+      internalID: -5228440989324892355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_156
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 191
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e0d48f73d10f87b0800000000000000
+      internalID: -5219951435209977631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_157
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 183
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2de8a6d0456a82840800000000000000
+      internalID: 5199588649731788498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_158
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 37
+        width: 165
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca182bba880104180800000000000000
+      internalID: -9133281865125166676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_159
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 185
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7683acd408fd9e00800000000000000
+      internalID: 1053270587639826047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_160
+      rect:
+        serializedVersion: 2
+        x: 1069
+        y: 188
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48d36e4ffc6d68910800000000000000
+      internalID: 1839393686482730372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_161
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 182
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f6c34746202e7910800000000000000
+      internalID: 1836941046790211313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_162
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 137
+        width: 25
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7dd1d56fcbcc20a0800000000000000
+      internalID: -6904920037038891649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_163
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 173
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 423d529fc460c0d20800000000000000
+      internalID: 3245976359094571812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_164
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 127
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 237f1c55e01ac9ef0800000000000000
+      internalID: -100028008768604366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_165
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 37
+        width: 152
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6792346ebe97fef0800000000000000
+      internalID: -74416328266311828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_166
+      rect:
+        serializedVersion: 2
+        x: 1122
+        y: 126
+        width: 26
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6e84f173fd1564f0800000000000000
+      internalID: -836229224381247892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_167
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 162
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 964a5276993ac7a50800000000000000
+      internalID: 6520266239781479529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_168
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 156
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbf71098b56b4c6a0800000000000000
+      internalID: -6429813863721369668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_169
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 159
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6a5a946035cfee80800000000000000
+      internalID: -8147076389252998545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_170
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 108
+        width: 26
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b30927b975e08180800000000000000
+      internalID: -9115033334871161927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_171
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 159
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccbdfa0669cb8c0b0800000000000000
+      internalID: -5708105173638849588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_172
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 111
+        width: 26
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60a5714da56938b30800000000000000
+      internalID: 4288436587036367366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_173
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 148
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f83f772ae608d42a0800000000000000
+      internalID: -6751599053697977457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_174
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 130
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a988511dd1310d000800000000000000
+      internalID: 58567813938645146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_175
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 89
+        width: 26
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a23e13f6659a38e0800000000000000
+      internalID: -1712892438863007068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_176
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 137
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b333e63755aa1df90800000000000000
+      internalID: -6930571067560938693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_177
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 99
+        width: 27
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce62f2598731c0920800000000000000
+      internalID: 2957760463895471852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magical_shielded_creature_sprite_sheet_transparent_5x5_250px_178
+      rect:
+        serializedVersion: 2
+        x: 1174
+        y: 136
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a21c7c9fd8bb96c0800000000000000
+      internalID: -4135508562267073887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      magical_shielded_creature_sprite_sheet_transparent_5x5_250px_0: 5476835546816306191
+      magical_shielded_creature_sprite_sheet_transparent_5x5_250px_1: 1520720843737325038
+      magical_shielded_creature_sprite_sheet_transparent_5x5_250px_10: -2576118446544247267
+      magical_shielded_creature_sprite_sheet_transparent_5x5_250px_100: 2264119884247668734
+      magical_shielded_creature_sprite_sheet_transparent_5x5_250px_101: 3448108103585158678
+      magical_shielded_creature_sprite_sheet_transparent_5x5_250px_102: -1730336362857072274
+      magical_shielded_creature_sprite_sheet_transparent_5x5_250px_103: -6896231609330506704
+      magical_shielded_creature_sprite_sheet_transparent_5x5_250px_104: 1141867697203128746
+      magical_shielded_creature_sprite_sheet_transparent_5x5_250px_105: -1723556429852452570
+      magical_shielded_creature_sprite_sheet_transparent_5x5_250px_106: 6020065384849976843
+      magical_shielded_creature_sprite_sheet_transparent_5x5_250px_107: -8542312795326916872
+      magical_shielded_creature_sprite_sheet_transparent_5x5_250px_108: -7537684177765766090
+      magical_shielded_creature_sprite_sheet_transparent_5x5_250px_109: -2503841802591123045
+      magical_shielded_creature_sprite_sheet_transparent_5x5_250px_11: 3538825946194895630
+      magical_shielded_creature_sprite_sheet_transparent_5x5_250px_110: -2993004736695865595
+      magical_shielded_creature_sprite_sheet_transparent_5x5_250px_111: -8755965842614687582
+      magical_shielded_creature_sprite_sheet_transparent_5x5_250px_112: 1285126585905729359
+      magical_shielded_creature_sprite_sheet_transparent_5x5_250px_113: -7947219252742002084
+      magical_shielded_creature_sprite_sheet_transparent_5x5_250px_114: 8844640761202547940
+      magical_shielded_creature_sprite_sheet_transparent_5x5_250px_115: 4353111852944464304
+      magical_shielded_creature_sprite_sheet_transparent_5x5_250px_116: -9042985003743928609
+      magical_shielded_creature_sprite_sheet_transparent_5x5_250px_117: 576812628762167950
+      magical_shielded_creature_sprite_sheet_transparent_5x5_250px_118: 7076405108464221982
+      magical_shielded_creature_sprite_sheet_transparent_5x5_250px_119: 6386868746031821227
+      magical_shielded_creature_sprite_sheet_transparent_5x5_250px_12: -3923381995166455947
+      magical_shielded_creature_sprite_sheet_transparent_5x5_250px_120: 5970818070884363518
+      magical_shielded_creature_sprite_sheet_transparent_5x5_250px_121: -2251253306041635605
+      magical_shielded_creature_sprite_sheet_transparent_5x5_250px_122: 8355399099211083125
+      magical_shielded_creature_sprite_sheet_transparent_5x5_250px_123: -7241052913738187364
+      magical_shielded_creature_sprite_sheet_transparent_5x5_250px_124: -2796272650129702252
+      magical_shielded_creature_sprite_sheet_transparent_5x5_250px_125: -8303190940606166348
+      magical_shielded_creature_sprite_sheet_transparent_5x5_250px_126: -5602829960101308829
+      magical_shielded_creature_sprite_sheet_transparent_5x5_250px_127: 4568241455872427466
+      magical_shielded_creature_sprite_sheet_transparent_5x5_250px_128: -2122294000103711431
+      magical_shielded_creature_sprite_sheet_transparent_5x5_250px_129: -4510678195025668423
+      magical_shielded_creature_sprite_sheet_transparent_5x5_250px_13: 581918391212982649
+      magical_shielded_creature_sprite_sheet_transparent_5x5_250px_130: 2731841673162831512
+      magical_shielded_creature_sprite_sheet_transparent_5x5_250px_131: -5790712855947918029
+      magical_shielded_creature_sprite_sheet_transparent_5x5_250px_132: -8175900341063270137
+      magical_shielded_creature_sprite_sheet_transparent_5x5_250px_133: 7888904503062298072
+      magical_shielded_creature_sprite_sheet_transparent_5x5_250px_134: -4428521600541573528
+      magical_shielded_creature_sprite_sheet_transparent_5x5_250px_135: 298265450315364493
+      magical_shielded_creature_sprite_sheet_transparent_5x5_250px_136: -3495046736351469357
+      magical_shielded_creature_sprite_sheet_transparent_5x5_250px_137: 583729356767629086
+      magical_shielded_creature_sprite_sheet_transparent_5x5_250px_138: -5537180200669648300
+      magical_shielded_creature_sprite_sheet_transparent_5x5_250px_139: 5113654150098653980
+      magical_shielded_creature_sprite_sheet_transparent_5x5_250px_14: 3824083078346485208
+      magical_shielded_creature_sprite_sheet_transparent_5x5_250px_140: -9119844994188043954
+      magical_shielded_creature_sprite_sheet_transparent_5x5_250px_141: -6920563018034575429
+      magical_shielded_creature_sprite_sheet_transparent_5x5_250px_142: 7465803942820089302
+      magical_shielded_creature_sprite_sheet_transparent_5x5_250px_143: 3378153306005936861
+      magical_shielded_creature_sprite_sheet_transparent_5x5_250px_144: 5244782849013894616
+      magical_shielded_creature_sprite_sheet_transparent_5x5_250px_145: -1279232682209720488
+      magical_shielded_creature_sprite_sheet_transparent_5x5_250px_146: -2404997032534247491
+      magical_shielded_creature_sprite_sheet_transparent_5x5_250px_147: -6420342101388009138
+      magical_shielded_creature_sprite_sheet_transparent_5x5_250px_148: 6901042945150982595
+      magical_shielded_creature_sprite_sheet_transparent_5x5_250px_149: -8710510368889157631
+      magical_shielded_creature_sprite_sheet_transparent_5x5_250px_15: -3338100544068768562
+      magical_shielded_creature_sprite_sheet_transparent_5x5_250px_150: 7178084502078514144
+      magical_shielded_creature_sprite_sheet_transparent_5x5_250px_151: -7046717274098101595
+      magical_shielded_creature_sprite_sheet_transparent_5x5_250px_152: -7725322887988260664
+      magical_shielded_creature_sprite_sheet_transparent_5x5_250px_153: -2052949321636517185
+      magical_shielded_creature_sprite_sheet_transparent_5x5_250px_154: -550121231773373269
+      magical_shielded_creature_sprite_sheet_transparent_5x5_250px_155: -5228440989324892355
+      magical_shielded_creature_sprite_sheet_transparent_5x5_250px_156: -5219951435209977631
+      magical_shielded_creature_sprite_sheet_transparent_5x5_250px_157: 5199588649731788498
+      magical_shielded_creature_sprite_sheet_transparent_5x5_250px_158: -9133281865125166676
+      magical_shielded_creature_sprite_sheet_transparent_5x5_250px_159: 1053270587639826047
+      magical_shielded_creature_sprite_sheet_transparent_5x5_250px_16: -3852893456622245725
+      magical_shielded_creature_sprite_sheet_transparent_5x5_250px_160: 1839393686482730372
+      magical_shielded_creature_sprite_sheet_transparent_5x5_250px_161: 1836941046790211313
+      magical_shielded_creature_sprite_sheet_transparent_5x5_250px_162: -6904920037038891649
+      magical_shielded_creature_sprite_sheet_transparent_5x5_250px_163: 3245976359094571812
+      magical_shielded_creature_sprite_sheet_transparent_5x5_250px_164: -100028008768604366
+      magical_shielded_creature_sprite_sheet_transparent_5x5_250px_165: -74416328266311828
+      magical_shielded_creature_sprite_sheet_transparent_5x5_250px_166: -836229224381247892
+      magical_shielded_creature_sprite_sheet_transparent_5x5_250px_167: 6520266239781479529
+      magical_shielded_creature_sprite_sheet_transparent_5x5_250px_168: -6429813863721369668
+      magical_shielded_creature_sprite_sheet_transparent_5x5_250px_169: -8147076389252998545
+      magical_shielded_creature_sprite_sheet_transparent_5x5_250px_17: 2207043516786099866
+      magical_shielded_creature_sprite_sheet_transparent_5x5_250px_170: -9115033334871161927
+      magical_shielded_creature_sprite_sheet_transparent_5x5_250px_171: -5708105173638849588
+      magical_shielded_creature_sprite_sheet_transparent_5x5_250px_172: 4288436587036367366
+      magical_shielded_creature_sprite_sheet_transparent_5x5_250px_173: -6751599053697977457
+      magical_shielded_creature_sprite_sheet_transparent_5x5_250px_174: 58567813938645146
+      magical_shielded_creature_sprite_sheet_transparent_5x5_250px_175: -1712892438863007068
+      magical_shielded_creature_sprite_sheet_transparent_5x5_250px_176: -6930571067560938693
+      magical_shielded_creature_sprite_sheet_transparent_5x5_250px_177: 2957760463895471852
+      magical_shielded_creature_sprite_sheet_transparent_5x5_250px_178: -4135508562267073887
+      magical_shielded_creature_sprite_sheet_transparent_5x5_250px_18: 768358337449505776
+      magical_shielded_creature_sprite_sheet_transparent_5x5_250px_19: -4516333820494862567
+      magical_shielded_creature_sprite_sheet_transparent_5x5_250px_2: 3273153583251578952
+      magical_shielded_creature_sprite_sheet_transparent_5x5_250px_20: -8734128594925837431
+      magical_shielded_creature_sprite_sheet_transparent_5x5_250px_21: 754947367506293467
+      magical_shielded_creature_sprite_sheet_transparent_5x5_250px_22: -4639686445130220072
+      magical_shielded_creature_sprite_sheet_transparent_5x5_250px_23: -7905440777636413714
+      magical_shielded_creature_sprite_sheet_transparent_5x5_250px_24: 7899951775707704227
+      magical_shielded_creature_sprite_sheet_transparent_5x5_250px_25: -7914455866324897971
+      magical_shielded_creature_sprite_sheet_transparent_5x5_250px_26: 6853387282075992053
+      magical_shielded_creature_sprite_sheet_transparent_5x5_250px_27: 1029759916682950656
+      magical_shielded_creature_sprite_sheet_transparent_5x5_250px_28: -3358617087804347064
+      magical_shielded_creature_sprite_sheet_transparent_5x5_250px_29: -1753159087081513560
+      magical_shielded_creature_sprite_sheet_transparent_5x5_250px_3: 3499119931130351446
+      magical_shielded_creature_sprite_sheet_transparent_5x5_250px_30: -2734743300963334539
+      magical_shielded_creature_sprite_sheet_transparent_5x5_250px_31: -904485405189263887
+      magical_shielded_creature_sprite_sheet_transparent_5x5_250px_32: 3170724167180879960
+      magical_shielded_creature_sprite_sheet_transparent_5x5_250px_33: 9091689169560616838
+      magical_shielded_creature_sprite_sheet_transparent_5x5_250px_34: 6113514897322319941
+      magical_shielded_creature_sprite_sheet_transparent_5x5_250px_35: -7250171789897701319
+      magical_shielded_creature_sprite_sheet_transparent_5x5_250px_36: 7626724305585083289
+      magical_shielded_creature_sprite_sheet_transparent_5x5_250px_37: -1193658944037319814
+      magical_shielded_creature_sprite_sheet_transparent_5x5_250px_38: 8579426184255302368
+      magical_shielded_creature_sprite_sheet_transparent_5x5_250px_39: 598969806568844969
+      magical_shielded_creature_sprite_sheet_transparent_5x5_250px_4: -514326716273281798
+      magical_shielded_creature_sprite_sheet_transparent_5x5_250px_40: 5116876905130642166
+      magical_shielded_creature_sprite_sheet_transparent_5x5_250px_41: 1409129824378056662
+      magical_shielded_creature_sprite_sheet_transparent_5x5_250px_42: 2332308054728633033
+      magical_shielded_creature_sprite_sheet_transparent_5x5_250px_43: -4548314736718392104
+      magical_shielded_creature_sprite_sheet_transparent_5x5_250px_44: 4747148676890000893
+      magical_shielded_creature_sprite_sheet_transparent_5x5_250px_45: -3949149547784770038
+      magical_shielded_creature_sprite_sheet_transparent_5x5_250px_46: 7125766224300440638
+      magical_shielded_creature_sprite_sheet_transparent_5x5_250px_47: 5696470621936708170
+      magical_shielded_creature_sprite_sheet_transparent_5x5_250px_48: -5503815880656584582
+      magical_shielded_creature_sprite_sheet_transparent_5x5_250px_49: -220471955865820084
+      magical_shielded_creature_sprite_sheet_transparent_5x5_250px_5: -3317269130958526373
+      magical_shielded_creature_sprite_sheet_transparent_5x5_250px_50: 4848336395481156357
+      magical_shielded_creature_sprite_sheet_transparent_5x5_250px_51: 7141861253692319633
+      magical_shielded_creature_sprite_sheet_transparent_5x5_250px_52: 6845704496348664586
+      magical_shielded_creature_sprite_sheet_transparent_5x5_250px_53: -3428221136290829128
+      magical_shielded_creature_sprite_sheet_transparent_5x5_250px_54: 6569697027404543564
+      magical_shielded_creature_sprite_sheet_transparent_5x5_250px_55: 3553861079138329877
+      magical_shielded_creature_sprite_sheet_transparent_5x5_250px_56: -3786870570465926066
+      magical_shielded_creature_sprite_sheet_transparent_5x5_250px_57: 8195052509738186493
+      magical_shielded_creature_sprite_sheet_transparent_5x5_250px_58: 2628357908337762279
+      magical_shielded_creature_sprite_sheet_transparent_5x5_250px_59: -2571258834313967448
+      magical_shielded_creature_sprite_sheet_transparent_5x5_250px_6: -1746801473906502894
+      magical_shielded_creature_sprite_sheet_transparent_5x5_250px_60: 3741898776308476219
+      magical_shielded_creature_sprite_sheet_transparent_5x5_250px_61: 6775637681533850170
+      magical_shielded_creature_sprite_sheet_transparent_5x5_250px_62: 1005787753623418967
+      magical_shielded_creature_sprite_sheet_transparent_5x5_250px_63: 1431359516212097271
+      magical_shielded_creature_sprite_sheet_transparent_5x5_250px_64: -7749735958956947985
+      magical_shielded_creature_sprite_sheet_transparent_5x5_250px_65: -3370881168847779065
+      magical_shielded_creature_sprite_sheet_transparent_5x5_250px_66: -2336814054739654371
+      magical_shielded_creature_sprite_sheet_transparent_5x5_250px_67: -4801540563785734389
+      magical_shielded_creature_sprite_sheet_transparent_5x5_250px_68: 1767145470449752564
+      magical_shielded_creature_sprite_sheet_transparent_5x5_250px_69: -5690887883329503274
+      magical_shielded_creature_sprite_sheet_transparent_5x5_250px_7: 8737234882428013529
+      magical_shielded_creature_sprite_sheet_transparent_5x5_250px_70: -3199428121717870842
+      magical_shielded_creature_sprite_sheet_transparent_5x5_250px_71: -3479373109095210652
+      magical_shielded_creature_sprite_sheet_transparent_5x5_250px_72: 1302727636073984540
+      magical_shielded_creature_sprite_sheet_transparent_5x5_250px_73: -8495105690039948251
+      magical_shielded_creature_sprite_sheet_transparent_5x5_250px_74: -272724260681408212
+      magical_shielded_creature_sprite_sheet_transparent_5x5_250px_75: -6850913394019376161
+      magical_shielded_creature_sprite_sheet_transparent_5x5_250px_76: -5446391354612252169
+      magical_shielded_creature_sprite_sheet_transparent_5x5_250px_77: -6148564618603933511
+      magical_shielded_creature_sprite_sheet_transparent_5x5_250px_78: 7266947978907469232
+      magical_shielded_creature_sprite_sheet_transparent_5x5_250px_79: 6561363013236735066
+      magical_shielded_creature_sprite_sheet_transparent_5x5_250px_8: 5921064164649332684
+      magical_shielded_creature_sprite_sheet_transparent_5x5_250px_80: -441612254325565953
+      magical_shielded_creature_sprite_sheet_transparent_5x5_250px_81: 4778063993737809916
+      magical_shielded_creature_sprite_sheet_transparent_5x5_250px_82: 4613204066742298874
+      magical_shielded_creature_sprite_sheet_transparent_5x5_250px_83: 9221434215412167460
+      magical_shielded_creature_sprite_sheet_transparent_5x5_250px_84: -6311516971592108621
+      magical_shielded_creature_sprite_sheet_transparent_5x5_250px_85: -4071729793917931408
+      magical_shielded_creature_sprite_sheet_transparent_5x5_250px_86: -3965687170441501264
+      magical_shielded_creature_sprite_sheet_transparent_5x5_250px_87: 8881160681602550937
+      magical_shielded_creature_sprite_sheet_transparent_5x5_250px_88: -2782133751470537889
+      magical_shielded_creature_sprite_sheet_transparent_5x5_250px_89: 7870587409532776582
+      magical_shielded_creature_sprite_sheet_transparent_5x5_250px_9: 71292629349069867
+      magical_shielded_creature_sprite_sheet_transparent_5x5_250px_90: -8100405608279683374
+      magical_shielded_creature_sprite_sheet_transparent_5x5_250px_91: 4412541998542613916
+      magical_shielded_creature_sprite_sheet_transparent_5x5_250px_92: 4960950832459719181
+      magical_shielded_creature_sprite_sheet_transparent_5x5_250px_93: 5740023395284929236
+      magical_shielded_creature_sprite_sheet_transparent_5x5_250px_94: 8008431482554027462
+      magical_shielded_creature_sprite_sheet_transparent_5x5_250px_95: 565564508207563334
+      magical_shielded_creature_sprite_sheet_transparent_5x5_250px_96: 8818426993908696859
+      magical_shielded_creature_sprite_sheet_transparent_5x5_250px_97: -2526559025900853685
+      magical_shielded_creature_sprite_sheet_transparent_5x5_250px_98: -1236668131773166777
+      magical_shielded_creature_sprite_sheet_transparent_5x5_250px_99: 750357277182548742
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

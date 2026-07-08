@@ -1,0 +1,806 @@
+fileFormatVersion: 2
+guid: 68639a50ed980c14ab498eea1660f6b0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -953010013188192285
+    second: mage_fireball_sprite_sheet_transparent_0
+  - first:
+      213: 8282126619318508493
+    second: mage_fireball_sprite_sheet_transparent_1
+  - first:
+      213: -7579679629727949597
+    second: mage_fireball_sprite_sheet_transparent_2
+  - first:
+      213: -1352707161536075887
+    second: mage_fireball_sprite_sheet_transparent_3
+  - first:
+      213: 1097552869893481310
+    second: mage_fireball_sprite_sheet_transparent_4
+  - first:
+      213: -3277601753612035578
+    second: mage_fireball_sprite_sheet_transparent_5
+  - first:
+      213: 2795300527408211427
+    second: mage_fireball_sprite_sheet_transparent_6
+  - first:
+      213: -7242843844827871181
+    second: mage_fireball_sprite_sheet_transparent_7
+  - first:
+      213: 4200991326626908153
+    second: mage_fireball_sprite_sheet_transparent_8
+  - first:
+      213: 278711913302361897
+    second: mage_fireball_sprite_sheet_transparent_9
+  - first:
+      213: -9008319564614955556
+    second: mage_fireball_sprite_sheet_transparent_10
+  - first:
+      213: 5915037261664108382
+    second: mage_fireball_sprite_sheet_transparent_11
+  - first:
+      213: 7680508915278931737
+    second: mage_fireball_sprite_sheet_transparent_12
+  - first:
+      213: -328891025270063350
+    second: mage_fireball_sprite_sheet_transparent_13
+  - first:
+      213: 277325193204590663
+    second: mage_fireball_sprite_sheet_transparent_14
+  - first:
+      213: -3614450114499718470
+    second: mage_fireball_sprite_sheet_transparent_15
+  - first:
+      213: 7162150883444174325
+    second: mage_fireball_sprite_sheet_transparent_16
+  - first:
+      213: -164960715983251947
+    second: mage_fireball_sprite_sheet_transparent_17
+  - first:
+      213: -2075465760016153922
+    second: mage_fireball_sprite_sheet_transparent_18
+  - first:
+      213: -3041685183760354962
+    second: mage_fireball_sprite_sheet_transparent_19
+  - first:
+      213: 1111098257513636025
+    second: mage_fireball_sprite_sheet_transparent_20
+  - first:
+      213: 5103464623962384967
+    second: mage_fireball_sprite_sheet_transparent_21
+  - first:
+      213: -758682001420817999
+    second: mage_fireball_sprite_sheet_transparent_22
+  - first:
+      213: 2140295887788515486
+    second: mage_fireball_sprite_sheet_transparent_23
+  - first:
+      213: -6786689614922106688
+    second: mage_fireball_sprite_sheet_transparent_24
+  - first:
+      213: 4970577967398861637
+    second: mage_fireball_sprite_sheet_transparent_25
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mage_fireball_sprite_sheet_transparent_0
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 446
+        width: 293
+        height: 324
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e70788317a36c2f0800000000000000
+      internalID: -953010013188192285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_fireball_sprite_sheet_transparent_1
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 445
+        width: 293
+        height: 324
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcb5949974600f270800000000000000
+      internalID: 8282126619318508493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_fireball_sprite_sheet_transparent_2
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 445
+        width: 293
+        height: 324
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ec1dce19819fc690800000000000000
+      internalID: -7579679629727949597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_fireball_sprite_sheet_transparent_3
+      rect:
+        serializedVersion: 2
+        x: 1198
+        y: 444
+        width: 293
+        height: 324
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 197e387e0083a3de0800000000000000
+      internalID: -1352707161536075887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_fireball_sprite_sheet_transparent_4
+      rect:
+        serializedVersion: 2
+        x: 1517
+        y: 677
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e532634258a4b3f00800000000000000
+      internalID: 1097552869893481310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_fireball_sprite_sheet_transparent_5
+      rect:
+        serializedVersion: 2
+        x: 1520
+        y: 445
+        width: 293
+        height: 324
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60ad1c0129e9382d0800000000000000
+      internalID: -3277601753612035578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_fireball_sprite_sheet_transparent_6
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 651
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e5e0a00507eac620800000000000000
+      internalID: 2795300527408211427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_fireball_sprite_sheet_transparent_7
+      rect:
+        serializedVersion: 2
+        x: 1516
+        y: 634
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3380969b5ef3c7b90800000000000000
+      internalID: -7242843844827871181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_fireball_sprite_sheet_transparent_8
+      rect:
+        serializedVersion: 2
+        x: 1663
+        y: 443
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f708109a5bec4a30800000000000000
+      internalID: 4200991326626908153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_fireball_sprite_sheet_transparent_9
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 413
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9278e0b220f2ed300800000000000000
+      internalID: 278711913302361897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_fireball_sprite_sheet_transparent_10
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 413
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdd8ce785150cf280800000000000000
+      internalID: -9008319564614955556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_fireball_sprite_sheet_transparent_11
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 413
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5f30bedc0f661250800000000000000
+      internalID: 5915037261664108382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_fireball_sprite_sheet_transparent_12
+      rect:
+        serializedVersion: 2
+        x: 1336
+        y: 413
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 917eb655a26a69a60800000000000000
+      internalID: 7680508915278931737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_fireball_sprite_sheet_transparent_13
+      rect:
+        serializedVersion: 2
+        x: 1686
+        y: 413
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0fb6f4ea5b8f6bf0800000000000000
+      internalID: -328891025270063350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_fireball_sprite_sheet_transparent_14
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 250
+        width: 96
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 748e93c3bc149d300800000000000000
+      internalID: 277325193204590663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_fireball_sprite_sheet_transparent_15
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 76
+        width: 293
+        height: 324
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab2dfd265c4e6ddc0800000000000000
+      internalID: -3614450114499718470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_fireball_sprite_sheet_transparent_16
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 71
+        width: 293
+        height: 324
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fda0732842156360800000000000000
+      internalID: 7162150883444174325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_fireball_sprite_sheet_transparent_17
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 72
+        width: 293
+        height: 324
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5169ce15a11f5bdf0800000000000000
+      internalID: -164960715983251947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_fireball_sprite_sheet_transparent_18
+      rect:
+        serializedVersion: 2
+        x: 1212
+        y: 73
+        width: 293
+        height: 324
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb240c633e67233e0800000000000000
+      internalID: -2075465760016153922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_fireball_sprite_sheet_transparent_19
+      rect:
+        serializedVersion: 2
+        x: 1553
+        y: 75
+        width: 293
+        height: 324
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e61356fd073c9c5d0800000000000000
+      internalID: -3041685183760354962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_fireball_sprite_sheet_transparent_20
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 44
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b0e7a57af96b6f00800000000000000
+      internalID: 1111098257513636025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_fireball_sprite_sheet_transparent_21
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 41
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74aec03490623d640800000000000000
+      internalID: 5103464623962384967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_fireball_sprite_sheet_transparent_22
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 42
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b964d74dbe9875f0800000000000000
+      internalID: -758682001420817999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_fireball_sprite_sheet_transparent_23
+      rect:
+        serializedVersion: 2
+        x: 1338
+        y: 42
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e902dd925cbd3bd10800000000000000
+      internalID: 2140295887788515486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_fireball_sprite_sheet_transparent_24
+      rect:
+        serializedVersion: 2
+        x: 1682
+        y: 43
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c83cbda0c5d0d1a0800000000000000
+      internalID: -6786689614922106688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_fireball_sprite_sheet_transparent_25
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 43
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54b313b735a0bf440800000000000000
+      internalID: 4970577967398861637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: d942f89782cefce41a451a5de575e771
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      mage_fireball_sprite_sheet_transparent_0: -953010013188192285
+      mage_fireball_sprite_sheet_transparent_1: 8282126619318508493
+      mage_fireball_sprite_sheet_transparent_10: -9008319564614955556
+      mage_fireball_sprite_sheet_transparent_11: 5915037261664108382
+      mage_fireball_sprite_sheet_transparent_12: 7680508915278931737
+      mage_fireball_sprite_sheet_transparent_13: -328891025270063350
+      mage_fireball_sprite_sheet_transparent_14: 277325193204590663
+      mage_fireball_sprite_sheet_transparent_15: -3614450114499718470
+      mage_fireball_sprite_sheet_transparent_16: 7162150883444174325
+      mage_fireball_sprite_sheet_transparent_17: -164960715983251947
+      mage_fireball_sprite_sheet_transparent_18: -2075465760016153922
+      mage_fireball_sprite_sheet_transparent_19: -3041685183760354962
+      mage_fireball_sprite_sheet_transparent_2: -7579679629727949597
+      mage_fireball_sprite_sheet_transparent_20: 1111098257513636025
+      mage_fireball_sprite_sheet_transparent_21: 5103464623962384967
+      mage_fireball_sprite_sheet_transparent_22: -758682001420817999
+      mage_fireball_sprite_sheet_transparent_23: 2140295887788515486
+      mage_fireball_sprite_sheet_transparent_24: -6786689614922106688
+      mage_fireball_sprite_sheet_transparent_25: 4970577967398861637
+      mage_fireball_sprite_sheet_transparent_3: -1352707161536075887
+      mage_fireball_sprite_sheet_transparent_4: 1097552869893481310
+      mage_fireball_sprite_sheet_transparent_5: -3277601753612035578
+      mage_fireball_sprite_sheet_transparent_6: 2795300527408211427
+      mage_fireball_sprite_sheet_transparent_7: -7242843844827871181
+      mage_fireball_sprite_sheet_transparent_8: 4200991326626908153
+      mage_fireball_sprite_sheet_transparent_9: 278711913302361897
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

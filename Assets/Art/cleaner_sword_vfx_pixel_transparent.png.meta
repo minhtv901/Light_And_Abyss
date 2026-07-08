@@ -1,0 +1,1248 @@
+fileFormatVersion: 2
+guid: fdd30c81de6a4404e99a02628f799b18
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 725790188332519108
+    second: cleaner_sword_vfx_pixel_transparent_0
+  - first:
+      213: -2523337279732142159
+    second: cleaner_sword_vfx_pixel_transparent_1
+  - first:
+      213: 159963449085939234
+    second: cleaner_sword_vfx_pixel_transparent_2
+  - first:
+      213: -335963641735991541
+    second: cleaner_sword_vfx_pixel_transparent_3
+  - first:
+      213: -2300000349629016631
+    second: cleaner_sword_vfx_pixel_transparent_4
+  - first:
+      213: 1697189014173860187
+    second: cleaner_sword_vfx_pixel_transparent_5
+  - first:
+      213: 6409296035274392421
+    second: cleaner_sword_vfx_pixel_transparent_6
+  - first:
+      213: -1777807381459101469
+    second: cleaner_sword_vfx_pixel_transparent_7
+  - first:
+      213: -1432113172701190074
+    second: cleaner_sword_vfx_pixel_transparent_8
+  - first:
+      213: -8138542416438539701
+    second: cleaner_sword_vfx_pixel_transparent_9
+  - first:
+      213: 5781176844915964923
+    second: cleaner_sword_vfx_pixel_transparent_10
+  - first:
+      213: 8748248471664732429
+    second: cleaner_sword_vfx_pixel_transparent_11
+  - first:
+      213: 3642070010829385577
+    second: cleaner_sword_vfx_pixel_transparent_12
+  - first:
+      213: -406783025673403658
+    second: cleaner_sword_vfx_pixel_transparent_13
+  - first:
+      213: -8274848965874773787
+    second: cleaner_sword_vfx_pixel_transparent_14
+  - first:
+      213: -7020025347007814999
+    second: cleaner_sword_vfx_pixel_transparent_15
+  - first:
+      213: -1233491450047042925
+    second: cleaner_sword_vfx_pixel_transparent_16
+  - first:
+      213: -6782262871256622083
+    second: cleaner_sword_vfx_pixel_transparent_17
+  - first:
+      213: -8386850790024906116
+    second: cleaner_sword_vfx_pixel_transparent_18
+  - first:
+      213: -6148227828289770683
+    second: cleaner_sword_vfx_pixel_transparent_19
+  - first:
+      213: 7967690174157956662
+    second: cleaner_sword_vfx_pixel_transparent_20
+  - first:
+      213: -3167404682909063075
+    second: cleaner_sword_vfx_pixel_transparent_21
+  - first:
+      213: 8146755142864648346
+    second: cleaner_sword_vfx_pixel_transparent_22
+  - first:
+      213: 8246648338124541276
+    second: cleaner_sword_vfx_pixel_transparent_23
+  - first:
+      213: 575224770802563358
+    second: cleaner_sword_vfx_pixel_transparent_24
+  - first:
+      213: -5159520043143667317
+    second: cleaner_sword_vfx_pixel_transparent_25
+  - first:
+      213: -9031789161506689536
+    second: cleaner_sword_vfx_pixel_transparent_26
+  - first:
+      213: 4952485810319119786
+    second: cleaner_sword_vfx_pixel_transparent_27
+  - first:
+      213: -304927512317478880
+    second: cleaner_sword_vfx_pixel_transparent_28
+  - first:
+      213: 824382561724973490
+    second: cleaner_sword_vfx_pixel_transparent_29
+  - first:
+      213: 8617598554981581059
+    second: cleaner_sword_vfx_pixel_transparent_30
+  - first:
+      213: 4481279072139972954
+    second: cleaner_sword_vfx_pixel_transparent_31
+  - first:
+      213: -1081669018530724534
+    second: cleaner_sword_vfx_pixel_transparent_32
+  - first:
+      213: 6597470844573992806
+    second: cleaner_sword_vfx_pixel_transparent_33
+  - first:
+      213: -2777978592605726341
+    second: cleaner_sword_vfx_pixel_transparent_34
+  - first:
+      213: -845242075728350106
+    second: cleaner_sword_vfx_pixel_transparent_35
+  - first:
+      213: -4740726042734316648
+    second: cleaner_sword_vfx_pixel_transparent_36
+  - first:
+      213: 4746116138704228614
+    second: cleaner_sword_vfx_pixel_transparent_37
+  - first:
+      213: 3991665530169646323
+    second: cleaner_sword_vfx_pixel_transparent_38
+  - first:
+      213: -8815578789975921964
+    second: cleaner_sword_vfx_pixel_transparent_39
+  - first:
+      213: -5409512229378926980
+    second: cleaner_sword_vfx_pixel_transparent_40
+  - first:
+      213: -1662133768638885905
+    second: cleaner_sword_vfx_pixel_transparent_41
+  - first:
+      213: -1670063869394746918
+    second: cleaner_sword_vfx_pixel_transparent_42
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: cleaner_sword_vfx_pixel_transparent_0
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 618
+        width: 14
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ce0605b456821a00800000000000000
+      internalID: 725790188332519108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleaner_sword_vfx_pixel_transparent_1
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 620
+        width: 9
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bfa0110d1e4bfcd0800000000000000
+      internalID: -2523337279732142159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleaner_sword_vfx_pixel_transparent_2
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 406
+        width: 179
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22e40dfc8ed483200800000000000000
+      internalID: 159963449085939234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleaner_sword_vfx_pixel_transparent_3
+      rect:
+        serializedVersion: 2
+        x: 1495
+        y: 401
+        width: 189
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0f21ec09da665bf0800000000000000
+      internalID: -335963641735991541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleaner_sword_vfx_pixel_transparent_4
+      rect:
+        serializedVersion: 2
+        x: 1848
+        y: 401
+        width: 206
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c596113ed1c410e0800000000000000
+      internalID: -2300000349629016631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleaner_sword_vfx_pixel_transparent_5
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 533
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5147829a60ad8710800000000000000
+      internalID: 1697189014173860187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleaner_sword_vfx_pixel_transparent_6
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 455
+        width: 181
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56389d249c462f850800000000000000
+      internalID: 6409296035274392421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleaner_sword_vfx_pixel_transparent_7
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 411
+        width: 188
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e810151b95f357e0800000000000000
+      internalID: -1777807381459101469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleaner_sword_vfx_pixel_transparent_8
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 511
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 648ecf638ac102ce0800000000000000
+      internalID: -1432113172701190074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleaner_sword_vfx_pixel_transparent_9
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 502
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4a4bb6cac61e0f80800000000000000
+      internalID: -8138542416438539701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleaner_sword_vfx_pixel_transparent_10
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 507
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfbfde0e5bdda3050800000000000000
+      internalID: 5781176844915964923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleaner_sword_vfx_pixel_transparent_11
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 486
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d092e6082a5086970800000000000000
+      internalID: 8748248471664732429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleaner_sword_vfx_pixel_transparent_12
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 482
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96fa69ad06b3b8230800000000000000
+      internalID: 3642070010829385577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleaner_sword_vfx_pixel_transparent_13
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 483
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f2041e4ef0da5af0800000000000000
+      internalID: -406783025673403658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleaner_sword_vfx_pixel_transparent_14
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 489
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e0960325b4d92d80800000000000000
+      internalID: -8274848965874773787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleaner_sword_vfx_pixel_transparent_15
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 460
+        width: 38
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a26c5df32cd39e90800000000000000
+      internalID: -7020025347007814999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleaner_sword_vfx_pixel_transparent_16
+      rect:
+        serializedVersion: 2
+        x: 1495
+        y: 490
+        width: 29
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39ae67ebf02c1eee0800000000000000
+      internalID: -1233491450047042925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleaner_sword_vfx_pixel_transparent_17
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 460
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfb9d614adf80e1a0800000000000000
+      internalID: -6782262871256622083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleaner_sword_vfx_pixel_transparent_18
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 439
+        width: 37
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7a7c5454abeb9b80800000000000000
+      internalID: -8386850790024906116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleaner_sword_vfx_pixel_transparent_19
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 457
+        width: 27
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54bed986d5b1daaa0800000000000000
+      internalID: -6148227828289770683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleaner_sword_vfx_pixel_transparent_20
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 467
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6362e0faffbe29e60800000000000000
+      internalID: 7967690174157956662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleaner_sword_vfx_pixel_transparent_21
+      rect:
+        serializedVersion: 2
+        x: 1485
+        y: 451
+        width: 32
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d58eb47f83e1b04d0800000000000000
+      internalID: -3167404682909063075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleaner_sword_vfx_pixel_transparent_22
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 440
+        width: 35
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a98b88a93a61f0170800000000000000
+      internalID: 8146755142864648346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleaner_sword_vfx_pixel_transparent_23
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 73
+        width: 186
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5d8a7d88faf17270800000000000000
+      internalID: 8246648338124541276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleaner_sword_vfx_pixel_transparent_24
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 68
+        width: 207
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1931b1a1eb9bf700800000000000000
+      internalID: 575224770802563358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleaner_sword_vfx_pixel_transparent_25
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 63
+        width: 305
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b81e9e86bd3b568b0800000000000000
+      internalID: -5159520043143667317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleaner_sword_vfx_pixel_transparent_26
+      rect:
+        serializedVersion: 2
+        x: 1468
+        y: 63
+        width: 226
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00eab2e2c93a8a280800000000000000
+      internalID: -9031789161506689536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleaner_sword_vfx_pixel_transparent_27
+      rect:
+        serializedVersion: 2
+        x: 1919
+        y: 298
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa5db37ea93cab440800000000000000
+      internalID: 4952485810319119786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleaner_sword_vfx_pixel_transparent_28
+      rect:
+        serializedVersion: 2
+        x: 1926
+        y: 295
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 028b21a0b0ea4cbf0800000000000000
+      internalID: -304927512317478880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleaner_sword_vfx_pixel_transparent_29
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 67
+        width: 220
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b1c4a6729bc07b00800000000000000
+      internalID: 824382561724973490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleaner_sword_vfx_pixel_transparent_30
+      rect:
+        serializedVersion: 2
+        x: 1918
+        y: 266
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 301c89e4a3cd79770800000000000000
+      internalID: 8617598554981581059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleaner_sword_vfx_pixel_transparent_31
+      rect:
+        serializedVersion: 2
+        x: 1926
+        y: 264
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a519b42c293b03e30800000000000000
+      internalID: 4481279072139972954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleaner_sword_vfx_pixel_transparent_32
+      rect:
+        serializedVersion: 2
+        x: 1876
+        y: 190
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a454ee132c32df0f0800000000000000
+      internalID: -1081669018530724534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleaner_sword_vfx_pixel_transparent_33
+      rect:
+        serializedVersion: 2
+        x: 1889
+        y: 192
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66744da37ccee8b50800000000000000
+      internalID: 6597470844573992806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleaner_sword_vfx_pixel_transparent_34
+      rect:
+        serializedVersion: 2
+        x: 1918
+        y: 200
+        width: 38
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b79981a3033a279d0800000000000000
+      internalID: -2777978592605726341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleaner_sword_vfx_pixel_transparent_35
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 165
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6647ff67fc81544f0800000000000000
+      internalID: -845242075728350106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleaner_sword_vfx_pixel_transparent_36
+      rect:
+        serializedVersion: 2
+        x: 1853
+        y: 63
+        width: 185
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 893b06518ce853eb0800000000000000
+      internalID: -4740726042734316648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleaner_sword_vfx_pixel_transparent_37
+      rect:
+        serializedVersion: 2
+        x: 1876
+        y: 143
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 601d63e6b779dd140800000000000000
+      internalID: 4746116138704228614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleaner_sword_vfx_pixel_transparent_38
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 137
+        width: 46
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fcdee3a6ae356730800000000000000
+      internalID: 3991665530169646323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleaner_sword_vfx_pixel_transparent_39
+      rect:
+        serializedVersion: 2
+        x: 1692
+        y: 120
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4da64062cc5c8a580800000000000000
+      internalID: -8815578789975921964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleaner_sword_vfx_pixel_transparent_40
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 76
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c76dcb7c94d8de4b0800000000000000
+      internalID: -5409512229378926980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleaner_sword_vfx_pixel_transparent_41
+      rect:
+        serializedVersion: 2
+        x: 1693
+        y: 76
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fef091fc42aeee8e0800000000000000
+      internalID: -1662133768638885905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleaner_sword_vfx_pixel_transparent_42
+      rect:
+        serializedVersion: 2
+        x: 1846
+        y: 75
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad1038852cdb2d8e0800000000000000
+      internalID: -1670063869394746918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      cleaner_sword_vfx_pixel_transparent_0: 725790188332519108
+      cleaner_sword_vfx_pixel_transparent_1: -2523337279732142159
+      cleaner_sword_vfx_pixel_transparent_10: 5781176844915964923
+      cleaner_sword_vfx_pixel_transparent_11: 8748248471664732429
+      cleaner_sword_vfx_pixel_transparent_12: 3642070010829385577
+      cleaner_sword_vfx_pixel_transparent_13: -406783025673403658
+      cleaner_sword_vfx_pixel_transparent_14: -8274848965874773787
+      cleaner_sword_vfx_pixel_transparent_15: -7020025347007814999
+      cleaner_sword_vfx_pixel_transparent_16: -1233491450047042925
+      cleaner_sword_vfx_pixel_transparent_17: -6782262871256622083
+      cleaner_sword_vfx_pixel_transparent_18: -8386850790024906116
+      cleaner_sword_vfx_pixel_transparent_19: -6148227828289770683
+      cleaner_sword_vfx_pixel_transparent_2: 159963449085939234
+      cleaner_sword_vfx_pixel_transparent_20: 7967690174157956662
+      cleaner_sword_vfx_pixel_transparent_21: -3167404682909063075
+      cleaner_sword_vfx_pixel_transparent_22: 8146755142864648346
+      cleaner_sword_vfx_pixel_transparent_23: 8246648338124541276
+      cleaner_sword_vfx_pixel_transparent_24: 575224770802563358
+      cleaner_sword_vfx_pixel_transparent_25: -5159520043143667317
+      cleaner_sword_vfx_pixel_transparent_26: -9031789161506689536
+      cleaner_sword_vfx_pixel_transparent_27: 4952485810319119786
+      cleaner_sword_vfx_pixel_transparent_28: -304927512317478880
+      cleaner_sword_vfx_pixel_transparent_29: 824382561724973490
+      cleaner_sword_vfx_pixel_transparent_3: -335963641735991541
+      cleaner_sword_vfx_pixel_transparent_30: 8617598554981581059
+      cleaner_sword_vfx_pixel_transparent_31: 4481279072139972954
+      cleaner_sword_vfx_pixel_transparent_32: -1081669018530724534
+      cleaner_sword_vfx_pixel_transparent_33: 6597470844573992806
+      cleaner_sword_vfx_pixel_transparent_34: -2777978592605726341
+      cleaner_sword_vfx_pixel_transparent_35: -845242075728350106
+      cleaner_sword_vfx_pixel_transparent_36: -4740726042734316648
+      cleaner_sword_vfx_pixel_transparent_37: 4746116138704228614
+      cleaner_sword_vfx_pixel_transparent_38: 3991665530169646323
+      cleaner_sword_vfx_pixel_transparent_39: -8815578789975921964
+      cleaner_sword_vfx_pixel_transparent_4: -2300000349629016631
+      cleaner_sword_vfx_pixel_transparent_40: -5409512229378926980
+      cleaner_sword_vfx_pixel_transparent_41: -1662133768638885905
+      cleaner_sword_vfx_pixel_transparent_42: -1670063869394746918
+      cleaner_sword_vfx_pixel_transparent_5: 1697189014173860187
+      cleaner_sword_vfx_pixel_transparent_6: 6409296035274392421
+      cleaner_sword_vfx_pixel_transparent_7: -1777807381459101469
+      cleaner_sword_vfx_pixel_transparent_8: -1432113172701190074
+      cleaner_sword_vfx_pixel_transparent_9: -8138542416438539701
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

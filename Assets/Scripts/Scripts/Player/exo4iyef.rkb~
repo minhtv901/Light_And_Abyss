@@ -1,0 +1,88 @@
+using System.Collections;
+using UnityEngine;
+
+public class PlayerHealth : MonoBehaviour
+{
+    [Header("Health")]
+    public int maxHP = 10;
+    public int currentHP;
+
+    [Header("Invincible")]
+    public float invincibleTime = 0.5f;
+
+    [Header("Animator")]
+    public Animator animator;
+
+    private bool isDead = false;
+    private bool isInvincible = false;
+
+    private PlayerAttack playerAttack;
+
+    public bool IsDead => isDead;
+
+    private void Awake()
+    {
+        currentHP = maxHP;
+        playerAttack = GetComponent<PlayerAttack>();
+
+        if (animator == null)
+        {
+            animator = GetComponent<Animator>();
+        }
+    }
+
+    public void TakeDamage(int amount)
+    {
+        if (isDead) return;
+        if (isInvincible) return;
+
+        currentHP -= amount;
+        currentHP = Mathf.Max(0, currentHP);
+
+        Debug.Log("Player bị damage: " + amount + " | HP còn: " + currentHP + "/" + maxHP);
+
+        if (currentHP <= 0)
+        {
+            Die();
+        }
+        else
+        {
+            Hurt();
+        }
+    }
+
+    private void Hurt()
+    {
+        if (animator != null)
+        {
+            animator.SetTrigger("Hurt");
+        }
+
+        StartCoroutine(InvincibleRoutine());
+    }
+
+    private IEnumerator InvincibleRoutine()
+    {
+        isInvincible = true;
+        yield return new WaitForSeconds(invincibleTime);
+        isInvincible = false;
+    }
+
+    private void Die()
+    {
+        isDead = true;
+
+        if (playerAttack != null)
+        {
+            playerAttack.ForceStopAttack();
+        }
+
+        if (animator != null)
+        {
+            animator.SetBool("IsDead", true);
+            animator.SetTrigger("Death");
+        }
+
+        Debug.Log("Player chết.");
+    }
+}

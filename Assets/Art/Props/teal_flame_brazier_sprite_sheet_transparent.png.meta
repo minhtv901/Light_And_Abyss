@@ -1,0 +1,572 @@
+fileFormatVersion: 2
+guid: e2c9dfc533bcafc43adffeb6067e98b5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5599953375564968254
+    second: teal_flame_brazier_sprite_sheet_transparent_0
+  - first:
+      213: -2889212323366731028
+    second: teal_flame_brazier_sprite_sheet_transparent_1
+  - first:
+      213: -9145679552369061780
+    second: teal_flame_brazier_sprite_sheet_transparent_2
+  - first:
+      213: 6564684555513973603
+    second: teal_flame_brazier_sprite_sheet_transparent_3
+  - first:
+      213: 7405133189568749446
+    second: teal_flame_brazier_sprite_sheet_transparent_4
+  - first:
+      213: -8002744499189304472
+    second: teal_flame_brazier_sprite_sheet_transparent_5
+  - first:
+      213: 2390400404361265994
+    second: teal_flame_brazier_sprite_sheet_transparent_6
+  - first:
+      213: -6850530865535525899
+    second: teal_flame_brazier_sprite_sheet_transparent_7
+  - first:
+      213: 2771437764180618344
+    second: teal_flame_brazier_sprite_sheet_transparent_8
+  - first:
+      213: -4148059080167163861
+    second: teal_flame_brazier_sprite_sheet_transparent_9
+  - first:
+      213: 25996011884058213
+    second: teal_flame_brazier_sprite_sheet_transparent_10
+  - first:
+      213: 4813327450561312631
+    second: teal_flame_brazier_sprite_sheet_transparent_11
+  - first:
+      213: 983886856585375228
+    second: teal_flame_brazier_sprite_sheet_transparent_12
+  - first:
+      213: 443906341434576486
+    second: teal_flame_brazier_sprite_sheet_transparent_13
+  - first:
+      213: 6517699979010226971
+    second: teal_flame_brazier_sprite_sheet_transparent_14
+  - first:
+      213: 1007353006560590757
+    second: teal_flame_brazier_sprite_sheet_transparent_15
+  - first:
+      213: -5154781131385518060
+    second: teal_flame_brazier_sprite_sheet_transparent_16
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: teal_flame_brazier_sprite_sheet_transparent_0
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 788
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ce43b22318f842b0800000000000000
+      internalID: -5599953375564968254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teal_flame_brazier_sprite_sheet_transparent_1
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 715
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce28b0913b477e7d0800000000000000
+      internalID: -2889212323366731028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teal_flame_brazier_sprite_sheet_transparent_2
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 347
+        width: 131
+        height: 435
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c601d7b27e4041180800000000000000
+      internalID: -9145679552369061780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teal_flame_brazier_sprite_sheet_transparent_3
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 349
+        width: 129
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36b47e172d17a1b50800000000000000
+      internalID: 6564684555513973603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teal_flame_brazier_sprite_sheet_transparent_4
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 347
+        width: 130
+        height: 363
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68f53bed66154c660800000000000000
+      internalID: 7405133189568749446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teal_flame_brazier_sprite_sheet_transparent_5
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 705
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8633c91474a80f090800000000000000
+      internalID: -8002744499189304472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teal_flame_brazier_sprite_sheet_transparent_6
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 347
+        width: 129
+        height: 327
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4347ecb0886c2120800000000000000
+      internalID: 2390400404361265994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teal_flame_brazier_sprite_sheet_transparent_7
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 347
+        width: 130
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fbd7e439760ee0a0800000000000000
+      internalID: -6850530865535525899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teal_flame_brazier_sprite_sheet_transparent_8
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 347
+        width: 131
+        height: 312
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86ca61b76ff167620800000000000000
+      internalID: 2771437764180618344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teal_flame_brazier_sprite_sheet_transparent_9
+      rect:
+        serializedVersion: 2
+        x: 1204
+        y: 658
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b287d437e322f66c0800000000000000
+      internalID: -4148059080167163861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teal_flame_brazier_sprite_sheet_transparent_10
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 347
+        width: 122
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5661ded2c3b5c5000800000000000000
+      internalID: 25996011884058213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teal_flame_brazier_sprite_sheet_transparent_11
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 616
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 777f75e60df5cc240800000000000000
+      internalID: 4813327450561312631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teal_flame_brazier_sprite_sheet_transparent_12
+      rect:
+        serializedVersion: 2
+        x: 1367
+        y: 613
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfd62f912e777ad00800000000000000
+      internalID: 983886856585375228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teal_flame_brazier_sprite_sheet_transparent_13
+      rect:
+        serializedVersion: 2
+        x: 1304
+        y: 349
+        width: 127
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66e40c23772192600800000000000000
+      internalID: 443906341434576486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teal_flame_brazier_sprite_sheet_transparent_14
+      rect:
+        serializedVersion: 2
+        x: 1347
+        y: 590
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1bb9714995837a50800000000000000
+      internalID: 6517699979010226971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teal_flame_brazier_sprite_sheet_transparent_15
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 554
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ab3777e836dafd00800000000000000
+      internalID: 1007353006560590757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teal_flame_brazier_sprite_sheet_transparent_16
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 560
+        width: 8
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41841e84fd98678b0800000000000000
+      internalID: -5154781131385518060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      teal_flame_brazier_sprite_sheet_transparent_0: -5599953375564968254
+      teal_flame_brazier_sprite_sheet_transparent_1: -2889212323366731028
+      teal_flame_brazier_sprite_sheet_transparent_10: 25996011884058213
+      teal_flame_brazier_sprite_sheet_transparent_11: 4813327450561312631
+      teal_flame_brazier_sprite_sheet_transparent_12: 983886856585375228
+      teal_flame_brazier_sprite_sheet_transparent_13: 443906341434576486
+      teal_flame_brazier_sprite_sheet_transparent_14: 6517699979010226971
+      teal_flame_brazier_sprite_sheet_transparent_15: 1007353006560590757
+      teal_flame_brazier_sprite_sheet_transparent_16: -5154781131385518060
+      teal_flame_brazier_sprite_sheet_transparent_2: -9145679552369061780
+      teal_flame_brazier_sprite_sheet_transparent_3: 6564684555513973603
+      teal_flame_brazier_sprite_sheet_transparent_4: 7405133189568749446
+      teal_flame_brazier_sprite_sheet_transparent_5: -8002744499189304472
+      teal_flame_brazier_sprite_sheet_transparent_6: 2390400404361265994
+      teal_flame_brazier_sprite_sheet_transparent_7: -6850530865535525899
+      teal_flame_brazier_sprite_sheet_transparent_8: 2771437764180618344
+      teal_flame_brazier_sprite_sheet_transparent_9: -4148059080167163861
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

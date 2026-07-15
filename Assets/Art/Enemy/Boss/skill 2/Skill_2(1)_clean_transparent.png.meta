@@ -1,0 +1,2392 @@
+fileFormatVersion: 2
+guid: f481caaa0e3e767468d19979f1378729
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7676196288397062182
+    second: Skill_2(1)_clean_transparent_0
+  - first:
+      213: 8964615997578914155
+    second: Skill_2(1)_clean_transparent_1
+  - first:
+      213: 1346703064789063379
+    second: Skill_2(1)_clean_transparent_2
+  - first:
+      213: 5998677363491262014
+    second: Skill_2(1)_clean_transparent_3
+  - first:
+      213: -1439489180755090230
+    second: Skill_2(1)_clean_transparent_4
+  - first:
+      213: 1445454026906816961
+    second: Skill_2(1)_clean_transparent_5
+  - first:
+      213: 2090658376941254620
+    second: Skill_2(1)_clean_transparent_6
+  - first:
+      213: 5671076157870336441
+    second: Skill_2(1)_clean_transparent_7
+  - first:
+      213: 5530421565867117675
+    second: Skill_2(1)_clean_transparent_8
+  - first:
+      213: 3761992507849221766
+    second: Skill_2(1)_clean_transparent_9
+  - first:
+      213: 1521006437206323225
+    second: Skill_2(1)_clean_transparent_10
+  - first:
+      213: -190695827176029249
+    second: Skill_2(1)_clean_transparent_11
+  - first:
+      213: -3447195811830116646
+    second: Skill_2(1)_clean_transparent_12
+  - first:
+      213: -792394436029007579
+    second: Skill_2(1)_clean_transparent_13
+  - first:
+      213: -5607865822932964767
+    second: Skill_2(1)_clean_transparent_14
+  - first:
+      213: -304974087301300807
+    second: Skill_2(1)_clean_transparent_15
+  - first:
+      213: -2741150536157724674
+    second: Skill_2(1)_clean_transparent_16
+  - first:
+      213: 5691263175745896733
+    second: Skill_2(1)_clean_transparent_17
+  - first:
+      213: 8779206086810351916
+    second: Skill_2(1)_clean_transparent_18
+  - first:
+      213: -8504145265919087771
+    second: Skill_2(1)_clean_transparent_19
+  - first:
+      213: 1591111315989033129
+    second: Skill_2(1)_clean_transparent_20
+  - first:
+      213: 2079448650998120934
+    second: Skill_2(1)_clean_transparent_21
+  - first:
+      213: 2503717472436000186
+    second: Skill_2(1)_clean_transparent_22
+  - first:
+      213: -5226328728752368453
+    second: Skill_2(1)_clean_transparent_23
+  - first:
+      213: 4860371064424224832
+    second: Skill_2(1)_clean_transparent_24
+  - first:
+      213: -9139564083476909925
+    second: Skill_2(1)_clean_transparent_25
+  - first:
+      213: -3353368359010025818
+    second: Skill_2(1)_clean_transparent_26
+  - first:
+      213: 8918816150619449056
+    second: Skill_2(1)_clean_transparent_27
+  - first:
+      213: 1380241593723718101
+    second: Skill_2(1)_clean_transparent_28
+  - first:
+      213: 4296892597066166401
+    second: Skill_2(1)_clean_transparent_29
+  - first:
+      213: 2712677000681690895
+    second: Skill_2(1)_clean_transparent_30
+  - first:
+      213: -2436335686649326213
+    second: Skill_2(1)_clean_transparent_31
+  - first:
+      213: -5772185850118919639
+    second: Skill_2(1)_clean_transparent_32
+  - first:
+      213: 832252310447610116
+    second: Skill_2(1)_clean_transparent_33
+  - first:
+      213: 6448449433787512087
+    second: Skill_2(1)_clean_transparent_34
+  - first:
+      213: -4062172683678817099
+    second: Skill_2(1)_clean_transparent_35
+  - first:
+      213: 6065049939271593965
+    second: Skill_2(1)_clean_transparent_36
+  - first:
+      213: -2983143324291344761
+    second: Skill_2(1)_clean_transparent_37
+  - first:
+      213: 6679423293258610143
+    second: Skill_2(1)_clean_transparent_38
+  - first:
+      213: -5108652055835857369
+    second: Skill_2(1)_clean_transparent_39
+  - first:
+      213: -5472741320817879513
+    second: Skill_2(1)_clean_transparent_40
+  - first:
+      213: 5512682586037585219
+    second: Skill_2(1)_clean_transparent_41
+  - first:
+      213: -6598747710335462742
+    second: Skill_2(1)_clean_transparent_42
+  - first:
+      213: -3677445734009996158
+    second: Skill_2(1)_clean_transparent_43
+  - first:
+      213: -8983585152270967115
+    second: Skill_2(1)_clean_transparent_44
+  - first:
+      213: 932009462529116473
+    second: Skill_2(1)_clean_transparent_45
+  - first:
+      213: 4903482945654668576
+    second: Skill_2(1)_clean_transparent_46
+  - first:
+      213: 1272971104589226246
+    second: Skill_2(1)_clean_transparent_47
+  - first:
+      213: 7021078000974283783
+    second: Skill_2(1)_clean_transparent_48
+  - first:
+      213: -660691305907994709
+    second: Skill_2(1)_clean_transparent_49
+  - first:
+      213: -4690903631189317106
+    second: Skill_2(1)_clean_transparent_50
+  - first:
+      213: -8846924953757044129
+    second: Skill_2(1)_clean_transparent_51
+  - first:
+      213: -2308574282387356783
+    second: Skill_2(1)_clean_transparent_52
+  - first:
+      213: -8927288991211123404
+    second: Skill_2(1)_clean_transparent_53
+  - first:
+      213: 3535694687104432133
+    second: Skill_2(1)_clean_transparent_54
+  - first:
+      213: 6732776893793680590
+    second: Skill_2(1)_clean_transparent_55
+  - first:
+      213: 8475657164992752119
+    second: Skill_2(1)_clean_transparent_56
+  - first:
+      213: -8991936624403987979
+    second: Skill_2(1)_clean_transparent_57
+  - first:
+      213: 761237429376062255
+    second: Skill_2(1)_clean_transparent_58
+  - first:
+      213: -1745034901835225590
+    second: Skill_2(1)_clean_transparent_59
+  - first:
+      213: -7736879082852699669
+    second: Skill_2(1)_clean_transparent_60
+  - first:
+      213: -836526050307692867
+    second: Skill_2(1)_clean_transparent_61
+  - first:
+      213: 8022388664048178611
+    second: Skill_2(1)_clean_transparent_62
+  - first:
+      213: 8911642311160282050
+    second: Skill_2(1)_clean_transparent_63
+  - first:
+      213: -215863526511284319
+    second: Skill_2(1)_clean_transparent_64
+  - first:
+      213: -5460592258430929685
+    second: Skill_2(1)_clean_transparent_65
+  - first:
+      213: 7712725519180650184
+    second: Skill_2(1)_clean_transparent_66
+  - first:
+      213: -4215789451564369421
+    second: Skill_2(1)_clean_transparent_67
+  - first:
+      213: 627087056456448610
+    second: Skill_2(1)_clean_transparent_68
+  - first:
+      213: -7384446716457765093
+    second: Skill_2(1)_clean_transparent_69
+  - first:
+      213: 3146628423811027360
+    second: Skill_2(1)_clean_transparent_70
+  - first:
+      213: -3095474539431683435
+    second: Skill_2(1)_clean_transparent_71
+  - first:
+      213: 4524633669762150506
+    second: Skill_2(1)_clean_transparent_72
+  - first:
+      213: 8456626441350712532
+    second: Skill_2(1)_clean_transparent_73
+  - first:
+      213: 6480207021749360400
+    second: Skill_2(1)_clean_transparent_74
+  - first:
+      213: -6788612771394087690
+    second: Skill_2(1)_clean_transparent_75
+  - first:
+      213: -6232423242359884664
+    second: Skill_2(1)_clean_transparent_76
+  - first:
+      213: -8861629466369228456
+    second: Skill_2(1)_clean_transparent_77
+  - first:
+      213: -477960727717884239
+    second: Skill_2(1)_clean_transparent_78
+  - first:
+      213: -8612603452459621854
+    second: Skill_2(1)_clean_transparent_79
+  - first:
+      213: 6064191063846213842
+    second: Skill_2(1)_clean_transparent_80
+  - first:
+      213: -441244181700965520
+    second: Skill_2(1)_clean_transparent_81
+  - first:
+      213: -7133192076000952608
+    second: Skill_2(1)_clean_transparent_82
+  - first:
+      213: -5151211266722809032
+    second: Skill_2(1)_clean_transparent_83
+  - first:
+      213: 6385810611347690122
+    second: Skill_2(1)_clean_transparent_84
+  - first:
+      213: 80230132110927186
+    second: Skill_2(1)_clean_transparent_85
+  - first:
+      213: 847787829414137402
+    second: Skill_2(1)_clean_transparent_86
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Skill_2(1)_clean_transparent_0
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 581
+        width: 270
+        height: 440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6203414aad3578a60800000000000000
+      internalID: 7676196288397062182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill_2(1)_clean_transparent_1
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 581
+        width: 291
+        height: 440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b69a973d0c6b86c70800000000000000
+      internalID: 8964615997578914155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill_2(1)_clean_transparent_2
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 618
+        width: 267
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d69ea26d4370b210800000000000000
+      internalID: 1346703064789063379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill_2(1)_clean_transparent_3
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 1005
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3ec21d97459f3350800000000000000
+      internalID: 5998677363491262014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill_2(1)_clean_transparent_4
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 623
+        width: 365
+        height: 398
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac423138738e50ce0800000000000000
+      internalID: -1439489180755090230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill_2(1)_clean_transparent_5
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 897
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c150f477c84f0410800000000000000
+      internalID: 1445454026906816961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill_2(1)_clean_transparent_6
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 853
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd7374097b2830d10800000000000000
+      internalID: 2090658376941254620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill_2(1)_clean_transparent_7
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 867
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b96c0c08b5b3be40800000000000000
+      internalID: 5671076157870336441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill_2(1)_clean_transparent_8
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 859
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6c4babdc1100cc40800000000000000
+      internalID: 5530421565867117675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill_2(1)_clean_transparent_9
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 853
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 686a8060148453430800000000000000
+      internalID: 3761992507849221766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill_2(1)_clean_transparent_10
+      rect:
+        serializedVersion: 2
+        x: 1009
+        y: 856
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 910f3c6cb43bb1510800000000000000
+      internalID: 1521006437206323225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill_2(1)_clean_transparent_11
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 835
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb30601d7238a5df0800000000000000
+      internalID: -190695827176029249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill_2(1)_clean_transparent_12
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 760
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adec6a45ca91920d0800000000000000
+      internalID: -3447195811830116646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill_2(1)_clean_transparent_13
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 656
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 529be7e6579d005f0800000000000000
+      internalID: -792394436029007579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill_2(1)_clean_transparent_14
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 628
+        width: 35
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16ae60ceebbdc22b0800000000000000
+      internalID: -5607865822932964767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill_2(1)_clean_transparent_15
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 628
+        width: 39
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bdf4b4fea384cbf0800000000000000
+      internalID: -304974087301300807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill_2(1)_clean_transparent_16
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 581
+        width: 225
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eff72705c1a75f9d0800000000000000
+      internalID: -2741150536157724674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill_2(1)_clean_transparent_17
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 628
+        width: 38
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d11889964bd6bfe40800000000000000
+      internalID: 5691263175745896733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill_2(1)_clean_transparent_18
+      rect:
+        serializedVersion: 2
+        x: 1105
+        y: 581
+        width: 228
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c293746fb6106d970800000000000000
+      internalID: 8779206086810351916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill_2(1)_clean_transparent_19
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 620
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56ba29200f43bf980800000000000000
+      internalID: -8504145265919087771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill_2(1)_clean_transparent_20
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 624
+        width: 12
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a071a3df43c41610800000000000000
+      internalID: 1591111315989033129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill_2(1)_clean_transparent_21
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 616
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e1886bd78fabdc10800000000000000
+      internalID: 2079448650998120934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill_2(1)_clean_transparent_22
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 616
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab59c72a6cdfeb220800000000000000
+      internalID: 2503717472436000186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill_2(1)_clean_transparent_23
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 585
+        width: 66
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb4db4326b95877b0800000000000000
+      internalID: -5226328728752368453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill_2(1)_clean_transparent_24
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 616
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 048d7935bb1837340800000000000000
+      internalID: 4860371064424224832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill_2(1)_clean_transparent_25
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 620
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b90b07ab3eeb92180800000000000000
+      internalID: -9139564083476909925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill_2(1)_clean_transparent_26
+      rect:
+        serializedVersion: 2
+        x: 1277
+        y: 585
+        width: 67
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ae3c209e317671d0800000000000000
+      internalID: -3353368359010025818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill_2(1)_clean_transparent_27
+      rect:
+        serializedVersion: 2
+        x: 1348
+        y: 616
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e660baf80006cb70800000000000000
+      internalID: 8918816150619449056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill_2(1)_clean_transparent_28
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 600
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d90f1aaa6a972310800000000000000
+      internalID: 1380241593723718101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill_2(1)_clean_transparent_29
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 601
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18072261d01a1ab30800000000000000
+      internalID: 4296892597066166401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill_2(1)_clean_transparent_30
+      rect:
+        serializedVersion: 2
+        x: 1099
+        y: 601
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0711081c5d55a520800000000000000
+      internalID: 2712677000681690895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill_2(1)_clean_transparent_31
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 581
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b75d8abe995603ed0800000000000000
+      internalID: -2436335686649326213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill_2(1)_clean_transparent_32
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 581
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92a202a3d8315efa0800000000000000
+      internalID: -5772185850118919639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill_2(1)_clean_transparent_33
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 581
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4095abf1111cc8b00800000000000000
+      internalID: 832252310447610116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill_2(1)_clean_transparent_34
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 581
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71539fc389e7d7950800000000000000
+      internalID: 6448449433787512087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill_2(1)_clean_transparent_35
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 132
+        width: 346
+        height: 370
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b4670d677340a7c0800000000000000
+      internalID: -4062172683678817099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill_2(1)_clean_transparent_36
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 127
+        width: 226
+        height: 375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: defa94729c26b2450800000000000000
+      internalID: 6065049939271593965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill_2(1)_clean_transparent_37
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 371
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7865981b3feb996d0800000000000000
+      internalID: -2983143324291344761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill_2(1)_clean_transparent_38
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 133
+        width: 221
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd5362b981412bc50800000000000000
+      internalID: 6679423293258610143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill_2(1)_clean_transparent_39
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 370
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72ea5d2a50c6a19b0800000000000000
+      internalID: -5108652055835857369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill_2(1)_clean_transparent_40
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 135
+        width: 225
+        height: 367
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7265c09b3caec04b0800000000000000
+      internalID: -5472741320817879513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill_2(1)_clean_transparent_41
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 348
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3458044ca9bf08c40800000000000000
+      internalID: 5512682586037585219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill_2(1)_clean_transparent_42
+      rect:
+        serializedVersion: 2
+        x: 1316
+        y: 350
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa2580b4be98c64a0800000000000000
+      internalID: -6598747710335462742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill_2(1)_clean_transparent_43
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 242
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28cfe8fb69617fcc0800000000000000
+      internalID: -3677445734009996158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill_2(1)_clean_transparent_44
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 225
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5be5a6da6e4e35380800000000000000
+      internalID: -8983585152270967115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill_2(1)_clean_transparent_45
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 225
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 939c95d0ba92fec00800000000000000
+      internalID: 932009462529116473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill_2(1)_clean_transparent_46
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 83
+        width: 234
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02dbee162cbac0440800000000000000
+      internalID: 4903482945654668576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill_2(1)_clean_transparent_47
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 83
+        width: 231
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 601a062a9708aa110800000000000000
+      internalID: 1272971104589226246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill_2(1)_clean_transparent_48
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 170
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 704c16c1e31ef6160800000000000000
+      internalID: 7021078000974283783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill_2(1)_clean_transparent_49
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 83
+        width: 230
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baf3a2df1c0c4d6f0800000000000000
+      internalID: -660691305907994709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill_2(1)_clean_transparent_50
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 169
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0aee5b300096eeb0800000000000000
+      internalID: -4690903631189317106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill_2(1)_clean_transparent_51
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 84
+        width: 227
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f52b5c8a0a8693580800000000000000
+      internalID: -8846924953757044129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill_2(1)_clean_transparent_52
+      rect:
+        serializedVersion: 2
+        x: 1317
+        y: 170
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19303b8ebeb46ffd0800000000000000
+      internalID: -2308574282387356783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill_2(1)_clean_transparent_53
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 129
+        width: 38
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43d0b9716f5eb1480800000000000000
+      internalID: -8927288991211123404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill_2(1)_clean_transparent_54
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 157
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5087813c59f411130800000000000000
+      internalID: 3535694687104432133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill_2(1)_clean_transparent_55
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 142
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eccb782c9e0af6d50800000000000000
+      internalID: 6732776893793680590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill_2(1)_clean_transparent_56
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 157
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f9236d19459f9570800000000000000
+      internalID: 8475657164992752119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill_2(1)_clean_transparent_57
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 130
+        width: 37
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f1439b0849363380800000000000000
+      internalID: -8991936624403987979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill_2(1)_clean_transparent_58
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 157
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2311b7a865709a00800000000000000
+      internalID: 761237429376062255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill_2(1)_clean_transparent_59
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 142
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a06e37b900468c7e0800000000000000
+      internalID: -1745034901835225590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill_2(1)_clean_transparent_60
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 122
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be13a64477511a490800000000000000
+      internalID: -7736879082852699669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill_2(1)_clean_transparent_61
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 127
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db6ac064dff0464f0800000000000000
+      internalID: -836526050307692867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill_2(1)_clean_transparent_62
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 88
+        width: 67
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b556ba4cff355f60800000000000000
+      internalID: 8022388664048178611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill_2(1)_clean_transparent_63
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 122
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cbbc0257738cab70800000000000000
+      internalID: 8911642311160282050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill_2(1)_clean_transparent_64
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 126
+        width: 12
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1afe45e2449110df0800000000000000
+      internalID: -215863526511284319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill_2(1)_clean_transparent_65
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 88
+        width: 66
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be4f9fcb5441834b0800000000000000
+      internalID: -5460592258430929685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill_2(1)_clean_transparent_66
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 130
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c65ad4fefa190b60800000000000000
+      internalID: 7712725519180650184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill_2(1)_clean_transparent_67
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 122
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f9baab74d18e75c0800000000000000
+      internalID: -4215789451564369421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill_2(1)_clean_transparent_68
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 126
+        width: 11
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26af45bfa5cd3b800800000000000000
+      internalID: 627087056456448610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill_2(1)_clean_transparent_69
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 88
+        width: 67
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b173cbaf5dc258990800000000000000
+      internalID: -7384446716457765093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill_2(1)_clean_transparent_70
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 122
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a1576141e11bab20800000000000000
+      internalID: 3146628423811027360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill_2(1)_clean_transparent_71
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 126
+        width: 12
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59a98e19e4aaa05d0800000000000000
+      internalID: -3095474539431683435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill_2(1)_clean_transparent_72
+      rect:
+        serializedVersion: 2
+        x: 1257
+        y: 88
+        width: 66
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a60f1f0a95abace30800000000000000
+      internalID: 4524633669762150506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill_2(1)_clean_transparent_73
+      rect:
+        serializedVersion: 2
+        x: 1322
+        y: 130
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dc82ea71f8fb5570800000000000000
+      internalID: 8456626441350712532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill_2(1)_clean_transparent_74
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 119
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 017dc52e3f15ee950800000000000000
+      internalID: 6480207021749360400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill_2(1)_clean_transparent_75
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 118
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f4106be6a00ac1a0800000000000000
+      internalID: -6788612771394087690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill_2(1)_clean_transparent_76
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 118
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8843045f41cf189a0800000000000000
+      internalID: -6232423242359884664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill_2(1)_clean_transparent_77
+      rect:
+        serializedVersion: 2
+        x: 1326
+        y: 119
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8518de583fa250580800000000000000
+      internalID: -8861629466369228456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill_2(1)_clean_transparent_78
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 103
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bec9cf1041fd59f0800000000000000
+      internalID: -477960727717884239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill_2(1)_clean_transparent_79
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 103
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22267d0aac2e97880800000000000000
+      internalID: -8612603452459621854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill_2(1)_clean_transparent_80
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 103
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d8d6a2a4a5582450800000000000000
+      internalID: 6064191063846213842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill_2(1)_clean_transparent_81
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 103
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07b818a21c260e9f0800000000000000
+      internalID: -441244181700965520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill_2(1)_clean_transparent_82
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 83
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0eef453a99fc10d90800000000000000
+      internalID: -7133192076000952608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill_2(1)_clean_transparent_83
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 83
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83b3ffb25a83388b0800000000000000
+      internalID: -5151211266722809032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill_2(1)_clean_transparent_84
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 83
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a829c44eae4fe9850800000000000000
+      internalID: 6385810611347690122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill_2(1)_clean_transparent_85
+      rect:
+        serializedVersion: 2
+        x: 1178
+        y: 83
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25521cc41e80d1100800000000000000
+      internalID: 80230132110927186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill_2(1)_clean_transparent_86
+      rect:
+        serializedVersion: 2
+        x: 1187
+        y: 83
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3e01210a82f3cb00800000000000000
+      internalID: 847787829414137402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Skill_2(1)_clean_transparent_0: 7676196288397062182
+      Skill_2(1)_clean_transparent_1: 8964615997578914155
+      Skill_2(1)_clean_transparent_10: 1521006437206323225
+      Skill_2(1)_clean_transparent_11: -190695827176029249
+      Skill_2(1)_clean_transparent_12: -3447195811830116646
+      Skill_2(1)_clean_transparent_13: -792394436029007579
+      Skill_2(1)_clean_transparent_14: -5607865822932964767
+      Skill_2(1)_clean_transparent_15: -304974087301300807
+      Skill_2(1)_clean_transparent_16: -2741150536157724674
+      Skill_2(1)_clean_transparent_17: 5691263175745896733
+      Skill_2(1)_clean_transparent_18: 8779206086810351916
+      Skill_2(1)_clean_transparent_19: -8504145265919087771
+      Skill_2(1)_clean_transparent_2: 1346703064789063379
+      Skill_2(1)_clean_transparent_20: 1591111315989033129
+      Skill_2(1)_clean_transparent_21: 2079448650998120934
+      Skill_2(1)_clean_transparent_22: 2503717472436000186
+      Skill_2(1)_clean_transparent_23: -5226328728752368453
+      Skill_2(1)_clean_transparent_24: 4860371064424224832
+      Skill_2(1)_clean_transparent_25: -9139564083476909925
+      Skill_2(1)_clean_transparent_26: -3353368359010025818
+      Skill_2(1)_clean_transparent_27: 8918816150619449056
+      Skill_2(1)_clean_transparent_28: 1380241593723718101
+      Skill_2(1)_clean_transparent_29: 4296892597066166401
+      Skill_2(1)_clean_transparent_3: 5998677363491262014
+      Skill_2(1)_clean_transparent_30: 2712677000681690895
+      Skill_2(1)_clean_transparent_31: -2436335686649326213
+      Skill_2(1)_clean_transparent_32: -5772185850118919639
+      Skill_2(1)_clean_transparent_33: 832252310447610116
+      Skill_2(1)_clean_transparent_34: 6448449433787512087
+      Skill_2(1)_clean_transparent_35: -4062172683678817099
+      Skill_2(1)_clean_transparent_36: 6065049939271593965
+      Skill_2(1)_clean_transparent_37: -2983143324291344761
+      Skill_2(1)_clean_transparent_38: 6679423293258610143
+      Skill_2(1)_clean_transparent_39: -5108652055835857369
+      Skill_2(1)_clean_transparent_4: -1439489180755090230
+      Skill_2(1)_clean_transparent_40: -5472741320817879513
+      Skill_2(1)_clean_transparent_41: 5512682586037585219
+      Skill_2(1)_clean_transparent_42: -6598747710335462742
+      Skill_2(1)_clean_transparent_43: -3677445734009996158
+      Skill_2(1)_clean_transparent_44: -8983585152270967115
+      Skill_2(1)_clean_transparent_45: 932009462529116473
+      Skill_2(1)_clean_transparent_46: 4903482945654668576
+      Skill_2(1)_clean_transparent_47: 1272971104589226246
+      Skill_2(1)_clean_transparent_48: 7021078000974283783
+      Skill_2(1)_clean_transparent_49: -660691305907994709
+      Skill_2(1)_clean_transparent_5: 1445454026906816961
+      Skill_2(1)_clean_transparent_50: -4690903631189317106
+      Skill_2(1)_clean_transparent_51: -8846924953757044129
+      Skill_2(1)_clean_transparent_52: -2308574282387356783
+      Skill_2(1)_clean_transparent_53: -8927288991211123404
+      Skill_2(1)_clean_transparent_54: 3535694687104432133
+      Skill_2(1)_clean_transparent_55: 6732776893793680590
+      Skill_2(1)_clean_transparent_56: 8475657164992752119
+      Skill_2(1)_clean_transparent_57: -8991936624403987979
+      Skill_2(1)_clean_transparent_58: 761237429376062255
+      Skill_2(1)_clean_transparent_59: -1745034901835225590
+      Skill_2(1)_clean_transparent_6: 2090658376941254620
+      Skill_2(1)_clean_transparent_60: -7736879082852699669
+      Skill_2(1)_clean_transparent_61: -836526050307692867
+      Skill_2(1)_clean_transparent_62: 8022388664048178611
+      Skill_2(1)_clean_transparent_63: 8911642311160282050
+      Skill_2(1)_clean_transparent_64: -215863526511284319
+      Skill_2(1)_clean_transparent_65: -5460592258430929685
+      Skill_2(1)_clean_transparent_66: 7712725519180650184
+      Skill_2(1)_clean_transparent_67: -4215789451564369421
+      Skill_2(1)_clean_transparent_68: 627087056456448610
+      Skill_2(1)_clean_transparent_69: -7384446716457765093
+      Skill_2(1)_clean_transparent_7: 5671076157870336441
+      Skill_2(1)_clean_transparent_70: 3146628423811027360
+      Skill_2(1)_clean_transparent_71: -3095474539431683435
+      Skill_2(1)_clean_transparent_72: 4524633669762150506
+      Skill_2(1)_clean_transparent_73: 8456626441350712532
+      Skill_2(1)_clean_transparent_74: 6480207021749360400
+      Skill_2(1)_clean_transparent_75: -6788612771394087690
+      Skill_2(1)_clean_transparent_76: -6232423242359884664
+      Skill_2(1)_clean_transparent_77: -8861629466369228456
+      Skill_2(1)_clean_transparent_78: -477960727717884239
+      Skill_2(1)_clean_transparent_79: -8612603452459621854
+      Skill_2(1)_clean_transparent_8: 5530421565867117675
+      Skill_2(1)_clean_transparent_80: 6064191063846213842
+      Skill_2(1)_clean_transparent_81: -441244181700965520
+      Skill_2(1)_clean_transparent_82: -7133192076000952608
+      Skill_2(1)_clean_transparent_83: -5151211266722809032
+      Skill_2(1)_clean_transparent_84: 6385810611347690122
+      Skill_2(1)_clean_transparent_85: 80230132110927186
+      Skill_2(1)_clean_transparent_86: 847787829414137402
+      Skill_2(1)_clean_transparent_9: 3761992507849221766
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

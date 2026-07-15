@@ -1,0 +1,442 @@
+fileFormatVersion: 2
+guid: b36e8caf71106494f99cb1d62e9e6cd1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7870429967923444952
+    second: 8a456f97-e85e-52de-9557-844817465e07_clean_0
+  - first:
+      213: -3390956197194993280
+    second: 8a456f97-e85e-52de-9557-844817465e07_clean_1
+  - first:
+      213: -5948375756277783148
+    second: 8a456f97-e85e-52de-9557-844817465e07_clean_2
+  - first:
+      213: 4665515455104224782
+    second: 8a456f97-e85e-52de-9557-844817465e07_clean_3
+  - first:
+      213: 338752742116790836
+    second: 8a456f97-e85e-52de-9557-844817465e07_clean_4
+  - first:
+      213: 3226308629222717300
+    second: 8a456f97-e85e-52de-9557-844817465e07_clean_5
+  - first:
+      213: 6353482202962365818
+    second: 8a456f97-e85e-52de-9557-844817465e07_clean_6
+  - first:
+      213: 4462200552155991341
+    second: 8a456f97-e85e-52de-9557-844817465e07_clean_7
+  - first:
+      213: 330058277170029874
+    second: 8a456f97-e85e-52de-9557-844817465e07_clean_8
+  - first:
+      213: 3797011558166421308
+    second: 8a456f97-e85e-52de-9557-844817465e07_clean_9
+  - first:
+      213: -1659672993273374365
+    second: 8a456f97-e85e-52de-9557-844817465e07_clean_10
+  - first:
+      213: 7722899411775405906
+    second: 8a456f97-e85e-52de-9557-844817465e07_clean_11
+  - first:
+      213: 9131721583821001817
+    second: 8a456f97-e85e-52de-9557-844817465e07_clean_12
+  - first:
+      213: 7814550879239012013
+    second: 8a456f97-e85e-52de-9557-844817465e07_clean_13
+  - first:
+      213: -7673367774471286365
+    second: 8a456f97-e85e-52de-9557-844817465e07_clean_14
+  - first:
+      213: 869071309604018907
+    second: 8a456f97-e85e-52de-9557-844817465e07_clean_15
+  - first:
+      213: -2070170875992684123
+    second: 8a456f97-e85e-52de-9557-844817465e07_clean_16
+  - first:
+      213: -3409665433089423539
+    second: 8a456f97-e85e-52de-9557-844817465e07_clean_17
+  - first:
+      213: -2575924859358962050
+    second: 8a456f97-e85e-52de-9557-844817465e07_clean_18
+  - first:
+      213: -6920341824153760460
+    second: 8a456f97-e85e-52de-9557-844817465e07_clean_19
+  - first:
+      213: 5849980061359004382
+    second: 8a456f97-e85e-52de-9557-844817465e07_clean_20
+  - first:
+      213: -5362643173477788625
+    second: 8a456f97-e85e-52de-9557-844817465e07_clean_21
+  - first:
+      213: -6641493186893412645
+    second: 8a456f97-e85e-52de-9557-844817465e07_clean_22
+  - first:
+      213: 8511071476146273458
+    second: 8a456f97-e85e-52de-9557-844817465e07_clean_23
+  - first:
+      213: 3506652320195675523
+    second: 8a456f97-e85e-52de-9557-844817465e07_clean_24
+  - first:
+      213: 3861379611081557915
+    second: 8a456f97-e85e-52de-9557-844817465e07_clean_25
+  - first:
+      213: 3309706207174997755
+    second: 8a456f97-e85e-52de-9557-844817465e07_clean_26
+  - first:
+      213: -2928805477755255198
+    second: 8a456f97-e85e-52de-9557-844817465e07_clean_27
+  - first:
+      213: -5243896896259202767
+    second: 8a456f97-e85e-52de-9557-844817465e07_clean_28
+  - first:
+      213: 5387320279492972494
+    second: 8a456f97-e85e-52de-9557-844817465e07_clean_29
+  - first:
+      213: -3703423670197901346
+    second: 8a456f97-e85e-52de-9557-844817465e07_clean_30
+  - first:
+      213: -8742732501365694758
+    second: 8a456f97-e85e-52de-9557-844817465e07_clean_31
+  - first:
+      213: 847892830865703750
+    second: 8a456f97-e85e-52de-9557-844817465e07_clean_32
+  - first:
+      213: -3697778488520779616
+    second: 8a456f97-e85e-52de-9557-844817465e07_clean_33
+  - first:
+      213: 4205286119531662133
+    second: 8a456f97-e85e-52de-9557-844817465e07_clean_34
+  - first:
+      213: -3333358399135443343
+    second: 8a456f97-e85e-52de-9557-844817465e07_clean_35
+  - first:
+      213: -8174229205405602967
+    second: 8a456f97-e85e-52de-9557-844817465e07_clean_36
+  - first:
+      213: -2961556358470899628
+    second: 8a456f97-e85e-52de-9557-844817465e07_clean_37
+  - first:
+      213: -1674916695514718180
+    second: 8a456f97-e85e-52de-9557-844817465e07_clean_38
+  - first:
+      213: 6855228817593581233
+    second: 8a456f97-e85e-52de-9557-844817465e07_clean_39
+  - first:
+      213: 2046845141558511243
+    second: 8a456f97-e85e-52de-9557-844817465e07_clean_40
+  - first:
+      213: -893513771408703147
+    second: 8a456f97-e85e-52de-9557-844817465e07_clean_41
+  - first:
+      213: 8589580460882723443
+    second: 8a456f97-e85e-52de-9557-844817465e07_clean_42
+  - first:
+      213: -4519605812187438760
+    second: 8a456f97-e85e-52de-9557-844817465e07_clean_43
+  - first:
+      213: 2720856914288337244
+    second: 8a456f97-e85e-52de-9557-844817465e07_clean_44
+  - first:
+      213: 2088779729281197758
+    second: 8a456f97-e85e-52de-9557-844817465e07_clean_45
+  - first:
+      213: 4608159392260953132
+    second: 8a456f97-e85e-52de-9557-844817465e07_clean_46
+  - first:
+      213: 8423849288889899366
+    second: 8a456f97-e85e-52de-9557-844817465e07_clean_47
+  - first:
+      213: 4976748859995458068
+    second: 8a456f97-e85e-52de-9557-844817465e07_clean_48
+  - first:
+      213: -4360307233409507378
+    second: 8a456f97-e85e-52de-9557-844817465e07_clean_49
+  - first:
+      213: -4589168871154052682
+    second: 8a456f97-e85e-52de-9557-844817465e07_clean_50
+  - first:
+      213: -9113485743917205286
+    second: 8a456f97-e85e-52de-9557-844817465e07_clean_51
+  - first:
+      213: 5087593676467052423
+    second: 8a456f97-e85e-52de-9557-844817465e07_clean_52
+  - first:
+      213: 3525491841155616060
+    second: 8a456f97-e85e-52de-9557-844817465e07_clean_53
+  - first:
+      213: 873183036004599097
+    second: 8a456f97-e85e-52de-9557-844817465e07_clean_54
+  - first:
+      213: -423991856628808440
+    second: 8a456f97-e85e-52de-9557-844817465e07_clean_55
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 8a456f97-e85e-52de-9557-844817465e07_clean_0
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 896
+        width: 570
+        height: 610
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dc7aa34b52693d60800000000000000
+      internalID: 7870429967923444952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8a456f97-e85e-52de-9557-844817465e07_clean_3
+      rect:
+        serializedVersion: 2
+        x: 1204
+        y: 900
+        width: 570
+        height: 610
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0e0593669d3fb040800000000000000
+      internalID: 4665515455104224782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8a456f97-e85e-52de-9557-844817465e07_clean_5
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 74
+        width: 570
+        height: 610
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 477f894ca9626cc20800000000000000
+      internalID: 3226308629222717300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8a456f97-e85e-52de-9557-844817465e07_clean_8
+      rect:
+        serializedVersion: 2
+        x: 1129
+        y: 72
+        width: 570
+        height: 610
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 235a5ed114a949400800000000000000
+      internalID: 330058277170029874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: c7350718cd5a83a4e8320d89f9da6cde
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      8a456f97-e85e-52de-9557-844817465e07_clean_0: 7870429967923444952
+      8a456f97-e85e-52de-9557-844817465e07_clean_1: -3390956197194993280
+      8a456f97-e85e-52de-9557-844817465e07_clean_10: -1659672993273374365
+      8a456f97-e85e-52de-9557-844817465e07_clean_11: 7722899411775405906
+      8a456f97-e85e-52de-9557-844817465e07_clean_12: 9131721583821001817
+      8a456f97-e85e-52de-9557-844817465e07_clean_13: 7814550879239012013
+      8a456f97-e85e-52de-9557-844817465e07_clean_14: -7673367774471286365
+      8a456f97-e85e-52de-9557-844817465e07_clean_15: 869071309604018907
+      8a456f97-e85e-52de-9557-844817465e07_clean_16: -2070170875992684123
+      8a456f97-e85e-52de-9557-844817465e07_clean_17: -3409665433089423539
+      8a456f97-e85e-52de-9557-844817465e07_clean_18: -2575924859358962050
+      8a456f97-e85e-52de-9557-844817465e07_clean_19: -6920341824153760460
+      8a456f97-e85e-52de-9557-844817465e07_clean_2: -5948375756277783148
+      8a456f97-e85e-52de-9557-844817465e07_clean_20: 5849980061359004382
+      8a456f97-e85e-52de-9557-844817465e07_clean_21: -5362643173477788625
+      8a456f97-e85e-52de-9557-844817465e07_clean_22: -6641493186893412645
+      8a456f97-e85e-52de-9557-844817465e07_clean_23: 8511071476146273458
+      8a456f97-e85e-52de-9557-844817465e07_clean_24: 3506652320195675523
+      8a456f97-e85e-52de-9557-844817465e07_clean_25: 3861379611081557915
+      8a456f97-e85e-52de-9557-844817465e07_clean_26: 3309706207174997755
+      8a456f97-e85e-52de-9557-844817465e07_clean_27: -2928805477755255198
+      8a456f97-e85e-52de-9557-844817465e07_clean_28: -5243896896259202767
+      8a456f97-e85e-52de-9557-844817465e07_clean_29: 5387320279492972494
+      8a456f97-e85e-52de-9557-844817465e07_clean_3: 4665515455104224782
+      8a456f97-e85e-52de-9557-844817465e07_clean_30: -3703423670197901346
+      8a456f97-e85e-52de-9557-844817465e07_clean_31: -8742732501365694758
+      8a456f97-e85e-52de-9557-844817465e07_clean_32: 847892830865703750
+      8a456f97-e85e-52de-9557-844817465e07_clean_33: -3697778488520779616
+      8a456f97-e85e-52de-9557-844817465e07_clean_34: 4205286119531662133
+      8a456f97-e85e-52de-9557-844817465e07_clean_35: -3333358399135443343
+      8a456f97-e85e-52de-9557-844817465e07_clean_36: -8174229205405602967
+      8a456f97-e85e-52de-9557-844817465e07_clean_37: -2961556358470899628
+      8a456f97-e85e-52de-9557-844817465e07_clean_38: -1674916695514718180
+      8a456f97-e85e-52de-9557-844817465e07_clean_39: 6855228817593581233
+      8a456f97-e85e-52de-9557-844817465e07_clean_4: 338752742116790836
+      8a456f97-e85e-52de-9557-844817465e07_clean_40: 2046845141558511243
+      8a456f97-e85e-52de-9557-844817465e07_clean_41: -893513771408703147
+      8a456f97-e85e-52de-9557-844817465e07_clean_42: 8589580460882723443
+      8a456f97-e85e-52de-9557-844817465e07_clean_43: -4519605812187438760
+      8a456f97-e85e-52de-9557-844817465e07_clean_44: 2720856914288337244
+      8a456f97-e85e-52de-9557-844817465e07_clean_45: 2088779729281197758
+      8a456f97-e85e-52de-9557-844817465e07_clean_46: 4608159392260953132
+      8a456f97-e85e-52de-9557-844817465e07_clean_47: 8423849288889899366
+      8a456f97-e85e-52de-9557-844817465e07_clean_48: 4976748859995458068
+      8a456f97-e85e-52de-9557-844817465e07_clean_49: -4360307233409507378
+      8a456f97-e85e-52de-9557-844817465e07_clean_5: 3226308629222717300
+      8a456f97-e85e-52de-9557-844817465e07_clean_50: -4589168871154052682
+      8a456f97-e85e-52de-9557-844817465e07_clean_51: -9113485743917205286
+      8a456f97-e85e-52de-9557-844817465e07_clean_52: 5087593676467052423
+      8a456f97-e85e-52de-9557-844817465e07_clean_53: 3525491841155616060
+      8a456f97-e85e-52de-9557-844817465e07_clean_54: 873183036004599097
+      8a456f97-e85e-52de-9557-844817465e07_clean_55: -423991856628808440
+      8a456f97-e85e-52de-9557-844817465e07_clean_6: 6353482202962365818
+      8a456f97-e85e-52de-9557-844817465e07_clean_7: 4462200552155991341
+      8a456f97-e85e-52de-9557-844817465e07_clean_8: 330058277170029874
+      8a456f97-e85e-52de-9557-844817465e07_clean_9: 3797011558166421308
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

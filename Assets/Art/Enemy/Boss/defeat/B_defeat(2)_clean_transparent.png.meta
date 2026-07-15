@@ -1,0 +1,358 @@
+fileFormatVersion: 2
+guid: 4a4f75242dc072c46b46230dd376ee02
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -726469644663325917
+    second: B_defeat(2)_clean_transparent_0
+  - first:
+      213: 1986927061555214537
+    second: B_defeat(2)_clean_transparent_1
+  - first:
+      213: 7423960726772627307
+    second: B_defeat(2)_clean_transparent_2
+  - first:
+      213: -1992790084130839171
+    second: B_defeat(2)_clean_transparent_3
+  - first:
+      213: -3021649193082458500
+    second: B_defeat(2)_clean_transparent_4
+  - first:
+      213: -6924710007557067156
+    second: B_defeat(2)_clean_transparent_5
+  - first:
+      213: -59353157813649655
+    second: B_defeat(2)_clean_transparent_6
+  - first:
+      213: 5167962619512712513
+    second: B_defeat(2)_clean_transparent_7
+  - first:
+      213: 709118085287682579
+    second: B_defeat(2)_clean_transparent_8
+  - first:
+      213: -7358880828246585699
+    second: B_defeat(2)_clean_transparent_9
+  - first:
+      213: -2659559657128430685
+    second: B_defeat(2)_clean_transparent_10
+  - first:
+      213: 1809458387962229852
+    second: B_defeat(2)_clean_transparent_11
+  - first:
+      213: -5725881942876273799
+    second: B_defeat(2)_clean_transparent_12
+  - first:
+      213: 3423052110285720441
+    second: B_defeat(2)_clean_transparent_13
+  - first:
+      213: -9193007314444742503
+    second: B_defeat(2)_clean_transparent_14
+  - first:
+      213: 4507977798251623677
+    second: B_defeat(2)_clean_transparent_15
+  - first:
+      213: -3788120334127533551
+    second: B_defeat(2)_clean_transparent_16
+  - first:
+      213: -1263888107878171667
+    second: B_defeat(2)_clean_transparent_17
+  - first:
+      213: -7400044399219815045
+    second: B_defeat(2)_clean_transparent_18
+  - first:
+      213: 5736986585124215455
+    second: B_defeat(2)_clean_transparent_19
+  - first:
+      213: 4546976904365019501
+    second: B_defeat(2)_clean_transparent_20
+  - first:
+      213: 4385019446858258794
+    second: B_defeat(2)_clean_transparent_21
+  - first:
+      213: -6532865668355622112
+    second: B_defeat(2)_clean_transparent_22
+  - first:
+      213: -2137816896085002676
+    second: B_defeat(2)_clean_transparent_23
+  - first:
+      213: -1262128903770853562
+    second: B_defeat(2)_clean_transparent_24
+  - first:
+      213: -5874585930765655348
+    second: B_defeat(2)_clean_transparent_25
+  - first:
+      213: -2392132535523041146
+    second: B_defeat(2)_clean_transparent_26
+  - first:
+      213: -5078579401954336633
+    second: B_defeat(2)_clean_transparent_27
+  - first:
+      213: -8872963526231524564
+    second: B_defeat(2)_clean_transparent_28
+  - first:
+      213: -2215546673351108241
+    second: B_defeat(2)_clean_transparent_29
+  - first:
+      213: 5017831496062873578
+    second: B_defeat(2)_clean_transparent_30
+  - first:
+      213: 5262932301466946807
+    second: B_defeat(2)_clean_transparent_31
+  - first:
+      213: -2906355120921569275
+    second: B_defeat(2)_clean_transparent_32
+  - first:
+      213: 7355365428536547738
+    second: B_defeat(2)_clean_transparent_33
+  - first:
+      213: 7669155474268979323
+    second: B_defeat(2)_clean_transparent_34
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: B_defeat(2)_clean_transparent_0
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 1081
+        width: 419
+        height: 601
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32bfcb905bf0be5f0800000000000000
+      internalID: -726469644663325917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B_defeat(2)_clean_transparent_2
+      rect:
+        serializedVersion: 2
+        x: 1009
+        y: 1109
+        width: 419
+        height: 558
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b67bbb972f4370760800000000000000
+      internalID: 7423960726772627307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B_defeat(2)_clean_transparent_18
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 323
+        width: 419
+        height: 601
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7d426673d2cd4990800000000000000
+      internalID: -7400044399219815045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B_defeat(2)_clean_transparent_24
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 316
+        width: 419
+        height: 601
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64f2cf5f2740c7ee0800000000000000
+      internalID: -1262128903770853562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: fcb40d2bcc678824e970166294d3699e
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      B_defeat(2)_clean_transparent_0: -726469644663325917
+      B_defeat(2)_clean_transparent_1: 1986927061555214537
+      B_defeat(2)_clean_transparent_10: -2659559657128430685
+      B_defeat(2)_clean_transparent_11: 1809458387962229852
+      B_defeat(2)_clean_transparent_12: -5725881942876273799
+      B_defeat(2)_clean_transparent_13: 3423052110285720441
+      B_defeat(2)_clean_transparent_14: -9193007314444742503
+      B_defeat(2)_clean_transparent_15: 4507977798251623677
+      B_defeat(2)_clean_transparent_16: -3788120334127533551
+      B_defeat(2)_clean_transparent_17: -1263888107878171667
+      B_defeat(2)_clean_transparent_18: -7400044399219815045
+      B_defeat(2)_clean_transparent_19: 5736986585124215455
+      B_defeat(2)_clean_transparent_2: 7423960726772627307
+      B_defeat(2)_clean_transparent_20: 4546976904365019501
+      B_defeat(2)_clean_transparent_21: 4385019446858258794
+      B_defeat(2)_clean_transparent_22: -6532865668355622112
+      B_defeat(2)_clean_transparent_23: -2137816896085002676
+      B_defeat(2)_clean_transparent_24: -1262128903770853562
+      B_defeat(2)_clean_transparent_25: -5874585930765655348
+      B_defeat(2)_clean_transparent_26: -2392132535523041146
+      B_defeat(2)_clean_transparent_27: -5078579401954336633
+      B_defeat(2)_clean_transparent_28: -8872963526231524564
+      B_defeat(2)_clean_transparent_29: -2215546673351108241
+      B_defeat(2)_clean_transparent_3: -1992790084130839171
+      B_defeat(2)_clean_transparent_30: 5017831496062873578
+      B_defeat(2)_clean_transparent_31: 5262932301466946807
+      B_defeat(2)_clean_transparent_32: -2906355120921569275
+      B_defeat(2)_clean_transparent_33: 7355365428536547738
+      B_defeat(2)_clean_transparent_34: 7669155474268979323
+      B_defeat(2)_clean_transparent_4: -3021649193082458500
+      B_defeat(2)_clean_transparent_5: -6924710007557067156
+      B_defeat(2)_clean_transparent_6: -59353157813649655
+      B_defeat(2)_clean_transparent_7: 5167962619512712513
+      B_defeat(2)_clean_transparent_8: 709118085287682579
+      B_defeat(2)_clean_transparent_9: -7358880828246585699
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

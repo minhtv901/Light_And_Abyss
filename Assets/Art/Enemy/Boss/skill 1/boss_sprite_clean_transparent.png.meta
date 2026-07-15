@@ -1,0 +1,340 @@
+fileFormatVersion: 2
+guid: f42bfffb042d5f747bc8f925b45e2ed4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2743574184716351484
+    second: boss_sprite_clean_transparent_0
+  - first:
+      213: 6027539341461406316
+    second: boss_sprite_clean_transparent_1
+  - first:
+      213: -1660315172958910475
+    second: boss_sprite_clean_transparent_2
+  - first:
+      213: 1421798211933738692
+    second: boss_sprite_clean_transparent_3
+  - first:
+      213: -978294266868275419
+    second: boss_sprite_clean_transparent_4
+  - first:
+      213: -8815487441183127377
+    second: boss_sprite_clean_transparent_5
+  - first:
+      213: 4095307285493321532
+    second: boss_sprite_clean_transparent_6
+  - first:
+      213: -1765381726980432979
+    second: boss_sprite_clean_transparent_7
+  - first:
+      213: -7362774123378609419
+    second: boss_sprite_clean_transparent_8
+  - first:
+      213: -8704135999504448866
+    second: boss_sprite_clean_transparent_9
+  - first:
+      213: -1135987047396396546
+    second: boss_sprite_clean_transparent_10
+  - first:
+      213: 2853989511202319747
+    second: boss_sprite_clean_transparent_11
+  - first:
+      213: 928229370614552619
+    second: boss_sprite_clean_transparent_12
+  - first:
+      213: -708475989206997467
+    second: boss_sprite_clean_transparent_13
+  - first:
+      213: 6078898461680306732
+    second: boss_sprite_clean_transparent_14
+  - first:
+      213: 2856475873174452599
+    second: boss_sprite_clean_transparent_15
+  - first:
+      213: 5783452196680360233
+    second: boss_sprite_clean_transparent_16
+  - first:
+      213: 113629092800139674
+    second: boss_sprite_clean_transparent_17
+  - first:
+      213: 8876436199068020834
+    second: boss_sprite_clean_transparent_18
+  - first:
+      213: 4356760215665893941
+    second: boss_sprite_clean_transparent_19
+  - first:
+      213: 1180351161092942580
+    second: boss_sprite_clean_transparent_20
+  - first:
+      213: -4196563221831818804
+    second: boss_sprite_clean_transparent_21
+  - first:
+      213: 3595496147865679934
+    second: boss_sprite_clean_transparent_22
+  - first:
+      213: 5074681105285735067
+    second: boss_sprite_clean_transparent_23
+  - first:
+      213: 2515077620918493410
+    second: boss_sprite_clean_transparent_24
+  - first:
+      213: 8352933434274983564
+    second: boss_sprite_clean_transparent_25
+  - first:
+      213: 108829343941432399
+    second: boss_sprite_clean_transparent_26
+  - first:
+      213: 8440722419645518217
+    second: boss_sprite_clean_transparent_27
+  - first:
+      213: 1988665106756237776
+    second: boss_sprite_clean_transparent_28
+  - first:
+      213: 885267990284669499
+    second: boss_sprite_clean_transparent_29
+  - first:
+      213: 1922555441290320505
+    second: boss_sprite_clean_transparent_30
+  - first:
+      213: 4844162693821199750
+    second: boss_sprite_clean_transparent_31
+  - first:
+      213: -2562785422317970574
+    second: boss_sprite_clean_transparent_32
+  - first:
+      213: 37177910480620470
+    second: boss_sprite_clean_transparent_33
+  - first:
+      213: 1964121421599130034
+    second: boss_sprite_clean_transparent_34
+  - first:
+      213: -8999964301029503085
+    second: boss_sprite_clean_transparent_35
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: boss_sprite_clean_transparent_0
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 1051
+        width: 601
+        height: 607
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf733f65f22231620800000000000000
+      internalID: 2743574184716351484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_sprite_clean_transparent_14
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 223
+        width: 441
+        height: 607
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2a8f1a81f59c5450800000000000000
+      internalID: 6078898461680306732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_sprite_clean_transparent_15
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 244
+        width: 415
+        height: 607
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77979022cad34a720800000000000000
+      internalID: 2856475873174452599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 681adc1f7f40a7d4f9b718f5f007ffcc
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      boss_sprite_clean_transparent_0: 2743574184716351484
+      boss_sprite_clean_transparent_1: 6027539341461406316
+      boss_sprite_clean_transparent_10: -1135987047396396546
+      boss_sprite_clean_transparent_11: 2853989511202319747
+      boss_sprite_clean_transparent_12: 928229370614552619
+      boss_sprite_clean_transparent_13: -708475989206997467
+      boss_sprite_clean_transparent_14: 6078898461680306732
+      boss_sprite_clean_transparent_15: 2856475873174452599
+      boss_sprite_clean_transparent_16: 5783452196680360233
+      boss_sprite_clean_transparent_17: 113629092800139674
+      boss_sprite_clean_transparent_18: 8876436199068020834
+      boss_sprite_clean_transparent_19: 4356760215665893941
+      boss_sprite_clean_transparent_2: -1660315172958910475
+      boss_sprite_clean_transparent_20: 1180351161092942580
+      boss_sprite_clean_transparent_21: -4196563221831818804
+      boss_sprite_clean_transparent_22: 3595496147865679934
+      boss_sprite_clean_transparent_23: 5074681105285735067
+      boss_sprite_clean_transparent_24: 2515077620918493410
+      boss_sprite_clean_transparent_25: 8352933434274983564
+      boss_sprite_clean_transparent_26: 108829343941432399
+      boss_sprite_clean_transparent_27: 8440722419645518217
+      boss_sprite_clean_transparent_28: 1988665106756237776
+      boss_sprite_clean_transparent_29: 885267990284669499
+      boss_sprite_clean_transparent_3: 1421798211933738692
+      boss_sprite_clean_transparent_30: 1922555441290320505
+      boss_sprite_clean_transparent_31: 4844162693821199750
+      boss_sprite_clean_transparent_32: -2562785422317970574
+      boss_sprite_clean_transparent_33: 37177910480620470
+      boss_sprite_clean_transparent_34: 1964121421599130034
+      boss_sprite_clean_transparent_35: -8999964301029503085
+      boss_sprite_clean_transparent_4: -978294266868275419
+      boss_sprite_clean_transparent_5: -8815487441183127377
+      boss_sprite_clean_transparent_6: 4095307285493321532
+      boss_sprite_clean_transparent_7: -1765381726980432979
+      boss_sprite_clean_transparent_8: -7362774123378609419
+      boss_sprite_clean_transparent_9: -8704135999504448866
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

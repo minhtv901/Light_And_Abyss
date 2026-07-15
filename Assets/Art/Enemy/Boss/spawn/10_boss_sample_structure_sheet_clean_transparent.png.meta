@@ -1,0 +1,1230 @@
+fileFormatVersion: 2
+guid: f25c9651ec2bdcf43bcd7d92c80d8367
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2901577027245831337
+    second: 10_boss_sample_structure_sheet_clean_transparent_0
+  - first:
+      213: -3386141337209409481
+    second: 10_boss_sample_structure_sheet_clean_transparent_1
+  - first:
+      213: -6295122977216338728
+    second: 10_boss_sample_structure_sheet_clean_transparent_2
+  - first:
+      213: -246034030756582010
+    second: 10_boss_sample_structure_sheet_clean_transparent_3
+  - first:
+      213: -1179054936750315776
+    second: 10_boss_sample_structure_sheet_clean_transparent_4
+  - first:
+      213: -7128084037170773895
+    second: 10_boss_sample_structure_sheet_clean_transparent_5
+  - first:
+      213: -1264474820058882116
+    second: 10_boss_sample_structure_sheet_clean_transparent_6
+  - first:
+      213: 2380587150844841348
+    second: 10_boss_sample_structure_sheet_clean_transparent_7
+  - first:
+      213: 7109614942842314437
+    second: 10_boss_sample_structure_sheet_clean_transparent_8
+  - first:
+      213: 3775134982447473672
+    second: 10_boss_sample_structure_sheet_clean_transparent_9
+  - first:
+      213: -6118751444827886946
+    second: 10_boss_sample_structure_sheet_clean_transparent_10
+  - first:
+      213: -8035555531980634770
+    second: 10_boss_sample_structure_sheet_clean_transparent_11
+  - first:
+      213: 7800985733503552255
+    second: 10_boss_sample_structure_sheet_clean_transparent_12
+  - first:
+      213: -6314775857332503344
+    second: 10_boss_sample_structure_sheet_clean_transparent_13
+  - first:
+      213: -3709302197124899689
+    second: 10_boss_sample_structure_sheet_clean_transparent_14
+  - first:
+      213: 537019487568938256
+    second: 10_boss_sample_structure_sheet_clean_transparent_15
+  - first:
+      213: -4835984558667727131
+    second: 10_boss_sample_structure_sheet_clean_transparent_16
+  - first:
+      213: -5085999429238855087
+    second: 10_boss_sample_structure_sheet_clean_transparent_17
+  - first:
+      213: -7774018808326481849
+    second: 10_boss_sample_structure_sheet_clean_transparent_18
+  - first:
+      213: 5039952689412499939
+    second: 10_boss_sample_structure_sheet_clean_transparent_19
+  - first:
+      213: -5106474730865132901
+    second: 10_boss_sample_structure_sheet_clean_transparent_20
+  - first:
+      213: 2694839413640605691
+    second: 10_boss_sample_structure_sheet_clean_transparent_21
+  - first:
+      213: 1734963732151977838
+    second: 10_boss_sample_structure_sheet_clean_transparent_22
+  - first:
+      213: 7543593491806796064
+    second: 10_boss_sample_structure_sheet_clean_transparent_23
+  - first:
+      213: 5668229220523113717
+    second: 10_boss_sample_structure_sheet_clean_transparent_24
+  - first:
+      213: 3187483204133740457
+    second: 10_boss_sample_structure_sheet_clean_transparent_25
+  - first:
+      213: 2012147845442481817
+    second: 10_boss_sample_structure_sheet_clean_transparent_26
+  - first:
+      213: -2575225342967858357
+    second: 10_boss_sample_structure_sheet_clean_transparent_27
+  - first:
+      213: -5414281461102680504
+    second: 10_boss_sample_structure_sheet_clean_transparent_28
+  - first:
+      213: 1453672938666685746
+    second: 10_boss_sample_structure_sheet_clean_transparent_29
+  - first:
+      213: -6874072327827760598
+    second: 10_boss_sample_structure_sheet_clean_transparent_30
+  - first:
+      213: 1699983494518235213
+    second: 10_boss_sample_structure_sheet_clean_transparent_31
+  - first:
+      213: -7952822552763335233
+    second: 10_boss_sample_structure_sheet_clean_transparent_32
+  - first:
+      213: 4320380175647752821
+    second: 10_boss_sample_structure_sheet_clean_transparent_33
+  - first:
+      213: -5256475496983557791
+    second: 10_boss_sample_structure_sheet_clean_transparent_34
+  - first:
+      213: 4813671335649445861
+    second: 10_boss_sample_structure_sheet_clean_transparent_35
+  - first:
+      213: -4544328262346313385
+    second: 10_boss_sample_structure_sheet_clean_transparent_36
+  - first:
+      213: -2713168497092691520
+    second: 10_boss_sample_structure_sheet_clean_transparent_37
+  - first:
+      213: 638000567705891476
+    second: 10_boss_sample_structure_sheet_clean_transparent_38
+  - first:
+      213: -2570628331988536902
+    second: 10_boss_sample_structure_sheet_clean_transparent_39
+  - first:
+      213: -1978356416466964957
+    second: 10_boss_sample_structure_sheet_clean_transparent_40
+  - first:
+      213: -3285049060765645092
+    second: 10_boss_sample_structure_sheet_clean_transparent_41
+  - first:
+      213: -5245006606581672426
+    second: 10_boss_sample_structure_sheet_clean_transparent_42
+  - first:
+      213: 6568016250726348026
+    second: 10_boss_sample_structure_sheet_clean_transparent_43
+  - first:
+      213: -4598643464287161646
+    second: 10_boss_sample_structure_sheet_clean_transparent_44
+  - first:
+      213: -460770698035376147
+    second: 10_boss_sample_structure_sheet_clean_transparent_45
+  - first:
+      213: -7755538803784046705
+    second: 10_boss_sample_structure_sheet_clean_transparent_46
+  - first:
+      213: 6487038920724748385
+    second: 10_boss_sample_structure_sheet_clean_transparent_47
+  - first:
+      213: -8185029087737391576
+    second: 10_boss_sample_structure_sheet_clean_transparent_48
+  - first:
+      213: 1132414680991771038
+    second: 10_boss_sample_structure_sheet_clean_transparent_49
+  - first:
+      213: 7787345495896020964
+    second: 10_boss_sample_structure_sheet_clean_transparent_50
+  - first:
+      213: -7950393985486324603
+    second: 10_boss_sample_structure_sheet_clean_transparent_51
+  - first:
+      213: -5791873801858353066
+    second: 10_boss_sample_structure_sheet_clean_transparent_52
+  - first:
+      213: -8474949046242532453
+    second: 10_boss_sample_structure_sheet_clean_transparent_53
+  - first:
+      213: 3889215904600835980
+    second: 10_boss_sample_structure_sheet_clean_transparent_54
+  - first:
+      213: 2264091861191160005
+    second: 10_boss_sample_structure_sheet_clean_transparent_55
+  - first:
+      213: 801744267418571809
+    second: 10_boss_sample_structure_sheet_clean_transparent_56
+  - first:
+      213: -4010687652896961903
+    second: 10_boss_sample_structure_sheet_clean_transparent_57
+  - first:
+      213: 9212754345807174805
+    second: 10_boss_sample_structure_sheet_clean_transparent_58
+  - first:
+      213: -8935509053815432359
+    second: 10_boss_sample_structure_sheet_clean_transparent_59
+  - first:
+      213: -5450626585402809216
+    second: 10_boss_sample_structure_sheet_clean_transparent_60
+  - first:
+      213: 1050058197480013739
+    second: 10_boss_sample_structure_sheet_clean_transparent_61
+  - first:
+      213: -5352345487932289843
+    second: 10_boss_sample_structure_sheet_clean_transparent_62
+  - first:
+      213: 1950018767999792488
+    second: 10_boss_sample_structure_sheet_clean_transparent_63
+  - first:
+      213: -8609003494772362634
+    second: 10_boss_sample_structure_sheet_clean_transparent_64
+  - first:
+      213: 2833104866408817797
+    second: 10_boss_sample_structure_sheet_clean_transparent_65
+  - first:
+      213: -6530568497605599046
+    second: 10_boss_sample_structure_sheet_clean_transparent_66
+  - first:
+      213: 6904930581723433471
+    second: 10_boss_sample_structure_sheet_clean_transparent_67
+  - first:
+      213: -8834355931836775817
+    second: 10_boss_sample_structure_sheet_clean_transparent_68
+  - first:
+      213: 7221623547011856856
+    second: 10_boss_sample_structure_sheet_clean_transparent_69
+  - first:
+      213: -5007271998732992552
+    second: 10_boss_sample_structure_sheet_clean_transparent_70
+  - first:
+      213: 6725861224017014163
+    second: 10_boss_sample_structure_sheet_clean_transparent_71
+  - first:
+      213: 6104351084800711279
+    second: 10_boss_sample_structure_sheet_clean_transparent_72
+  - first:
+      213: 2234539467821462108
+    second: 10_boss_sample_structure_sheet_clean_transparent_73
+  - first:
+      213: 5508560185386668745
+    second: 10_boss_sample_structure_sheet_clean_transparent_74
+  - first:
+      213: 8896406747343123855
+    second: 10_boss_sample_structure_sheet_clean_transparent_75
+  - first:
+      213: -6149674380833389862
+    second: 10_boss_sample_structure_sheet_clean_transparent_76
+  - first:
+      213: 237516152949687005
+    second: 10_boss_sample_structure_sheet_clean_transparent_77
+  - first:
+      213: 4648835493259542955
+    second: 10_boss_sample_structure_sheet_clean_transparent_78
+  - first:
+      213: 6089374048668671678
+    second: 10_boss_sample_structure_sheet_clean_transparent_79
+  - first:
+      213: 3784403037311672266
+    second: 10_boss_sample_structure_sheet_clean_transparent_80
+  - first:
+      213: -3006800375041975877
+    second: 10_boss_sample_structure_sheet_clean_transparent_81
+  - first:
+      213: -123991207548202526
+    second: 10_boss_sample_structure_sheet_clean_transparent_82
+  - first:
+      213: 49371866083825124
+    second: 10_boss_sample_structure_sheet_clean_transparent_83
+  - first:
+      213: -6030715158920665748
+    second: 10_boss_sample_structure_sheet_clean_transparent_84
+  - first:
+      213: -2856995212453431712
+    second: 10_boss_sample_structure_sheet_clean_transparent_85
+  - first:
+      213: -3666345582833525416
+    second: 10_boss_sample_structure_sheet_clean_transparent_86
+  - first:
+      213: 1016880221900755820
+    second: 10_boss_sample_structure_sheet_clean_transparent_87
+  - first:
+      213: -2152470629307961707
+    second: 10_boss_sample_structure_sheet_clean_transparent_88
+  - first:
+      213: 1482393869749653716
+    second: 10_boss_sample_structure_sheet_clean_transparent_89
+  - first:
+      213: -220852009243778857
+    second: 10_boss_sample_structure_sheet_clean_transparent_90
+  - first:
+      213: 6505536757485123221
+    second: 10_boss_sample_structure_sheet_clean_transparent_91
+  - first:
+      213: -3950711817686964730
+    second: 10_boss_sample_structure_sheet_clean_transparent_92
+  - first:
+      213: -7607259335390928419
+    second: 10_boss_sample_structure_sheet_clean_transparent_93
+  - first:
+      213: -4614640849068175659
+    second: 10_boss_sample_structure_sheet_clean_transparent_94
+  - first:
+      213: -3702012822333210305
+    second: 10_boss_sample_structure_sheet_clean_transparent_95
+  - first:
+      213: -7356541230448464975
+    second: 10_boss_sample_structure_sheet_clean_transparent_96
+  - first:
+      213: -5897145666250943433
+    second: 10_boss_sample_structure_sheet_clean_transparent_97
+  - first:
+      213: -6641244243285980004
+    second: 10_boss_sample_structure_sheet_clean_transparent_98
+  - first:
+      213: 492438483583181310
+    second: 10_boss_sample_structure_sheet_clean_transparent_99
+  - first:
+      213: -3155657129478050059
+    second: 10_boss_sample_structure_sheet_clean_transparent_100
+  - first:
+      213: -9142384247600000757
+    second: 10_boss_sample_structure_sheet_clean_transparent_101
+  - first:
+      213: -8014763766812369149
+    second: 10_boss_sample_structure_sheet_clean_transparent_102
+  - first:
+      213: -1311341133474804302
+    second: 10_boss_sample_structure_sheet_clean_transparent_103
+  - first:
+      213: 6378901772004796775
+    second: 10_boss_sample_structure_sheet_clean_transparent_104
+  - first:
+      213: 9217606395220862625
+    second: 10_boss_sample_structure_sheet_clean_transparent_105
+  - first:
+      213: 8706863586812176021
+    second: 10_boss_sample_structure_sheet_clean_transparent_106
+  - first:
+      213: 6894900940187084228
+    second: 10_boss_sample_structure_sheet_clean_transparent_107
+  - first:
+      213: -5009675533914988102
+    second: 10_boss_sample_structure_sheet_clean_transparent_108
+  - first:
+      213: -7450474620368938475
+    second: 10_boss_sample_structure_sheet_clean_transparent_109
+  - first:
+      213: 8799035776428734938
+    second: 10_boss_sample_structure_sheet_clean_transparent_110
+  - first:
+      213: 3058894600940877706
+    second: 10_boss_sample_structure_sheet_clean_transparent_111
+  - first:
+      213: 8919328794423591322
+    second: 10_boss_sample_structure_sheet_clean_transparent_112
+  - first:
+      213: -3000985416112760764
+    second: 10_boss_sample_structure_sheet_clean_transparent_113
+  - first:
+      213: 6774777600539902156
+    second: 10_boss_sample_structure_sheet_clean_transparent_114
+  - first:
+      213: -2759536263597839302
+    second: 10_boss_sample_structure_sheet_clean_transparent_115
+  - first:
+      213: 3798575658715055094
+    second: 10_boss_sample_structure_sheet_clean_transparent_116
+  - first:
+      213: -5882269137275738194
+    second: 10_boss_sample_structure_sheet_clean_transparent_117
+  - first:
+      213: 1531032517290067585
+    second: 10_boss_sample_structure_sheet_clean_transparent_118
+  - first:
+      213: -3749799729829074917
+    second: 10_boss_sample_structure_sheet_clean_transparent_119
+  - first:
+      213: -607085167442100209
+    second: 10_boss_sample_structure_sheet_clean_transparent_120
+  - first:
+      213: -7484547764534191468
+    second: 10_boss_sample_structure_sheet_clean_transparent_121
+  - first:
+      213: -9065117059141435116
+    second: 10_boss_sample_structure_sheet_clean_transparent_122
+  - first:
+      213: -3829015453478448146
+    second: 10_boss_sample_structure_sheet_clean_transparent_123
+  - first:
+      213: -6328710117915839418
+    second: 10_boss_sample_structure_sheet_clean_transparent_124
+  - first:
+      213: -4049284604193525036
+    second: 10_boss_sample_structure_sheet_clean_transparent_125
+  - first:
+      213: -1212834349592393045
+    second: 10_boss_sample_structure_sheet_clean_transparent_126
+  - first:
+      213: -5822882720431334876
+    second: 10_boss_sample_structure_sheet_clean_transparent_127
+  - first:
+      213: 4910750107050660938
+    second: 10_boss_sample_structure_sheet_clean_transparent_128
+  - first:
+      213: 1574128888986658887
+    second: 10_boss_sample_structure_sheet_clean_transparent_129
+  - first:
+      213: -8967845033082673643
+    second: 10_boss_sample_structure_sheet_clean_transparent_130
+  - first:
+      213: 4867578383009275389
+    second: 10_boss_sample_structure_sheet_clean_transparent_131
+  - first:
+      213: -5730216403820421916
+    second: 10_boss_sample_structure_sheet_clean_transparent_132
+  - first:
+      213: 712388480840155610
+    second: 10_boss_sample_structure_sheet_clean_transparent_133
+  - first:
+      213: 2738102275453640666
+    second: 10_boss_sample_structure_sheet_clean_transparent_134
+  - first:
+      213: -3240094695804262706
+    second: 10_boss_sample_structure_sheet_clean_transparent_135
+  - first:
+      213: 3916156035176261053
+    second: 10_boss_sample_structure_sheet_clean_transparent_136
+  - first:
+      213: -4076015119814446539
+    second: 10_boss_sample_structure_sheet_clean_transparent_137
+  - first:
+      213: 7619140565563411226
+    second: 10_boss_sample_structure_sheet_clean_transparent_138
+  - first:
+      213: 2179067546711285407
+    second: 10_boss_sample_structure_sheet_clean_transparent_139
+  - first:
+      213: 6526911440791584624
+    second: 10_boss_sample_structure_sheet_clean_transparent_140
+  - first:
+      213: -3469919857604893800
+    second: 10_boss_sample_structure_sheet_clean_transparent_141
+  - first:
+      213: 4857974010155845589
+    second: 10_boss_sample_structure_sheet_clean_transparent_142
+  - first:
+      213: -4205188173369926284
+    second: 10_boss_sample_structure_sheet_clean_transparent_143
+  - first:
+      213: 6670900268954296699
+    second: 10_boss_sample_structure_sheet_clean_transparent_144
+  - first:
+      213: -1191297069041764299
+    second: 10_boss_sample_structure_sheet_clean_transparent_145
+  - first:
+      213: -5829819105070804138
+    second: 10_boss_sample_structure_sheet_clean_transparent_146
+  - first:
+      213: -622914208289691746
+    second: 10_boss_sample_structure_sheet_clean_transparent_147
+  - first:
+      213: -129804744182810685
+    second: 10_boss_sample_structure_sheet_clean_transparent_148
+  - first:
+      213: 8583262756612539635
+    second: 10_boss_sample_structure_sheet_clean_transparent_149
+  - first:
+      213: -8698828248048659827
+    second: 10_boss_sample_structure_sheet_clean_transparent_150
+  - first:
+      213: 8398917325250206940
+    second: 10_boss_sample_structure_sheet_clean_transparent_151
+  - first:
+      213: 632480212412859653
+    second: 10_boss_sample_structure_sheet_clean_transparent_152
+  - first:
+      213: -6614752112294266903
+    second: 10_boss_sample_structure_sheet_clean_transparent_153
+  - first:
+      213: -6557994836922074956
+    second: 10_boss_sample_structure_sheet_clean_transparent_154
+  - first:
+      213: -6606579748753250397
+    second: 10_boss_sample_structure_sheet_clean_transparent_155
+  - first:
+      213: -2035244819716500324
+    second: 10_boss_sample_structure_sheet_clean_transparent_156
+  - first:
+      213: -6572255923567125505
+    second: 10_boss_sample_structure_sheet_clean_transparent_157
+  - first:
+      213: -2423252557078400012
+    second: 10_boss_sample_structure_sheet_clean_transparent_158
+  - first:
+      213: -3589651456497821957
+    second: 10_boss_sample_structure_sheet_clean_transparent_159
+  - first:
+      213: 9212071457532987182
+    second: 10_boss_sample_structure_sheet_clean_transparent_160
+  - first:
+      213: 1544498915243941800
+    second: 10_boss_sample_structure_sheet_clean_transparent_161
+  - first:
+      213: -3220190139343548748
+    second: 10_boss_sample_structure_sheet_clean_transparent_162
+  - first:
+      213: 5406462679748990088
+    second: 10_boss_sample_structure_sheet_clean_transparent_163
+  - first:
+      213: 2444326136958154231
+    second: 10_boss_sample_structure_sheet_clean_transparent_164
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 10_boss_sample_structure_sheet_clean_transparent_0
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 995
+        width: 189
+        height: 236
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a4fb6ddee8744820800000000000000
+      internalID: 2901577027245831337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10_boss_sample_structure_sheet_clean_transparent_7
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 1003
+        width: 198
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48d47fa966b890120800000000000000
+      internalID: 2380587150844841348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10_boss_sample_structure_sheet_clean_transparent_10
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 995
+        width: 193
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9a202ebaf3d51ba0800000000000000
+      internalID: -6118751444827886946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10_boss_sample_structure_sheet_clean_transparent_19
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 1003
+        width: 205
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e9e439a44281f540800000000000000
+      internalID: 5039952689412499939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10_boss_sample_structure_sheet_clean_transparent_60
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 714
+        width: 182
+        height: 237
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 084e3cdcffb7b54b0800000000000000
+      internalID: -5450626585402809216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10_boss_sample_structure_sheet_clean_transparent_63
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 714
+        width: 186
+        height: 235
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 865f8f3ecbbdf0b10800000000000000
+      internalID: 1950018767999792488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10_boss_sample_structure_sheet_clean_transparent_66
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 715
+        width: 187
+        height: 252
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab0acd64d82ce55a0800000000000000
+      internalID: -6530568497605599046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10_boss_sample_structure_sheet_clean_transparent_67
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 713
+        width: 186
+        height: 264
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff94b5ab7cd33df50800000000000000
+      internalID: 6904930581723433471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10_boss_sample_structure_sheet_clean_transparent_96
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 448
+        width: 188
+        height: 253
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bbaa9f3ab058e990800000000000000
+      internalID: -7356541230448464975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10_boss_sample_structure_sheet_clean_transparent_97
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 448
+        width: 186
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 734d06ec241292ea0800000000000000
+      internalID: -5897145666250943433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10_boss_sample_structure_sheet_clean_transparent_98
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 448
+        width: 190
+        height: 261
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9cc45c2c8f85d3a0800000000000000
+      internalID: -6641244243285980004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10_boss_sample_structure_sheet_clean_transparent_100
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 448
+        width: 190
+        height: 258
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fe28846f8ad434d0800000000000000
+      internalID: -3155657129478050059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10_boss_sample_structure_sheet_clean_transparent_129
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 242
+        width: 180
+        height: 201
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 748eaba62ed68d510800000000000000
+      internalID: 1574128888986658887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10_boss_sample_structure_sheet_clean_transparent_130
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 242
+        width: 173
+        height: 201
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5162b52c470db8380800000000000000
+      internalID: -8967845033082673643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10_boss_sample_structure_sheet_clean_transparent_131
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 242
+        width: 174
+        height: 201
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfd53a3ffbc1d8340800000000000000
+      internalID: 4867578383009275389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10_boss_sample_structure_sheet_clean_transparent_132
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 242
+        width: 190
+        height: 202
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ecda2c6a8e2a70b0800000000000000
+      internalID: -5730216403820421916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10_boss_sample_structure_sheet_clean_transparent_140
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 37
+        width: 174
+        height: 202
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07fb0d4df5f349a50800000000000000
+      internalID: 6526911440791584624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10_boss_sample_structure_sheet_clean_transparent_141
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 36
+        width: 181
+        height: 202
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 893e260264e58dfc0800000000000000
+      internalID: -3469919857604893800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10_boss_sample_structure_sheet_clean_transparent_143
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 28
+        width: 175
+        height: 202
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47d9c98e2ab24a5c0800000000000000
+      internalID: -4205188173369926284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10_boss_sample_structure_sheet_clean_transparent_144
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 29
+        width: 232
+        height: 202
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b71241f537cc39c50800000000000000
+      internalID: 6670900268954296699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: da6131086f58c5540acdc669b4a4850d
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      10_boss_sample_structure_sheet_clean_transparent_0: 2901577027245831337
+      10_boss_sample_structure_sheet_clean_transparent_1: -3386141337209409481
+      10_boss_sample_structure_sheet_clean_transparent_10: -6118751444827886946
+      10_boss_sample_structure_sheet_clean_transparent_100: -3155657129478050059
+      10_boss_sample_structure_sheet_clean_transparent_101: -9142384247600000757
+      10_boss_sample_structure_sheet_clean_transparent_102: -8014763766812369149
+      10_boss_sample_structure_sheet_clean_transparent_103: -1311341133474804302
+      10_boss_sample_structure_sheet_clean_transparent_104: 6378901772004796775
+      10_boss_sample_structure_sheet_clean_transparent_105: 9217606395220862625
+      10_boss_sample_structure_sheet_clean_transparent_106: 8706863586812176021
+      10_boss_sample_structure_sheet_clean_transparent_107: 6894900940187084228
+      10_boss_sample_structure_sheet_clean_transparent_108: -5009675533914988102
+      10_boss_sample_structure_sheet_clean_transparent_109: -7450474620368938475
+      10_boss_sample_structure_sheet_clean_transparent_11: -8035555531980634770
+      10_boss_sample_structure_sheet_clean_transparent_110: 8799035776428734938
+      10_boss_sample_structure_sheet_clean_transparent_111: 3058894600940877706
+      10_boss_sample_structure_sheet_clean_transparent_112: 8919328794423591322
+      10_boss_sample_structure_sheet_clean_transparent_113: -3000985416112760764
+      10_boss_sample_structure_sheet_clean_transparent_114: 6774777600539902156
+      10_boss_sample_structure_sheet_clean_transparent_115: -2759536263597839302
+      10_boss_sample_structure_sheet_clean_transparent_116: 3798575658715055094
+      10_boss_sample_structure_sheet_clean_transparent_117: -5882269137275738194
+      10_boss_sample_structure_sheet_clean_transparent_118: 1531032517290067585
+      10_boss_sample_structure_sheet_clean_transparent_119: -3749799729829074917
+      10_boss_sample_structure_sheet_clean_transparent_12: 7800985733503552255
+      10_boss_sample_structure_sheet_clean_transparent_120: -607085167442100209
+      10_boss_sample_structure_sheet_clean_transparent_121: -7484547764534191468
+      10_boss_sample_structure_sheet_clean_transparent_122: -9065117059141435116
+      10_boss_sample_structure_sheet_clean_transparent_123: -3829015453478448146
+      10_boss_sample_structure_sheet_clean_transparent_124: -6328710117915839418
+      10_boss_sample_structure_sheet_clean_transparent_125: -4049284604193525036
+      10_boss_sample_structure_sheet_clean_transparent_126: -1212834349592393045
+      10_boss_sample_structure_sheet_clean_transparent_127: -5822882720431334876
+      10_boss_sample_structure_sheet_clean_transparent_128: 4910750107050660938
+      10_boss_sample_structure_sheet_clean_transparent_129: 1574128888986658887
+      10_boss_sample_structure_sheet_clean_transparent_13: -6314775857332503344
+      10_boss_sample_structure_sheet_clean_transparent_130: -8967845033082673643
+      10_boss_sample_structure_sheet_clean_transparent_131: 4867578383009275389
+      10_boss_sample_structure_sheet_clean_transparent_132: -5730216403820421916
+      10_boss_sample_structure_sheet_clean_transparent_133: 712388480840155610
+      10_boss_sample_structure_sheet_clean_transparent_134: 2738102275453640666
+      10_boss_sample_structure_sheet_clean_transparent_135: -3240094695804262706
+      10_boss_sample_structure_sheet_clean_transparent_136: 3916156035176261053
+      10_boss_sample_structure_sheet_clean_transparent_137: -4076015119814446539
+      10_boss_sample_structure_sheet_clean_transparent_138: 7619140565563411226
+      10_boss_sample_structure_sheet_clean_transparent_139: 2179067546711285407
+      10_boss_sample_structure_sheet_clean_transparent_14: -3709302197124899689
+      10_boss_sample_structure_sheet_clean_transparent_140: 6526911440791584624
+      10_boss_sample_structure_sheet_clean_transparent_141: -3469919857604893800
+      10_boss_sample_structure_sheet_clean_transparent_142: 4857974010155845589
+      10_boss_sample_structure_sheet_clean_transparent_143: -4205188173369926284
+      10_boss_sample_structure_sheet_clean_transparent_144: 6670900268954296699
+      10_boss_sample_structure_sheet_clean_transparent_145: -1191297069041764299
+      10_boss_sample_structure_sheet_clean_transparent_146: -5829819105070804138
+      10_boss_sample_structure_sheet_clean_transparent_147: -622914208289691746
+      10_boss_sample_structure_sheet_clean_transparent_148: -129804744182810685
+      10_boss_sample_structure_sheet_clean_transparent_149: 8583262756612539635
+      10_boss_sample_structure_sheet_clean_transparent_15: 537019487568938256
+      10_boss_sample_structure_sheet_clean_transparent_150: -8698828248048659827
+      10_boss_sample_structure_sheet_clean_transparent_151: 8398917325250206940
+      10_boss_sample_structure_sheet_clean_transparent_152: 632480212412859653
+      10_boss_sample_structure_sheet_clean_transparent_153: -6614752112294266903
+      10_boss_sample_structure_sheet_clean_transparent_154: -6557994836922074956
+      10_boss_sample_structure_sheet_clean_transparent_155: -6606579748753250397
+      10_boss_sample_structure_sheet_clean_transparent_156: -2035244819716500324
+      10_boss_sample_structure_sheet_clean_transparent_157: -6572255923567125505
+      10_boss_sample_structure_sheet_clean_transparent_158: -2423252557078400012
+      10_boss_sample_structure_sheet_clean_transparent_159: -3589651456497821957
+      10_boss_sample_structure_sheet_clean_transparent_16: -4835984558667727131
+      10_boss_sample_structure_sheet_clean_transparent_160: 9212071457532987182
+      10_boss_sample_structure_sheet_clean_transparent_161: 1544498915243941800
+      10_boss_sample_structure_sheet_clean_transparent_162: -3220190139343548748
+      10_boss_sample_structure_sheet_clean_transparent_163: 5406462679748990088
+      10_boss_sample_structure_sheet_clean_transparent_164: 2444326136958154231
+      10_boss_sample_structure_sheet_clean_transparent_17: -5085999429238855087
+      10_boss_sample_structure_sheet_clean_transparent_18: -7774018808326481849
+      10_boss_sample_structure_sheet_clean_transparent_19: 5039952689412499939
+      10_boss_sample_structure_sheet_clean_transparent_2: -6295122977216338728
+      10_boss_sample_structure_sheet_clean_transparent_20: -5106474730865132901
+      10_boss_sample_structure_sheet_clean_transparent_21: 2694839413640605691
+      10_boss_sample_structure_sheet_clean_transparent_22: 1734963732151977838
+      10_boss_sample_structure_sheet_clean_transparent_23: 7543593491806796064
+      10_boss_sample_structure_sheet_clean_transparent_24: 5668229220523113717
+      10_boss_sample_structure_sheet_clean_transparent_25: 3187483204133740457
+      10_boss_sample_structure_sheet_clean_transparent_26: 2012147845442481817
+      10_boss_sample_structure_sheet_clean_transparent_27: -2575225342967858357
+      10_boss_sample_structure_sheet_clean_transparent_28: -5414281461102680504
+      10_boss_sample_structure_sheet_clean_transparent_29: 1453672938666685746
+      10_boss_sample_structure_sheet_clean_transparent_3: -246034030756582010
+      10_boss_sample_structure_sheet_clean_transparent_30: -6874072327827760598
+      10_boss_sample_structure_sheet_clean_transparent_31: 1699983494518235213
+      10_boss_sample_structure_sheet_clean_transparent_32: -7952822552763335233
+      10_boss_sample_structure_sheet_clean_transparent_33: 4320380175647752821
+      10_boss_sample_structure_sheet_clean_transparent_34: -5256475496983557791
+      10_boss_sample_structure_sheet_clean_transparent_35: 4813671335649445861
+      10_boss_sample_structure_sheet_clean_transparent_36: -4544328262346313385
+      10_boss_sample_structure_sheet_clean_transparent_37: -2713168497092691520
+      10_boss_sample_structure_sheet_clean_transparent_38: 638000567705891476
+      10_boss_sample_structure_sheet_clean_transparent_39: -2570628331988536902
+      10_boss_sample_structure_sheet_clean_transparent_4: -1179054936750315776
+      10_boss_sample_structure_sheet_clean_transparent_40: -1978356416466964957
+      10_boss_sample_structure_sheet_clean_transparent_41: -3285049060765645092
+      10_boss_sample_structure_sheet_clean_transparent_42: -5245006606581672426
+      10_boss_sample_structure_sheet_clean_transparent_43: 6568016250726348026
+      10_boss_sample_structure_sheet_clean_transparent_44: -4598643464287161646
+      10_boss_sample_structure_sheet_clean_transparent_45: -460770698035376147
+      10_boss_sample_structure_sheet_clean_transparent_46: -7755538803784046705
+      10_boss_sample_structure_sheet_clean_transparent_47: 6487038920724748385
+      10_boss_sample_structure_sheet_clean_transparent_48: -8185029087737391576
+      10_boss_sample_structure_sheet_clean_transparent_49: 1132414680991771038
+      10_boss_sample_structure_sheet_clean_transparent_5: -7128084037170773895
+      10_boss_sample_structure_sheet_clean_transparent_50: 7787345495896020964
+      10_boss_sample_structure_sheet_clean_transparent_51: -7950393985486324603
+      10_boss_sample_structure_sheet_clean_transparent_52: -5791873801858353066
+      10_boss_sample_structure_sheet_clean_transparent_53: -8474949046242532453
+      10_boss_sample_structure_sheet_clean_transparent_54: 3889215904600835980
+      10_boss_sample_structure_sheet_clean_transparent_55: 2264091861191160005
+      10_boss_sample_structure_sheet_clean_transparent_56: 801744267418571809
+      10_boss_sample_structure_sheet_clean_transparent_57: -4010687652896961903
+      10_boss_sample_structure_sheet_clean_transparent_58: 9212754345807174805
+      10_boss_sample_structure_sheet_clean_transparent_59: -8935509053815432359
+      10_boss_sample_structure_sheet_clean_transparent_6: -1264474820058882116
+      10_boss_sample_structure_sheet_clean_transparent_60: -5450626585402809216
+      10_boss_sample_structure_sheet_clean_transparent_61: 1050058197480013739
+      10_boss_sample_structure_sheet_clean_transparent_62: -5352345487932289843
+      10_boss_sample_structure_sheet_clean_transparent_63: 1950018767999792488
+      10_boss_sample_structure_sheet_clean_transparent_64: -8609003494772362634
+      10_boss_sample_structure_sheet_clean_transparent_65: 2833104866408817797
+      10_boss_sample_structure_sheet_clean_transparent_66: -6530568497605599046
+      10_boss_sample_structure_sheet_clean_transparent_67: 6904930581723433471
+      10_boss_sample_structure_sheet_clean_transparent_68: -8834355931836775817
+      10_boss_sample_structure_sheet_clean_transparent_69: 7221623547011856856
+      10_boss_sample_structure_sheet_clean_transparent_7: 2380587150844841348
+      10_boss_sample_structure_sheet_clean_transparent_70: -5007271998732992552
+      10_boss_sample_structure_sheet_clean_transparent_71: 6725861224017014163
+      10_boss_sample_structure_sheet_clean_transparent_72: 6104351084800711279
+      10_boss_sample_structure_sheet_clean_transparent_73: 2234539467821462108
+      10_boss_sample_structure_sheet_clean_transparent_74: 5508560185386668745
+      10_boss_sample_structure_sheet_clean_transparent_75: 8896406747343123855
+      10_boss_sample_structure_sheet_clean_transparent_76: -6149674380833389862
+      10_boss_sample_structure_sheet_clean_transparent_77: 237516152949687005
+      10_boss_sample_structure_sheet_clean_transparent_78: 4648835493259542955
+      10_boss_sample_structure_sheet_clean_transparent_79: 6089374048668671678
+      10_boss_sample_structure_sheet_clean_transparent_8: 7109614942842314437
+      10_boss_sample_structure_sheet_clean_transparent_80: 3784403037311672266
+      10_boss_sample_structure_sheet_clean_transparent_81: -3006800375041975877
+      10_boss_sample_structure_sheet_clean_transparent_82: -123991207548202526
+      10_boss_sample_structure_sheet_clean_transparent_83: 49371866083825124
+      10_boss_sample_structure_sheet_clean_transparent_84: -6030715158920665748
+      10_boss_sample_structure_sheet_clean_transparent_85: -2856995212453431712
+      10_boss_sample_structure_sheet_clean_transparent_86: -3666345582833525416
+      10_boss_sample_structure_sheet_clean_transparent_87: 1016880221900755820
+      10_boss_sample_structure_sheet_clean_transparent_88: -2152470629307961707
+      10_boss_sample_structure_sheet_clean_transparent_89: 1482393869749653716
+      10_boss_sample_structure_sheet_clean_transparent_9: 3775134982447473672
+      10_boss_sample_structure_sheet_clean_transparent_90: -220852009243778857
+      10_boss_sample_structure_sheet_clean_transparent_91: 6505536757485123221
+      10_boss_sample_structure_sheet_clean_transparent_92: -3950711817686964730
+      10_boss_sample_structure_sheet_clean_transparent_93: -7607259335390928419
+      10_boss_sample_structure_sheet_clean_transparent_94: -4614640849068175659
+      10_boss_sample_structure_sheet_clean_transparent_95: -3702012822333210305
+      10_boss_sample_structure_sheet_clean_transparent_96: -7356541230448464975
+      10_boss_sample_structure_sheet_clean_transparent_97: -5897145666250943433
+      10_boss_sample_structure_sheet_clean_transparent_98: -6641244243285980004
+      10_boss_sample_structure_sheet_clean_transparent_99: 492438483583181310
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

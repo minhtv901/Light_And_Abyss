@@ -1,0 +1,824 @@
+fileFormatVersion: 2
+guid: b61b673ccc433a545bc18a917d1f6080
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2922840622761773614
+    second: Ultimate_1(2)_clean_transparent_0
+  - first:
+      213: 7508753229769136224
+    second: Ultimate_1(2)_clean_transparent_1
+  - first:
+      213: -5352478141470625000
+    second: Ultimate_1(2)_clean_transparent_2
+  - first:
+      213: -2445647931614218963
+    second: Ultimate_1(2)_clean_transparent_3
+  - first:
+      213: 3697076689055792412
+    second: Ultimate_1(2)_clean_transparent_4
+  - first:
+      213: 7644246663116054934
+    second: Ultimate_1(2)_clean_transparent_5
+  - first:
+      213: 39803294313606510
+    second: Ultimate_1(2)_clean_transparent_6
+  - first:
+      213: -9008806629092256690
+    second: Ultimate_1(2)_clean_transparent_7
+  - first:
+      213: 6744153370724014081
+    second: Ultimate_1(2)_clean_transparent_8
+  - first:
+      213: -3896404538101468851
+    second: Ultimate_1(2)_clean_transparent_9
+  - first:
+      213: 8057163842682719389
+    second: Ultimate_1(2)_clean_transparent_10
+  - first:
+      213: 1068173166546577609
+    second: Ultimate_1(2)_clean_transparent_11
+  - first:
+      213: 4764985677205823837
+    second: Ultimate_1(2)_clean_transparent_12
+  - first:
+      213: -801992557132527473
+    second: Ultimate_1(2)_clean_transparent_13
+  - first:
+      213: -6431818859062573417
+    second: Ultimate_1(2)_clean_transparent_14
+  - first:
+      213: -8827310496969670322
+    second: Ultimate_1(2)_clean_transparent_15
+  - first:
+      213: 8825263085784196438
+    second: Ultimate_1(2)_clean_transparent_16
+  - first:
+      213: -6776536823263643998
+    second: Ultimate_1(2)_clean_transparent_17
+  - first:
+      213: 6753845921477550633
+    second: Ultimate_1(2)_clean_transparent_18
+  - first:
+      213: 2025572397429278578
+    second: Ultimate_1(2)_clean_transparent_19
+  - first:
+      213: 5347523623253486769
+    second: Ultimate_1(2)_clean_transparent_20
+  - first:
+      213: 2957863054678511925
+    second: Ultimate_1(2)_clean_transparent_21
+  - first:
+      213: -4627003356646871655
+    second: Ultimate_1(2)_clean_transparent_22
+  - first:
+      213: 7170568007119863278
+    second: Ultimate_1(2)_clean_transparent_23
+  - first:
+      213: 8259529360382171332
+    second: Ultimate_1(2)_clean_transparent_24
+  - first:
+      213: -1010022441963640343
+    second: Ultimate_1(2)_clean_transparent_25
+  - first:
+      213: 1229816764575771241
+    second: Ultimate_1(2)_clean_transparent_26
+  - first:
+      213: -5891508838646270083
+    second: Ultimate_1(2)_clean_transparent_27
+  - first:
+      213: -5164592172406407707
+    second: Ultimate_1(2)_clean_transparent_28
+  - first:
+      213: -825028412996509532
+    second: Ultimate_1(2)_clean_transparent_29
+  - first:
+      213: -2896391023242644936
+    second: Ultimate_1(2)_clean_transparent_30
+  - first:
+      213: -4540092551278039205
+    second: Ultimate_1(2)_clean_transparent_31
+  - first:
+      213: 7902485896658972356
+    second: Ultimate_1(2)_clean_transparent_32
+  - first:
+      213: -3359871060335793840
+    second: Ultimate_1(2)_clean_transparent_33
+  - first:
+      213: -8248233448682280051
+    second: Ultimate_1(2)_clean_transparent_34
+  - first:
+      213: 4480234029513740817
+    second: Ultimate_1(2)_clean_transparent_35
+  - first:
+      213: 884502707938203091
+    second: Ultimate_1(2)_clean_transparent_36
+  - first:
+      213: 1680332382274407169
+    second: Ultimate_1(2)_clean_transparent_37
+  - first:
+      213: 7325792240710702224
+    second: Ultimate_1(2)_clean_transparent_38
+  - first:
+      213: -9133722849073108595
+    second: Ultimate_1(2)_clean_transparent_39
+  - first:
+      213: 8263271957582586178
+    second: Ultimate_1(2)_clean_transparent_40
+  - first:
+      213: 8118375178341617290
+    second: Ultimate_1(2)_clean_transparent_41
+  - first:
+      213: -1897218847266733083
+    second: Ultimate_1(2)_clean_transparent_42
+  - first:
+      213: -7313968058461676636
+    second: Ultimate_1(2)_clean_transparent_43
+  - first:
+      213: 8277945888110832522
+    second: Ultimate_1(2)_clean_transparent_44
+  - first:
+      213: 6792819317261953486
+    second: Ultimate_1(2)_clean_transparent_45
+  - first:
+      213: 5135880367066142209
+    second: Ultimate_1(2)_clean_transparent_46
+  - first:
+      213: 6885197271804971999
+    second: Ultimate_1(2)_clean_transparent_47
+  - first:
+      213: 5410719668507623056
+    second: Ultimate_1(2)_clean_transparent_48
+  - first:
+      213: -9012103938252762604
+    second: Ultimate_1(2)_clean_transparent_49
+  - first:
+      213: -7834299577565587828
+    second: Ultimate_1(2)_clean_transparent_50
+  - first:
+      213: -414063844287629019
+    second: Ultimate_1(2)_clean_transparent_51
+  - first:
+      213: -488571685631606565
+    second: Ultimate_1(2)_clean_transparent_52
+  - first:
+      213: -5744925821068419339
+    second: Ultimate_1(2)_clean_transparent_53
+  - first:
+      213: -3290747481162121125
+    second: Ultimate_1(2)_clean_transparent_54
+  - first:
+      213: -3254074883333683779
+    second: Ultimate_1(2)_clean_transparent_55
+  - first:
+      213: -4615364805344566713
+    second: Ultimate_1(2)_clean_transparent_56
+  - first:
+      213: -1852771506030945483
+    second: Ultimate_1(2)_clean_transparent_57
+  - first:
+      213: -9033841840340988724
+    second: Ultimate_1(2)_clean_transparent_58
+  - first:
+      213: 4288479973982118367
+    second: Ultimate_1(2)_clean_transparent_59
+  - first:
+      213: -2263267728735560950
+    second: Ultimate_1(2)_clean_transparent_60
+  - first:
+      213: 2671863930580225559
+    second: Ultimate_1(2)_clean_transparent_61
+  - first:
+      213: -6898197375575715024
+    second: Ultimate_1(2)_clean_transparent_62
+  - first:
+      213: 5057696753632902017
+    second: Ultimate_1(2)_clean_transparent_63
+  - first:
+      213: -3293659395506722570
+    second: Ultimate_1(2)_clean_transparent_64
+  - first:
+      213: 1421672455826055172
+    second: Ultimate_1(2)_clean_transparent_65
+  - first:
+      213: -2102773981451139158
+    second: Ultimate_1(2)_clean_transparent_66
+  - first:
+      213: -7423892505186193443
+    second: Ultimate_1(2)_clean_transparent_67
+  - first:
+      213: 5925269670904709931
+    second: Ultimate_1(2)_clean_transparent_68
+  - first:
+      213: -5802483583342501108
+    second: Ultimate_1(2)_clean_transparent_69
+  - first:
+      213: -2680775103338571797
+    second: Ultimate_1(2)_clean_transparent_70
+  - first:
+      213: -8142788700428071603
+    second: Ultimate_1(2)_clean_transparent_71
+  - first:
+      213: -7861123313170720296
+    second: Ultimate_1(2)_clean_transparent_72
+  - first:
+      213: -6811801861655166984
+    second: Ultimate_1(2)_clean_transparent_73
+  - first:
+      213: -328778449855209970
+    second: Ultimate_1(2)_clean_transparent_74
+  - first:
+      213: 3770640814946663036
+    second: Ultimate_1(2)_clean_transparent_75
+  - first:
+      213: -7336843443687438225
+    second: Ultimate_1(2)_clean_transparent_76
+  - first:
+      213: -937807463760649508
+    second: Ultimate_1(2)_clean_transparent_77
+  - first:
+      213: 6774416200232108271
+    second: Ultimate_1(2)_clean_transparent_78
+  - first:
+      213: -3763746436065173559
+    second: Ultimate_1(2)_clean_transparent_79
+  - first:
+      213: -2273939175017795346
+    second: Ultimate_1(2)_clean_transparent_80
+  - first:
+      213: 2284271233301939143
+    second: Ultimate_1(2)_clean_transparent_81
+  - first:
+      213: 3567210230632898424
+    second: Ultimate_1(2)_clean_transparent_82
+  - first:
+      213: -8798620544476996769
+    second: Ultimate_1(2)_clean_transparent_83
+  - first:
+      213: -941374162700262842
+    second: Ultimate_1(2)_clean_transparent_84
+  - first:
+      213: 4083516509649699553
+    second: Ultimate_1(2)_clean_transparent_85
+  - first:
+      213: 1120622993985726196
+    second: Ultimate_1(2)_clean_transparent_86
+  - first:
+      213: -3996403170415553236
+    second: Ultimate_1(2)_clean_transparent_87
+  - first:
+      213: -1307389705816066399
+    second: Ultimate_1(2)_clean_transparent_88
+  - first:
+      213: -5728076227753123758
+    second: Ultimate_1(2)_clean_transparent_89
+  - first:
+      213: -2653126023948098037
+    second: Ultimate_1(2)_clean_transparent_90
+  - first:
+      213: 299560349530816628
+    second: Ultimate_1(2)_clean_transparent_91
+  - first:
+      213: -5672064179746556855
+    second: Ultimate_1(2)_clean_transparent_92
+  - first:
+      213: -3349317556695069629
+    second: Ultimate_1(2)_clean_transparent_93
+  - first:
+      213: 3661142041598633419
+    second: Ultimate_1(2)_clean_transparent_94
+  - first:
+      213: -569827105898718935
+    second: Ultimate_1(2)_clean_transparent_95
+  - first:
+      213: 5155280542923948392
+    second: Ultimate_1(2)_clean_transparent_96
+  - first:
+      213: 3852746395368889618
+    second: Ultimate_1(2)_clean_transparent_97
+  - first:
+      213: 5372800515443224084
+    second: Ultimate_1(2)_clean_transparent_98
+  - first:
+      213: -6896564006752585502
+    second: Ultimate_1(2)_clean_transparent_99
+  - first:
+      213: -4579886282873631292
+    second: Ultimate_1(2)_clean_transparent_100
+  - first:
+      213: 889191481100124159
+    second: Ultimate_1(2)_clean_transparent_101
+  - first:
+      213: 2577145560053349518
+    second: Ultimate_1(2)_clean_transparent_102
+  - first:
+      213: 1962434932862910409
+    second: Ultimate_1(2)_clean_transparent_103
+  - first:
+      213: 6706208473728190889
+    second: Ultimate_1(2)_clean_transparent_104
+  - first:
+      213: 6250216311316549388
+    second: Ultimate_1(2)_clean_transparent_105
+  - first:
+      213: -7393648490242358336
+    second: Ultimate_1(2)_clean_transparent_106
+  - first:
+      213: 5949324042057002139
+    second: Ultimate_1(2)_clean_transparent_107
+  - first:
+      213: 2394147570355882824
+    second: Ultimate_1(2)_clean_transparent_108
+  - first:
+      213: -5441326229009696263
+    second: Ultimate_1(2)_clean_transparent_109
+  - first:
+      213: 3235859177129673707
+    second: Ultimate_1(2)_clean_transparent_110
+  - first:
+      213: 8481424051133649643
+    second: Ultimate_1(2)_clean_transparent_111
+  - first:
+      213: -299548645771971943
+    second: Ultimate_1(2)_clean_transparent_112
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ultimate_1(2)_clean_transparent_0
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1534
+        width: 403
+        height: 612
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d5f33180fbff67d0800000000000000
+      internalID: -2922840622761773614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ultimate_1(2)_clean_transparent_2
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 1530
+        width: 441
+        height: 612
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 813b99d2d7d28b5b0800000000000000
+      internalID: -5352478141470625000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ultimate_1(2)_clean_transparent_3
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 1538
+        width: 419
+        height: 612
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d25377ee9205f0ed0800000000000000
+      internalID: -2445647931614218963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ultimate_1(2)_clean_transparent_4
+      rect:
+        serializedVersion: 2
+        x: 1562
+        y: 1539
+        width: 482
+        height: 612
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1d3c8629a7ae4330800000000000000
+      internalID: 3697076689055792412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ultimate_1(2)_clean_transparent_7
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 803
+        width: 417
+        height: 612
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4495cef91a4af280800000000000000
+      internalID: -9008806629092256690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ultimate_1(2)_clean_transparent_48
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 533
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09ebd9c0fdcb61b40800000000000000
+      internalID: 5410719668507623056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ultimate_1(2)_clean_transparent_51
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 152
+        width: 590
+        height: 612
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52937ee9023f04af0800000000000000
+      internalID: -414063844287629019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ultimate_1(2)_clean_transparent_53
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 717
+        width: 453
+        height: 612
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fe5f36576ce540b0800000000000000
+      internalID: -5744925821068419339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ultimate_1(2)_clean_transparent_54
+      rect:
+        serializedVersion: 2
+        x: 1676
+        y: 274
+        width: 233
+        height: 325
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5002dbd99ae452d0800000000000000
+      internalID: -3290747481162121125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ultimate_1(2)_clean_transparent_56
+      rect:
+        serializedVersion: 2
+        x: 1337
+        y: 283
+        width: 204
+        height: 327
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 742e89ca92ee2ffb0800000000000000
+      internalID: -4615364805344566713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ultimate_1(2)_clean_transparent_59
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 812
+        width: 314
+        height: 612
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd1a493a0ddb38b30800000000000000
+      internalID: 4288479973982118367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: b5607b5536c607e43b714d923ed17ade
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Ultimate_1(2)_clean_transparent_0: -2922840622761773614
+      Ultimate_1(2)_clean_transparent_1: 7508753229769136224
+      Ultimate_1(2)_clean_transparent_10: 8057163842682719389
+      Ultimate_1(2)_clean_transparent_100: -4579886282873631292
+      Ultimate_1(2)_clean_transparent_101: 889191481100124159
+      Ultimate_1(2)_clean_transparent_102: 2577145560053349518
+      Ultimate_1(2)_clean_transparent_103: 1962434932862910409
+      Ultimate_1(2)_clean_transparent_104: 6706208473728190889
+      Ultimate_1(2)_clean_transparent_105: 6250216311316549388
+      Ultimate_1(2)_clean_transparent_106: -7393648490242358336
+      Ultimate_1(2)_clean_transparent_107: 5949324042057002139
+      Ultimate_1(2)_clean_transparent_108: 2394147570355882824
+      Ultimate_1(2)_clean_transparent_109: -5441326229009696263
+      Ultimate_1(2)_clean_transparent_11: 1068173166546577609
+      Ultimate_1(2)_clean_transparent_110: 3235859177129673707
+      Ultimate_1(2)_clean_transparent_111: 8481424051133649643
+      Ultimate_1(2)_clean_transparent_112: -299548645771971943
+      Ultimate_1(2)_clean_transparent_12: 4764985677205823837
+      Ultimate_1(2)_clean_transparent_13: -801992557132527473
+      Ultimate_1(2)_clean_transparent_14: -6431818859062573417
+      Ultimate_1(2)_clean_transparent_15: -8827310496969670322
+      Ultimate_1(2)_clean_transparent_16: 8825263085784196438
+      Ultimate_1(2)_clean_transparent_17: -6776536823263643998
+      Ultimate_1(2)_clean_transparent_18: 6753845921477550633
+      Ultimate_1(2)_clean_transparent_19: 2025572397429278578
+      Ultimate_1(2)_clean_transparent_2: -5352478141470625000
+      Ultimate_1(2)_clean_transparent_20: 5347523623253486769
+      Ultimate_1(2)_clean_transparent_21: 2957863054678511925
+      Ultimate_1(2)_clean_transparent_22: -4627003356646871655
+      Ultimate_1(2)_clean_transparent_23: 7170568007119863278
+      Ultimate_1(2)_clean_transparent_24: 8259529360382171332
+      Ultimate_1(2)_clean_transparent_25: -1010022441963640343
+      Ultimate_1(2)_clean_transparent_26: 1229816764575771241
+      Ultimate_1(2)_clean_transparent_27: -5891508838646270083
+      Ultimate_1(2)_clean_transparent_28: -5164592172406407707
+      Ultimate_1(2)_clean_transparent_29: -825028412996509532
+      Ultimate_1(2)_clean_transparent_3: -2445647931614218963
+      Ultimate_1(2)_clean_transparent_30: -2896391023242644936
+      Ultimate_1(2)_clean_transparent_31: -4540092551278039205
+      Ultimate_1(2)_clean_transparent_32: 7902485896658972356
+      Ultimate_1(2)_clean_transparent_33: -3359871060335793840
+      Ultimate_1(2)_clean_transparent_34: -8248233448682280051
+      Ultimate_1(2)_clean_transparent_35: 4480234029513740817
+      Ultimate_1(2)_clean_transparent_36: 884502707938203091
+      Ultimate_1(2)_clean_transparent_37: 1680332382274407169
+      Ultimate_1(2)_clean_transparent_38: 7325792240710702224
+      Ultimate_1(2)_clean_transparent_39: -9133722849073108595
+      Ultimate_1(2)_clean_transparent_4: 3697076689055792412
+      Ultimate_1(2)_clean_transparent_40: 8263271957582586178
+      Ultimate_1(2)_clean_transparent_41: 8118375178341617290
+      Ultimate_1(2)_clean_transparent_42: -1897218847266733083
+      Ultimate_1(2)_clean_transparent_43: -7313968058461676636
+      Ultimate_1(2)_clean_transparent_44: 8277945888110832522
+      Ultimate_1(2)_clean_transparent_45: 6792819317261953486
+      Ultimate_1(2)_clean_transparent_46: 5135880367066142209
+      Ultimate_1(2)_clean_transparent_47: 6885197271804971999
+      Ultimate_1(2)_clean_transparent_48: 5410719668507623056
+      Ultimate_1(2)_clean_transparent_49: -9012103938252762604
+      Ultimate_1(2)_clean_transparent_5: 7644246663116054934
+      Ultimate_1(2)_clean_transparent_50: -7834299577565587828
+      Ultimate_1(2)_clean_transparent_51: -414063844287629019
+      Ultimate_1(2)_clean_transparent_52: -488571685631606565
+      Ultimate_1(2)_clean_transparent_53: -5744925821068419339
+      Ultimate_1(2)_clean_transparent_54: -3290747481162121125
+      Ultimate_1(2)_clean_transparent_55: -3254074883333683779
+      Ultimate_1(2)_clean_transparent_56: -4615364805344566713
+      Ultimate_1(2)_clean_transparent_57: -1852771506030945483
+      Ultimate_1(2)_clean_transparent_58: -9033841840340988724
+      Ultimate_1(2)_clean_transparent_59: 4288479973982118367
+      Ultimate_1(2)_clean_transparent_6: 39803294313606510
+      Ultimate_1(2)_clean_transparent_60: -2263267728735560950
+      Ultimate_1(2)_clean_transparent_61: 2671863930580225559
+      Ultimate_1(2)_clean_transparent_62: -6898197375575715024
+      Ultimate_1(2)_clean_transparent_63: 5057696753632902017
+      Ultimate_1(2)_clean_transparent_64: -3293659395506722570
+      Ultimate_1(2)_clean_transparent_65: 1421672455826055172
+      Ultimate_1(2)_clean_transparent_66: -2102773981451139158
+      Ultimate_1(2)_clean_transparent_67: -7423892505186193443
+      Ultimate_1(2)_clean_transparent_68: 5925269670904709931
+      Ultimate_1(2)_clean_transparent_69: -5802483583342501108
+      Ultimate_1(2)_clean_transparent_7: -9008806629092256690
+      Ultimate_1(2)_clean_transparent_70: -2680775103338571797
+      Ultimate_1(2)_clean_transparent_71: -8142788700428071603
+      Ultimate_1(2)_clean_transparent_72: -7861123313170720296
+      Ultimate_1(2)_clean_transparent_73: -6811801861655166984
+      Ultimate_1(2)_clean_transparent_74: -328778449855209970
+      Ultimate_1(2)_clean_transparent_75: 3770640814946663036
+      Ultimate_1(2)_clean_transparent_76: -7336843443687438225
+      Ultimate_1(2)_clean_transparent_77: -937807463760649508
+      Ultimate_1(2)_clean_transparent_78: 6774416200232108271
+      Ultimate_1(2)_clean_transparent_79: -3763746436065173559
+      Ultimate_1(2)_clean_transparent_8: 6744153370724014081
+      Ultimate_1(2)_clean_transparent_80: -2273939175017795346
+      Ultimate_1(2)_clean_transparent_81: 2284271233301939143
+      Ultimate_1(2)_clean_transparent_82: 3567210230632898424
+      Ultimate_1(2)_clean_transparent_83: -8798620544476996769
+      Ultimate_1(2)_clean_transparent_84: -941374162700262842
+      Ultimate_1(2)_clean_transparent_85: 4083516509649699553
+      Ultimate_1(2)_clean_transparent_86: 1120622993985726196
+      Ultimate_1(2)_clean_transparent_87: -3996403170415553236
+      Ultimate_1(2)_clean_transparent_88: -1307389705816066399
+      Ultimate_1(2)_clean_transparent_89: -5728076227753123758
+      Ultimate_1(2)_clean_transparent_9: -3896404538101468851
+      Ultimate_1(2)_clean_transparent_90: -2653126023948098037
+      Ultimate_1(2)_clean_transparent_91: 299560349530816628
+      Ultimate_1(2)_clean_transparent_92: -5672064179746556855
+      Ultimate_1(2)_clean_transparent_93: -3349317556695069629
+      Ultimate_1(2)_clean_transparent_94: 3661142041598633419
+      Ultimate_1(2)_clean_transparent_95: -569827105898718935
+      Ultimate_1(2)_clean_transparent_96: 5155280542923948392
+      Ultimate_1(2)_clean_transparent_97: 3852746395368889618
+      Ultimate_1(2)_clean_transparent_98: 5372800515443224084
+      Ultimate_1(2)_clean_transparent_99: -6896564006752585502
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,3 +1,4 @@
+using System;
 using System.Collections;
 using UnityEngine;
 
@@ -14,6 +15,16 @@ public class EnemyAI : MonoBehaviour
     public int maxHP = 3;
     public int currentHP = 3;
     public int damage = 1;
+
+    [Header("Runtime Tracking")]
+    [Tooltip("Thời điểm quái bắt đầu spawn/enable. Dùng cho thuật toán spawn phase sau.")]
+    public float spawnTime;
+
+    [Tooltip("Thời gian sống cuối cùng sau khi quái chết.")]
+    public float lifeTime;
+
+    [Tooltip("Tổng damage quái gây/cố gây lên Player. Projectile sẽ cộng qua RegisterDamageDealt().")]
+    public int damageDealtToPlayer;
 
     [Header("Movement")]
     public float moveSpeed = 2f;
@@ -53,16 +64,42 @@ public class EnemyAI : MonoBehaviour
     public Vector2 groundCheckSize = new Vector2(0.75f, 0.18f);
     public float groundCheckExtraDistance = 0.08f;
 
-    [Header("Attack")]
+    [Header("Attack Base")]
     public float attackCooldown = 1f;
-    public float meleeDamageDelay = 0.15f;
 
-    [Header("Ranged / Mage Projectile")]
+    [Header("Duelist / Melee Fairness")]
+    [Tooltip("Thời gian vung tay trước khi damage thật sự xảy ra. Tăng lên để Player dễ né hơn.")]
+    public float meleeWindUpTime = 0.28f;
+
+    [Tooltip("Giữ trạng thái attack thêm một đoạn ngắn sau frame gây damage.")]
+    public float meleeActiveTime = 0.08f;
+
+    [Tooltip("Độ trễ sau khi chém xong, giúp Duelist không bám damage quá dính.")]
+    public float meleeRecoveryTime = 0.28f;
+
+    [Tooltip("Không xoay mặt liên tục trong lúc đang attack. Nên bật để attack công bằng hơn.")]
+    public bool lockFacingDuringAttack = true;
+
+    [Header("Ranged / Mage Projectile Fairness")]
     public GameObject projectilePrefab;
     public Transform projectileSpawnPoint;
     public float projectileSpeed = 7f;
     public float projectileLifeTime = 4f;
-    public float projectileFireDelay = 0.25f;
+
+    [Tooltip("Delay từ lúc animation attack bắt đầu đến lúc bắn đạn. Đây là telegraph để Player né/guard.")]
+    public float projectileFireDelay = 0.35f;
+
+    [Tooltip("Recovery sau khi bắn, giúp ranged/mage không spam quá khó né.")]
+    public float projectileRecoveryTime = 0.2f;
+
+    [Tooltip("Sai lệch aim theo độ. 0 = bắn chuẩn tuyệt đối. 5-10 giúp dễ né hơn.")]
+    public float rangedAimErrorDegrees = 6f;
+
+    [Tooltip("Nếu Player áp sát dưới khoảng này, ranged/mage sẽ lùi thay vì bắn ngay.")]
+    public float rangedMinDistance = 2.2f;
+
+    public bool rangedRetreatWhenTooClose = true;
+    public float rangedRetreatSpeedMultiplier = 0.9f;
 
     [Header("Tank Guard")]
     public bool tankDealsDamage = false;
@@ -72,6 +109,29 @@ public class EnemyAI : MonoBehaviour
     [Range(0.05f, 1f)] public float tankAllyDamageMultiplier = 0.6f;
     public float tankGuardCooldown = 2.5f;
     public float tankGuardDuration = 0.6f;
+
+    [Header("Tank Protect Role")]
+    [Tooltip("Bật để Tank ưu tiên chạy lên trước Mage/FastRanged thay vì lao vào Player.")]
+    public bool tankProtectRangedAllies = true;
+
+    [Tooltip("Bán kính Tank tìm Mage/FastRanged để bảo vệ.")]
+    public float tankProtectSearchRadius = 8f;
+
+    [Tooltip("Tank sẽ đứng lệch về phía Player so với quái đánh xa bao xa.")]
+    public float tankFrontOffsetFromAlly = 1.2f;
+
+    [Tooltip("Khoảng sai số vị trí khi Tank đã đứng đúng chỗ bảo kê.")]
+    public float tankProtectPositionTolerance = 0.15f;
+
+    [Tooltip("Tank chạy nhanh hơn khi đi lên chắn cho quái đánh xa.")]
+    public float tankProtectMoveSpeedMultiplier = 1.6f;
+
+    [Tooltip("Khi Tank đã đứng trước quái đánh xa và Player ở gần, Tank tự bật Guard.")]
+    public bool tankAutoGuardWhenInPosition = true;
+
+    [Header("Tank Guard Damage")]
+    [Tooltip("Damage tối thiểu khi đang Guard. Để 0 nếu muốn hit 1 damage có thể bị chặn về 0.")]
+    public int minDamageWhileGuarding = 0;
 
     [Header("Animation Timing")]
     public float spawnDuration = 1.2f;
@@ -106,21 +166,27 @@ public class EnemyAI : MonoBehaviour
     private Collider2D mainCollider;
     private Animator animator;
     private Transform player;
-    private bool isKnockedUp = false;
     private Collider2D playerCollider;
 
     private EnemyState state = EnemyState.Spawning;
+    private bool isKnockedUp;
+    private bool attackFacingLocked;
 
     private float nextAttackTime;
     private float nextGuardTime;
     private float guardUntilTime;
     private Coroutine attackCoroutine;
+    private Coroutine guardStunCoroutine;
 
     private Vector2 homePosition;
     private int patrolDirection = 1;
+    private EnemyAI lastGuardProvider;
 
     public bool IsDead => state == EnemyState.Dead;
     public bool IsGuarding => enemyType == EnemyType.Tank && Time.time < guardUntilTime;
+    public float CurrentLifeTime => IsDead ? lifeTime : Time.time - spawnTime;
+
+    public event Action<EnemyAI> OnEnemyDied;
 
     private void Awake()
     {
@@ -142,9 +208,32 @@ public class EnemyAI : MonoBehaviour
     private void OnEnable()
     {
         StopAllCoroutines();
+        attackCoroutine = null;
+        guardStunCoroutine = null;
 
         homePosition = transform.position;
         patrolDirection = 1;
+
+        spawnTime = Time.time;
+        lifeTime = 0f;
+        damageDealtToPlayer = 0;
+        guardUntilTime = 0f;
+        nextGuardTime = 0f;
+        nextAttackTime = 0f;
+        isKnockedUp = false;
+        attackFacingLocked = false;
+        lastGuardProvider = null;
+        currentHP = maxHP;
+
+        if (mainCollider != null)
+            mainCollider.enabled = true;
+
+        if (rb != null)
+        {
+            rb.bodyType = RigidbodyType2D.Dynamic;
+            rb.gravityScale = Mathf.Max(1f, rb.gravityScale);
+            rb.linearVelocity = Vector2.zero;
+        }
 
         state = EnemyState.Spawning;
         StartCoroutine(SpawnRoutine());
@@ -152,7 +241,8 @@ public class EnemyAI : MonoBehaviour
 
     private void Start()
     {
-        if (autoFindPlayer) FindPlayer();
+        if (autoFindPlayer)
+            FindPlayer();
     }
 
     private IEnumerator SpawnRoutine()
@@ -171,10 +261,10 @@ public class EnemyAI : MonoBehaviour
 
     private void Update()
     {
-        if (state == EnemyState.Dead || state == EnemyState.Spawning || state == EnemyState.HitStun)
+        if (state == EnemyState.Dead || state == EnemyState.Spawning || state == EnemyState.HitStun || state == EnemyState.Attacking)
             return;
 
-        if (isKnockedUp) 
+        if (isKnockedUp)
             return;
 
         if (player == null && autoFindPlayer)
@@ -199,6 +289,12 @@ public class EnemyAI : MonoBehaviour
                 SetMoving(false);
             }
 
+            return;
+        }
+
+        if (enemyType == EnemyType.Tank && tankProtectRangedAllies && !tankDealsDamage)
+        {
+            TankProtectUpdate();
             return;
         }
 
@@ -239,6 +335,12 @@ public class EnemyAI : MonoBehaviour
             return;
         }
 
+        if (IsRangedEnemy() && rangedRetreatWhenTooClose && horizontalGap < rangedMinDistance)
+        {
+            RetreatFromPlayer();
+            return;
+        }
+
         if (IsPlayerInAttackRange())
         {
             StopMoveX();
@@ -261,6 +363,99 @@ public class EnemyAI : MonoBehaviour
             player = playerObj.transform;
             playerCollider = playerObj.GetComponentInChildren<Collider2D>();
         }
+    }
+
+    private bool IsRangedEnemy()
+    {
+        return enemyType == EnemyType.FastRanged || enemyType == EnemyType.Mage;
+    }
+
+    private void TankProtectUpdate()
+    {
+        if (player == null)
+        {
+            StopMoveX();
+            SetMoving(false);
+            return;
+        }
+
+        EnemyAI ally = FindRangedAllyToProtect();
+
+        if (ally == null)
+        {
+            FacePlayer();
+            StopMoveX();
+            SetMoving(false);
+            return;
+        }
+
+        float sideToPlayer = player.position.x >= ally.transform.position.x ? 1f : -1f;
+        float targetX = ally.transform.position.x + sideToPlayer * tankFrontOffsetFromAlly;
+        float diffX = targetX - transform.position.x;
+
+        FacePlayer();
+
+        if (Mathf.Abs(diffX) <= tankProtectPositionTolerance)
+        {
+            StopMoveX();
+            SetMoving(false);
+
+            if (tankAutoGuardWhenInPosition && Time.time >= nextGuardTime)
+            {
+                float distanceToPlayer = Mathf.Abs(player.position.x - transform.position.x);
+
+                if (distanceToPlayer <= tankGuardRadius)
+                {
+                    StartTankGuard();
+                    StartGuardStun();
+                }
+            }
+
+            return;
+        }
+
+        float directionX = Mathf.Sign(diffX);
+
+        if (preventFallingOffLedge && !HasGroundAhead(directionX))
+        {
+            StopMoveX();
+            SetMoving(false);
+            return;
+        }
+
+        float protectSpeed = moveSpeed * tankProtectMoveSpeedMultiplier;
+        rb.linearVelocity = new Vector2(directionX * protectSpeed, rb.linearVelocity.y);
+        SetMoving(true);
+    }
+
+    private EnemyAI FindRangedAllyToProtect()
+    {
+        Collider2D[] hits = Physics2D.OverlapCircleAll(transform.position, tankProtectSearchRadius);
+
+        EnemyAI bestAlly = null;
+        float bestScore = Mathf.Infinity;
+
+        foreach (Collider2D hit in hits)
+        {
+            EnemyAI ally = hit.GetComponentInParent<EnemyAI>();
+
+            if (ally == null) continue;
+            if (ally == this) continue;
+            if (ally.IsDead) continue;
+            if (!ally.IsRangedEnemy()) continue;
+
+            float distanceToTank = Vector2.Distance(transform.position, ally.transform.position);
+            float distanceToPlayer = player != null ? Mathf.Abs(player.position.x - ally.transform.position.x) : 0f;
+            float score = distanceToTank + distanceToPlayer * 0.25f;
+
+            if (score < bestScore)
+            {
+                bestScore = score;
+                bestAlly = ally;
+            }
+        }
+
+        return bestAlly;
     }
 
     private void MoveTowardPlayer()
@@ -289,6 +484,24 @@ public class EnemyAI : MonoBehaviour
         SetMoving(true);
     }
 
+    private void RetreatFromPlayer()
+    {
+        if (player == null) return;
+
+        float directionX = player.position.x > transform.position.x ? -1f : 1f;
+
+        if (preventFallingOffLedge && !HasGroundAhead(directionX))
+        {
+            StopMoveX();
+            SetMoving(false);
+            return;
+        }
+
+        FacePlayer();
+        rb.linearVelocity = new Vector2(directionX * moveSpeed * rangedRetreatSpeedMultiplier, rb.linearVelocity.y);
+        SetMoving(true);
+    }
+
     private void PatrolPlatform()
     {
         if (!patrolWhenPlayerFar || rb == null)
@@ -306,14 +519,10 @@ public class EnemyAI : MonoBehaviour
         }
 
         if (Mathf.Abs(transform.position.x - homePosition.x) >= patrolDistance)
-        {
             patrolDirection *= -1;
-        }
 
         if (preventFallingOffLedge && !HasGroundAhead(patrolDirection))
-        {
             patrolDirection *= -1;
-        }
 
         FaceMoveDirection(patrolDirection);
 
@@ -323,17 +532,11 @@ public class EnemyAI : MonoBehaviour
 
     private bool HasGroundAhead(float directionX)
     {
-        if (groundLayer.value == 0)
-            return true;
+        if (groundLayer.value == 0) return true;
+        if (mainCollider == null) return true;
 
-        if (mainCollider == null)
-            return true;
-
-        float x = mainCollider.bounds.center.x
-                  + directionX * (mainCollider.bounds.extents.x + ledgeCheckForwardOffset);
-
+        float x = mainCollider.bounds.center.x + directionX * (mainCollider.bounds.extents.x + ledgeCheckForwardOffset);
         float y = mainCollider.bounds.min.y - groundCheckExtraDistance;
-
         Vector2 checkPos = new Vector2(x, y);
 
         return Physics2D.OverlapBox(checkPos, ledgeCheckSize, 0f, groundLayer);
@@ -362,6 +565,16 @@ public class EnemyAI : MonoBehaviour
     private IEnumerator AttackRoutine()
     {
         state = EnemyState.Attacking;
+        StopMoveX();
+        SetMoving(false);
+
+        if (!lockFacingDuringAttack)
+            FacePlayer();
+        else
+        {
+            FacePlayer();
+            attackFacingLocked = true;
+        }
 
         if (animator != null && !string.IsNullOrEmpty(attackTrigger))
             animator.SetTrigger(attackTrigger);
@@ -369,26 +582,33 @@ public class EnemyAI : MonoBehaviour
         switch (enemyType)
         {
             case EnemyType.Duelist:
-                yield return new WaitForSeconds(meleeDamageDelay);
+                yield return new WaitForSeconds(meleeWindUpTime);
                 MeleeDamagePlayer();
+                yield return new WaitForSeconds(meleeActiveTime + meleeRecoveryTime);
                 break;
 
             case EnemyType.FastRanged:
             case EnemyType.Mage:
                 yield return new WaitForSeconds(projectileFireDelay);
                 ShootProjectile();
+                yield return new WaitForSeconds(projectileRecoveryTime);
                 break;
 
             case EnemyType.Tank:
                 if (tankDealsDamage)
                 {
-                    yield return new WaitForSeconds(meleeDamageDelay);
+                    yield return new WaitForSeconds(meleeWindUpTime);
                     MeleeDamagePlayer();
+                    yield return new WaitForSeconds(meleeRecoveryTime);
                 }
                 break;
         }
 
-        state = EnemyState.Chasing;
+        attackFacingLocked = false;
+        attackCoroutine = null;
+
+        if (state != EnemyState.Dead && state != EnemyState.HitStun)
+            state = EnemyState.Chasing;
     }
 
     private void MeleeDamagePlayer()
@@ -397,11 +617,13 @@ public class EnemyAI : MonoBehaviour
         if (!IsPlayerInAttackRange()) return;
 
         PlayerHealth hp = player.GetComponentInParent<PlayerHealth>();
+
         if (hp != null)
             hp.TakeDamage(damage);
         else
             player.gameObject.SendMessage("TakeDamage", damage, SendMessageOptions.DontRequireReceiver);
 
+        RegisterDamageDealt(damage);
         Debug.Log($"{enemyType} gây damage Player = {damage}");
     }
 
@@ -417,13 +639,29 @@ public class EnemyAI : MonoBehaviour
         GameObject projectileObj = Instantiate(projectilePrefab, spawnPoint.position, Quaternion.identity);
 
         Vector2 direction = ((Vector2)player.position - (Vector2)spawnPoint.position).normalized;
+        direction = ApplyAimError(direction);
 
         EnemyProjectile projectile = projectileObj.GetComponent<EnemyProjectile>();
 
         if (projectile != null)
-            projectile.Init(direction, projectileSpeed, damage, projectileLifeTime);
+            projectile.Init(direction, projectileSpeed, damage, projectileLifeTime, this);
         else
             Debug.LogWarning($"{projectileObj.name}: Thiếu EnemyProjectile.cs trên prefab đạn.");
+    }
+
+    private Vector2 ApplyAimError(Vector2 direction)
+    {
+        if (rangedAimErrorDegrees <= 0f) return direction;
+
+        float angle = UnityEngine.Random.Range(-rangedAimErrorDegrees, rangedAimErrorDegrees);
+        Quaternion rotation = Quaternion.Euler(0f, 0f, angle);
+        return (rotation * direction).normalized;
+    }
+
+    public void RegisterDamageDealt(int amount)
+    {
+        if (amount <= 0) return;
+        damageDealtToPlayer += amount;
     }
 
     public void TakeDamage(int amount)
@@ -448,14 +686,15 @@ public class EnemyAI : MonoBehaviour
         {
             StopCoroutine(attackCoroutine);
             attackCoroutine = null;
+            attackFacingLocked = false;
         }
 
-        if (usedGuard)
+        if (usedGuard && lastGuardProvider == this && enemyType == EnemyType.Tank)
         {
             if (animator != null && !string.IsNullOrEmpty(guardTrigger))
                 animator.SetTrigger(guardTrigger);
 
-            StartCoroutine(GuardStunRoutine());
+            StartGuardStun();
         }
         else
         {
@@ -469,13 +708,21 @@ public class EnemyAI : MonoBehaviour
     private int CalculateFinalDamage(int amount, out bool usedGuard)
     {
         usedGuard = false;
+        lastGuardProvider = null;
         float multiplier = 1f;
 
         if (enemyType == EnemyType.Tank && tankCanGuard)
         {
-            if (Time.time >= nextGuardTime)
+            if (IsGuarding)
             {
                 usedGuard = true;
+                lastGuardProvider = this;
+                multiplier *= tankSelfDamageMultiplier;
+            }
+            else if (Time.time >= nextGuardTime)
+            {
+                usedGuard = true;
+                lastGuardProvider = this;
                 multiplier *= tankSelfDamageMultiplier;
                 StartTankGuard();
             }
@@ -487,12 +734,24 @@ public class EnemyAI : MonoBehaviour
             if (guardTank != null)
             {
                 usedGuard = true;
+                lastGuardProvider = guardTank;
                 multiplier *= guardTank.tankAllyDamageMultiplier;
-                guardTank.StartTankGuard();
+
+                if (!guardTank.IsGuarding)
+                {
+                    guardTank.StartTankGuard();
+                    guardTank.StartGuardStun();
+                }
             }
         }
 
-        return Mathf.Max(1, Mathf.RoundToInt(amount * multiplier));
+        if (usedGuard)
+        {
+            int reducedDamage = Mathf.RoundToInt(amount * multiplier);
+            return Mathf.Max(minDamageWhileGuarding, reducedDamage);
+        }
+
+        return Mathf.Max(1, amount);
     }
 
     private EnemyAI FindNearbyAvailableTank()
@@ -508,9 +767,12 @@ public class EnemyAI : MonoBehaviour
             if (tank.enemyType != EnemyType.Tank) continue;
             if (tank.IsDead) continue;
             if (!tank.tankCanGuard) continue;
-            if (Time.time < tank.nextGuardTime) continue;
 
-            return tank;
+            if (tank.IsGuarding)
+                return tank;
+
+            if (Time.time >= tank.nextGuardTime)
+                return tank;
         }
 
         return null;
@@ -519,17 +781,28 @@ public class EnemyAI : MonoBehaviour
     private void StartTankGuard()
     {
         if (enemyType != EnemyType.Tank) return;
+        if (IsGuarding) return;
 
         guardUntilTime = Time.time + tankGuardDuration;
-        nextGuardTime = Time.time + tankGuardCooldown;
+        nextGuardTime = guardUntilTime + tankGuardCooldown;
 
-        Debug.Log("Tank đỡ đòn / giảm sát thương.");
+        if (animator != null && !string.IsNullOrEmpty(guardTrigger))
+            animator.SetTrigger(guardTrigger);
+
+        Debug.Log("Tank bật trạng thái Guard.");
+    }
+
+    private void StartGuardStun()
+    {
+        if (guardStunCoroutine != null)
+            StopCoroutine(guardStunCoroutine);
+
+        guardStunCoroutine = StartCoroutine(GuardStunRoutine());
     }
 
     private IEnumerator HitStunRoutine()
     {
         state = EnemyState.HitStun;
-
         StopMoveX();
         SetMoving(false);
 
@@ -542,11 +815,13 @@ public class EnemyAI : MonoBehaviour
     private IEnumerator GuardStunRoutine()
     {
         state = EnemyState.HitStun;
-
         StopMoveX();
         SetMoving(false);
 
-        yield return new WaitForSeconds(tankGuardDuration);
+        while (state != EnemyState.Dead && Time.time < guardUntilTime)
+            yield return null;
+
+        guardStunCoroutine = null;
 
         if (state != EnemyState.Dead)
             state = EnemyState.Chasing;
@@ -555,6 +830,7 @@ public class EnemyAI : MonoBehaviour
     private void Die()
     {
         state = EnemyState.Dead;
+        lifeTime = Time.time - spawnTime;
 
         StopMoveX();
         SetMoving(false);
@@ -563,6 +839,12 @@ public class EnemyAI : MonoBehaviour
         {
             StopCoroutine(attackCoroutine);
             attackCoroutine = null;
+        }
+
+        if (guardStunCoroutine != null)
+        {
+            StopCoroutine(guardStunCoroutine);
+            guardStunCoroutine = null;
         }
 
         if (rb != null)
@@ -578,7 +860,9 @@ public class EnemyAI : MonoBehaviour
         if (animator != null && !string.IsNullOrEmpty(deathTrigger))
             animator.SetTrigger(deathTrigger);
 
-        Debug.Log($"{enemyType} đã chết.");
+        Debug.Log($"{enemyType} đã chết. LifeTime = {lifeTime:F2}s | DamageDealt = {damageDealtToPlayer}");
+
+        OnEnemyDied?.Invoke(this);
 
         if (destroyAfterDeath)
             Destroy(gameObject, deathDuration);
@@ -631,8 +915,7 @@ public class EnemyAI : MonoBehaviour
 
     private bool IsGrounded()
     {
-        if (groundLayer.value == 0)
-            return true;
+        if (groundLayer.value == 0) return true;
 
         Vector2 checkPos;
 
@@ -654,9 +937,9 @@ public class EnemyAI : MonoBehaviour
     private void FacePlayer()
     {
         if (!flipToPlayer || player == null) return;
+        if (attackFacingLocked) return;
 
         float direction = player.position.x - transform.position.x;
-
         if (Mathf.Abs(direction) < 0.05f) return;
 
         ApplyFacing(direction > 0f);
@@ -665,6 +948,7 @@ public class EnemyAI : MonoBehaviour
     private void FaceMoveDirection(float directionX)
     {
         if (!flipToPlayer) return;
+        if (attackFacingLocked) return;
         if (Mathf.Abs(directionX) < 0.05f) return;
 
         ApplyFacing(directionX > 0f);
@@ -711,11 +995,21 @@ public class EnemyAI : MonoBehaviour
             case EnemyType.Tank:
                 maxHP = 8;
                 damage = 0;
-                moveSpeed = 1.2f;
+                moveSpeed = 1.8f;
                 detectRange = 10f;
                 attackRange = 1.2f;
                 attackCooldown = 1.4f;
                 tankDealsDamage = false;
+                tankCanGuard = true;
+                tankProtectRangedAllies = true;
+                tankProtectSearchRadius = 8f;
+                tankFrontOffsetFromAlly = 1.2f;
+                tankProtectMoveSpeedMultiplier = 1.6f;
+                tankGuardDuration = 1f;
+                tankGuardCooldown = 2f;
+                tankSelfDamageMultiplier = 0.35f;
+                tankAllyDamageMultiplier = 0.6f;
+                minDamageWhileGuarding = 0;
                 break;
 
             case EnemyType.Duelist:
@@ -723,18 +1017,27 @@ public class EnemyAI : MonoBehaviour
                 damage = 1;
                 moveSpeed = 2.8f;
                 detectRange = 10f;
-                attackRange = 1.15f;
-                attackCooldown = 0.8f;
+                attackRange = 1.05f;
+                attackCooldown = 1.05f;
+                meleeWindUpTime = 0.32f;
+                meleeActiveTime = 0.08f;
+                meleeRecoveryTime = 0.32f;
+                lockFacingDuringAttack = true;
                 break;
 
             case EnemyType.FastRanged:
                 maxHP = 2;
                 damage = 1;
-                moveSpeed = 3.2f;
+                moveSpeed = 3.0f;
                 detectRange = 12f;
                 attackRange = 6f;
-                attackCooldown = 1.2f;
-                projectileSpeed = 9f;
+                attackCooldown = 1.45f;
+                projectileSpeed = 7.5f;
+                projectileFireDelay = 0.35f;
+                projectileRecoveryTime = 0.2f;
+                rangedAimErrorDegrees = 5f;
+                rangedMinDistance = 2.4f;
+                rangedRetreatWhenTooClose = true;
                 break;
 
             case EnemyType.Mage:
@@ -743,8 +1046,13 @@ public class EnemyAI : MonoBehaviour
                 moveSpeed = 1.2f;
                 detectRange = 12f;
                 attackRange = 7f;
-                attackCooldown = 1.6f;
-                projectileSpeed = 5.5f;
+                attackCooldown = 1.9f;
+                projectileSpeed = 4.8f;
+                projectileFireDelay = 0.55f;
+                projectileRecoveryTime = 0.35f;
+                rangedAimErrorDegrees = 8f;
+                rangedMinDistance = 3f;
+                rangedRetreatWhenTooClose = true;
                 break;
         }
     }
@@ -758,6 +1066,12 @@ public class EnemyAI : MonoBehaviour
 
         Gizmos.color = Color.red;
         Gizmos.DrawWireSphere(transform.position, attackRange);
+
+        if (enemyType == EnemyType.FastRanged || enemyType == EnemyType.Mage)
+        {
+            Gizmos.color = Color.gray;
+            Gizmos.DrawWireSphere(transform.position, rangedMinDistance);
+        }
 
         Gizmos.color = Color.green;
         Collider2D col = GetComponent<Collider2D>();
@@ -803,15 +1117,16 @@ public class EnemyAI : MonoBehaviour
         {
             Gizmos.color = Color.cyan;
             Gizmos.DrawWireSphere(transform.position, tankGuardRadius);
+
+            Gizmos.color = Color.white;
+            Gizmos.DrawWireSphere(transform.position, tankProtectSearchRadius);
         }
     }
 
     public void KnockUpFromAttack4(Attack4LaunchData data)
     {
         if (rb == null)
-        {
             rb = GetComponent<Rigidbody2D>();
-        }
 
         if (rb == null)
         {
@@ -826,15 +1141,10 @@ public class EnemyAI : MonoBehaviour
     private IEnumerator KnockUpRoutine(Attack4LaunchData data)
     {
         isKnockedUp = true;
-
         float direction = transform.position.x >= data.attackerPosition.x ? 1f : -1f;
 
         rb.linearVelocity = Vector2.zero;
-
-        rb.AddForce(
-            new Vector2(direction * data.sideForce, data.upForce),
-            ForceMode2D.Impulse
-        );
+        rb.AddForce(new Vector2(direction * data.sideForce, data.upForce), ForceMode2D.Impulse);
 
         yield return new WaitForSeconds(data.stunTime);
 

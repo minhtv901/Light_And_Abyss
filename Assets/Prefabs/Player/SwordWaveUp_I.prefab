@@ -114,8 +114,9 @@ MonoBehaviour:
   enemyLayer:
     serializedVersion: 2
     m_Bits: 264
-  gainRageOnHit: 1
+  gainRageOnHit: 0
   rageGain: 0.35
+  destroyOnEnemyHit: 0
 --- !u!50 &-3983473265745905472
 Rigidbody2D:
   serializedVersion: 5

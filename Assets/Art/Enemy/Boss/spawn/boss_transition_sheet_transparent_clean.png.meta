@@ -1,0 +1,406 @@
+fileFormatVersion: 2
+guid: b83378f3bf796124f86b58a084fc7da5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 363280218594507742
+    second: boss_transition_sheet_transparent_clean_0
+  - first:
+      213: 1147785368587935627
+    second: boss_transition_sheet_transparent_clean_1
+  - first:
+      213: -904772200599839562
+    second: boss_transition_sheet_transparent_clean_2
+  - first:
+      213: -7502582790215992083
+    second: boss_transition_sheet_transparent_clean_3
+  - first:
+      213: -1701781436900739797
+    second: boss_transition_sheet_transparent_clean_4
+  - first:
+      213: -7053194898554031394
+    second: boss_transition_sheet_transparent_clean_5
+  - first:
+      213: 3202331293907181927
+    second: boss_transition_sheet_transparent_clean_6
+  - first:
+      213: 7097939582961935447
+    second: boss_transition_sheet_transparent_clean_7
+  - first:
+      213: -5660074354948280977
+    second: boss_transition_sheet_transparent_clean_8
+  - first:
+      213: 4160731761963489166
+    second: boss_transition_sheet_transparent_clean_9
+  - first:
+      213: -1840369740291948905
+    second: boss_transition_sheet_transparent_clean_10
+  - first:
+      213: -1474598471925464264
+    second: boss_transition_sheet_transparent_clean_11
+  - first:
+      213: 9091234678007519028
+    second: boss_transition_sheet_transparent_clean_12
+  - first:
+      213: -9159951240657134235
+    second: boss_transition_sheet_transparent_clean_13
+  - first:
+      213: 6938456649781931469
+    second: boss_transition_sheet_transparent_clean_14
+  - first:
+      213: 4959336216604407127
+    second: boss_transition_sheet_transparent_clean_15
+  - first:
+      213: -9042661096769874342
+    second: boss_transition_sheet_transparent_clean_16
+  - first:
+      213: 7890531530579956705
+    second: boss_transition_sheet_transparent_clean_17
+  - first:
+      213: 7406507939288836607
+    second: boss_transition_sheet_transparent_clean_18
+  - first:
+      213: 37570818947512079
+    second: boss_transition_sheet_transparent_clean_19
+  - first:
+      213: -8538851904139654372
+    second: boss_transition_sheet_transparent_clean_20
+  - first:
+      213: -4042861229795346789
+    second: boss_transition_sheet_transparent_clean_21
+  - first:
+      213: 3759458641051282102
+    second: boss_transition_sheet_transparent_clean_22
+  - first:
+      213: -4155648146402083700
+    second: boss_transition_sheet_transparent_clean_23
+  - first:
+      213: 4582171511038574105
+    second: boss_transition_sheet_transparent_clean_24
+  - first:
+      213: 5800873390923083581
+    second: boss_transition_sheet_transparent_clean_25
+  - first:
+      213: 3116752203047218113
+    second: boss_transition_sheet_transparent_clean_26
+  - first:
+      213: -6069713541212238026
+    second: boss_transition_sheet_transparent_clean_27
+  - first:
+      213: -2611664472303127768
+    second: boss_transition_sheet_transparent_clean_28
+  - first:
+      213: 8903007978046831442
+    second: boss_transition_sheet_transparent_clean_29
+  - first:
+      213: 4029183132268028923
+    second: boss_transition_sheet_transparent_clean_30
+  - first:
+      213: 8352669960807932129
+    second: boss_transition_sheet_transparent_clean_31
+  - first:
+      213: -2626868763785052525
+    second: boss_transition_sheet_transparent_clean_32
+  - first:
+      213: 1582278186566712183
+    second: boss_transition_sheet_transparent_clean_33
+  - first:
+      213: 772666803637188868
+    second: boss_transition_sheet_transparent_clean_34
+  - first:
+      213: 4289152947828252161
+    second: boss_transition_sheet_transparent_clean_35
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 1
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 947
+        width: 469
+        height: 600
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edb704f1f61aa0500800000000000000
+      internalID: 363280218594507742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 221
+        width: 469
+        height: 600
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8f131526b0cdef00800000000000000
+      internalID: 1147785368587935627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 957
+        width: 469
+        height: 600
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bc199c2a7a9173f0800000000000000
+      internalID: -904772200599839562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6
+      rect:
+        serializedVersion: 2
+        x: 1447
+        y: 952
+        width: 469
+        height: 600
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b257d20bcce0268e0800000000000000
+      internalID: -1701781436900739797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 226
+        width: 469
+        height: 600
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed2f614fb940e1e90800000000000000
+      internalID: -7053194898554031394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3
+      rect:
+        serializedVersion: 2
+        x: 1424
+        y: 230
+        width: 469
+        height: 600
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 761647a5857f07c20800000000000000
+      internalID: 3202331293907181927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 0062491a50bf91c4a8cdd2da80e87d0a
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      1: 363280218594507742
+      2: -904772200599839562
+      3: 3202331293907181927
+      4: -7053194898554031394
+      5: 1147785368587935627
+      6: -1701781436900739797
+      boss_transition_sheet_transparent_clean_10: -1840369740291948905
+      boss_transition_sheet_transparent_clean_11: -1474598471925464264
+      boss_transition_sheet_transparent_clean_12: 9091234678007519028
+      boss_transition_sheet_transparent_clean_13: -9159951240657134235
+      boss_transition_sheet_transparent_clean_14: 6938456649781931469
+      boss_transition_sheet_transparent_clean_15: 4959336216604407127
+      boss_transition_sheet_transparent_clean_16: -9042661096769874342
+      boss_transition_sheet_transparent_clean_17: 7890531530579956705
+      boss_transition_sheet_transparent_clean_18: 7406507939288836607
+      boss_transition_sheet_transparent_clean_19: 37570818947512079
+      boss_transition_sheet_transparent_clean_20: -8538851904139654372
+      boss_transition_sheet_transparent_clean_21: -4042861229795346789
+      boss_transition_sheet_transparent_clean_22: 3759458641051282102
+      boss_transition_sheet_transparent_clean_23: -4155648146402083700
+      boss_transition_sheet_transparent_clean_24: 4582171511038574105
+      boss_transition_sheet_transparent_clean_25: 5800873390923083581
+      boss_transition_sheet_transparent_clean_26: 3116752203047218113
+      boss_transition_sheet_transparent_clean_27: -6069713541212238026
+      boss_transition_sheet_transparent_clean_28: -2611664472303127768
+      boss_transition_sheet_transparent_clean_29: 8903007978046831442
+      boss_transition_sheet_transparent_clean_3: -7502582790215992083
+      boss_transition_sheet_transparent_clean_30: 4029183132268028923
+      boss_transition_sheet_transparent_clean_31: 8352669960807932129
+      boss_transition_sheet_transparent_clean_32: -2626868763785052525
+      boss_transition_sheet_transparent_clean_33: 1582278186566712183
+      boss_transition_sheet_transparent_clean_34: 772666803637188868
+      boss_transition_sheet_transparent_clean_35: 4289152947828252161
+      boss_transition_sheet_transparent_clean_7: 7097939582961935447
+      boss_transition_sheet_transparent_clean_8: -5660074354948280977
+      boss_transition_sheet_transparent_clean_9: 4160731761963489166
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

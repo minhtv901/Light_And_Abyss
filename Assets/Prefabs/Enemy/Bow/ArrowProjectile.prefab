@@ -152,6 +152,20 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 02b78476307b83c4f8f428a03538b2ba, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::EnemyProjectile
+  speed: 7
+  lifeTime: 4
+  moveDirection: {x: -1, y: 0}
+  useGravityArc: 1
+  gravityScale: 0.4
+  arcUpBoost: 0.8
+  aimSpreadDegrees: 6
+  visualRoot: {fileID: 0}
+  flipVisualByDirection: 0
+  invertVisualFlip: 0
+  rotateVisualToVelocity: 1
+  visualRotationOffset: 0
+  damage: 1
+  destroyOnPlayerHit: 1
 --- !u!50 &4494789652439165679
 Rigidbody2D:
   serializedVersion: 5

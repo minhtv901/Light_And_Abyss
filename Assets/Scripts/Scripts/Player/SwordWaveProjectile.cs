@@ -11,6 +11,9 @@ public class SwordWaveProjectile : MonoBehaviour
     [Header("Visual")]
     public Transform visualRoot;
 
+    [Header("Visual Flip Fix")]
+    public bool invertVisualFlip = false;
+
     [Header("Damage")]
     public int damage = 1;
     public LayerMask enemyLayer;
@@ -18,6 +21,9 @@ public class SwordWaveProjectile : MonoBehaviour
     [Header("Rage Gain")]
     public bool gainRageOnHit = true;
     public float rageGain = 0.35f;
+
+    [Header("Hit Behaviour")]
+    public bool destroyOnEnemyHit = true;
 
     private Rigidbody2D rb;
     private RageSystem ownerRageSystem;
@@ -84,7 +90,14 @@ public class SwordWaveProjectile : MonoBehaviour
 
         Vector3 scale = originalVisualScale;
 
-        if (moveDirection.x < 0f)
+        bool shouldFlipLeft = moveDirection.x < 0f;
+
+        if (invertVisualFlip)
+        {
+            shouldFlipLeft = !shouldFlipLeft;
+        }
+
+        if (shouldFlipLeft)
         {
             scale.x = -Mathf.Abs(originalVisualScale.x);
         }
@@ -112,7 +125,9 @@ public class SwordWaveProjectile : MonoBehaviour
             ownerRageSystem.AddRage(rageGain);
         }
 
-        // Nếu muốn kiếm khí biến mất khi trúng 1 enemy thì mở dòng này:
-        Destroy(gameObject);
+        if (destroyOnEnemyHit)
+        {
+            Destroy(gameObject);
+        }
     }
 }

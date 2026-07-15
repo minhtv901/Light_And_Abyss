@@ -1,0 +1,99 @@
+﻿using UnityEngine;
+
+[RequireComponent(typeof(Collider2D))]
+public class EnemyProjectile : MonoBehaviour
+{
+    [Header("Move")]
+    public float speed = 7f;
+    public float lifeTime = 4f;
+    public Vector2 moveDirection = Vector2.left;
+
+    [Header("Damage")]
+    public int damage = 1;
+    public bool destroyOnHitPlayer = true;
+
+    [Header("Visual")]
+    public Transform visualRoot;
+
+    private Rigidbody2D rb;
+    private EnemyAI owner;
+    private Vector3 originalVisualScale = Vector3.one;
+
+    private void Awake()
+    {
+        rb = GetComponent<Rigidbody2D>();
+
+        Collider2D col = GetComponent<Collider2D>();
+        if (col != null)
+            col.isTrigger = true;
+
+        if (visualRoot == null)
+        {
+            SpriteRenderer sr = GetComponentInChildren<SpriteRenderer>();
+            if (sr != null) visualRoot = sr.transform;
+        }
+
+        if (visualRoot != null)
+            originalVisualScale = visualRoot.localScale;
+    }
+
+    private void Start()
+    {
+        Destroy(gameObject, lifeTime);
+    }
+
+    private void FixedUpdate()
+    {
+        Vector2 velocity = moveDirection.normalized * speed;
+
+        if (rb != null)
+            rb.linearVelocity = velocity;
+        else
+            transform.position += (Vector3)(velocity * Time.fixedDeltaTime);
+    }
+
+    public void Init(Vector2 direction, float projectileSpeed, int projectileDamage, float projectileLifeTime)
+    {
+        Init(direction, projectileSpeed, projectileDamage, projectileLifeTime, null);
+    }
+
+    public void Init(Vector2 direction, float projectileSpeed, int projectileDamage, float projectileLifeTime, EnemyAI projectileOwner)
+    {
+        moveDirection = direction.sqrMagnitude <= 0.001f ? Vector2.left : direction.normalized;
+        speed = projectileSpeed;
+        damage = projectileDamage;
+        lifeTime = projectileLifeTime;
+        owner = projectileOwner;
+
+        ApplyVisualDirection();
+        Destroy(gameObject, lifeTime);
+    }
+
+    private void ApplyVisualDirection()
+    {
+        if (visualRoot == null) return;
+
+        Vector3 scale = originalVisualScale;
+
+        if (moveDirection.x < 0f)
+            scale.x = -Mathf.Abs(originalVisualScale.x);
+        else
+            scale.x = Mathf.Abs(originalVisualScale.x);
+
+        visualRoot.localScale = scale;
+    }
+
+    private void OnTriggerEnter2D(Collider2D other)
+    {
+        PlayerHealth playerHealth = other.GetComponentInParent<PlayerHealth>();
+        if (playerHealth == null) return;
+
+        playerHealth.TakeDamage(damage);
+
+        if (owner != null)
+            owner.RegisterDamageDealt(damage);
+
+        if (destroyOnHitPlayer)
+            Destroy(gameObject);
+    }
+}

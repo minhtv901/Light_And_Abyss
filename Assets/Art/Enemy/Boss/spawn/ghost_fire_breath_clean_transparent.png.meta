@@ -1,0 +1,650 @@
+fileFormatVersion: 2
+guid: 0ecde9220c4872143b76d95e67e14a78
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4956770578510147389
+    second: ghost_fire_breath_clean_transparent_0
+  - first:
+      213: 7952987464517107803
+    second: ghost_fire_breath_clean_transparent_1
+  - first:
+      213: 9072795818238839574
+    second: ghost_fire_breath_clean_transparent_2
+  - first:
+      213: -2891117727734910873
+    second: ghost_fire_breath_clean_transparent_3
+  - first:
+      213: 946471937800598964
+    second: ghost_fire_breath_clean_transparent_4
+  - first:
+      213: 4117985917561150409
+    second: ghost_fire_breath_clean_transparent_5
+  - first:
+      213: 5240761671022989828
+    second: ghost_fire_breath_clean_transparent_6
+  - first:
+      213: -3067822376977559262
+    second: ghost_fire_breath_clean_transparent_7
+  - first:
+      213: -6201318464963064882
+    second: ghost_fire_breath_clean_transparent_8
+  - first:
+      213: 2630511947544734994
+    second: ghost_fire_breath_clean_transparent_9
+  - first:
+      213: 2511391543429855264
+    second: ghost_fire_breath_clean_transparent_10
+  - first:
+      213: 6834761335218268012
+    second: ghost_fire_breath_clean_transparent_11
+  - first:
+      213: -8690001891981009211
+    second: ghost_fire_breath_clean_transparent_12
+  - first:
+      213: -7637886848745104440
+    second: ghost_fire_breath_clean_transparent_13
+  - first:
+      213: -2758475575461979624
+    second: ghost_fire_breath_clean_transparent_14
+  - first:
+      213: 4617565065218624829
+    second: ghost_fire_breath_clean_transparent_15
+  - first:
+      213: 6712450470952546682
+    second: ghost_fire_breath_clean_transparent_16
+  - first:
+      213: -6866921450808748389
+    second: ghost_fire_breath_clean_transparent_17
+  - first:
+      213: 7667462411536234824
+    second: ghost_fire_breath_clean_transparent_18
+  - first:
+      213: 5413723136742289994
+    second: ghost_fire_breath_clean_transparent_19
+  - first:
+      213: 4120968535619144883
+    second: ghost_fire_breath_clean_transparent_20
+  - first:
+      213: 7803500432980454001
+    second: ghost_fire_breath_clean_transparent_21
+  - first:
+      213: 4739638448593083843
+    second: ghost_fire_breath_clean_transparent_22
+  - first:
+      213: 2527260564821865847
+    second: ghost_fire_breath_clean_transparent_23
+  - first:
+      213: 354658451827192763
+    second: ghost_fire_breath_clean_transparent_24
+  - first:
+      213: -8849716316744830268
+    second: ghost_fire_breath_clean_transparent_25
+  - first:
+      213: -5739183063122236891
+    second: ghost_fire_breath_clean_transparent_26
+  - first:
+      213: 5729756454520123105
+    second: ghost_fire_breath_clean_transparent_27
+  - first:
+      213: 4628841131642186681
+    second: ghost_fire_breath_clean_transparent_28
+  - first:
+      213: -3162933984035784231
+    second: ghost_fire_breath_clean_transparent_29
+  - first:
+      213: 1049542517032583750
+    second: ghost_fire_breath_clean_transparent_30
+  - first:
+      213: 8403584950188689442
+    second: ghost_fire_breath_clean_transparent_31
+  - first:
+      213: -1853520815668566383
+    second: ghost_fire_breath_clean_transparent_32
+  - first:
+      213: -6009181204097258829
+    second: ghost_fire_breath_clean_transparent_33
+  - first:
+      213: -6612605124603640464
+    second: ghost_fire_breath_clean_transparent_34
+  - first:
+      213: -2734006559120540770
+    second: ghost_fire_breath_clean_transparent_35
+  - first:
+      213: -2197975923916193324
+    second: ghost_fire_breath_clean_transparent_36
+  - first:
+      213: -4934555788827465107
+    second: ghost_fire_breath_clean_transparent_37
+  - first:
+      213: 4956685010551011254
+    second: ghost_fire_breath_clean_transparent_38
+  - first:
+      213: 1667672334391937862
+    second: ghost_fire_breath_clean_transparent_39
+  - first:
+      213: 5443687141008580810
+    second: ghost_fire_breath_clean_transparent_40
+  - first:
+      213: -8109874293854421742
+    second: ghost_fire_breath_clean_transparent_41
+  - first:
+      213: -5210276328753853693
+    second: ghost_fire_breath_clean_transparent_42
+  - first:
+      213: -6763332683751290225
+    second: ghost_fire_breath_clean_transparent_43
+  - first:
+      213: 8995806652408166930
+    second: ghost_fire_breath_clean_transparent_44
+  - first:
+      213: -4482941418174271418
+    second: ghost_fire_breath_clean_transparent_45
+  - first:
+      213: 7767313510395580184
+    second: ghost_fire_breath_clean_transparent_46
+  - first:
+      213: -5781902504939584443
+    second: ghost_fire_breath_clean_transparent_47
+  - first:
+      213: -6874654666221738852
+    second: ghost_fire_breath_clean_transparent_48
+  - first:
+      213: -3787906611499263263
+    second: ghost_fire_breath_clean_transparent_49
+  - first:
+      213: 750375391591033549
+    second: ghost_fire_breath_clean_transparent_50
+  - first:
+      213: 23294636540480977
+    second: ghost_fire_breath_clean_transparent_51
+  - first:
+      213: 6201519648543249039
+    second: ghost_fire_breath_clean_transparent_52
+  - first:
+      213: -5956223893393440760
+    second: ghost_fire_breath_clean_transparent_53
+  - first:
+      213: -8479887008054573193
+    second: ghost_fire_breath_clean_transparent_54
+  - first:
+      213: -5603457802667897800
+    second: ghost_fire_breath_clean_transparent_55
+  - first:
+      213: 2524440011769121804
+    second: ghost_fire_breath_clean_transparent_56
+  - first:
+      213: 4044165367913937999
+    second: ghost_fire_breath_clean_transparent_57
+  - first:
+      213: 6176475971154857895
+    second: ghost_fire_breath_clean_transparent_58
+  - first:
+      213: -7329366573043367299
+    second: ghost_fire_breath_clean_transparent_59
+  - first:
+      213: -27283609264800150
+    second: ghost_fire_breath_clean_transparent_60
+  - first:
+      213: 5184391203507978249
+    second: ghost_fire_breath_clean_transparent_61
+  - first:
+      213: 1610847746074294326
+    second: ghost_fire_breath_clean_transparent_62
+  - first:
+      213: 3602324021018567809
+    second: ghost_fire_breath_clean_transparent_63
+  - first:
+      213: -5191411097492255423
+    second: ghost_fire_breath_clean_transparent_64
+  - first:
+      213: 2837525241296538126
+    second: ghost_fire_breath_clean_transparent_65
+  - first:
+      213: 2843636611475988716
+    second: ghost_fire_breath_clean_transparent_66
+  - first:
+      213: -1660523257297541797
+    second: ghost_fire_breath_clean_transparent_67
+  - first:
+      213: -736074056602716564
+    second: ghost_fire_breath_clean_transparent_68
+  - first:
+      213: 5148945814274980244
+    second: ghost_fire_breath_clean_transparent_69
+  - first:
+      213: -6504057433403341055
+    second: ghost_fire_breath_clean_transparent_70
+  - first:
+      213: 6077617630237791641
+    second: ghost_fire_breath_clean_transparent_71
+  - first:
+      213: -1583893830326617063
+    second: ghost_fire_breath_clean_transparent_72
+  - first:
+      213: -8334030190797025213
+    second: ghost_fire_breath_clean_transparent_73
+  - first:
+      213: 4714902155620410043
+    second: ghost_fire_breath_clean_transparent_74
+  - first:
+      213: 8031133898659090978
+    second: ghost_fire_breath_clean_transparent_75
+  - first:
+      213: -2701425071081616903
+    second: ghost_fire_breath_clean_transparent_76
+  - first:
+      213: 2647465639390200831
+    second: ghost_fire_breath_clean_transparent_77
+  - first:
+      213: 7087620520410443577
+    second: ghost_fire_breath_clean_transparent_78
+  - first:
+      213: 5037484663763925343
+    second: ghost_fire_breath_clean_transparent_79
+  - first:
+      213: 1450847539125118651
+    second: ghost_fire_breath_clean_transparent_80
+  - first:
+      213: 4837675974220899240
+    second: ghost_fire_breath_clean_transparent_81
+  - first:
+      213: 4777395562207966276
+    second: ghost_fire_breath_clean_transparent_82
+  - first:
+      213: -6594881273456964291
+    second: ghost_fire_breath_clean_transparent_83
+  - first:
+      213: -2139977819914117211
+    second: ghost_fire_breath_clean_transparent_84
+  - first:
+      213: -5944978985617974817
+    second: ghost_fire_breath_clean_transparent_85
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ghost_fire_breath_clean_transparent_0
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 288
+        width: 306
+        height: 266
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3f643d349cf9c440800000000000000
+      internalID: 4956770578510147389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghost_fire_breath_clean_transparent_3
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 302
+        width: 359
+        height: 295
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 760b6829ebfa0e7d0800000000000000
+      internalID: -2891117727734910873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghost_fire_breath_clean_transparent_4
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 285
+        width: 287
+        height: 266
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b5fa7a763b822d00800000000000000
+      internalID: 946471937800598964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghost_fire_breath_clean_transparent_15
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 1220
+        width: 293
+        height: 254
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3d0c9f36f2e41040800000000000000
+      internalID: 4617565065218624829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghost_fire_breath_clean_transparent_20
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 816
+        width: 250
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bc0420ac0f903930800000000000000
+      internalID: 4120968535619144883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghost_fire_breath_clean_transparent_30
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 878
+        width: 76
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6428568cb59b09e00800000000000000
+      internalID: 1049542517032583750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghost_fire_breath_clean_transparent_32
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 853
+        width: 158
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 196684673a8f646e0800000000000000
+      internalID: -1853520815668566383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghost_fire_breath_clean_transparent_36
+      rect:
+        serializedVersion: 2
+        x: 1798
+        y: 783
+        width: 214
+        height: 199
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d14d16ea883f71e0800000000000000
+      internalID: -2197975923916193324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: cd8241d3d064e0445a597ce773e23bfb
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ghost_fire_breath_clean_transparent_0: 4956770578510147389
+      ghost_fire_breath_clean_transparent_1: 7952987464517107803
+      ghost_fire_breath_clean_transparent_10: 2511391543429855264
+      ghost_fire_breath_clean_transparent_11: 6834761335218268012
+      ghost_fire_breath_clean_transparent_12: -8690001891981009211
+      ghost_fire_breath_clean_transparent_13: -7637886848745104440
+      ghost_fire_breath_clean_transparent_14: -2758475575461979624
+      ghost_fire_breath_clean_transparent_15: 4617565065218624829
+      ghost_fire_breath_clean_transparent_16: 6712450470952546682
+      ghost_fire_breath_clean_transparent_17: -6866921450808748389
+      ghost_fire_breath_clean_transparent_18: 7667462411536234824
+      ghost_fire_breath_clean_transparent_19: 5413723136742289994
+      ghost_fire_breath_clean_transparent_2: 9072795818238839574
+      ghost_fire_breath_clean_transparent_20: 4120968535619144883
+      ghost_fire_breath_clean_transparent_21: 7803500432980454001
+      ghost_fire_breath_clean_transparent_22: 4739638448593083843
+      ghost_fire_breath_clean_transparent_23: 2527260564821865847
+      ghost_fire_breath_clean_transparent_24: 354658451827192763
+      ghost_fire_breath_clean_transparent_25: -8849716316744830268
+      ghost_fire_breath_clean_transparent_26: -5739183063122236891
+      ghost_fire_breath_clean_transparent_27: 5729756454520123105
+      ghost_fire_breath_clean_transparent_28: 4628841131642186681
+      ghost_fire_breath_clean_transparent_29: -3162933984035784231
+      ghost_fire_breath_clean_transparent_3: -2891117727734910873
+      ghost_fire_breath_clean_transparent_30: 1049542517032583750
+      ghost_fire_breath_clean_transparent_31: 8403584950188689442
+      ghost_fire_breath_clean_transparent_32: -1853520815668566383
+      ghost_fire_breath_clean_transparent_33: -6009181204097258829
+      ghost_fire_breath_clean_transparent_34: -6612605124603640464
+      ghost_fire_breath_clean_transparent_35: -2734006559120540770
+      ghost_fire_breath_clean_transparent_36: -2197975923916193324
+      ghost_fire_breath_clean_transparent_37: -4934555788827465107
+      ghost_fire_breath_clean_transparent_38: 4956685010551011254
+      ghost_fire_breath_clean_transparent_39: 1667672334391937862
+      ghost_fire_breath_clean_transparent_4: 946471937800598964
+      ghost_fire_breath_clean_transparent_40: 5443687141008580810
+      ghost_fire_breath_clean_transparent_41: -8109874293854421742
+      ghost_fire_breath_clean_transparent_42: -5210276328753853693
+      ghost_fire_breath_clean_transparent_43: -6763332683751290225
+      ghost_fire_breath_clean_transparent_44: 8995806652408166930
+      ghost_fire_breath_clean_transparent_45: -4482941418174271418
+      ghost_fire_breath_clean_transparent_46: 7767313510395580184
+      ghost_fire_breath_clean_transparent_47: -5781902504939584443
+      ghost_fire_breath_clean_transparent_48: -6874654666221738852
+      ghost_fire_breath_clean_transparent_49: -3787906611499263263
+      ghost_fire_breath_clean_transparent_5: 4117985917561150409
+      ghost_fire_breath_clean_transparent_50: 750375391591033549
+      ghost_fire_breath_clean_transparent_51: 23294636540480977
+      ghost_fire_breath_clean_transparent_52: 6201519648543249039
+      ghost_fire_breath_clean_transparent_53: -5956223893393440760
+      ghost_fire_breath_clean_transparent_54: -8479887008054573193
+      ghost_fire_breath_clean_transparent_55: -5603457802667897800
+      ghost_fire_breath_clean_transparent_56: 2524440011769121804
+      ghost_fire_breath_clean_transparent_57: 4044165367913937999
+      ghost_fire_breath_clean_transparent_58: 6176475971154857895
+      ghost_fire_breath_clean_transparent_59: -7329366573043367299
+      ghost_fire_breath_clean_transparent_6: 5240761671022989828
+      ghost_fire_breath_clean_transparent_60: -27283609264800150
+      ghost_fire_breath_clean_transparent_61: 5184391203507978249
+      ghost_fire_breath_clean_transparent_62: 1610847746074294326
+      ghost_fire_breath_clean_transparent_63: 3602324021018567809
+      ghost_fire_breath_clean_transparent_64: -5191411097492255423
+      ghost_fire_breath_clean_transparent_65: 2837525241296538126
+      ghost_fire_breath_clean_transparent_66: 2843636611475988716
+      ghost_fire_breath_clean_transparent_67: -1660523257297541797
+      ghost_fire_breath_clean_transparent_68: -736074056602716564
+      ghost_fire_breath_clean_transparent_69: 5148945814274980244
+      ghost_fire_breath_clean_transparent_7: -3067822376977559262
+      ghost_fire_breath_clean_transparent_70: -6504057433403341055
+      ghost_fire_breath_clean_transparent_71: 6077617630237791641
+      ghost_fire_breath_clean_transparent_72: -1583893830326617063
+      ghost_fire_breath_clean_transparent_73: -8334030190797025213
+      ghost_fire_breath_clean_transparent_74: 4714902155620410043
+      ghost_fire_breath_clean_transparent_75: 8031133898659090978
+      ghost_fire_breath_clean_transparent_76: -2701425071081616903
+      ghost_fire_breath_clean_transparent_77: 2647465639390200831
+      ghost_fire_breath_clean_transparent_78: 7087620520410443577
+      ghost_fire_breath_clean_transparent_79: 5037484663763925343
+      ghost_fire_breath_clean_transparent_8: -6201318464963064882
+      ghost_fire_breath_clean_transparent_80: 1450847539125118651
+      ghost_fire_breath_clean_transparent_81: 4837675974220899240
+      ghost_fire_breath_clean_transparent_82: 4777395562207966276
+      ghost_fire_breath_clean_transparent_83: -6594881273456964291
+      ghost_fire_breath_clean_transparent_84: -2139977819914117211
+      ghost_fire_breath_clean_transparent_85: -5944978985617974817
+      ghost_fire_breath_clean_transparent_9: 2630511947544734994
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

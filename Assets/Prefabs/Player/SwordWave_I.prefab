@@ -114,8 +114,9 @@ MonoBehaviour:
   enemyLayer:
     serializedVersion: 2
     m_Bits: 264
-  gainRageOnHit: 1
+  gainRageOnHit: 0
   rageGain: 0.35
+  destroyOnEnemyHit: 0
 --- !u!61 &-8209151120010504095
 BoxCollider2D:
   m_ObjectHideFlags: 0

@@ -1,0 +1,262 @@
+fileFormatVersion: 2
+guid: d21497d9129295e4a9e930792036153c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6394606093205217276
+    second: A_defeat_clean_transparent_0
+  - first:
+      213: -8064189889616059200
+    second: A_defeat_clean_transparent_1
+  - first:
+      213: 5442593275641763088
+    second: A_defeat_clean_transparent_2
+  - first:
+      213: 3672842012723062768
+    second: A_defeat_clean_transparent_3
+  - first:
+      213: 8234759575324496700
+    second: A_defeat_clean_transparent_4
+  - first:
+      213: -7998970596731508903
+    second: A_defeat_clean_transparent_5
+  - first:
+      213: -4140205781017973557
+    second: A_defeat_clean_transparent_6
+  - first:
+      213: 5570814809060508448
+    second: A_defeat_clean_transparent_7
+  - first:
+      213: -4622758334326296302
+    second: A_defeat_clean_transparent_8
+  - first:
+      213: 8622513472752126574
+    second: A_defeat_clean_transparent_9
+  - first:
+      213: 5701254352914730346
+    second: A_defeat_clean_transparent_10
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: A_defeat_clean_transparent_0
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 656
+        width: 552
+        height: 598
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40064f763abc147a0800000000000000
+      internalID: -6394606093205217276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_defeat_clean_transparent_5
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 658
+        width: 552
+        height: 596
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95726056f92fdf090800000000000000
+      internalID: -7998970596731508903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_defeat_clean_transparent_6
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 53
+        width: 552
+        height: 601
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcca76527c80b86c0800000000000000
+      internalID: -4140205781017973557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_defeat_clean_transparent_8
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 55
+        width: 552
+        height: 601
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 211310099c9a8dfb0800000000000000
+      internalID: -4622758334326296302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 6a69e6f4a862c204681f0c8f67ce652c
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      A_defeat_clean_transparent_0: -6394606093205217276
+      A_defeat_clean_transparent_1: -8064189889616059200
+      A_defeat_clean_transparent_10: 5701254352914730346
+      A_defeat_clean_transparent_2: 5442593275641763088
+      A_defeat_clean_transparent_3: 3672842012723062768
+      A_defeat_clean_transparent_4: 8234759575324496700
+      A_defeat_clean_transparent_5: -7998970596731508903
+      A_defeat_clean_transparent_6: -4140205781017973557
+      A_defeat_clean_transparent_7: 5570814809060508448
+      A_defeat_clean_transparent_8: -4622758334326296302
+      A_defeat_clean_transparent_9: 8622513472752126574
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

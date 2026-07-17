@@ -14,12 +14,25 @@ public class PlayerHealth : MonoBehaviour
     public Animator animator;
 
     private bool isDead = false;
-    private bool isInvincible = false;
+
+    // Invincible sau khi bị đánh
+    private bool isHitInvincible = false;
+
+    // Invincible khi dash
+    private bool isDashInvincible = false;
 
     private PlayerAttack playerAttack;
     private PlayerGuard playerGuard;
 
     public bool IsDead => isDead;
+
+    public bool IsInvincible
+    {
+        get
+        {
+            return isDead || isHitInvincible || isDashInvincible;
+        }
+    }
 
     private void Awake()
     {
@@ -36,14 +49,13 @@ public class PlayerHealth : MonoBehaviour
     public void TakeDamage(int amount)
     {
         if (isDead) return;
-        if (isInvincible) return;
+        if (IsInvincible) return;
 
         // Nếu đang guard
         if (playerGuard != null && playerGuard.IsGuarding)
         {
             int guardDamage = playerGuard.ProcessGuardDamage(amount);
 
-            // Nếu guard vẫn bị mất một ít máu
             if (guardDamage > 0)
             {
                 currentHP -= guardDamage;
@@ -62,8 +74,6 @@ public class PlayerHealth : MonoBehaviour
                 Debug.Log("Player guard thành công, không mất máu.");
             }
 
-            // Quan trọng:
-            // Đang guard thì chỉ chạy GuardHit, không chạy Hurt/GetHit
             StartCoroutine(InvincibleRoutine());
             return;
         }
@@ -83,6 +93,12 @@ public class PlayerHealth : MonoBehaviour
         Hurt();
     }
 
+    // Hàm này để PlayerMovement gọi khi dash
+    public void SetInvincible(bool value)
+    {
+        isDashInvincible = value;
+    }
+
     private void Hurt()
     {
         if (animator != null)
@@ -95,9 +111,9 @@ public class PlayerHealth : MonoBehaviour
 
     private IEnumerator InvincibleRoutine()
     {
-        isInvincible = true;
+        isHitInvincible = true;
         yield return new WaitForSeconds(invincibleTime);
-        isInvincible = false;
+        isHitInvincible = false;
     }
 
     private void Die()
@@ -105,7 +121,8 @@ public class PlayerHealth : MonoBehaviour
         if (isDead) return;
 
         isDead = true;
-        isInvincible = true;
+        isHitInvincible = true;
+        isDashInvincible = true;
 
         StopAllCoroutines();
 
@@ -115,6 +132,7 @@ public class PlayerHealth : MonoBehaviour
         }
 
         Rigidbody2D rb = GetComponent<Rigidbody2D>();
+
         if (rb != null)
         {
             rb.linearVelocity = Vector2.zero;
@@ -130,6 +148,7 @@ public class PlayerHealth : MonoBehaviour
             animator.ResetTrigger("Attack4");
             animator.ResetTrigger("Jump");
             animator.ResetTrigger("Land");
+            animator.ResetTrigger("Dash");
 
             animator.SetBool("IsGuarding", false);
             animator.SetBool("IsAttacking", false);
@@ -140,7 +159,6 @@ public class PlayerHealth : MonoBehaviour
 
         Debug.Log("Player chết. Chạy Player_Defeat_New.");
     }
-
 
     private void Update()
     {

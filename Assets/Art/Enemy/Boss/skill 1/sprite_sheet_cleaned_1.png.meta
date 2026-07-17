@@ -410,9 +410,9 @@ TextureImporter:
       name: sprite_sheet_cleaned_1_0
       rect:
         serializedVersion: 2
-        x: 1037
-        y: 1161
-        width: 452
+        x: 891
+        y: 1163
+        width: 601
         height: 604
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -432,9 +432,9 @@ TextureImporter:
       name: sprite_sheet_cleaned_1_2
       rect:
         serializedVersion: 2
-        x: 416
-        y: 1160
-        width: 445
+        x: 261
+        y: 1169
+        width: 601
         height: 604
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -454,9 +454,9 @@ TextureImporter:
       name: sprite_sheet_cleaned_1_4
       rect:
         serializedVersion: 2
-        x: 473
-        y: 249
-        width: 440
+        x: 315
+        y: 260
+        width: 601
         height: 604
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -476,9 +476,9 @@ TextureImporter:
       name: sprite_sheet_cleaned_1_6
       rect:
         serializedVersion: 2
-        x: 1071
+        x: 918
         y: 244
-        width: 436
+        width: 601
         height: 604
       alignment: 0
       pivot: {x: 0.5, y: 0.5}

@@ -1,0 +1,1326 @@
+fileFormatVersion: 2
+guid: 53d6c225769d61c42aa6dc7a93099189
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4292771561455462002
+    second: ghost_fire_long_platform_transparent_0
+  - first:
+      213: 6732958729802009481
+    second: ghost_fire_long_platform_transparent_1
+  - first:
+      213: -3333787015780379375
+    second: ghost_fire_long_platform_transparent_2
+  - first:
+      213: 2348902179436243005
+    second: ghost_fire_long_platform_transparent_3
+  - first:
+      213: -6305211882108441786
+    second: ghost_fire_long_platform_transparent_4
+  - first:
+      213: 9153966322692174118
+    second: ghost_fire_long_platform_transparent_5
+  - first:
+      213: 6671278245696613259
+    second: ghost_fire_long_platform_transparent_6
+  - first:
+      213: -3315942975283829382
+    second: ghost_fire_long_platform_transparent_7
+  - first:
+      213: 3192385441665867423
+    second: ghost_fire_long_platform_transparent_8
+  - first:
+      213: 3262023447847488892
+    second: ghost_fire_long_platform_transparent_9
+  - first:
+      213: -6989264011896237883
+    second: ghost_fire_long_platform_transparent_10
+  - first:
+      213: -875812152794716934
+    second: ghost_fire_long_platform_transparent_11
+  - first:
+      213: 6906923015257994715
+    second: ghost_fire_long_platform_transparent_12
+  - first:
+      213: 2788554271032710125
+    second: ghost_fire_long_platform_transparent_13
+  - first:
+      213: 7380857264242692555
+    second: ghost_fire_long_platform_transparent_14
+  - first:
+      213: -134589093925072110
+    second: ghost_fire_long_platform_transparent_15
+  - first:
+      213: -368766837883132395
+    second: ghost_fire_long_platform_transparent_16
+  - first:
+      213: -2467931250702219208
+    second: ghost_fire_long_platform_transparent_17
+  - first:
+      213: 789338562529679282
+    second: ghost_fire_long_platform_transparent_18
+  - first:
+      213: -327799918125065640
+    second: ghost_fire_long_platform_transparent_19
+  - first:
+      213: -3751420963271337584
+    second: ghost_fire_long_platform_transparent_20
+  - first:
+      213: 4505214022798200425
+    second: ghost_fire_long_platform_transparent_21
+  - first:
+      213: -6113066138052454859
+    second: ghost_fire_long_platform_transparent_22
+  - first:
+      213: 4303069842117793959
+    second: ghost_fire_long_platform_transparent_23
+  - first:
+      213: 6550106222260409414
+    second: ghost_fire_long_platform_transparent_24
+  - first:
+      213: -6876185985970455063
+    second: ghost_fire_long_platform_transparent_25
+  - first:
+      213: 1572509065795255755
+    second: ghost_fire_long_platform_transparent_26
+  - first:
+      213: -7196927938084917587
+    second: ghost_fire_long_platform_transparent_27
+  - first:
+      213: -3295600095422865268
+    second: ghost_fire_long_platform_transparent_28
+  - first:
+      213: 7377088904275276780
+    second: ghost_fire_long_platform_transparent_29
+  - first:
+      213: -7227257951265422494
+    second: ghost_fire_long_platform_transparent_30
+  - first:
+      213: 5883471352429985055
+    second: ghost_fire_long_platform_transparent_31
+  - first:
+      213: 4562064798953093118
+    second: ghost_fire_long_platform_transparent_32
+  - first:
+      213: -6855364702920342206
+    second: ghost_fire_long_platform_transparent_33
+  - first:
+      213: 1947762814864925342
+    second: ghost_fire_long_platform_transparent_34
+  - first:
+      213: 45320033930012109
+    second: ghost_fire_long_platform_transparent_35
+  - first:
+      213: -1604478647477176580
+    second: ghost_fire_long_platform_transparent_36
+  - first:
+      213: -996625977728510671
+    second: ghost_fire_long_platform_transparent_37
+  - first:
+      213: 8072428489796447370
+    second: ghost_fire_long_platform_transparent_38
+  - first:
+      213: -2617489213031217161
+    second: ghost_fire_long_platform_transparent_39
+  - first:
+      213: -1396383062524604350
+    second: ghost_fire_long_platform_transparent_40
+  - first:
+      213: -4708507553162646453
+    second: ghost_fire_long_platform_transparent_41
+  - first:
+      213: -5006065570958523860
+    second: ghost_fire_long_platform_transparent_42
+  - first:
+      213: -2475677221699849955
+    second: ghost_fire_long_platform_transparent_43
+  - first:
+      213: -2773823973167263123
+    second: ghost_fire_long_platform_transparent_44
+  - first:
+      213: 5270606371784894342
+    second: ghost_fire_long_platform_transparent_45
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ghost_fire_long_platform_transparent_0
+      rect:
+        serializedVersion: 2
+        x: 1348
+        y: 665
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 276a376bdfcf29b30800000000000000
+      internalID: 4292771561455462002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghost_fire_long_platform_transparent_1
+      rect:
+        serializedVersion: 2
+        x: 1374
+        y: 652
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98bc631ca46407d50800000000000000
+      internalID: 6732958729802009481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghost_fire_long_platform_transparent_2
+      rect:
+        serializedVersion: 2
+        x: 1407
+        y: 662
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 115d99f4f520cb1d0800000000000000
+      internalID: -3333787015780379375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghost_fire_long_platform_transparent_3
+      rect:
+        serializedVersion: 2
+        x: 1468
+        y: 653
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d382071561af89020800000000000000
+      internalID: 2348902179436243005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghost_fire_long_platform_transparent_4
+      rect:
+        serializedVersion: 2
+        x: 1539
+        y: 662
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64baa5d13336f78a0800000000000000
+      internalID: -6305211882108441786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghost_fire_long_platform_transparent_5
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 642
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 621b4f5eedb690f70800000000000000
+      internalID: 9153966322692174118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghost_fire_long_platform_transparent_6
+      rect:
+        serializedVersion: 2
+        x: 1059
+        y: 645
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8ba980f734259c50800000000000000
+      internalID: 6671278245696613259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghost_fire_long_platform_transparent_7
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 641
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7561cebe676bf1d0800000000000000
+      internalID: -3315942975283829382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghost_fire_long_platform_transparent_8
+      rect:
+        serializedVersion: 2
+        x: 1124
+        y: 634
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9e5f9c25a1ad4c20800000000000000
+      internalID: 3192385441665867423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghost_fire_long_platform_transparent_9
+      rect:
+        serializedVersion: 2
+        x: 1264
+        y: 531
+        width: 379
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7dc1f9fa09054d20800000000000000
+      internalID: 3262023447847488892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghost_fire_long_platform_transparent_10
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 623
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c0d0817965210f90800000000000000
+      internalID: -6989264011896237883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghost_fire_long_platform_transparent_11
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 626
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af463bebc7d78d3f0800000000000000
+      internalID: -875812152794716934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghost_fire_long_platform_transparent_12
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 532
+        width: 312
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd53c6f43e15adf50800000000000000
+      internalID: 6906923015257994715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghost_fire_long_platform_transparent_13
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 629
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de39dc9c55fe2b620800000000000000
+      internalID: 2788554271032710125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghost_fire_long_platform_transparent_14
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 609
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc11c0d83921e6660800000000000000
+      internalID: 7380857264242692555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghost_fire_long_platform_transparent_15
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 614
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21354f1aee7d12ef0800000000000000
+      internalID: -134589093925072110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghost_fire_long_platform_transparent_16
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 617
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5162807c380e1eaf0800000000000000
+      internalID: -368766837883132395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghost_fire_long_platform_transparent_17
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 605
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8380fc76a9520cdd0800000000000000
+      internalID: -2467931250702219208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghost_fire_long_platform_transparent_18
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 613
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b759139d3b44fa00800000000000000
+      internalID: 789338562529679282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghost_fire_long_platform_transparent_19
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 532
+        width: 162
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85ad0c216bb637bf0800000000000000
+      internalID: -327799918125065640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghost_fire_long_platform_transparent_20
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 532
+        width: 228
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0991241828640fbc0800000000000000
+      internalID: -3751420963271337584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghost_fire_long_platform_transparent_21
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 596
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96ecef9b84cb58e30800000000000000
+      internalID: 4505214022798200425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghost_fire_long_platform_transparent_22
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 594
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5361ae06cb60a2ba0800000000000000
+      internalID: -6113066138052454859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghost_fire_long_platform_transparent_23
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 532
+        width: 286
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a89027093397bb30800000000000000
+      internalID: 4303069842117793959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghost_fire_long_platform_transparent_24
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 400
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64458eab7e6a6ea50800000000000000
+      internalID: 6550106222260409414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghost_fire_long_platform_transparent_25
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 199
+        width: 343
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ed36b00741e290a0800000000000000
+      internalID: -6876185985970455063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghost_fire_long_platform_transparent_26
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 385
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcdbec0f9aca2d510800000000000000
+      internalID: 1572509065795255755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghost_fire_long_platform_transparent_27
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 376
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dae2d58db206f1c90800000000000000
+      internalID: -7196927938084917587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghost_fire_long_platform_transparent_28
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 358
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c80a39e8c2da342d0800000000000000
+      internalID: -3295600095422865268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghost_fire_long_platform_transparent_29
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 359
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce3bdcfd54fa06660800000000000000
+      internalID: 7377088904275276780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghost_fire_long_platform_transparent_30
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 358
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26305ba5f2f93bb90800000000000000
+      internalID: -7227257951265422494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghost_fire_long_platform_transparent_31
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 349
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1db6c7e50a46a150800000000000000
+      internalID: 5883471352429985055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghost_fire_long_platform_transparent_32
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 357
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef7b9e783c5bf4f30800000000000000
+      internalID: 4562064798953093118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghost_fire_long_platform_transparent_33
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 200
+        width: 309
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2458eacbf1adcd0a0800000000000000
+      internalID: -6855364702920342206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghost_fire_long_platform_transparent_34
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 344
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e922dbed5f7d70b10800000000000000
+      internalID: 1947762814864925342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghost_fire_long_platform_transparent_35
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 342
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc56b9ba45201a000800000000000000
+      internalID: 45320033930012109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghost_fire_long_platform_transparent_36
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 200
+        width: 337
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf67c67cb2fbbb9e0800000000000000
+      internalID: -1604478647477176580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghost_fire_long_platform_transparent_37
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 339
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 135d09f14f54b22f0800000000000000
+      internalID: -996625977728510671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghost_fire_long_platform_transparent_38
+      rect:
+        serializedVersion: 2
+        x: 1169
+        y: 341
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8c6f0121f6070070800000000000000
+      internalID: 8072428489796447370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghost_fire_long_platform_transparent_39
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 342
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f78bd5cd6fccabd0800000000000000
+      internalID: -2617489213031217161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghost_fire_long_platform_transparent_40
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 200
+        width: 309
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24059d3c00d0f9ce0800000000000000
+      internalID: -1396383062524604350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghost_fire_long_platform_transparent_41
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 333
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4c2f7fb35508aeb0800000000000000
+      internalID: -4708507553162646453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghost_fire_long_platform_transparent_42
+      rect:
+        serializedVersion: 2
+        x: 1285
+        y: 331
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2244b0f2e1e68ab0800000000000000
+      internalID: -5006065570958523860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghost_fire_long_platform_transparent_43
+      rect:
+        serializedVersion: 2
+        x: 1436
+        y: 320
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d11fd0efea0a4add0800000000000000
+      internalID: -2475677221699849955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghost_fire_long_platform_transparent_44
+      rect:
+        serializedVersion: 2
+        x: 1494
+        y: 313
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6217e1fac56189d0800000000000000
+      internalID: -2773823973167263123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghost_fire_long_platform_transparent_45
+      rect:
+        serializedVersion: 2
+        x: 1355
+        y: 200
+        width: 309
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 687262df194f42940800000000000000
+      internalID: 5270606371784894342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ghost_fire_long_platform_transparent_0: 4292771561455462002
+      ghost_fire_long_platform_transparent_1: 6732958729802009481
+      ghost_fire_long_platform_transparent_10: -6989264011896237883
+      ghost_fire_long_platform_transparent_11: -875812152794716934
+      ghost_fire_long_platform_transparent_12: 6906923015257994715
+      ghost_fire_long_platform_transparent_13: 2788554271032710125
+      ghost_fire_long_platform_transparent_14: 7380857264242692555
+      ghost_fire_long_platform_transparent_15: -134589093925072110
+      ghost_fire_long_platform_transparent_16: -368766837883132395
+      ghost_fire_long_platform_transparent_17: -2467931250702219208
+      ghost_fire_long_platform_transparent_18: 789338562529679282
+      ghost_fire_long_platform_transparent_19: -327799918125065640
+      ghost_fire_long_platform_transparent_2: -3333787015780379375
+      ghost_fire_long_platform_transparent_20: -3751420963271337584
+      ghost_fire_long_platform_transparent_21: 4505214022798200425
+      ghost_fire_long_platform_transparent_22: -6113066138052454859
+      ghost_fire_long_platform_transparent_23: 4303069842117793959
+      ghost_fire_long_platform_transparent_24: 6550106222260409414
+      ghost_fire_long_platform_transparent_25: -6876185985970455063
+      ghost_fire_long_platform_transparent_26: 1572509065795255755
+      ghost_fire_long_platform_transparent_27: -7196927938084917587
+      ghost_fire_long_platform_transparent_28: -3295600095422865268
+      ghost_fire_long_platform_transparent_29: 7377088904275276780
+      ghost_fire_long_platform_transparent_3: 2348902179436243005
+      ghost_fire_long_platform_transparent_30: -7227257951265422494
+      ghost_fire_long_platform_transparent_31: 5883471352429985055
+      ghost_fire_long_platform_transparent_32: 4562064798953093118
+      ghost_fire_long_platform_transparent_33: -6855364702920342206
+      ghost_fire_long_platform_transparent_34: 1947762814864925342
+      ghost_fire_long_platform_transparent_35: 45320033930012109
+      ghost_fire_long_platform_transparent_36: -1604478647477176580
+      ghost_fire_long_platform_transparent_37: -996625977728510671
+      ghost_fire_long_platform_transparent_38: 8072428489796447370
+      ghost_fire_long_platform_transparent_39: -2617489213031217161
+      ghost_fire_long_platform_transparent_4: -6305211882108441786
+      ghost_fire_long_platform_transparent_40: -1396383062524604350
+      ghost_fire_long_platform_transparent_41: -4708507553162646453
+      ghost_fire_long_platform_transparent_42: -5006065570958523860
+      ghost_fire_long_platform_transparent_43: -2475677221699849955
+      ghost_fire_long_platform_transparent_44: -2773823973167263123
+      ghost_fire_long_platform_transparent_45: 5270606371784894342
+      ghost_fire_long_platform_transparent_5: 9153966322692174118
+      ghost_fire_long_platform_transparent_6: 6671278245696613259
+      ghost_fire_long_platform_transparent_7: -3315942975283829382
+      ghost_fire_long_platform_transparent_8: 3192385441665867423
+      ghost_fire_long_platform_transparent_9: 3262023447847488892
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

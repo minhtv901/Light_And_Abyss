@@ -13,6 +13,14 @@ public class PlayerMovement : MonoBehaviour
 
     private int jumpCount = 0;
 
+    [Header("Dash Settings")]
+    public KeyCode dashKey = KeyCode.L;
+    public float dashSpeed = 16f;
+    public float dashDuration = 0.18f;
+    public float dashCooldown = 0.7f;
+    public bool dashWithInputDirection = true;
+    public bool dashInvincible = true;
+
     [Header("Ground Check")]
     public LayerMask groundLayer;
     public Vector2 groundCheckSize = new Vector2(0.8f, 0.25f);
@@ -40,6 +48,7 @@ public class PlayerMovement : MonoBehaviour
     private Collider2D playerCollider;
     private PlayerAttack playerAttack;
     private PlayerHealth playerHealth;
+    private PlayerGuard playerGuard;
 
     private float moveInput;
     private bool isGrounded;
@@ -47,12 +56,15 @@ public class PlayerMovement : MonoBehaviour
     private bool hasCheckedGround;
     private bool isFacingRight = true;
     private bool isEvolving = false;
+    private bool isDashing = false;
+
     private float nextSummonTime = 0f;
-    private PlayerGuard playerGuard;
+    private float nextDashTime = 0f;
 
     public bool IsGrounded => isGrounded;
     public bool IsFacingRight => isFacingRight;
     public bool IsEvolving => isEvolving;
+    public bool IsDashing => isDashing;
 
     private void Start()
     {
@@ -74,6 +86,13 @@ public class PlayerMovement : MonoBehaviour
     {
         CheckGround();
 
+        if (isDashing)
+        {
+            moveInput = 0f;
+            UpdateAnimator();
+            return;
+        }
+
         if (!CanControl())
         {
             moveInput = 0f;
@@ -83,6 +102,7 @@ public class PlayerMovement : MonoBehaviour
 
         ReadMoveInput();
         Jump();
+        Dash();
         Summon();
         UpdateAnimator();
     }
@@ -90,6 +110,11 @@ public class PlayerMovement : MonoBehaviour
     private void FixedUpdate()
     {
         if (rb == null) return;
+
+        if (isDashing)
+        {
+            return;
+        }
 
         if (!CanControl())
         {
@@ -103,6 +128,7 @@ public class PlayerMovement : MonoBehaviour
     private bool CanControl()
     {
         if (isEvolving) return false;
+        if (isDashing) return false;
         if (playerHealth != null && playerHealth.IsDead) return false;
         if (playerAttack != null && playerAttack.IsAttacking) return false;
 
@@ -130,7 +156,7 @@ public class PlayerMovement : MonoBehaviour
         }
     }
 
-    void Jump()
+    private void Jump()
     {
         if (!Input.GetKeyDown(KeyCode.Space)) return;
 
@@ -142,7 +168,6 @@ public class PlayerMovement : MonoBehaviour
 
         float finalJumpForce = jumpForce;
 
-        // Nhảy lần 2 yếu hơn một chút cho tự nhiên
         if (jumpCount > 0)
         {
             finalJumpForce *= doubleJumpForceMultiplier;
@@ -156,6 +181,89 @@ public class PlayerMovement : MonoBehaviour
         {
             animator.SetTrigger("Jump");
         }
+    }
+
+    private void Dash()
+    {
+        if (!Input.GetKeyDown(dashKey)) return;
+        if (Time.time < nextDashTime) return;
+        if (rb == null) return;
+
+        float dashDirection = GetDashDirection();
+
+        if (dashDirection > 0f && !isFacingRight)
+        {
+            Flip();
+        }
+        else if (dashDirection < 0f && isFacingRight)
+        {
+            Flip();
+        }
+
+        StartCoroutine(DashRoutine(dashDirection));
+    }
+
+    private float GetDashDirection()
+    {
+        if (!dashWithInputDirection)
+        {
+            return isFacingRight ? 1f : -1f;
+        }
+
+        if (Mathf.Abs(moveInput) > 0.01f)
+        {
+            return Mathf.Sign(moveInput);
+        }
+
+        float rawInput = Input.GetAxisRaw("Horizontal");
+
+        if (Mathf.Abs(rawInput) > 0.01f)
+        {
+            return Mathf.Sign(rawInput);
+        }
+
+        return isFacingRight ? 1f : -1f;
+    }
+
+    private IEnumerator DashRoutine(float direction)
+    {
+        isDashing = true;
+        nextDashTime = Time.time + dashCooldown;
+
+        float oldGravityScale = rb.gravityScale;
+
+        SetDashInvincible(true);
+
+        rb.gravityScale = 0f;
+        rb.linearVelocity = new Vector2(direction * dashSpeed, 0f);
+
+        if (animator != null)
+        {
+            animator.SetTrigger("Dash");
+        }
+
+        yield return new WaitForSeconds(dashDuration);
+
+        if (rb != null)
+        {
+            rb.gravityScale = oldGravityScale;
+            rb.linearVelocity = new Vector2(0f, rb.linearVelocity.y);
+        }
+
+        SetDashInvincible(false);
+
+        isDashing = false;
+    }
+
+    private void SetDashInvincible(bool value)
+    {
+        if (!dashInvincible) return;
+
+        gameObject.SendMessage(
+            "SetInvincible",
+            value,
+            SendMessageOptions.DontRequireReceiver
+        );
     }
 
     private void CheckGround()
@@ -258,7 +366,7 @@ public class PlayerMovement : MonoBehaviour
         isFacingRight = !isFacingRight;
 
         Vector3 scale = transform.localScale;
-        scale.x *= -1;
+        scale.x *= -1f;
         transform.localScale = scale;
     }
 

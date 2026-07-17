@@ -243,9 +243,9 @@ TextureImporter:
       name: boss_sprite_clean_transparent_14
       rect:
         serializedVersion: 2
-        x: 170
-        y: 223
-        width: 441
+        x: 16
+        y: 233
+        width: 601
         height: 607
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -265,9 +265,9 @@ TextureImporter:
       name: boss_sprite_clean_transparent_15
       rect:
         serializedVersion: 2
-        x: 1104
-        y: 244
-        width: 415
+        x: 948
+        y: 250
+        width: 568
         height: 607
       alignment: 0
       pivot: {x: 0.5, y: 0.5}

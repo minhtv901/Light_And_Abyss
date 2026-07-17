@@ -362,13 +362,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: sprite_sheet_cleaned_2_0
+      name: 1
       rect:
         serializedVersion: 2
-        x: 382
-        y: 1565
-        width: 257
-        height: 417
+        x: 302
+        y: 1492
+        width: 396
+        height: 609
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -384,13 +384,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sprite_sheet_cleaned_2_1
+      name: 2
       rect:
         serializedVersion: 2
-        x: 970
-        y: 1556
-        width: 265
-        height: 388
+        x: 881
+        y: 1497
+        width: 432
+        height: 609
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -406,13 +406,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sprite_sheet_cleaned_2_3
+      name: 3
       rect:
         serializedVersion: 2
-        x: 1567
-        y: 1577
-        width: 280
-        height: 384
+        x: 1513
+        y: 1498
+        width: 423
+        height: 609
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -428,13 +428,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sprite_sheet_cleaned_2_4
+      name: 4
       rect:
         serializedVersion: 2
-        x: 305
-        y: 920
-        width: 287
-        height: 389
+        x: 200
+        y: 776
+        width: 472
+        height: 609
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -450,13 +450,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sprite_sheet_cleaned_2_5
+      name: 6
       rect:
         serializedVersion: 2
-        x: 883
-        y: 922
-        width: 342
-        height: 381
+        x: 860
+        y: 766
+        width: 445
+        height: 609
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -472,13 +472,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sprite_sheet_cleaned_2_45
+      name: 5
       rect:
         serializedVersion: 2
-        x: 1565
-        y: 940
-        width: 316
-        height: 385
+        x: 1508
+        y: 783
+        width: 466
+        height: 609
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -494,13 +494,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sprite_sheet_cleaned_2_46
+      name: 7
       rect:
         serializedVersion: 2
-        x: 540
-        y: 169
-        width: 303
-        height: 384
+        x: 495
+        y: 56
+        width: 468
+        height: 609
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -516,13 +516,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sprite_sheet_cleaned_2_47
+      name: 8
       rect:
         serializedVersion: 2
-        x: 1256
-        y: 198
-        width: 316
-        height: 384
+        x: 1196
+        y: 71
+        width: 403
+        height: 609
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -551,8 +551,14 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      sprite_sheet_cleaned_2_0: -6586999818327372760
-      sprite_sheet_cleaned_2_1: 2156821023178359071
+      1: -6586999818327372760
+      2: 2156821023178359071
+      3: -9167870264611535570
+      4: 2480119846454767661
+      5: 6369756325770597619
+      6: 2515045223586550534
+      7: 7259012612090659534
+      8: -2267475846455445474
       sprite_sheet_cleaned_2_10: -2227340110698541334
       sprite_sheet_cleaned_2_11: -4047947146359404385
       sprite_sheet_cleaned_2_12: 8656998350370042547
@@ -574,7 +580,6 @@ TextureImporter:
       sprite_sheet_cleaned_2_27: -1571012334419664503
       sprite_sheet_cleaned_2_28: 4599653681982048640
       sprite_sheet_cleaned_2_29: 7172731484734700222
-      sprite_sheet_cleaned_2_3: -9167870264611535570
       sprite_sheet_cleaned_2_30: -1371280181718162642
       sprite_sheet_cleaned_2_31: -3515122602909403282
       sprite_sheet_cleaned_2_32: 6045592602524396276
@@ -585,18 +590,13 @@ TextureImporter:
       sprite_sheet_cleaned_2_37: 8934278306513055971
       sprite_sheet_cleaned_2_38: -590295557421271081
       sprite_sheet_cleaned_2_39: -5858010424751421764
-      sprite_sheet_cleaned_2_4: 2480119846454767661
       sprite_sheet_cleaned_2_40: -3925654818574680430
       sprite_sheet_cleaned_2_41: 1255061472385463086
       sprite_sheet_cleaned_2_42: 566650641389888098
       sprite_sheet_cleaned_2_43: -2146894922609545632
       sprite_sheet_cleaned_2_44: -4178027975609948360
-      sprite_sheet_cleaned_2_45: 6369756325770597619
-      sprite_sheet_cleaned_2_46: 7259012612090659534
-      sprite_sheet_cleaned_2_47: -2267475846455445474
       sprite_sheet_cleaned_2_48: 3569332499707833805
       sprite_sheet_cleaned_2_49: -7691011785133874284
-      sprite_sheet_cleaned_2_5: 2515045223586550534
       sprite_sheet_cleaned_2_50: 5091714544884905003
       sprite_sheet_cleaned_2_51: 4764159304652231331
       sprite_sheet_cleaned_2_52: 5710506743423652983

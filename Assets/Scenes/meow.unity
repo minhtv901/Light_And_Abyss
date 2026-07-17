@@ -3800,6 +3800,12 @@ MonoBehaviour:
   jumpForce: 7
   maxJumpCount: 2
   doubleJumpForceMultiplier: 0.9
+  dashKey: 108
+  dashSpeed: 20
+  dashDuration: 0.18
+  dashCooldown: 0.7
+  dashWithInputDirection: 1
+  dashInvincible: 1
   groundLayer:
     serializedVersion: 2
     m_Bits: 640

@@ -1,0 +1,616 @@
+fileFormatVersion: 2
+guid: 69c2e2015a437d24ab49f4acc0734fb5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4911415106829374455
+    second: flame_pillar_sprite_sheet_transparent_0
+  - first:
+      213: -2739470379525134052
+    second: flame_pillar_sprite_sheet_transparent_1
+  - first:
+      213: -5364278450036582596
+    second: flame_pillar_sprite_sheet_transparent_2
+  - first:
+      213: 5073409953862718958
+    second: flame_pillar_sprite_sheet_transparent_3
+  - first:
+      213: 2183303652293549744
+    second: flame_pillar_sprite_sheet_transparent_4
+  - first:
+      213: 2399817236370662160
+    second: flame_pillar_sprite_sheet_transparent_5
+  - first:
+      213: 246713538713016938
+    second: flame_pillar_sprite_sheet_transparent_6
+  - first:
+      213: -6506176244647491814
+    second: flame_pillar_sprite_sheet_transparent_7
+  - first:
+      213: 5730112338390736546
+    second: flame_pillar_sprite_sheet_transparent_8
+  - first:
+      213: -1104939427492616012
+    second: flame_pillar_sprite_sheet_transparent_9
+  - first:
+      213: 4045327397276011498
+    second: flame_pillar_sprite_sheet_transparent_10
+  - first:
+      213: 7940545365185715728
+    second: flame_pillar_sprite_sheet_transparent_11
+  - first:
+      213: 3853540836882981
+    second: flame_pillar_sprite_sheet_transparent_12
+  - first:
+      213: -3790268852484221786
+    second: flame_pillar_sprite_sheet_transparent_13
+  - first:
+      213: -1771523810038300380
+    second: flame_pillar_sprite_sheet_transparent_14
+  - first:
+      213: 9091562235909225289
+    second: flame_pillar_sprite_sheet_transparent_15
+  - first:
+      213: 2353538808050013785
+    second: flame_pillar_sprite_sheet_transparent_16
+  - first:
+      213: 2691788165193690801
+    second: flame_pillar_sprite_sheet_transparent_17
+  - first:
+      213: -8624971187747101194
+    second: flame_pillar_sprite_sheet_transparent_18
+  - first:
+      213: 8428302092731553047
+    second: flame_pillar_sprite_sheet_transparent_19
+  - first:
+      213: -5408592498375455360
+    second: flame_pillar_sprite_sheet_transparent_20
+  - first:
+      213: 6319565860319720156
+    second: flame_pillar_sprite_sheet_transparent_21
+  - first:
+      213: -3999138863738507903
+    second: flame_pillar_sprite_sheet_transparent_22
+  - first:
+      213: 1961278751540007712
+    second: flame_pillar_sprite_sheet_transparent_23
+  - first:
+      213: -1024016253483944263
+    second: flame_pillar_sprite_sheet_transparent_24
+  - first:
+      213: -4185721483105070688
+    second: flame_pillar_sprite_sheet_transparent_25
+  - first:
+      213: -590954433310928446
+    second: flame_pillar_sprite_sheet_transparent_26
+  - first:
+      213: 3160006657426309936
+    second: flame_pillar_sprite_sheet_transparent_27
+  - first:
+      213: -8035018716468224559
+    second: flame_pillar_sprite_sheet_transparent_28
+  - first:
+      213: 5887771995408948290
+    second: flame_pillar_sprite_sheet_transparent_29
+  - first:
+      213: 1155037084503818383
+    second: flame_pillar_sprite_sheet_transparent_30
+  - first:
+      213: -3701683705793769982
+    second: flame_pillar_sprite_sheet_transparent_31
+  - first:
+      213: 4000226140680898254
+    second: flame_pillar_sprite_sheet_transparent_32
+  - first:
+      213: 3264757974172578366
+    second: flame_pillar_sprite_sheet_transparent_33
+  - first:
+      213: -2750082232995162936
+    second: flame_pillar_sprite_sheet_transparent_34
+  - first:
+      213: 4764528665885113893
+    second: flame_pillar_sprite_sheet_transparent_35
+  - first:
+      213: 2253589817516216850
+    second: flame_pillar_sprite_sheet_transparent_36
+  - first:
+      213: 4045007366345827062
+    second: flame_pillar_sprite_sheet_transparent_37
+  - first:
+      213: 7339298581522638592
+    second: flame_pillar_sprite_sheet_transparent_38
+  - first:
+      213: -7450368912422554755
+    second: flame_pillar_sprite_sheet_transparent_39
+  - first:
+      213: 6371225090014004095
+    second: flame_pillar_sprite_sheet_transparent_40
+  - first:
+      213: 4611948540035328231
+    second: flame_pillar_sprite_sheet_transparent_41
+  - first:
+      213: -3502793760045443516
+    second: flame_pillar_sprite_sheet_transparent_42
+  - first:
+      213: 1677394890520764037
+    second: flame_pillar_sprite_sheet_transparent_43
+  - first:
+      213: 3179954839995220655
+    second: flame_pillar_sprite_sheet_transparent_44
+  - first:
+      213: -8365958379970796632
+    second: flame_pillar_sprite_sheet_transparent_45
+  - first:
+      213: -7859699691892861137
+    second: flame_pillar_sprite_sheet_transparent_46
+  - first:
+      213: -2662177781744384521
+    second: flame_pillar_sprite_sheet_transparent_47
+  - first:
+      213: -8043041491948262585
+    second: flame_pillar_sprite_sheet_transparent_48
+  - first:
+      213: -4853529409352461131
+    second: flame_pillar_sprite_sheet_transparent_49
+  - first:
+      213: -8066818107597872404
+    second: flame_pillar_sprite_sheet_transparent_50
+  - first:
+      213: -2685920199919271468
+    second: flame_pillar_sprite_sheet_transparent_51
+  - first:
+      213: 4346160522692757833
+    second: flame_pillar_sprite_sheet_transparent_52
+  - first:
+      213: 6025674227279453558
+    second: flame_pillar_sprite_sheet_transparent_53
+  - first:
+      213: -5078140637862092191
+    second: flame_pillar_sprite_sheet_transparent_54
+  - first:
+      213: -3638290384292541892
+    second: flame_pillar_sprite_sheet_transparent_55
+  - first:
+      213: -8861159199928056113
+    second: flame_pillar_sprite_sheet_transparent_56
+  - first:
+      213: 2040286272248624283
+    second: flame_pillar_sprite_sheet_transparent_57
+  - first:
+      213: 8973528086342995551
+    second: flame_pillar_sprite_sheet_transparent_58
+  - first:
+      213: -7153982021642591994
+    second: flame_pillar_sprite_sheet_transparent_59
+  - first:
+      213: 9104795949855349323
+    second: flame_pillar_sprite_sheet_transparent_60
+  - first:
+      213: 2695602052382618729
+    second: flame_pillar_sprite_sheet_transparent_61
+  - first:
+      213: 803838354577826078
+    second: flame_pillar_sprite_sheet_transparent_62
+  - first:
+      213: 3245130289592811528
+    second: flame_pillar_sprite_sheet_transparent_63
+  - first:
+      213: 8203529697712475068
+    second: flame_pillar_sprite_sheet_transparent_64
+  - first:
+      213: 6667995672325270458
+    second: flame_pillar_sprite_sheet_transparent_65
+  - first:
+      213: 1714731523709241642
+    second: flame_pillar_sprite_sheet_transparent_66
+  - first:
+      213: -2890383890849758587
+    second: flame_pillar_sprite_sheet_transparent_67
+  - first:
+      213: -3709327097583460968
+    second: flame_pillar_sprite_sheet_transparent_68
+  - first:
+      213: -947781671133990810
+    second: flame_pillar_sprite_sheet_transparent_69
+  - first:
+      213: 6420111959894831503
+    second: flame_pillar_sprite_sheet_transparent_70
+  - first:
+      213: 5300645686896867597
+    second: flame_pillar_sprite_sheet_transparent_71
+  - first:
+      213: 2245799737310244091
+    second: flame_pillar_sprite_sheet_transparent_72
+  - first:
+      213: -1401295558368668053
+    second: flame_pillar_sprite_sheet_transparent_73
+  - first:
+      213: 6661292927207319063
+    second: flame_pillar_sprite_sheet_transparent_74
+  - first:
+      213: 2241628188974788182
+    second: flame_pillar_sprite_sheet_transparent_75
+  - first:
+      213: 2437559549807897494
+    second: flame_pillar_sprite_sheet_transparent_76
+  - first:
+      213: -712953178152660957
+    second: flame_pillar_sprite_sheet_transparent_77
+  - first:
+      213: -4455287589009068470
+    second: flame_pillar_sprite_sheet_transparent_78
+  - first:
+      213: -5849511355324655613
+    second: flame_pillar_sprite_sheet_transparent_79
+  - first:
+      213: 1754501993695990953
+    second: flame_pillar_sprite_sheet_transparent_80
+  - first:
+      213: 6335954254350927
+    second: flame_pillar_sprite_sheet_transparent_81
+  - first:
+      213: -5468128612827537677
+    second: flame_pillar_sprite_sheet_transparent_82
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 8
+      rect:
+        serializedVersion: 2
+        x: 1403
+        y: 37
+        width: 286
+        height: 634
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1923b344327bf9d0800000000000000
+      internalID: -2739470379525134052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7
+      rect:
+        serializedVersion: 2
+        x: 1709
+        y: 38
+        width: 286
+        height: 634
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c37594dbb214e85b0800000000000000
+      internalID: -5364278450036582596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9
+      rect:
+        serializedVersion: 2
+        x: 1105
+        y: 35
+        width: 286
+        height: 634
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 013abbbcf0ddd4120800000000000000
+      internalID: 2399817236370662160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 37
+        width: 286
+        height: 634
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6ad44408a08c6300800000000000000
+      internalID: 246713538713016938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 37
+        width: 286
+        height: 628
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aebcac2b5d3e32830800000000000000
+      internalID: 4045327397276011498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 41
+        width: 236
+        height: 623
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01ed4c650fb723e60800000000000000
+      internalID: 7940545365185715728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 43
+        width: 266
+        height: 623
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 421458f0b784a67e0800000000000000
+      internalID: -1771523810038300380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5099a00565c49a74c8cee33451096514
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      1: -1771523810038300380
+      10: 246713538713016938
+      11: 4045327397276011498
+      12: 7940545365185715728
+      7: -5364278450036582596
+      8: -2739470379525134052
+      9: 2399817236370662160
+      flame_pillar_sprite_sheet_transparent_0: -4911415106829374455
+      flame_pillar_sprite_sheet_transparent_12: 3853540836882981
+      flame_pillar_sprite_sheet_transparent_13: -3790268852484221786
+      flame_pillar_sprite_sheet_transparent_15: 9091562235909225289
+      flame_pillar_sprite_sheet_transparent_16: 2353538808050013785
+      flame_pillar_sprite_sheet_transparent_17: 2691788165193690801
+      flame_pillar_sprite_sheet_transparent_18: -8624971187747101194
+      flame_pillar_sprite_sheet_transparent_19: 8428302092731553047
+      flame_pillar_sprite_sheet_transparent_20: -5408592498375455360
+      flame_pillar_sprite_sheet_transparent_21: 6319565860319720156
+      flame_pillar_sprite_sheet_transparent_22: -3999138863738507903
+      flame_pillar_sprite_sheet_transparent_23: 1961278751540007712
+      flame_pillar_sprite_sheet_transparent_24: -1024016253483944263
+      flame_pillar_sprite_sheet_transparent_25: -4185721483105070688
+      flame_pillar_sprite_sheet_transparent_26: -590954433310928446
+      flame_pillar_sprite_sheet_transparent_27: 3160006657426309936
+      flame_pillar_sprite_sheet_transparent_28: -8035018716468224559
+      flame_pillar_sprite_sheet_transparent_29: 5887771995408948290
+      flame_pillar_sprite_sheet_transparent_3: 5073409953862718958
+      flame_pillar_sprite_sheet_transparent_30: 1155037084503818383
+      flame_pillar_sprite_sheet_transparent_31: -3701683705793769982
+      flame_pillar_sprite_sheet_transparent_32: 4000226140680898254
+      flame_pillar_sprite_sheet_transparent_33: 3264757974172578366
+      flame_pillar_sprite_sheet_transparent_34: -2750082232995162936
+      flame_pillar_sprite_sheet_transparent_35: 4764528665885113893
+      flame_pillar_sprite_sheet_transparent_36: 2253589817516216850
+      flame_pillar_sprite_sheet_transparent_37: 4045007366345827062
+      flame_pillar_sprite_sheet_transparent_38: 7339298581522638592
+      flame_pillar_sprite_sheet_transparent_39: -7450368912422554755
+      flame_pillar_sprite_sheet_transparent_4: 2183303652293549744
+      flame_pillar_sprite_sheet_transparent_40: 6371225090014004095
+      flame_pillar_sprite_sheet_transparent_41: 4611948540035328231
+      flame_pillar_sprite_sheet_transparent_42: -3502793760045443516
+      flame_pillar_sprite_sheet_transparent_43: 1677394890520764037
+      flame_pillar_sprite_sheet_transparent_44: 3179954839995220655
+      flame_pillar_sprite_sheet_transparent_45: -8365958379970796632
+      flame_pillar_sprite_sheet_transparent_46: -7859699691892861137
+      flame_pillar_sprite_sheet_transparent_47: -2662177781744384521
+      flame_pillar_sprite_sheet_transparent_48: -8043041491948262585
+      flame_pillar_sprite_sheet_transparent_49: -4853529409352461131
+      flame_pillar_sprite_sheet_transparent_50: -8066818107597872404
+      flame_pillar_sprite_sheet_transparent_51: -2685920199919271468
+      flame_pillar_sprite_sheet_transparent_52: 4346160522692757833
+      flame_pillar_sprite_sheet_transparent_53: 6025674227279453558
+      flame_pillar_sprite_sheet_transparent_54: -5078140637862092191
+      flame_pillar_sprite_sheet_transparent_55: -3638290384292541892
+      flame_pillar_sprite_sheet_transparent_56: -8861159199928056113
+      flame_pillar_sprite_sheet_transparent_57: 2040286272248624283
+      flame_pillar_sprite_sheet_transparent_58: 8973528086342995551
+      flame_pillar_sprite_sheet_transparent_59: -7153982021642591994
+      flame_pillar_sprite_sheet_transparent_60: 9104795949855349323
+      flame_pillar_sprite_sheet_transparent_61: 2695602052382618729
+      flame_pillar_sprite_sheet_transparent_62: 803838354577826078
+      flame_pillar_sprite_sheet_transparent_63: 3245130289592811528
+      flame_pillar_sprite_sheet_transparent_64: 8203529697712475068
+      flame_pillar_sprite_sheet_transparent_65: 6667995672325270458
+      flame_pillar_sprite_sheet_transparent_66: 1714731523709241642
+      flame_pillar_sprite_sheet_transparent_67: -2890383890849758587
+      flame_pillar_sprite_sheet_transparent_68: -3709327097583460968
+      flame_pillar_sprite_sheet_transparent_69: -947781671133990810
+      flame_pillar_sprite_sheet_transparent_7: -6506176244647491814
+      flame_pillar_sprite_sheet_transparent_70: 6420111959894831503
+      flame_pillar_sprite_sheet_transparent_71: 5300645686896867597
+      flame_pillar_sprite_sheet_transparent_72: 2245799737310244091
+      flame_pillar_sprite_sheet_transparent_73: -1401295558368668053
+      flame_pillar_sprite_sheet_transparent_74: 6661292927207319063
+      flame_pillar_sprite_sheet_transparent_75: 2241628188974788182
+      flame_pillar_sprite_sheet_transparent_76: 2437559549807897494
+      flame_pillar_sprite_sheet_transparent_77: -712953178152660957
+      flame_pillar_sprite_sheet_transparent_78: -4455287589009068470
+      flame_pillar_sprite_sheet_transparent_79: -5849511355324655613
+      flame_pillar_sprite_sheet_transparent_8: 5730112338390736546
+      flame_pillar_sprite_sheet_transparent_80: 1754501993695990953
+      flame_pillar_sprite_sheet_transparent_81: 6335954254350927
+      flame_pillar_sprite_sheet_transparent_82: -5468128612827537677
+      flame_pillar_sprite_sheet_transparent_9: -1104939427492616012
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

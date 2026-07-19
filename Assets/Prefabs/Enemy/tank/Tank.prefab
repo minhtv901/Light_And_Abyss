@@ -226,19 +226,25 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::EnemyAI
   enemyType: 0
-  maxHP: 10
-  currentHP: 10
+  maxHP: 50
+  currentHP: 50
   damage: 1
   spawnTime: 0
   lifeTime: 0
   damageDealtToPlayer: 0
-  moveSpeed: 2
   detectRange: 10
-  attackRange: 1.2
+  requireSameSurfaceToChase: 1
   requireSameLevelToChase: 1
   chaseVerticalTolerance: 1.2
+  requireLineOfSightToAttack: 0
+  lineOfSightBlockerLayer:
+    serializedVersion: 2
+    m_Bits: 0
+  moveSpeed: 2
+  attackRange: 1.2
   verticalAttackTolerance: 1
   patrolWhenPlayerFar: 0
+  roamWhenNoValidTarget: 1
   patrolDistance: 3
   patrolSpeed: 1.2
   preventFallingOffLedge: 1
@@ -251,11 +257,11 @@ MonoBehaviour:
     m_Bits: 640
   groundCheckSize: {x: 0.75, y: 0.18}
   groundCheckExtraDistance: 0.08
+  surfaceCheckDistance: 0.45
   attackCooldown: 1
   meleeWindUpTime: 0.28
   meleeActiveTime: 0.08
   meleeRecoveryTime: 0.28
-  lockFacingDuringAttack: 1
   projectilePrefab: {fileID: 0}
   projectileSpawnPoint: {fileID: 0}
   projectileSpeed: 7
@@ -274,6 +280,7 @@ MonoBehaviour:
   tankGuardCooldown: 2.5
   tankGuardDuration: 1.5
   tankProtectRangedAllies: 1
+  tankRoamsWhenNoAlly: 1
   tankProtectSearchRadius: 8
   tankFrontOffsetFromAlly: 1.2
   tankProtectPositionTolerance: 0.15

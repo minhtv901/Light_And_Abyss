@@ -112,19 +112,25 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::EnemyAI
   enemyType: 1
-  maxHP: 1000000
-  currentHP: 1000000
+  maxHP: 30
+  currentHP: 30
   damage: 1
   spawnTime: 0
   lifeTime: 0
   damageDealtToPlayer: 0
-  moveSpeed: 2
-  detectRange: 10
-  attackRange: 1.5
+  detectRange: 6
+  requireSameSurfaceToChase: 1
   requireSameLevelToChase: 1
-  chaseVerticalTolerance: 1.2
+  chaseVerticalTolerance: 0.8
+  requireLineOfSightToAttack: 0
+  lineOfSightBlockerLayer:
+    serializedVersion: 2
+    m_Bits: 0
+  moveSpeed: 2
+  attackRange: 1.1
   verticalAttackTolerance: 1
   patrolWhenPlayerFar: 1
+  roamWhenNoValidTarget: 1
   patrolDistance: 3
   patrolSpeed: 1.2
   preventFallingOffLedge: 1
@@ -137,19 +143,19 @@ MonoBehaviour:
     m_Bits: 640
   groundCheckSize: {x: 0.75, y: 0.18}
   groundCheckExtraDistance: 0.08
+  surfaceCheckDistance: 0.1
   attackCooldown: 1
-  meleeWindUpTime: 0.28
+  meleeWindUpTime: 0.25
   meleeActiveTime: 0.08
-  meleeRecoveryTime: 0.28
-  lockFacingDuringAttack: 1
+  meleeRecoveryTime: 0.25
   projectilePrefab: {fileID: 0}
   projectileSpawnPoint: {fileID: 0}
   projectileSpeed: 7
   projectileLifeTime: 4
   projectileFireDelay: 0.25
-  projectileRecoveryTime: 0.2
-  rangedAimErrorDegrees: 6
-  rangedMinDistance: 2.2
+  projectileRecoveryTime: 0.25
+  rangedAimErrorDegrees: 5
+  rangedMinDistance: 2.4
   rangedRetreatWhenTooClose: 1
   rangedRetreatSpeedMultiplier: 0.9
   tankDealsDamage: 0
@@ -160,6 +166,7 @@ MonoBehaviour:
   tankGuardCooldown: 2.5
   tankGuardDuration: 0.6
   tankProtectRangedAllies: 1
+  tankRoamsWhenNoAlly: 1
   tankProtectSearchRadius: 8
   tankFrontOffsetFromAlly: 1.2
   tankProtectPositionTolerance: 0.15
@@ -167,7 +174,7 @@ MonoBehaviour:
   tankAutoGuardWhenInPosition: 1
   minDamageWhileGuarding: 0
   spawnDuration: 1.2
-  hitStunDuration: 0.25
+  hitStunDuration: 0.1
   deathDuration: 1
   isMovingBool: IsMoving
   spawnTrigger: Spawn
@@ -175,7 +182,7 @@ MonoBehaviour:
   deathTrigger: Death
   attackTrigger: Attack
   guardTrigger: Guard
-  applyDefaultStatsOnAwake: 1
+  applyDefaultStatsOnAwake: 0
   autoFindPlayer: 1
   flipToPlayer: 1
   sideScrollerXOnly: 1

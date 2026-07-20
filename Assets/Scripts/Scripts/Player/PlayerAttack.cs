@@ -87,7 +87,7 @@ public class PlayerAttack : MonoBehaviour
         HandleComboReset();
         HandleAttackInput();
 
-        // Test chống kẹt attack, sau này có thể xóa.
+        // Emergency reset for testing.
         if (Input.GetKeyDown(KeyCode.R))
         {
             ForceStopAttack();
@@ -189,7 +189,7 @@ public class PlayerAttack : MonoBehaviour
     {
         if (attackPoint == null)
         {
-            Debug.LogWarning("PlayerAttack thiếu AttackPoint.");
+            Debug.LogWarning("PlayerAttack is missing AttackPoint.");
             return 0;
         }
 
@@ -204,12 +204,15 @@ public class PlayerAttack : MonoBehaviour
 
         foreach (Collider2D hit in hits)
         {
+            if (hit == null) continue;
+
+            int finalDamage = GetFinalDamage();
+
+            // Normal enemies.
             EnemyAI enemy = hit.GetComponentInParent<EnemyAI>();
 
             if (enemy != null && !damagedObjects.Contains(enemy.gameObject))
             {
-                int finalDamage = GetFinalDamage();
-
                 enemy.TakeDamage(finalDamage);
 
                 if (attackNumber == 4)
@@ -230,16 +233,28 @@ public class PlayerAttack : MonoBehaviour
 
                 damagedObjects.Add(enemy.gameObject);
                 hitCount++;
-
                 continue;
             }
 
+            // Boss.
+            StationaryGreenFlameBossAI boss = hit.GetComponentInParent<StationaryGreenFlameBossAI>();
+
+            if (boss != null && !damagedObjects.Contains(boss.gameObject))
+            {
+                boss.TakeDamage(finalDamage);
+
+                // Boss should not be launched by Attack 4.
+                damagedObjects.Add(boss.gameObject);
+                hitCount++;
+                continue;
+            }
+
+            // Breakable props.
             BreakableBarrel barrel = hit.GetComponentInParent<BreakableBarrel>();
 
             if (barrel != null && !damagedObjects.Contains(barrel.gameObject))
             {
-                barrel.TakeDamage(GetFinalDamage());
-
+                barrel.TakeDamage(finalDamage);
                 damagedObjects.Add(barrel.gameObject);
             }
         }
@@ -253,7 +268,6 @@ public class PlayerAttack : MonoBehaviour
 
         if (playerMovement != null && playerMovement.currentWeapon != null)
         {
-            // Convert float damageBoost to int. Use RoundToInt to avoid truncation.
             finalDamage += Mathf.RoundToInt(playerMovement.currentWeapon.damageBoost);
         }
 
@@ -290,14 +304,6 @@ public class PlayerAttack : MonoBehaviour
         }
     }
 
-    private void OnDrawGizmosSelected()
-    {
-        if (attackPoint == null) return;
-
-        Gizmos.color = Color.red;
-        Gizmos.DrawWireSphere(attackPoint.position, attackRadius);
-    }
-
     private void SpawnAttackEffect(int attackNumber)
     {
         if (attackEffectPoint == null) return;
@@ -314,7 +320,6 @@ public class PlayerAttack : MonoBehaviour
             attackEffectPoint.rotation
         );
 
-        // Nếu player quay trái thì lật effect theo X
         if (playerMovement != null && !playerMovement.IsFacingRight)
         {
             Vector3 scale = effect.transform.localScale;
@@ -323,5 +328,13 @@ public class PlayerAttack : MonoBehaviour
         }
 
         Destroy(effect, attackEffectLifeTime);
+    }
+
+    private void OnDrawGizmosSelected()
+    {
+        if (attackPoint == null) return;
+
+        Gizmos.color = Color.red;
+        Gizmos.DrawWireSphere(attackPoint.position, attackRadius);
     }
 }

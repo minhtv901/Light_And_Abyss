@@ -1,5 +1,7 @@
+using System.Collections.Generic;
 using UnityEngine;
 
+[RequireComponent(typeof(Collider2D))]
 public class BossProjectile : MonoBehaviour
 {
     [Header("Move")]
@@ -9,21 +11,63 @@ public class BossProjectile : MonoBehaviour
 
     [Header("Damage")]
     public int damage = 1;
+    public bool damageOnce = true;
 
     [Header("Hit")]
     public bool destroyOnPlayerHit = true;
+    public bool destroyOnObstacleHit = true;
     public LayerMask obstacleLayer;
 
+    [Header("Visual")]
+    public Transform visualRoot;
+    public bool rotateVisualToDirection = false;
+    public bool flipVisualByDirection = true;
+    public bool invertVisualFlip = false;
+    public float visualRotationOffset = 0f;
+
     private Rigidbody2D rb;
+    private Collider2D projectileCollider;
+    private Vector3 originalVisualScale;
+
+    private readonly HashSet<PlayerHealth> hitPlayers = new HashSet<PlayerHealth>();
 
     private void Awake()
     {
         rb = GetComponent<Rigidbody2D>();
+        projectileCollider = GetComponent<Collider2D>();
+
+        if (rb != null)
+        {
+            rb.bodyType = RigidbodyType2D.Kinematic;
+            rb.gravityScale = 0f;
+            rb.freezeRotation = true;
+        }
+
+        if (projectileCollider != null)
+        {
+            projectileCollider.isTrigger = true;
+        }
+
+        if (visualRoot == null)
+        {
+            SpriteRenderer sr = GetComponentInChildren<SpriteRenderer>();
+
+            if (sr != null)
+            {
+                visualRoot = sr.transform;
+            }
+        }
+
+        if (visualRoot != null)
+        {
+            originalVisualScale = visualRoot.localScale;
+        }
     }
 
     private void Start()
     {
         Destroy(gameObject, lifeTime);
+        ApplyVisualDirection();
     }
 
     private void FixedUpdate()
@@ -42,6 +86,11 @@ public class BossProjectile : MonoBehaviour
 
     public void Init(Vector2 direction, int projectileDamage, float projectileSpeed)
     {
+        if (direction.sqrMagnitude <= 0.001f)
+        {
+            direction = Vector2.left;
+        }
+
         moveDirection = direction.normalized;
         damage = projectileDamage;
         speed = projectileSpeed;
@@ -51,40 +100,72 @@ public class BossProjectile : MonoBehaviour
 
     private void ApplyVisualDirection()
     {
-        if (moveDirection.x == 0f) return;
+        if (visualRoot == null) return;
 
-        Vector3 scale = transform.localScale;
+        if (rotateVisualToDirection)
+        {
+            float angle = Mathf.Atan2(moveDirection.y, moveDirection.x) * Mathf.Rad2Deg;
+            visualRoot.rotation = Quaternion.Euler(0f, 0f, angle + visualRotationOffset);
+        }
 
-        if (moveDirection.x > 0f)
-            scale.x = Mathf.Abs(scale.x);
-        else
-            scale.x = -Mathf.Abs(scale.x);
+        if (!flipVisualByDirection) return;
 
-        transform.localScale = scale;
+        // Only flip when the projectile has a clear horizontal direction.
+        if (Mathf.Abs(moveDirection.x) < 0.05f) return;
+
+        Vector3 scale = originalVisualScale;
+        bool movingRight = moveDirection.x > 0f;
+
+        if (invertVisualFlip)
+        {
+            movingRight = !movingRight;
+        }
+
+        scale.x = movingRight
+            ? Mathf.Abs(originalVisualScale.x)
+            : -Mathf.Abs(originalVisualScale.x);
+
+        visualRoot.localScale = scale;
     }
 
     private void OnTriggerEnter2D(Collider2D other)
     {
+        if (other == null) return;
+
         PlayerHealth playerHealth = other.GetComponentInParent<PlayerHealth>();
 
         if (playerHealth != null)
         {
-            if (playerHealth.IsInvincible)
-            {
-                return;
-            }
-
-            playerHealth.TakeDamage(damage);
-
-            if (destroyOnPlayerHit)
-            {
-                Destroy(gameObject);
-            }
-
+            TryDamagePlayer(playerHealth);
             return;
         }
 
-        if (IsInLayerMask(other.gameObject.layer, obstacleLayer))
+        if (destroyOnObstacleHit && IsInLayerMask(other.gameObject.layer, obstacleLayer))
+        {
+            Destroy(gameObject);
+        }
+    }
+
+    private void TryDamagePlayer(PlayerHealth playerHealth)
+    {
+        if (playerHealth == null) return;
+        if (playerHealth.IsDead) return;
+
+        // Dash / invincible should let the projectile pass through the Player.
+        if (playerHealth.IsInvincible)
+        {
+            return;
+        }
+
+        if (damageOnce && hitPlayers.Contains(playerHealth))
+        {
+            return;
+        }
+
+        hitPlayers.Add(playerHealth);
+        playerHealth.TakeDamage(damage);
+
+        if (destroyOnPlayerHit)
         {
             Destroy(gameObject);
         }

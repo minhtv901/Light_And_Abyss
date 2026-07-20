@@ -1,0 +1,911 @@
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+[RequireComponent(typeof(Collider2D))]
+public class StationaryGreenFlameBossAI : MonoBehaviour
+{
+    private enum BossState
+    {
+        Inactive,
+        Spawning,
+        Idle,
+        Casting,
+        PhaseBreak,
+        Dead
+    }
+
+    [Header("References")]
+    public Transform player;
+    public Collider2D playerCollider;
+    public Animator animator;
+    public Rigidbody2D rb;
+    public Collider2D bossCollider;
+    public Transform projectileSpawnPoint;
+
+    [Header("Health")]
+    public int maxHP = 600;
+    public int currentHP = 600;
+    public bool invincibleBeforeStart = true;
+
+    [Header("Start")]
+    public bool startOnAwake = false;
+    public bool autoFindPlayer = true;
+    public string playerTag = "Player";
+
+    [Header("Facing")]
+    public bool flipToPlayer = true;
+    public bool isFacingRight = false;
+    public bool useSpriteRendererFlip = false;
+    public bool invertSpriteFacing = false;
+    public SpriteRenderer visualSpriteRenderer;
+
+    [Header("Animator State Names")]
+    public string spawnStateName = "Boss_Spawn";
+    public string idleStateName = "Boss_Idle";
+
+    [Tooltip("Normal/basic attack animation. In your Animator this is Boss_Hit.")]
+    public string basicAttackStateName = "Boss_Hit";
+
+    public string rangedSkillStateName = "Boss_Ranged_Skill";
+    public string closeSkillStateName = "Boss_Closed_Skill";
+    public string firePillarStateName = "Boss_Skill_2";
+    public string ultimateStateName = "Boss_Ultimate";
+
+    [Tooltip("Used only for the short invincible phase break. If you do not have a separate phase-break clip, keep this as Boss_Idle.")]
+    public string phaseBreakStateName = "Boss_Idle";
+
+    public string defeatStateName = "Boss_Defeat";
+
+    [Header("Animation Timing Stabilizer")]
+    [Tooltip("If enabled, the boss waits using the real AnimationClip.length instead of only manual durations. This prevents states from being cut early.")]
+    public bool useClipLengthTiming = true;
+
+    [Tooltip("Fallback if the animation clip name cannot be found.")]
+    public float spawnFallbackDuration = 1.0f;
+    public float basicFallbackDuration = 0.45f;
+    public float closeSkillFallbackDuration = 0.7f;
+    public float rangedSkillFallbackDuration = 0.7f;
+    public float skill2FallbackDuration = 1.4f;
+    public float ultimateFallbackDuration = 2.6f;
+    public float defeatFallbackDuration = 1.5f;
+
+    [Range(0.05f, 0.95f)] public float basicFireNormalizedTime = 0.55f;
+    [Range(0.05f, 0.95f)] public float bigFireNormalizedTime = 0.55f;
+    [Range(0.05f, 0.95f)] public float sweepHitNormalizedTime = 0.55f;
+    [Range(0.05f, 0.95f)] public float pillarWarningNormalizedTime = 0.25f;
+    [Range(0.05f, 0.95f)] public float ultimateWaveStartNormalizedTime = 0.35f;
+
+    [Header("Phase Settings")]
+    [Range(0.1f, 0.95f)] public float phase2HpRatio = 0.66f;
+    [Range(0.05f, 0.8f)] public float phase3HpRatio = 0.33f;
+    public float phaseBreakDuration = 1.8f;
+    public bool useUltimateImmediatelyInPhase3 = true;
+
+    [Header("Idle / Combat Decision")]
+    public float decisionDelay = 0.15f;
+    public float closeSkillRange = 3.2f;
+
+    [Header("Basic Attack - Boss_Hit")]
+    public GameObject basicFireballPrefab;
+    public int basicFireballDamage = 1;
+    public float basicFireballSpeed = 8f;
+    public float basicCooldown = 1.35f;
+
+    [Header("Skill 1 Cooldown")]
+    public float skill1Cooldown = 4.5f;
+
+    [Header("Skill 1A - Sweep When Player Is Close")]
+    public GameObject sweepWarningPrefab;
+    public GameObject sweepDamagePrefab;
+    public int sweepDamage = 2;
+    public float sweepOffsetX = 1.8f;
+    public float sweepOffsetY = 0.8f;
+    public Vector2 sweepSize = new Vector2(3.5f, 2.0f);
+    public float sweepActiveTime = 0.25f;
+
+    [Header("Skill 1B - Big Fireball When Player Is Far")]
+    public GameObject bigFireballPrefab;
+    public int bigFireballDamage = 2;
+    public float bigFireballSpeed = 7f;
+
+    [Header("Skill 2 - Fire Pillars")]
+    public GameObject pillarWarningPrefab;
+    public GameObject pillarDamagePrefab;
+    public int pillarDamage = 2;
+    public int pillarCount = 4;
+    public Vector2 pillarSize = new Vector2(1.2f, 4f);
+    public float pillarWarningTime = 0.75f;
+    public float pillarActiveTime = 0.45f;
+    public float pillarRandomXRange = 5f;
+    public float skill2Cooldown = 6.5f;
+
+    [Header("Ultimate")]
+    public GameObject groundWarningPrefab;
+    public GameObject groundWaveDamagePrefab;
+    public GameObject platformWarningPrefab;
+    public GameObject platformBurstDamagePrefab;
+    public int ultimateDamage = 2;
+    public int ultimateWaveCount = 4;
+    public float ultimateWarningTime = 0.7f;
+    public float ultimateWaveActiveTime = 0.35f;
+    public float ultimateDelayBetweenWaves = 0.45f;
+    public float ultimateCooldown = 18f;
+
+    [Header("Ultimate Ground Wave")]
+    public Transform groundWaveCenter;
+    public Vector2 groundWaveSize = new Vector2(18f, 1.5f);
+    public float fallbackGroundY = 0f;
+
+    [Header("Ultimate Platform Burst")]
+    public Vector2 platformBurstSize = new Vector2(3f, 2.5f);
+    public LayerMask platformLayer;
+    public float platformYThreshold = 1.5f;
+
+    [Header("Ground / Platform Detection")]
+    public LayerMask groundAndPlatformLayer;
+    public float groundRayDistance = 10f;
+
+    [Header("Hit Feedback")]
+    public bool useHitFlash = true;
+    public float hitFlashDuration = 0.06f;
+    public GameObject hitParticlePrefab;
+
+    [Header("Debug")]
+    public bool debugLog = true;
+
+    private BossState state = BossState.Inactive;
+    private bool isInvincible;
+    private bool phase2Started;
+    private bool phase3Started;
+    private bool mustUseUltimate;
+
+    private float nextBasicTime;
+    private float nextSkill1Time;
+    private float nextSkill2Time;
+    private float nextUltimateTime;
+
+    private Coroutine mainRoutine;
+
+    public bool IsDead => state == BossState.Dead;
+    public bool IsInvincible => isInvincible;
+    public int CurrentPhase { get; private set; } = 1;
+
+    private void Awake()
+    {
+        if (animator == null) animator = GetComponentInChildren<Animator>();
+        if (rb == null) rb = GetComponent<Rigidbody2D>();
+        if (bossCollider == null) bossCollider = GetComponent<Collider2D>();
+
+        currentHP = maxHP;
+        isInvincible = invincibleBeforeStart;
+        SetupStationaryRigidbody();
+    }
+
+    private void Start()
+    {
+        if (autoFindPlayer) FindPlayer();
+        if (startOnAwake) BeginBossFight();
+        else PlayState(idleStateName);
+    }
+
+    private void SetupStationaryRigidbody()
+    {
+        if (rb == null) return;
+
+        rb.bodyType = RigidbodyType2D.Kinematic;
+        rb.gravityScale = 0f;
+        rb.freezeRotation = true;
+        rb.linearVelocity = Vector2.zero;
+        rb.angularVelocity = 0f;
+    }
+
+    public void BeginBossFight()
+    {
+        if (state != BossState.Inactive) return;
+        StartMainRoutine(SpawnRoutine());
+    }
+
+    private void StartMainRoutine(IEnumerator routine)
+    {
+        if (mainRoutine != null) StopCoroutine(mainRoutine);
+        mainRoutine = StartCoroutine(routine);
+    }
+
+    private IEnumerator SpawnRoutine()
+    {
+        state = BossState.Spawning;
+        isInvincible = true;
+        StopPhysics();
+
+        PlayState(spawnStateName);
+        if (debugLog) Debug.Log("Green Flame Boss: Spawn.");
+
+        yield return new WaitForSeconds(GetClipLength(spawnStateName, spawnFallbackDuration));
+
+        state = BossState.Idle;
+        isInvincible = false;
+        PlayState(idleStateName);
+
+        StartMainRoutine(CombatLoop());
+    }
+
+    private IEnumerator CombatLoop()
+    {
+        while (state != BossState.Dead)
+        {
+            if (player == null && autoFindPlayer) FindPlayer();
+
+            if (state == BossState.Casting || state == BossState.PhaseBreak || state == BossState.Spawning)
+            {
+                yield return null;
+                continue;
+            }
+
+            StopPhysics();
+            FacePlayer();
+
+            if (CurrentPhase == 1)
+            {
+                yield return ChoosePhase1Action();
+            }
+            else if (CurrentPhase == 2)
+            {
+                yield return ChoosePhase2Action();
+            }
+            else
+            {
+                yield return ChoosePhase3Action();
+            }
+
+            yield return new WaitForSeconds(decisionDelay);
+        }
+    }
+
+    // Phase 1: basic attack + skill 1.
+    private IEnumerator ChoosePhase1Action()
+    {
+        if (Time.time >= nextSkill1Time)
+        {
+            yield return CastSkill1Routine();
+            yield break;
+        }
+
+        if (Time.time >= nextBasicTime)
+        {
+            yield return CastBasicFireballRoutine();
+            yield break;
+        }
+
+        PlayState(idleStateName);
+        yield return null;
+    }
+
+    // Phase 2: skill 2 + basic attack.
+    private IEnumerator ChoosePhase2Action()
+    {
+        if (Time.time >= nextSkill2Time)
+        {
+            yield return CastFirePillarRoutine();
+            yield break;
+        }
+
+        if (Time.time >= nextBasicTime)
+        {
+            yield return CastBasicFireballRoutine();
+            yield break;
+        }
+
+        PlayState(idleStateName);
+        yield return null;
+    }
+
+    // Phase 3: ultimate + skill 1 + basic attack. Skill 2 is intentionally not used here.
+    private IEnumerator ChoosePhase3Action()
+    {
+        if (mustUseUltimate && Time.time >= nextUltimateTime)
+        {
+            mustUseUltimate = false;
+            yield return CastUltimateRoutine();
+            yield break;
+        }
+
+        List<int> availableSkills = new List<int>();
+
+        if (Time.time >= nextSkill1Time) availableSkills.Add(1);
+        if (Time.time >= nextUltimateTime) availableSkills.Add(3);
+
+        if (availableSkills.Count > 0)
+        {
+            int selectedSkill = availableSkills[Random.Range(0, availableSkills.Count)];
+
+            if (selectedSkill == 1) yield return CastSkill1Routine();
+            else yield return CastUltimateRoutine();
+
+            yield break;
+        }
+
+        if (Time.time >= nextBasicTime)
+        {
+            yield return CastBasicFireballRoutine();
+        }
+    }
+
+    private IEnumerator CastBasicFireballRoutine()
+    {
+        state = BossState.Casting;
+        StopPhysics();
+        FacePlayer();
+
+        PlayState(basicAttackStateName);
+
+        float clipLength = GetClipLength(basicAttackStateName, basicFallbackDuration);
+        float fireTime = Mathf.Clamp(clipLength * basicFireNormalizedTime, 0.01f, clipLength);
+
+        yield return new WaitForSeconds(fireTime);
+
+        SpawnProjectile(basicFireballPrefab, basicFireballDamage, basicFireballSpeed);
+        nextBasicTime = Time.time + basicCooldown;
+
+        yield return new WaitForSeconds(Mathf.Max(0f, clipLength - fireTime));
+
+        ReturnToIdle();
+    }
+
+    private IEnumerator CastSkill1Routine()
+    {
+        nextSkill1Time = Time.time + skill1Cooldown;
+
+        if (GetDistanceToPlayer() <= closeSkillRange)
+            yield return CastSweepRoutine();
+        else
+            yield return CastBigFireballRoutine();
+    }
+
+    private IEnumerator CastSweepRoutine()
+    {
+        state = BossState.Casting;
+        StopPhysics();
+        FacePlayer();
+
+        PlayState(closeSkillStateName);
+
+        float clipLength = GetClipLength(closeSkillStateName, closeSkillFallbackDuration);
+        float hitTime = Mathf.Clamp(clipLength * sweepHitNormalizedTime, 0.01f, clipLength);
+
+        float facing = GetFacingSign();
+        Vector3 center = transform.position + new Vector3(facing * sweepOffsetX, sweepOffsetY, 0f);
+
+        GameObject warning = SpawnAreaVisual(sweepWarningPrefab, center, sweepSize);
+        DestroySafe(warning, clipLength + 0.2f);
+
+        yield return new WaitForSeconds(hitTime);
+
+        SpawnDamageZone(sweepDamagePrefab, center, sweepSize, sweepDamage, sweepActiveTime);
+
+        yield return new WaitForSeconds(Mathf.Max(0f, clipLength - hitTime));
+
+        ReturnToIdle();
+    }
+
+    private IEnumerator CastBigFireballRoutine()
+    {
+        state = BossState.Casting;
+        StopPhysics();
+        FacePlayer();
+
+        PlayState(rangedSkillStateName);
+
+        float clipLength = GetClipLength(rangedSkillStateName, rangedSkillFallbackDuration);
+        float fireTime = Mathf.Clamp(clipLength * bigFireNormalizedTime, 0.01f, clipLength);
+
+        yield return new WaitForSeconds(fireTime);
+
+        SpawnProjectile(bigFireballPrefab, bigFireballDamage, bigFireballSpeed);
+
+        yield return new WaitForSeconds(Mathf.Max(0f, clipLength - fireTime));
+
+        ReturnToIdle();
+    }
+
+    private IEnumerator CastFirePillarRoutine()
+    {
+        state = BossState.Casting;
+        StopPhysics();
+        FacePlayer();
+
+        PlayState(firePillarStateName);
+        nextSkill2Time = Time.time + skill2Cooldown;
+
+        float clipLength = GetClipLength(firePillarStateName, skill2FallbackDuration);
+        float warningStartTime = Mathf.Clamp(clipLength * pillarWarningNormalizedTime, 0.01f, clipLength);
+        float elapsed = 0f;
+
+        yield return new WaitForSeconds(warningStartTime);
+        elapsed += warningStartTime;
+
+        List<Vector3> positions = BuildPillarPositions();
+
+        for (int i = 0; i < positions.Count; i++)
+        {
+            GameObject warning = SpawnAreaVisual(pillarWarningPrefab, positions[i], pillarSize);
+            DestroySafe(warning, pillarWarningTime + pillarActiveTime + 0.2f);
+        }
+
+        yield return new WaitForSeconds(pillarWarningTime);
+        elapsed += pillarWarningTime;
+
+        for (int i = 0; i < positions.Count; i++)
+        {
+            SpawnDamageZone(pillarDamagePrefab, positions[i], pillarSize, pillarDamage, pillarActiveTime);
+        }
+
+        yield return new WaitForSeconds(pillarActiveTime);
+        elapsed += pillarActiveTime;
+
+        yield return new WaitForSeconds(Mathf.Max(0f, clipLength - elapsed));
+
+        ReturnToIdle();
+    }
+
+    private IEnumerator CastUltimateRoutine()
+    {
+        state = BossState.Casting;
+        StopPhysics();
+        FacePlayer();
+
+        PlayState(ultimateStateName);
+        nextUltimateTime = Time.time + ultimateCooldown;
+
+        if (debugLog) Debug.Log("Green Flame Boss: Ultimate.");
+
+        float clipLength = GetClipLength(ultimateStateName, ultimateFallbackDuration);
+        float waveStartTime = Mathf.Clamp(clipLength * ultimateWaveStartNormalizedTime, 0.01f, clipLength);
+        float elapsed = 0f;
+
+        yield return new WaitForSeconds(waveStartTime);
+        elapsed += waveStartTime;
+
+        for (int i = 0; i < ultimateWaveCount; i++)
+        {
+            if (IsPlayerOnPlatform())
+                yield return UltimatePlatformWave();
+            else
+                yield return UltimateGroundWave();
+
+            elapsed += ultimateWarningTime + ultimateWaveActiveTime;
+
+            yield return new WaitForSeconds(ultimateDelayBetweenWaves);
+            elapsed += ultimateDelayBetweenWaves;
+        }
+
+        yield return new WaitForSeconds(Mathf.Max(0f, clipLength - elapsed));
+
+        ReturnToIdle();
+    }
+
+    private IEnumerator UltimateGroundWave()
+    {
+        Vector3 center = groundWaveCenter != null
+            ? groundWaveCenter.position
+            : new Vector3(transform.position.x, fallbackGroundY + groundWaveSize.y * 0.5f, 0f);
+
+        GameObject warning = SpawnAreaVisual(groundWarningPrefab, center, groundWaveSize);
+        DestroySafe(warning, ultimateWarningTime + ultimateWaveActiveTime + 0.2f);
+
+        yield return new WaitForSeconds(ultimateWarningTime);
+        SpawnDamageZone(groundWaveDamagePrefab, center, groundWaveSize, ultimateDamage, ultimateWaveActiveTime);
+        yield return new WaitForSeconds(ultimateWaveActiveTime);
+    }
+
+    private IEnumerator UltimatePlatformWave()
+    {
+        Vector3 center = player != null ? player.position : transform.position;
+        Vector2 size = platformBurstSize;
+
+        Collider2D platformCollider;
+
+        if (TryGetPlatformBelowPlayer(out platformCollider))
+        {
+            Bounds bounds = platformCollider.bounds;
+            center = new Vector3(bounds.center.x, bounds.max.y + platformBurstSize.y * 0.5f, 0f);
+            size = new Vector2(bounds.size.x, platformBurstSize.y);
+        }
+
+        GameObject warning = SpawnAreaVisual(platformWarningPrefab, center, size);
+        DestroySafe(warning, ultimateWarningTime + ultimateWaveActiveTime + 0.2f);
+
+        yield return new WaitForSeconds(ultimateWarningTime);
+        SpawnDamageZone(platformBurstDamagePrefab, center, size, ultimateDamage, ultimateWaveActiveTime);
+        yield return new WaitForSeconds(ultimateWaveActiveTime);
+    }
+
+    private List<Vector3> BuildPillarPositions()
+    {
+        List<Vector3> positions = new List<Vector3>();
+
+        if (player == null)
+        {
+            positions.Add(new Vector3(transform.position.x, fallbackGroundY + pillarSize.y * 0.5f, 0f));
+            return positions;
+        }
+
+        positions.Add(GetFloorPointBelow(player.position, pillarSize));
+
+        for (int i = 1; i < pillarCount; i++)
+        {
+            float randomX = player.position.x + Random.Range(-pillarRandomXRange, pillarRandomXRange);
+            Vector3 source = new Vector3(randomX, player.position.y + groundRayDistance * 0.5f, 0f);
+            positions.Add(GetFloorPointBelow(source, pillarSize));
+        }
+
+        return positions;
+    }
+
+    private Vector3 GetFloorPointBelow(Vector3 source, Vector2 effectSize)
+    {
+        RaycastHit2D hit = Physics2D.Raycast(source, Vector2.down, groundRayDistance, groundAndPlatformLayer);
+
+        if (hit.collider != null)
+            return new Vector3(hit.point.x, hit.point.y + effectSize.y * 0.5f, 0f);
+
+        return new Vector3(source.x, fallbackGroundY + effectSize.y * 0.5f, 0f);
+    }
+
+    private bool IsPlayerOnPlatform()
+    {
+        Collider2D platformCollider;
+
+        if (TryGetPlatformBelowPlayer(out platformCollider)) return true;
+        return player != null && player.position.y >= platformYThreshold;
+    }
+
+    private bool TryGetPlatformBelowPlayer(out Collider2D platformCollider)
+    {
+        platformCollider = null;
+
+        if (player == null) return false;
+
+        Vector2 origin = playerCollider != null
+            ? new Vector2(playerCollider.bounds.center.x, playerCollider.bounds.min.y + 0.05f)
+            : (Vector2)player.position;
+
+        RaycastHit2D hit = Physics2D.Raycast(origin, Vector2.down, groundRayDistance, groundAndPlatformLayer);
+
+        if (hit.collider == null) return false;
+
+        if (IsInLayerMask(hit.collider.gameObject.layer, platformLayer))
+        {
+            platformCollider = hit.collider;
+            return true;
+        }
+
+        return false;
+    }
+
+    private void SpawnProjectile(GameObject prefab, int projectileDamage, float projectileSpeed)
+    {
+        if (prefab == null) return;
+
+        Transform spawnPoint = projectileSpawnPoint != null ? projectileSpawnPoint : transform;
+        GameObject obj = Instantiate(prefab, spawnPoint.position, Quaternion.identity);
+
+        BossProjectile projectile = obj.GetComponent<BossProjectile>();
+
+        Vector2 target = playerCollider != null
+            ? playerCollider.bounds.center
+            : player != null ? (Vector2)player.position : (Vector2)spawnPoint.position + Vector2.right * GetFacingSign();
+
+        Vector2 direction = (target - (Vector2)spawnPoint.position).normalized;
+
+        if (direction.sqrMagnitude <= 0.001f)
+            direction = new Vector2(GetFacingSign(), 0f);
+
+        if (projectile != null)
+            projectile.Init(direction, projectileDamage, projectileSpeed);
+    }
+
+    private GameObject SpawnAreaVisual(GameObject prefab, Vector3 position, Vector2 size)
+    {
+        if (prefab == null) return null;
+
+        GameObject obj = Instantiate(prefab, position, Quaternion.identity);
+        ApplyAreaSize(obj, size);
+
+        return obj;
+    }
+
+    private void SpawnDamageZone(GameObject prefab, Vector3 position, Vector2 size, int zoneDamage, float duration)
+    {
+        if (prefab == null) return;
+
+        GameObject obj = Instantiate(prefab, position, Quaternion.identity);
+        ApplyAreaSize(obj, size);
+
+        BossDamageZone damageZone = obj.GetComponent<BossDamageZone>();
+
+        if (damageZone != null)
+            damageZone.SetData(zoneDamage, duration);
+        else
+            Destroy(obj, duration);
+    }
+
+    private void ApplyAreaSize(GameObject obj, Vector2 size)
+    {
+        if (obj == null) return;
+
+        BoxCollider2D box = obj.GetComponent<BoxCollider2D>();
+
+        if (box != null)
+        {
+            box.isTrigger = true;
+            box.size = size;
+        }
+
+        SpriteRenderer sr = obj.GetComponent<SpriteRenderer>();
+
+        if (sr != null)
+        {
+            sr.drawMode = SpriteDrawMode.Sliced;
+            sr.size = size;
+        }
+    }
+
+    public void TakeDamage(int amount)
+    {
+        if (state == BossState.Dead) return;
+        if (isInvincible) return;
+
+        currentHP -= amount;
+        currentHP = Mathf.Clamp(currentHP, 0, maxHP);
+
+        if (debugLog) Debug.Log($"Boss HP: {currentHP}/{maxHP}");
+
+        HitFeedback();
+
+        if (currentHP <= 0)
+        {
+            Die();
+            return;
+        }
+
+        CheckPhaseTransition();
+    }
+
+    private void CheckPhaseTransition()
+    {
+        if (!phase2Started && currentHP <= Mathf.RoundToInt(maxHP * phase2HpRatio))
+        {
+            phase2Started = true;
+            CurrentPhase = 2;
+            StartMainRoutine(PhaseBreakRoutine(2));
+            return;
+        }
+
+        if (!phase3Started && currentHP <= Mathf.RoundToInt(maxHP * phase3HpRatio))
+        {
+            phase3Started = true;
+            CurrentPhase = 3;
+            mustUseUltimate = useUltimateImmediatelyInPhase3;
+            StartMainRoutine(PhaseBreakRoutine(3));
+        }
+    }
+
+    private IEnumerator PhaseBreakRoutine(int nextPhase)
+    {
+        state = BossState.PhaseBreak;
+        isInvincible = true;
+        StopPhysics();
+
+        PlayState(phaseBreakStateName);
+
+        if (debugLog) Debug.Log($"Boss entered Phase {nextPhase}.");
+
+        yield return new WaitForSeconds(phaseBreakDuration);
+
+        state = BossState.Idle;
+        isInvincible = false;
+        PlayState(idleStateName);
+
+        StartMainRoutine(CombatLoop());
+    }
+
+    private void Die()
+    {
+        if (state == BossState.Dead) return;
+
+        state = BossState.Dead;
+        isInvincible = true;
+
+        StopAllCoroutines();
+        StopPhysics();
+
+        if (bossCollider != null) bossCollider.enabled = false;
+
+        PlayState(defeatStateName);
+
+        if (debugLog) Debug.Log("Green Flame Boss defeated.");
+    }
+
+    private void ReturnToIdle()
+    {
+        if (state == BossState.Dead) return;
+
+        state = BossState.Idle;
+        StopPhysics();
+        PlayState(idleStateName);
+    }
+
+    private void HitFeedback()
+    {
+        if (hitParticlePrefab != null)
+            Instantiate(hitParticlePrefab, transform.position, Quaternion.identity);
+
+        if (!useHitFlash) return;
+
+        SpriteRenderer[] renderers = GetComponentsInChildren<SpriteRenderer>();
+
+        for (int i = 0; i < renderers.Length; i++)
+            StartCoroutine(FlashSprite(renderers[i]));
+    }
+
+    private IEnumerator FlashSprite(SpriteRenderer sr)
+    {
+        if (sr == null) yield break;
+
+        Color oldColor = sr.color;
+        sr.color = Color.white;
+
+        yield return new WaitForSeconds(hitFlashDuration);
+
+        if (sr != null) sr.color = oldColor;
+    }
+
+    private void FindPlayer()
+    {
+        GameObject playerObj = GameObject.FindGameObjectWithTag(playerTag);
+
+        if (playerObj == null)
+        {
+            player = null;
+            playerCollider = null;
+            return;
+        }
+
+        player = playerObj.transform;
+
+        Collider2D rootCollider = playerObj.GetComponent<Collider2D>();
+
+        if (rootCollider != null && !rootCollider.isTrigger)
+        {
+            playerCollider = rootCollider;
+            return;
+        }
+
+        Collider2D[] colliders = playerObj.GetComponentsInChildren<Collider2D>();
+
+        for (int i = 0; i < colliders.Length; i++)
+        {
+            if (colliders[i] == null) continue;
+            if (colliders[i].isTrigger) continue;
+
+            playerCollider = colliders[i];
+            return;
+        }
+
+        playerCollider = playerObj.GetComponentInChildren<Collider2D>();
+    }
+
+    private float GetDistanceToPlayer()
+    {
+        if (player == null) return Mathf.Infinity;
+        return Vector2.Distance(transform.position, player.position);
+    }
+
+    private void FacePlayer()
+    {
+        if (!flipToPlayer || player == null) return;
+
+        float direction = player.position.x - transform.position.x;
+        if (Mathf.Abs(direction) < 0.05f) return;
+
+        ApplyFacing(direction > 0f);
+    }
+
+    private void ApplyFacing(bool faceRight)
+    {
+        isFacingRight = faceRight;
+
+        if (useSpriteRendererFlip)
+        {
+            if (visualSpriteRenderer == null)
+                visualSpriteRenderer = GetComponentInChildren<SpriteRenderer>();
+
+            if (visualSpriteRenderer == null) return;
+
+            bool flip = faceRight;
+
+            if (invertSpriteFacing) flip = !flip;
+
+            visualSpriteRenderer.flipX = flip;
+            return;
+        }
+
+        Vector3 scale = transform.localScale;
+
+        if (faceRight)
+            scale.x = -Mathf.Abs(scale.x);
+        else
+            scale.x = Mathf.Abs(scale.x);
+
+        transform.localScale = scale;
+    }
+
+    private float GetFacingSign()
+    {
+        return isFacingRight ? 1f : -1f;
+    }
+
+    private float GetClipLength(string clipName, float fallback)
+    {
+        if (!useClipLengthTiming) return fallback;
+        if (animator == null) return fallback;
+        if (animator.runtimeAnimatorController == null) return fallback;
+        if (string.IsNullOrEmpty(clipName)) return fallback;
+
+        AnimationClip[] clips = animator.runtimeAnimatorController.animationClips;
+
+        for (int i = 0; i < clips.Length; i++)
+        {
+            if (clips[i] == null) continue;
+            if (clips[i].name == clipName)
+            {
+                return Mathf.Max(0.01f, clips[i].length);
+            }
+        }
+
+        return fallback;
+    }
+
+    private bool IsInLayerMask(int layer, LayerMask mask)
+    {
+        return (mask.value & (1 << layer)) != 0;
+    }
+
+    private void PlayState(string stateName)
+    {
+        if (animator == null) return;
+        if (string.IsNullOrEmpty(stateName)) return;
+
+        animator.Play(stateName, 0, 0f);
+        animator.Update(0f);
+    }
+
+    private void StopPhysics()
+    {
+        if (rb == null) return;
+
+        rb.linearVelocity = Vector2.zero;
+        rb.angularVelocity = 0f;
+    }
+
+    private void DestroySafe(GameObject obj, float delay)
+    {
+        if (obj != null) Destroy(obj, delay);
+    }
+
+    private void OnDrawGizmosSelected()
+    {
+        Gizmos.color = Color.red;
+        Gizmos.DrawWireSphere(transform.position, closeSkillRange);
+
+        Gizmos.color = Color.yellow;
+        Gizmos.DrawWireSphere(transform.position, 0.25f);
+
+        Gizmos.color = Color.cyan;
+        Vector3 center = groundWaveCenter != null
+            ? groundWaveCenter.position
+            : new Vector3(transform.position.x, fallbackGroundY + groundWaveSize.y * 0.5f, 0f);
+        Gizmos.DrawWireCube(center, groundWaveSize);
+    }
+}

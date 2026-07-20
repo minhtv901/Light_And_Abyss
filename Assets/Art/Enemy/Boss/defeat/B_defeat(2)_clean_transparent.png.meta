@@ -215,12 +215,12 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: B_defeat(2)_clean_transparent_0
+      name: 1
       rect:
         serializedVersion: 2
-        x: 395
+        x: 403
         y: 1081
-        width: 419
+        width: 408
         height: 601
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -302,6 +302,28 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+    - serializedVersion: 2
+      name: 2
+      rect:
+        serializedVersion: 2
+        x: 1370
+        y: 527
+        width: 408
+        height: 601
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5900b7d57c081784984631f25f74d37b
+      internalID: 1986927061555214537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     customData: 
     physicsShape: []
@@ -316,8 +338,8 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      B_defeat(2)_clean_transparent_0: -726469644663325917
-      B_defeat(2)_clean_transparent_1: 1986927061555214537
+      1: -726469644663325917
+      2: 1986927061555214537
       B_defeat(2)_clean_transparent_10: -2659559657128430685
       B_defeat(2)_clean_transparent_11: 1809458387962229852
       B_defeat(2)_clean_transparent_12: -5725881942876273799

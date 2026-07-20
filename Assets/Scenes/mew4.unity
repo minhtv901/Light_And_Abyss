@@ -411,7 +411,11 @@ GameObject:
   - component: {fileID: 391496585}
   - component: {fileID: 391496584}
   - component: {fileID: 391496583}
-  m_Layer: 0
+  - component: {fileID: 391496586}
+  - component: {fileID: 391496588}
+  - component: {fileID: 391496587}
+  - component: {fileID: 391496589}
+  m_Layer: 3
   m_Name: B_defeat(2)_clean_transparent_0
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -508,12 +512,317 @@ Transform:
   m_GameObject: {fileID: 391496582}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 5.2829, y: 0.4547, z: 0}
-  m_LocalScale: {x: 1.3036205, y: 1.2275858, z: 1}
+  m_LocalPosition: {x: 5.73, y: 0.33, z: 0}
+  m_LocalScale: {x: 1.3886164, y: 1.371827, z: 1}
   m_ConstrainProportionsScale: 0
-  m_Children: []
+  m_Children:
+  - {fileID: 1534792064}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &391496586
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 391496582}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f06692dd25f9bd542ba93851084d5e9f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::BossGreenFlameAI
+  player: {fileID: 0}
+  animator: {fileID: 0}
+  rb: {fileID: 0}
+  maxHP: 300
+  currentHP: 0
+  startOnAwake: 0
+  invincibleBeforeStart: 1
+  spawnDuration: 1.5
+  moveSpeed: 2.5
+  idealDistance: 6
+  tooFarDistance: 8
+  tooCloseDistance: 2.5
+  repositionTime: 0.8
+  isFacingRight: 0
+  spawnStateName: Boss_Spawn
+  idleStateName: Boss_Idle
+  moveStateName: Boss_Move
+  closeSkillStateName: Boss_Closed_Skill
+  rangedSkillStateName: Boss_Ranged_Skill
+  skill2StateName: Boss_Skill_2
+  ultimateStateName: Boss_Ultimate
+  phaseBreakStateName: Boss_Hit
+  defeatStateName: Boss_Defeat
+  projectileSpawnPoint: {fileID: 0}
+  basicFireballPrefab: {fileID: 0}
+  basicFireballDamage: 1
+  basicFireballSpeed: 8
+  basicCastDelay: 0.35
+  basicRecovery: 0.45
+  basicCooldown: 1.2
+  closeSkillRange: 3.2
+  skill1Cooldown: 4
+  sweepWarningPrefab: {fileID: 0}
+  sweepDamagePrefab: {fileID: 0}
+  sweepDamage: 2
+  sweepOffsetX: 1.7
+  sweepSize: {x: 3.2, y: 2}
+  sweepWarningTime: 0.45
+  sweepActiveTime: 0.25
+  sweepRecovery: 0.6
+  bigFireballPrefab: {fileID: 0}
+  bigFireballDamage: 2
+  bigFireballSpeed: 7
+  bigCastDelay: 0.55
+  bigRecovery: 0.75
+  pillarWarningPrefab: {fileID: 0}
+  pillarDamagePrefab: {fileID: 0}
+  pillarDamage: 2
+  pillarCount: 4
+  pillarSize: {x: 1.2, y: 4}
+  pillarCastDelay: 0.5
+  pillarWarningTime: 0.75
+  pillarActiveTime: 0.45
+  pillarRecovery: 0.8
+  pillarRandomXRange: 5
+  skill2Cooldown: 6
+  groundWarningPrefab: {fileID: 0}
+  groundWaveDamagePrefab: {fileID: 0}
+  platformWarningPrefab: {fileID: 0}
+  platformBurstDamagePrefab: {fileID: 0}
+  ultimateDamage: 2
+  ultimateWaveCount: 4
+  ultimateChargeTime: 1
+  ultimateWarningTime: 0.7
+  ultimateWaveActiveTime: 0.35
+  ultimateDelayBetweenWaves: 0.45
+  ultimateRecovery: 1.2
+  ultimateCooldown: 16
+  groundWaveCenter: {fileID: 0}
+  groundWaveSize: {x: 18, y: 1.5}
+  platformBurstSize: {x: 3, y: 2.5}
+  groundAndPlatformLayer:
+    m_Bits: 128
+  platformLayer:
+    m_Bits: 128
+  groundRayDistance: 8
+  fallbackGroundY: 0
+  platformYThreshold: 1.5
+  phaseBreakDuration: 1.8
+  useUltimateImmediatelyInPhase3: 1
+  phase2AllowBasicFireball: 1
+  debugLog: 1
+  state: 0
+  isInvincible: 0
+  phase2Started: 0
+  phase3Started: 0
+  mustUseUltimate: 0
+  nextBasicTime: 0
+  nextSkill1Time: 0
+  nextSkill2Time: 0
+  nextUltimateTime: 0
+--- !u!50 &391496587
+Rigidbody2D:
+  serializedVersion: 5
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 391496582}
+  m_BodyType: 1
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDamping: 0
+  m_AngularDamping: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 1
+  m_Constraints: 4
+--- !u!61 &391496588
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 391496582}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_ForceSendLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ForceReceiveLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ContactCaptureLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_CallbackLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_CompositeOperation: 0
+  m_CompositeOrder: 0
+  m_Offset: {x: 0.034673452, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 4.08, y: 6.01}
+    newSize: {x: 4.19, y: 6.01}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  m_Size: {x: 4.010653, y: 6.01}
+  m_EdgeRadius: 0
+--- !u!114 &391496589
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 391496582}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 99621050ec174e54089feab330c42f68, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::StationaryGreenFlameBossAI
+  player: {fileID: 0}
+  playerCollider: {fileID: 0}
+  animator: {fileID: 0}
+  rb: {fileID: 0}
+  bossCollider: {fileID: 0}
+  projectileSpawnPoint: {fileID: 1534792064}
+  maxHP: 100
+  currentHP: 100
+  invincibleBeforeStart: 1
+  protectedCastDefenseMode: 2
+  protectedCastDamageReduction: 0.7
+  debugProtectedCastDefense: 1
+  startOnAwake: 1
+  autoFindPlayer: 1
+  playerTag: Player
+  flipToPlayer: 1
+  isFacingRight: 0
+  useSpriteRendererFlip: 0
+  invertSpriteFacing: 0
+  visualSpriteRenderer: {fileID: 0}
+  spawnStateName: Boss_Spawn
+  idleStateName: Boss_Idle
+  forceAnimationDuration: 0
+  autoExtendDurationForSkillEffects: 1
+  limitAnimationBySpriteFPS: 0
+  manuallyStepCastFrames: 0
+  spawnPlaybackFPS: 8
+  basicPlaybackFPS: 8
+  closeSkillPlaybackFPS: 8
+  rangedSkillPlaybackFPS: 8
+  skill2PlaybackFPS: 7
+  ultimatePlaybackFPS: 7
+  defeatPlaybackFPS: 8
+  spawnTargetDuration: 1.5
+  basicTargetDuration: 0.9
+  closeSkillTargetDuration: 1.1
+  rangedSkillTargetDuration: 1.2
+  skill2TargetDuration: 2
+  ultimateTargetDuration: 3.5
+  defeatTargetDuration: 2.2
+  basicAttackStateName: Boss_Hit
+  rangedSkillStateName: Boss_Ranged_Skill
+  closeSkillStateName: Boss_Closed_Skill
+  firePillarStateName: Boss_Skill_2
+  ultimateStateName: Boss_Ultimate
+  phaseBreakStateName: Boss_Idle
+  defeatStateName: Boss_Defeat
+  useClipLengthTiming: 1
+  spawnFallbackDuration: 1
+  basicFallbackDuration: 0.45
+  closeSkillFallbackDuration: 0.7
+  rangedSkillFallbackDuration: 0.7
+  skill2FallbackDuration: 1.4
+  ultimateFallbackDuration: 2.6
+  defeatFallbackDuration: 1.5
+  basicFireNormalizedTime: 0.82
+  bigFireNormalizedTime: 0.74
+  sweepHitNormalizedTime: 0.55
+  pillarWarningNormalizedTime: 0.25
+  ultimateWaveStartNormalizedTime: 0.35
+  phase2HpRatio: 0.66
+  phase3HpRatio: 0.33
+  phaseBreakDuration: 1.8
+  useUltimateImmediatelyInPhase3: 1
+  decisionDelay: 0.15
+  closeSkillRange: 3.2
+  basicFireballPrefab: {fileID: 6083360223674563565, guid: d630458aa02a2e5409f29e69d662bebb, type: 3}
+  basicFireballDamage: 1
+  basicFireballSpeed: 10
+  basicCooldown: 1.35
+  skill1Cooldown: 4.5
+  sweepWarningPrefab: {fileID: 0}
+  sweepDamagePrefab: {fileID: 0}
+  sweepDamage: 2
+  sweepOffsetX: 1.8
+  sweepOffsetY: 0.8
+  sweepSize: {x: 3.5, y: 2}
+  sweepActiveTime: 0.25
+  bigFireballPrefab: {fileID: 8695793442741344472, guid: 3ed30534cb7ef004ea46cf11e3d414d2, type: 3}
+  bigFireballDamage: 2
+  bigFireballSpeed: 7
+  pillarWarningPrefab: {fileID: 0}
+  pillarDamagePrefab: {fileID: 0}
+  pillarDamage: 2
+  pillarCount: 4
+  pillarSize: {x: 1.2, y: 4}
+  pillarWarningTime: 0.75
+  pillarActiveTime: 0.45
+  pillarRandomXRange: 5
+  skill2Cooldown: 6.5
+  groundWarningPrefab: {fileID: 0}
+  groundWaveDamagePrefab: {fileID: 0}
+  platformWarningPrefab: {fileID: 0}
+  platformBurstDamagePrefab: {fileID: 0}
+  ultimateDamage: 2
+  ultimateWaveCount: 4
+  ultimateWarningTime: 0.7
+  ultimateWaveActiveTime: 0.35
+  ultimateDelayBetweenWaves: 0.45
+  ultimateCooldown: 18
+  groundWaveCenter: {fileID: 0}
+  groundWaveSize: {x: 18, y: 1.5}
+  fallbackGroundY: 0
+  platformBurstSize: {x: 3, y: 2.5}
+  platformLayer:
+    serializedVersion: 2
+    m_Bits: 0
+  platformYThreshold: 1.5
+  groundAndPlatformLayer:
+    serializedVersion: 2
+    m_Bits: 0
+  groundRayDistance: 10
+  useHitFlash: 1
+  hitFlashDuration: 0.06
+  hitParticlePrefab: {fileID: 0}
+  debugLog: 1
 --- !u!1 &571990960
 GameObject:
   m_ObjectHideFlags: 0
@@ -1436,7 +1745,7 @@ BoxCollider2D:
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
-  m_Offset: {x: -0.031909943, y: 0.7588637}
+  m_Offset: {x: -0.031909943, y: 0.17120273}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
@@ -1446,7 +1755,7 @@ BoxCollider2D:
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
-  m_Size: {x: 12.966497, y: 0.035788953}
+  m_Size: {x: 12.966497, y: 1.1396328}
   m_EdgeRadius: 0
 --- !u!1 &1240377411
 GameObject:
@@ -1656,6 +1965,37 @@ Transform:
   - {fileID: 1680672604}
   - {fileID: 1295771486}
   m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1534792063
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1534792064}
+  m_Layer: 3
+  m_Name: ProjectileSpawnPoint
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1534792064
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1534792063}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -2, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 391496585}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1640769871
 GameObject:

@@ -1,6 +1,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+[RequireComponent(typeof(Collider2D))]
 public class BossDamageZone : MonoBehaviour
 {
     [Header("Damage")]
@@ -8,31 +9,45 @@ public class BossDamageZone : MonoBehaviour
     public float lifeTime = 0.3f;
     public bool damageOnce = true;
 
-    private readonly HashSet<PlayerHealth> hitPlayers = new HashSet<PlayerHealth>();
+    [Header("Options")]
+    public bool ignoreInvinciblePlayer = true;
 
-    private BoxCollider2D boxCollider;
+    private readonly HashSet<PlayerHealth> hitPlayers = new HashSet<PlayerHealth>();
+    private Collider2D zoneCollider;
 
     private void Awake()
     {
-        boxCollider = GetComponent<BoxCollider2D>();
+        zoneCollider = GetComponent<Collider2D>();
 
-        if (boxCollider != null)
+        if (zoneCollider != null)
         {
-            boxCollider.isTrigger = true;
+            zoneCollider.isTrigger = true;
         }
     }
 
     private void Start()
     {
-        Destroy(gameObject, lifeTime);
+        ScheduleDestroy(lifeTime);
     }
 
     public void SetData(int newDamage, float newLifeTime)
     {
         damage = newDamage;
-        lifeTime = newLifeTime;
+        lifeTime = Mathf.Max(0.01f, newLifeTime);
 
-        Destroy(gameObject, lifeTime);
+        hitPlayers.Clear();
+        ScheduleDestroy(lifeTime);
+    }
+
+    private void ScheduleDestroy(float delay)
+    {
+        CancelInvoke(nameof(SelfDestroy));
+        Invoke(nameof(SelfDestroy), delay);
+    }
+
+    private void SelfDestroy()
+    {
+        Destroy(gameObject);
     }
 
     private void OnTriggerEnter2D(Collider2D other)
@@ -47,11 +62,17 @@ public class BossDamageZone : MonoBehaviour
 
     private void TryDamage(Collider2D other)
     {
+        if (other == null) return;
+
         PlayerHealth playerHealth = other.GetComponentInParent<PlayerHealth>();
 
         if (playerHealth == null) return;
         if (playerHealth.IsDead) return;
-        if (playerHealth.IsInvincible) return;
+
+        if (ignoreInvinciblePlayer && playerHealth.IsInvincible)
+        {
+            return;
+        }
 
         if (damageOnce && hitPlayers.Contains(playerHealth))
         {

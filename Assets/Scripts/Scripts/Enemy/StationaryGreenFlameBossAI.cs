@@ -45,6 +45,11 @@ public class StationaryGreenFlameBossAI : MonoBehaviour
     [Tooltip("Prints a Console message whenever damage is blocked or reduced during Skill 2 / Ultimate.")]
     public bool debugProtectedCastDefense = true;
 
+    [Header("Pillar Spawn Points")]
+    public List<Transform> pillarSpawnPoints = new List<Transform>();
+    public bool usePillarSpawnPoints = true;
+    public bool randomizePillarSpawnPoints = true;
+
     [Header("Start")]
     public bool startOnAwake = false;
     public bool autoFindPlayer = true;
@@ -811,6 +816,41 @@ public class StationaryGreenFlameBossAI : MonoBehaviour
     {
         List<Vector3> positions = new List<Vector3>();
 
+        if (usePillarSpawnPoints && pillarSpawnPoints != null && pillarSpawnPoints.Count > 0)
+        {
+            List<Transform> validPoints = new List<Transform>();
+
+            for (int i = 0; i < pillarSpawnPoints.Count; i++)
+            {
+                if (pillarSpawnPoints[i] != null && pillarSpawnPoints[i].gameObject.activeInHierarchy)
+                {
+                    validPoints.Add(pillarSpawnPoints[i]);
+                }
+            }
+
+            if (validPoints.Count > 0)
+            {
+                int count = Mathf.Min(pillarCount, validPoints.Count);
+
+                for (int i = 0; i < count; i++)
+                {
+                    int selectedIndex = randomizePillarSpawnPoints
+                        ? Random.Range(0, validPoints.Count)
+                        : 0;
+
+                    Transform selectedPoint = validPoints[selectedIndex];
+
+                    positions.Add(selectedPoint.position);
+
+                    // Xóa khỏi list để không spawn trùng 1 điểm trong cùng 1 lần cast.
+                    validPoints.RemoveAt(selectedIndex);
+                }
+
+                return positions;
+            }
+        }
+
+        // Fallback nếu chưa gán spawn point.
         if (player == null)
         {
             positions.Add(new Vector3(transform.position.x, fallbackGroundY + pillarSize.y * 0.5f, 0f));

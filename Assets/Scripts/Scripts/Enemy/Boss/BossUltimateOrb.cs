@@ -145,6 +145,7 @@ public class BossUltimateOrb : MonoBehaviour
 
     private void Impact(Collider2D surface)
     {
+        if (hasImpacted) return;
         hasImpacted = true;
 
         if (rb != null)
@@ -162,10 +163,26 @@ public class BossUltimateOrb : MonoBehaviour
 
         if (explosionPrefab != null)
         {
-            Instantiate(explosionPrefab, explosionPosition, Quaternion.identity);
-        }
+            GameObject explosion = Instantiate(
+                explosionPrefab,
+                explosionPosition,
+                Quaternion.identity
+            );
 
-        SpawnFireStrip(surface);
+            BossUltimateExplosion explosionScript = explosion.GetComponent<BossUltimateExplosion>();
+
+            if (explosionScript != null)
+            {
+                explosionScript.Init(
+                    surface,
+                    fireStripPrefab,
+                    fireDamagePerTick,
+                    fireTickInterval,
+                    fireDuration,
+                    fireHeight
+                );
+            }
+        }
 
         Destroy(gameObject);
     }

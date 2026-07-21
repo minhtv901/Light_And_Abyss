@@ -53,7 +53,13 @@ public class StationaryGreenFlameBossAI : MonoBehaviour
     [Header("Ultimate New Orb System")]
     public GameObject ultimateOrbPrefab;
     public GameObject ultimateExplosionPrefab;
+
+    [Tooltip("Fallback fire strip prefab if ground/platform specific prefabs are not assigned.")]
     public GameObject ultimateFireStripPrefab;
+
+    [Header("Ultimate Fire Strip Variants")]
+    public GameObject ultimateGroundFireStripPrefab;
+    public GameObject ultimatePlatformFireStripPrefab;
 
     public Transform ultimateOrbSpawnPoint;
     public float ultimateOrbStartHeight = 7f;
@@ -185,12 +191,28 @@ public class StationaryGreenFlameBossAI : MonoBehaviour
     public GameObject pillarWarningPrefab;
     public GameObject pillarDamagePrefab;
     public int pillarDamage = 2;
-    public int pillarCount = 4;
+
+    [Tooltip("Number of pillars created in each wave. Example: 3 means each wave creates 3 pillar positions around the player.")]
+    public int pillarCount = 3;
+
     public Vector2 pillarSize = new Vector2(1.2f, 4f);
     public float pillarWarningTime = 0.75f;
     public float pillarActiveTime = 0.45f;
     public float pillarRandomXRange = 5f;
     public float skill2Cooldown = 6.5f;
+
+    [Header("Skill 2 - Multi Wave")]
+    [Tooltip("How many times Skill 2 repeats during one cast. Set this to 3 for the behavior you requested.")]
+    public int skill2WaveCount = 3;
+
+    [Tooltip("Delay between each pillar wave inside the same Skill 2 cast.")]
+    public float skill2DelayBetweenWaves = 0.35f;
+
+    [Tooltip("ON = every wave samples the player's current position again. OFF = all waves use the player's position from the first wave.")]
+    public bool skill2TrackPlayerEachWave = true;
+
+    [Tooltip("ON = boss turns to face the player before each wave.")]
+    public bool skill2FacePlayerEachWave = true;
 
     [Header("Ultimate")]
     public GameObject groundWarningPrefab;
@@ -567,32 +589,30 @@ public class StationaryGreenFlameBossAI : MonoBehaviour
     // Phase 3: ultimate + skill 1 + basic attack. Skill 2 is intentionally not used here.
     private IEnumerator ChoosePhase3Action()
     {
-        if (mustUseUltimate && Time.time >= nextUltimateTime)
+        // When Phase 3 starts, cast Ultimate exactly once.
+        if (mustUseUltimate)
         {
             mustUseUltimate = false;
             yield return CastUltimateRoutine();
             yield break;
         }
 
-        List<int> availableSkills = new List<int>();
-
-        if (Time.time >= nextSkill1Time) availableSkills.Add(1);
-        if (Time.time >= nextUltimateTime) availableSkills.Add(3);
-
-        if (availableSkills.Count > 0)
+        // After Ultimate, the boss only uses Skill 1.
+        if (Time.time >= nextSkill1Time)
         {
-            int selectedSkill = availableSkills[Random.Range(0, availableSkills.Count)];
-
-            if (selectedSkill == 1) yield return CastSkill1Routine();
-            else yield return CastUltimateRoutine();
-
+            yield return CastSkill1Routine();
             yield break;
         }
 
+        // Basic attack fills the gap while Skill 1 is cooling down.
         if (Time.time >= nextBasicTime)
         {
             yield return CastBasicFireballRoutine();
+            yield break;
         }
+
+        PlayIdleState(false);
+        yield return null;
     }
 
     private IEnumerator CastBasicFireballRoutine()
@@ -685,16 +705,21 @@ public class StationaryGreenFlameBossAI : MonoBehaviour
         StopPhysics();
         FacePlayer();
 
-        nextSkill2Time = Time.time + skill2Cooldown;
+        int waveCount = Mathf.Max(1, skill2WaveCount);
 
         float requestedDuration = skill2TargetDuration;
 
         if (autoExtendDurationForSkillEffects)
         {
+            float totalEffectDurationAfterStart =
+                waveCount * (pillarWarningTime + pillarActiveTime) +
+                Mathf.Max(0, waveCount - 1) * skill2DelayBetweenWaves;
+
             float minimumDuration = GetMinimumDurationForTimedEffects(
                 pillarWarningNormalizedTime,
-                pillarWarningTime + pillarActiveTime
+                totalEffectDurationAfterStart
             );
+
             requestedDuration = Mathf.Max(requestedDuration, minimumDuration);
         }
 
@@ -703,32 +728,58 @@ public class StationaryGreenFlameBossAI : MonoBehaviour
             requestedDuration,
             skill2FallbackDuration
         );
+
         float warningStartTime = Mathf.Clamp(castDuration * pillarWarningNormalizedTime, 0.01f, castDuration);
         float elapsed = 0f;
 
         yield return new WaitForSeconds(warningStartTime);
         elapsed += warningStartTime;
 
-        List<Vector3> positions = BuildPillarPositions();
+        // If tracking is OFF, lock the player's position once at the beginning of Skill 2.
+        List<Vector3> lockedPositions = skill2TrackPlayerEachWave ? null : BuildPillarPositions();
 
-        for (int i = 0; i < positions.Count; i++)
+        for (int wave = 0; wave < waveCount; wave++)
         {
-            GameObject warning = SpawnAreaVisual(pillarWarningPrefab, positions[i], pillarSize);
-            DestroySafe(warning, pillarWarningTime + pillarActiveTime + 0.2f);
+            if (state == BossState.Dead) yield break;
+
+            if (skill2FacePlayerEachWave)
+                FacePlayer();
+
+            // If tracking is ON, sample the player's current position again for every wave.
+            List<Vector3> positions = skill2TrackPlayerEachWave
+                ? BuildPillarPositions()
+                : new List<Vector3>(lockedPositions);
+
+            if (debugLog)
+                Debug.Log($"Green Flame Boss: Skill 2 wave {wave + 1}/{waveCount}.");
+
+            for (int i = 0; i < positions.Count; i++)
+            {
+                GameObject warning = SpawnAreaVisual(pillarWarningPrefab, positions[i], pillarSize);
+                DestroySafe(warning, pillarWarningTime + pillarActiveTime + 0.2f);
+            }
+
+            yield return new WaitForSeconds(pillarWarningTime);
+            elapsed += pillarWarningTime;
+
+            for (int i = 0; i < positions.Count; i++)
+            {
+                SpawnDamageZone(pillarDamagePrefab, positions[i], pillarSize, pillarDamage, pillarActiveTime);
+            }
+
+            yield return new WaitForSeconds(pillarActiveTime);
+            elapsed += pillarActiveTime;
+
+            if (wave < waveCount - 1)
+            {
+                yield return new WaitForSeconds(skill2DelayBetweenWaves);
+                elapsed += skill2DelayBetweenWaves;
+            }
         }
-
-        yield return new WaitForSeconds(pillarWarningTime);
-        elapsed += pillarWarningTime;
-
-        for (int i = 0; i < positions.Count; i++)
-        {
-            SpawnDamageZone(pillarDamagePrefab, positions[i], pillarSize, pillarDamage, pillarActiveTime);
-        }
-
-        yield return new WaitForSeconds(pillarActiveTime);
-        elapsed += pillarActiveTime;
 
         yield return new WaitForSeconds(Mathf.Max(0f, castDuration - elapsed));
+
+        nextSkill2Time = Time.time + skill2Cooldown;
 
         EndProtectedCast();
         ReturnToIdle();
@@ -737,6 +788,7 @@ public class StationaryGreenFlameBossAI : MonoBehaviour
     private IEnumerator CastUltimateRoutine()
     {
         state = BossState.Casting;
+        BeginProtectedCast("Ultimate");
         StopPhysics();
         FacePlayer();
 
@@ -746,7 +798,8 @@ public class StationaryGreenFlameBossAI : MonoBehaviour
             ultimateFallbackDuration
         );
 
-        nextUltimateTime = Time.time + ultimateCooldown;
+        // Ultimate is a one-time Phase 3 opener. Do not allow it to be selected again.
+        nextUltimateTime = Mathf.Infinity;
 
         if (debugLog) Debug.Log("Green Flame Boss: Ultimate Orb Rain.");
 
@@ -758,7 +811,50 @@ public class StationaryGreenFlameBossAI : MonoBehaviour
 
         yield return new WaitForSeconds(Mathf.Max(0f, duration - waveStartTime));
 
+        EndProtectedCast();
         ReturnToIdle();
+    }
+
+    private GameObject GetUltimateFireStripPrefabForSurface(Collider2D surface)
+    {
+        // Ground surface uses its own wider/heavier fire strip.
+        if (surface != null && groundSurface != null && surface == groundSurface)
+        {
+            if (ultimateGroundFireStripPrefab != null)
+                return ultimateGroundFireStripPrefab;
+
+            return ultimateFireStripPrefab;
+        }
+
+        // Listed platform surfaces use the platform fire strip.
+        if (surface != null && ultimatePlatformSurfaces != null)
+        {
+            for (int i = 0; i < ultimatePlatformSurfaces.Count; i++)
+            {
+                if (ultimatePlatformSurfaces[i] == surface)
+                {
+                    if (ultimatePlatformFireStripPrefab != null)
+                        return ultimatePlatformFireStripPrefab;
+
+                    return ultimateFireStripPrefab;
+                }
+            }
+        }
+
+        // If the hit surface is in the Platform Layer, treat it as platform even if it was not in the list.
+        if (surface != null && IsInLayerMask(surface.gameObject.layer, platformLayer))
+        {
+            if (ultimatePlatformFireStripPrefab != null)
+                return ultimatePlatformFireStripPrefab;
+
+            return ultimateFireStripPrefab;
+        }
+
+        // Fallback: treat unknown/null surface as ground.
+        if (ultimateGroundFireStripPrefab != null)
+            return ultimateGroundFireStripPrefab;
+
+        return ultimateFireStripPrefab;
     }
 
     private void SpawnUltimateOrbsByPlayerSurface()
@@ -822,7 +918,7 @@ public class StationaryGreenFlameBossAI : MonoBehaviour
                 Vector2.down,
                 ultimateOrbSpeed,
                 ultimateExplosionPrefab,
-                ultimateFireStripPrefab,
+                GetUltimateFireStripPrefabForSurface(null),
                 ultimateFireDamagePerTick,
                 ultimateFireTickInterval,
                 ultimateFireDuration,
@@ -863,7 +959,7 @@ public class StationaryGreenFlameBossAI : MonoBehaviour
                 direction,
                 ultimateOrbSpeed,
                 ultimateExplosionPrefab,
-                ultimateFireStripPrefab,
+                GetUltimateFireStripPrefabForSurface(surface),
                 ultimateFireDamagePerTick,
                 ultimateFireTickInterval,
                 ultimateFireDuration,

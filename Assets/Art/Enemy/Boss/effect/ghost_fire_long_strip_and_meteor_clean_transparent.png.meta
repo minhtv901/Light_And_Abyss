@@ -1,0 +1,570 @@
+fileFormatVersion: 2
+guid: ee09a7a7d83391c49b1d9f6a2ecc06c7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6534855233554636774
+    second: ghost_fire_long_strip_and_meteor_clean_transparent_0
+  - first:
+      213: -6773218729006228013
+    second: ghost_fire_long_strip_and_meteor_clean_transparent_1
+  - first:
+      213: 8459202083203671268
+    second: ghost_fire_long_strip_and_meteor_clean_transparent_2
+  - first:
+      213: 4427069012711326550
+    second: ghost_fire_long_strip_and_meteor_clean_transparent_3
+  - first:
+      213: -4473714860927186026
+    second: ghost_fire_long_strip_and_meteor_clean_transparent_4
+  - first:
+      213: -505065228224642188
+    second: ghost_fire_long_strip_and_meteor_clean_transparent_5
+  - first:
+      213: 2638221437275979976
+    second: ghost_fire_long_strip_and_meteor_clean_transparent_6
+  - first:
+      213: 5621256812618274191
+    second: ghost_fire_long_strip_and_meteor_clean_transparent_7
+  - first:
+      213: 6349207290501167188
+    second: ghost_fire_long_strip_and_meteor_clean_transparent_8
+  - first:
+      213: 4051685511297942648
+    second: ghost_fire_long_strip_and_meteor_clean_transparent_9
+  - first:
+      213: 7484369683670954647
+    second: ghost_fire_long_strip_and_meteor_clean_transparent_10
+  - first:
+      213: 5310164795924236149
+    second: ghost_fire_long_strip_and_meteor_clean_transparent_11
+  - first:
+      213: -2376222390855090717
+    second: ghost_fire_long_strip_and_meteor_clean_transparent_12
+  - first:
+      213: 5580635011074323671
+    second: ghost_fire_long_strip_and_meteor_clean_transparent_13
+  - first:
+      213: 315209952502138781
+    second: ghost_fire_long_strip_and_meteor_clean_transparent_14
+  - first:
+      213: 8931356434794281845
+    second: ghost_fire_long_strip_and_meteor_clean_transparent_15
+  - first:
+      213: -3197750433824535254
+    second: ghost_fire_long_strip_and_meteor_clean_transparent_16
+  - first:
+      213: -6800940629621099508
+    second: ghost_fire_long_strip_and_meteor_clean_transparent_17
+  - first:
+      213: 3004135774588562520
+    second: ghost_fire_long_strip_and_meteor_clean_transparent_18
+  - first:
+      213: 1347403866500876179
+    second: ghost_fire_long_strip_and_meteor_clean_transparent_19
+  - first:
+      213: 3968393819807398633
+    second: ghost_fire_long_strip_and_meteor_clean_transparent_20
+  - first:
+      213: -8228145603635749986
+    second: ghost_fire_long_strip_and_meteor_clean_transparent_21
+  - first:
+      213: 8830695765351311841
+    second: ghost_fire_long_strip_and_meteor_clean_transparent_22
+  - first:
+      213: -2335779410608301157
+    second: ghost_fire_long_strip_and_meteor_clean_transparent_23
+  - first:
+      213: -3437710758711748462
+    second: ghost_fire_long_strip_and_meteor_clean_transparent_24
+  - first:
+      213: -7238092486544528945
+    second: ghost_fire_long_strip_and_meteor_clean_transparent_25
+  - first:
+      213: 3647917686271680912
+    second: ghost_fire_long_strip_and_meteor_clean_transparent_26
+  - first:
+      213: 5274188723219803607
+    second: ghost_fire_long_strip_and_meteor_clean_transparent_27
+  - first:
+      213: 7364038605000704025
+    second: ghost_fire_long_strip_and_meteor_clean_transparent_28
+  - first:
+      213: -4741616422644444124
+    second: ghost_fire_long_strip_and_meteor_clean_transparent_29
+  - first:
+      213: 1386197016043778981
+    second: ghost_fire_long_strip_and_meteor_clean_transparent_30
+  - first:
+      213: 7884327103938306817
+    second: ghost_fire_long_strip_and_meteor_clean_transparent_31
+  - first:
+      213: 1807637214340974771
+    second: ghost_fire_long_strip_and_meteor_clean_transparent_32
+  - first:
+      213: 2052221632839035455
+    second: ghost_fire_long_strip_and_meteor_clean_transparent_33
+  - first:
+      213: 1261888412715781478
+    second: ghost_fire_long_strip_and_meteor_clean_transparent_34
+  - first:
+      213: 7914392052057229368
+    second: ghost_fire_long_strip_and_meteor_clean_transparent_35
+  - first:
+      213: -6316996494844162699
+    second: ghost_fire_long_strip_and_meteor_clean_transparent_36
+  - first:
+      213: 3869833399867171019
+    second: ghost_fire_long_strip_and_meteor_clean_transparent_37
+  - first:
+      213: -5441413915896190081
+    second: ghost_fire_long_strip_and_meteor_clean_transparent_38
+  - first:
+      213: 5555540070050014127
+    second: ghost_fire_long_strip_and_meteor_clean_transparent_39
+  - first:
+      213: 5494123290157365108
+    second: ghost_fire_long_strip_and_meteor_clean_transparent_40
+  - first:
+      213: -1762637695047684498
+    second: ghost_fire_long_strip_and_meteor_clean_transparent_41
+  - first:
+      213: -5733075725268383529
+    second: ghost_fire_long_strip_and_meteor_clean_transparent_42
+  - first:
+      213: -5750778030321748600
+    second: ghost_fire_long_strip_and_meteor_clean_transparent_43
+  - first:
+      213: 4773197935152098781
+    second: ghost_fire_long_strip_and_meteor_clean_transparent_44
+  - first:
+      213: 7450582649167341513
+    second: ghost_fire_long_strip_and_meteor_clean_transparent_45
+  - first:
+      213: -4351319662558680673
+    second: ghost_fire_long_strip_and_meteor_clean_transparent_46
+  - first:
+      213: 3680817181353788505
+    second: ghost_fire_long_strip_and_meteor_clean_transparent_47
+  - first:
+      213: 6683808270945900838
+    second: ghost_fire_long_strip_and_meteor_clean_transparent_48
+  - first:
+      213: -4728376054878986825
+    second: ghost_fire_long_strip_and_meteor_clean_transparent_49
+  - first:
+      213: 3026566813787129454
+    second: ghost_fire_long_strip_and_meteor_clean_transparent_50
+  - first:
+      213: 7163292452505283362
+    second: ghost_fire_long_strip_and_meteor_clean_transparent_51
+  - first:
+      213: -3386126171834272473
+    second: ghost_fire_long_strip_and_meteor_clean_transparent_52
+  - first:
+      213: 4097839019636699471
+    second: ghost_fire_long_strip_and_meteor_clean_transparent_53
+  - first:
+      213: 3798500364682870028
+    second: ghost_fire_long_strip_and_meteor_clean_transparent_54
+  - first:
+      213: -1252425898227609190
+    second: ghost_fire_long_strip_and_meteor_clean_transparent_55
+  - first:
+      213: -6013814875147653637
+    second: ghost_fire_long_strip_and_meteor_clean_transparent_56
+  - first:
+      213: 2755080629482514811
+    second: ghost_fire_long_strip_and_meteor_clean_transparent_57
+  - first:
+      213: 7013387243251405817
+    second: ghost_fire_long_strip_and_meteor_clean_transparent_58
+  - first:
+      213: -2984970500172806418
+    second: ghost_fire_long_strip_and_meteor_clean_transparent_59
+  - first:
+      213: -7663063572932029955
+    second: ghost_fire_long_strip_and_meteor_clean_transparent_60
+  - first:
+      213: 1667206608810810665
+    second: ghost_fire_long_strip_and_meteor_clean_transparent_61
+  - first:
+      213: -4421907329396702339
+    second: ghost_fire_long_strip_and_meteor_clean_transparent_62
+  - first:
+      213: 1048749932564648001
+    second: ghost_fire_long_strip_and_meteor_clean_transparent_63
+  - first:
+      213: -8727286069793605405
+    second: ghost_fire_long_strip_and_meteor_clean_transparent_64
+  - first:
+      213: -7585138296774362208
+    second: ghost_fire_long_strip_and_meteor_clean_transparent_65
+  - first:
+      213: 2658082234321558444
+    second: ghost_fire_long_strip_and_meteor_clean_transparent_66
+  - first:
+      213: 4948540463146202521
+    second: ghost_fire_long_strip_and_meteor_clean_transparent_67
+  - first:
+      213: -5830601396036736520
+    second: ghost_fire_long_strip_and_meteor_clean_transparent_68
+  - first:
+      213: 2907163057272284416
+    second: ghost_fire_long_strip_and_meteor_clean_transparent_69
+  - first:
+      213: -620745639279897571
+    second: ghost_fire_long_strip_and_meteor_clean_transparent_70
+  - first:
+      213: 23525150862538706
+    second: ghost_fire_long_strip_and_meteor_clean_transparent_71
+  - first:
+      213: 6658320744783276184
+    second: ghost_fire_long_strip_and_meteor_clean_transparent_72
+  - first:
+      213: -76076148255090207
+    second: ghost_fire_long_strip_and_meteor_clean_transparent_73
+  - first:
+      213: -3262605158455412633
+    second: ghost_fire_long_strip_and_meteor_clean_transparent_74
+  - first:
+      213: 5397900785153202061
+    second: ghost_fire_long_strip_and_meteor_clean_transparent_75
+  - first:
+      213: -886761898060570517
+    second: ghost_fire_long_strip_and_meteor_clean_transparent_76
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 6
+      rect:
+        serializedVersion: 2
+        x: 1658
+        y: 91
+        width: 168
+        height: 328
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 477b706f50c0f3c40800000000000000
+      internalID: 5494123290157365108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 80
+        width: 168
+        height: 328
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d886f4c0060070b0800000000000000
+      internalID: -5733075725268383529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5
+      rect:
+        serializedVersion: 2
+        x: 1364
+        y: 91
+        width: 168
+        height: 328
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddd6e578b3ecd3240800000000000000
+      internalID: 4773197935152098781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 62
+        width: 168
+        height: 328
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6295c88c538a1cc50800000000000000
+      internalID: 6683808270945900838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 64
+        width: 168
+        height: 328
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bd9974b70f616eb0800000000000000
+      internalID: -4728376054878986825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 33
+        width: 168
+        height: 328
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee60e2825214396d0800000000000000
+      internalID: -2984970500172806418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: e4276537d49f7ee4b925bb15c1fbdced
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      1: -2984970500172806418
+      2: 6683808270945900838
+      3: -4728376054878986825
+      4: -5733075725268383529
+      5: 4773197935152098781
+      6: 5494123290157365108
+      ghost_fire_long_strip_and_meteor_clean_transparent_0: 6534855233554636774
+      ghost_fire_long_strip_and_meteor_clean_transparent_1: -6773218729006228013
+      ghost_fire_long_strip_and_meteor_clean_transparent_10: 7484369683670954647
+      ghost_fire_long_strip_and_meteor_clean_transparent_11: 5310164795924236149
+      ghost_fire_long_strip_and_meteor_clean_transparent_12: -2376222390855090717
+      ghost_fire_long_strip_and_meteor_clean_transparent_13: 5580635011074323671
+      ghost_fire_long_strip_and_meteor_clean_transparent_14: 315209952502138781
+      ghost_fire_long_strip_and_meteor_clean_transparent_15: 8931356434794281845
+      ghost_fire_long_strip_and_meteor_clean_transparent_16: -3197750433824535254
+      ghost_fire_long_strip_and_meteor_clean_transparent_17: -6800940629621099508
+      ghost_fire_long_strip_and_meteor_clean_transparent_18: 3004135774588562520
+      ghost_fire_long_strip_and_meteor_clean_transparent_19: 1347403866500876179
+      ghost_fire_long_strip_and_meteor_clean_transparent_2: 8459202083203671268
+      ghost_fire_long_strip_and_meteor_clean_transparent_20: 3968393819807398633
+      ghost_fire_long_strip_and_meteor_clean_transparent_21: -8228145603635749986
+      ghost_fire_long_strip_and_meteor_clean_transparent_22: 8830695765351311841
+      ghost_fire_long_strip_and_meteor_clean_transparent_23: -2335779410608301157
+      ghost_fire_long_strip_and_meteor_clean_transparent_24: -3437710758711748462
+      ghost_fire_long_strip_and_meteor_clean_transparent_25: -7238092486544528945
+      ghost_fire_long_strip_and_meteor_clean_transparent_26: 3647917686271680912
+      ghost_fire_long_strip_and_meteor_clean_transparent_27: 5274188723219803607
+      ghost_fire_long_strip_and_meteor_clean_transparent_28: 7364038605000704025
+      ghost_fire_long_strip_and_meteor_clean_transparent_29: -4741616422644444124
+      ghost_fire_long_strip_and_meteor_clean_transparent_3: 4427069012711326550
+      ghost_fire_long_strip_and_meteor_clean_transparent_30: 1386197016043778981
+      ghost_fire_long_strip_and_meteor_clean_transparent_31: 7884327103938306817
+      ghost_fire_long_strip_and_meteor_clean_transparent_32: 1807637214340974771
+      ghost_fire_long_strip_and_meteor_clean_transparent_33: 2052221632839035455
+      ghost_fire_long_strip_and_meteor_clean_transparent_34: 1261888412715781478
+      ghost_fire_long_strip_and_meteor_clean_transparent_35: 7914392052057229368
+      ghost_fire_long_strip_and_meteor_clean_transparent_36: -6316996494844162699
+      ghost_fire_long_strip_and_meteor_clean_transparent_37: 3869833399867171019
+      ghost_fire_long_strip_and_meteor_clean_transparent_38: -5441413915896190081
+      ghost_fire_long_strip_and_meteor_clean_transparent_39: 5555540070050014127
+      ghost_fire_long_strip_and_meteor_clean_transparent_4: -4473714860927186026
+      ghost_fire_long_strip_and_meteor_clean_transparent_41: -1762637695047684498
+      ghost_fire_long_strip_and_meteor_clean_transparent_43: -5750778030321748600
+      ghost_fire_long_strip_and_meteor_clean_transparent_45: 7450582649167341513
+      ghost_fire_long_strip_and_meteor_clean_transparent_46: -4351319662558680673
+      ghost_fire_long_strip_and_meteor_clean_transparent_47: 3680817181353788505
+      ghost_fire_long_strip_and_meteor_clean_transparent_5: -505065228224642188
+      ghost_fire_long_strip_and_meteor_clean_transparent_50: 3026566813787129454
+      ghost_fire_long_strip_and_meteor_clean_transparent_51: 7163292452505283362
+      ghost_fire_long_strip_and_meteor_clean_transparent_52: -3386126171834272473
+      ghost_fire_long_strip_and_meteor_clean_transparent_53: 4097839019636699471
+      ghost_fire_long_strip_and_meteor_clean_transparent_54: 3798500364682870028
+      ghost_fire_long_strip_and_meteor_clean_transparent_55: -1252425898227609190
+      ghost_fire_long_strip_and_meteor_clean_transparent_56: -6013814875147653637
+      ghost_fire_long_strip_and_meteor_clean_transparent_57: 2755080629482514811
+      ghost_fire_long_strip_and_meteor_clean_transparent_58: 7013387243251405817
+      ghost_fire_long_strip_and_meteor_clean_transparent_6: 2638221437275979976
+      ghost_fire_long_strip_and_meteor_clean_transparent_60: -7663063572932029955
+      ghost_fire_long_strip_and_meteor_clean_transparent_61: 1667206608810810665
+      ghost_fire_long_strip_and_meteor_clean_transparent_62: -4421907329396702339
+      ghost_fire_long_strip_and_meteor_clean_transparent_63: 1048749932564648001
+      ghost_fire_long_strip_and_meteor_clean_transparent_64: -8727286069793605405
+      ghost_fire_long_strip_and_meteor_clean_transparent_65: -7585138296774362208
+      ghost_fire_long_strip_and_meteor_clean_transparent_66: 2658082234321558444
+      ghost_fire_long_strip_and_meteor_clean_transparent_67: 4948540463146202521
+      ghost_fire_long_strip_and_meteor_clean_transparent_68: -5830601396036736520
+      ghost_fire_long_strip_and_meteor_clean_transparent_69: 2907163057272284416
+      ghost_fire_long_strip_and_meteor_clean_transparent_7: 5621256812618274191
+      ghost_fire_long_strip_and_meteor_clean_transparent_70: -620745639279897571
+      ghost_fire_long_strip_and_meteor_clean_transparent_71: 23525150862538706
+      ghost_fire_long_strip_and_meteor_clean_transparent_72: 6658320744783276184
+      ghost_fire_long_strip_and_meteor_clean_transparent_73: -76076148255090207
+      ghost_fire_long_strip_and_meteor_clean_transparent_74: -3262605158455412633
+      ghost_fire_long_strip_and_meteor_clean_transparent_75: 5397900785153202061
+      ghost_fire_long_strip_and_meteor_clean_transparent_76: -886761898060570517
+      ghost_fire_long_strip_and_meteor_clean_transparent_8: 6349207290501167188
+      ghost_fire_long_strip_and_meteor_clean_transparent_9: 4051685511297942648
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

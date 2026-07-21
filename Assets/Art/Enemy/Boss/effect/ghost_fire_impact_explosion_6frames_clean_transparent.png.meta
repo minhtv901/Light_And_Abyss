@@ -287,8 +287,8 @@ TextureImporter:
       name: ghost_fire_impact_explosion_6frames_clean_transparent_0
       rect:
         serializedVersion: 2
-        x: 158
-        y: 1098
+        x: 417
+        y: 1999
         width: 396
         height: 364
       alignment: 0
@@ -309,8 +309,8 @@ TextureImporter:
       name: ghost_fire_impact_explosion_6frames_clean_transparent_1
       rect:
         serializedVersion: 2
-        x: 845
-        y: 1087
+        x: 1334
+        y: 1998
         width: 396
         height: 364
       alignment: 0
@@ -331,8 +331,8 @@ TextureImporter:
       name: ghost_fire_impact_explosion_6frames_clean_transparent_3
       rect:
         serializedVersion: 2
-        x: 1519
-        y: 1102
+        x: 2270
+        y: 2033
         width: 396
         height: 364
       alignment: 0
@@ -353,8 +353,8 @@ TextureImporter:
       name: ghost_fire_impact_explosion_6frames_clean_transparent_20
       rect:
         serializedVersion: 2
-        x: 246
-        y: 356
+        x: 512
+        y: 446
         width: 396
         height: 364
       alignment: 0
@@ -375,8 +375,8 @@ TextureImporter:
       name: ghost_fire_impact_explosion_6frames_clean_transparent_26
       rect:
         serializedVersion: 2
-        x: 840
-        y: 356
+        x: 1335
+        y: 444
         width: 396
         height: 364
       alignment: 0
@@ -397,8 +397,8 @@ TextureImporter:
       name: ghost_fire_impact_explosion_6frames_clean_transparent_52
       rect:
         serializedVersion: 2
-        x: 1447
-        y: 359
+        x: 2202
+        y: 472
         width: 396
         height: 364
       alignment: 0

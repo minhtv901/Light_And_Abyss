@@ -1,0 +1,494 @@
+fileFormatVersion: 2
+guid: 74f94735d779a6a40b97a72bc122953b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 308637081005348510
+    second: ghost_fire_impact_explosion_6frames_clean_transparent_0
+  - first:
+      213: -8635463189614070437
+    second: ghost_fire_impact_explosion_6frames_clean_transparent_1
+  - first:
+      213: -8396345332477900848
+    second: ghost_fire_impact_explosion_6frames_clean_transparent_2
+  - first:
+      213: -1376376213316392452
+    second: ghost_fire_impact_explosion_6frames_clean_transparent_3
+  - first:
+      213: -9034114326985418404
+    second: ghost_fire_impact_explosion_6frames_clean_transparent_4
+  - first:
+      213: -3700384480841706841
+    second: ghost_fire_impact_explosion_6frames_clean_transparent_5
+  - first:
+      213: 4427034291229963647
+    second: ghost_fire_impact_explosion_6frames_clean_transparent_6
+  - first:
+      213: 1305606534278445242
+    second: ghost_fire_impact_explosion_6frames_clean_transparent_7
+  - first:
+      213: 7179132973135679352
+    second: ghost_fire_impact_explosion_6frames_clean_transparent_8
+  - first:
+      213: 1570079847988231002
+    second: ghost_fire_impact_explosion_6frames_clean_transparent_9
+  - first:
+      213: 1424175045747600636
+    second: ghost_fire_impact_explosion_6frames_clean_transparent_10
+  - first:
+      213: 9124467070292819708
+    second: ghost_fire_impact_explosion_6frames_clean_transparent_11
+  - first:
+      213: -8581293472462568556
+    second: ghost_fire_impact_explosion_6frames_clean_transparent_12
+  - first:
+      213: -5107766139365288560
+    second: ghost_fire_impact_explosion_6frames_clean_transparent_13
+  - first:
+      213: -1946592525795200680
+    second: ghost_fire_impact_explosion_6frames_clean_transparent_14
+  - first:
+      213: -3660631005181484294
+    second: ghost_fire_impact_explosion_6frames_clean_transparent_15
+  - first:
+      213: -5863478499828589237
+    second: ghost_fire_impact_explosion_6frames_clean_transparent_16
+  - first:
+      213: -5564376441938716902
+    second: ghost_fire_impact_explosion_6frames_clean_transparent_17
+  - first:
+      213: -4693379407664955748
+    second: ghost_fire_impact_explosion_6frames_clean_transparent_18
+  - first:
+      213: -5210860906215157863
+    second: ghost_fire_impact_explosion_6frames_clean_transparent_19
+  - first:
+      213: 2238526267362623934
+    second: ghost_fire_impact_explosion_6frames_clean_transparent_20
+  - first:
+      213: 4879207485595132791
+    second: ghost_fire_impact_explosion_6frames_clean_transparent_21
+  - first:
+      213: 272689222437892420
+    second: ghost_fire_impact_explosion_6frames_clean_transparent_22
+  - first:
+      213: -3751850262589586109
+    second: ghost_fire_impact_explosion_6frames_clean_transparent_23
+  - first:
+      213: -3108282270135994509
+    second: ghost_fire_impact_explosion_6frames_clean_transparent_24
+  - first:
+      213: 4610008346674739030
+    second: ghost_fire_impact_explosion_6frames_clean_transparent_25
+  - first:
+      213: -7634679903479604229
+    second: ghost_fire_impact_explosion_6frames_clean_transparent_26
+  - first:
+      213: 2287910290337112456
+    second: ghost_fire_impact_explosion_6frames_clean_transparent_27
+  - first:
+      213: 330717233857731463
+    second: ghost_fire_impact_explosion_6frames_clean_transparent_28
+  - first:
+      213: -1417907229717243949
+    second: ghost_fire_impact_explosion_6frames_clean_transparent_29
+  - first:
+      213: -4301452031840484532
+    second: ghost_fire_impact_explosion_6frames_clean_transparent_30
+  - first:
+      213: -2375087843917164504
+    second: ghost_fire_impact_explosion_6frames_clean_transparent_31
+  - first:
+      213: 3321495976314950522
+    second: ghost_fire_impact_explosion_6frames_clean_transparent_32
+  - first:
+      213: 1050176989701096093
+    second: ghost_fire_impact_explosion_6frames_clean_transparent_33
+  - first:
+      213: -2555492193487416281
+    second: ghost_fire_impact_explosion_6frames_clean_transparent_34
+  - first:
+      213: -8923889573286455586
+    second: ghost_fire_impact_explosion_6frames_clean_transparent_35
+  - first:
+      213: 8230493323598309068
+    second: ghost_fire_impact_explosion_6frames_clean_transparent_36
+  - first:
+      213: -8975894926875814602
+    second: ghost_fire_impact_explosion_6frames_clean_transparent_37
+  - first:
+      213: -1062241410105129038
+    second: ghost_fire_impact_explosion_6frames_clean_transparent_38
+  - first:
+      213: -3831097471188111987
+    second: ghost_fire_impact_explosion_6frames_clean_transparent_39
+  - first:
+      213: -4705467153139348398
+    second: ghost_fire_impact_explosion_6frames_clean_transparent_40
+  - first:
+      213: 7989854069964183833
+    second: ghost_fire_impact_explosion_6frames_clean_transparent_41
+  - first:
+      213: -2128588110596349572
+    second: ghost_fire_impact_explosion_6frames_clean_transparent_42
+  - first:
+      213: 7674921714751930305
+    second: ghost_fire_impact_explosion_6frames_clean_transparent_43
+  - first:
+      213: -4974096758544188655
+    second: ghost_fire_impact_explosion_6frames_clean_transparent_44
+  - first:
+      213: 8599187138672746337
+    second: ghost_fire_impact_explosion_6frames_clean_transparent_45
+  - first:
+      213: -628237950648461877
+    second: ghost_fire_impact_explosion_6frames_clean_transparent_46
+  - first:
+      213: -7824382941540250881
+    second: ghost_fire_impact_explosion_6frames_clean_transparent_47
+  - first:
+      213: 2778237781966670915
+    second: ghost_fire_impact_explosion_6frames_clean_transparent_48
+  - first:
+      213: -5939550950983921797
+    second: ghost_fire_impact_explosion_6frames_clean_transparent_49
+  - first:
+      213: -5293864792476280593
+    second: ghost_fire_impact_explosion_6frames_clean_transparent_50
+  - first:
+      213: -3814549879929121963
+    second: ghost_fire_impact_explosion_6frames_clean_transparent_51
+  - first:
+      213: 7620388706981219578
+    second: ghost_fire_impact_explosion_6frames_clean_transparent_52
+  - first:
+      213: -4484652991377000562
+    second: ghost_fire_impact_explosion_6frames_clean_transparent_53
+  - first:
+      213: -7352213164970678830
+    second: ghost_fire_impact_explosion_6frames_clean_transparent_54
+  - first:
+      213: -1884738398286095518
+    second: ghost_fire_impact_explosion_6frames_clean_transparent_55
+  - first:
+      213: -989974639014279418
+    second: ghost_fire_impact_explosion_6frames_clean_transparent_56
+  - first:
+      213: 8217019895834946246
+    second: ghost_fire_impact_explosion_6frames_clean_transparent_57
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ghost_fire_impact_explosion_6frames_clean_transparent_0
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 1098
+        width: 396
+        height: 364
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9656d93acf784400800000000000000
+      internalID: 308637081005348510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghost_fire_impact_explosion_6frames_clean_transparent_1
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 1087
+        width: 396
+        height: 364
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5577105bfba82880800000000000000
+      internalID: -8635463189614070437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghost_fire_impact_explosion_6frames_clean_transparent_3
+      rect:
+        serializedVersion: 2
+        x: 1519
+        y: 1102
+        width: 396
+        height: 364
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf9aaf7502126ece0800000000000000
+      internalID: -1376376213316392452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghost_fire_impact_explosion_6frames_clean_transparent_20
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 356
+        width: 396
+        height: 364
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb1c78aa7c7d01f10800000000000000
+      internalID: 2238526267362623934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghost_fire_impact_explosion_6frames_clean_transparent_26
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 356
+        width: 396
+        height: 364
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfbd84bf31b2c0690800000000000000
+      internalID: -7634679903479604229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghost_fire_impact_explosion_6frames_clean_transparent_52
+      rect:
+        serializedVersion: 2
+        x: 1447
+        y: 359
+        width: 396
+        height: 364
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afc830a872f01c960800000000000000
+      internalID: 7620388706981219578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: c23ceb09305ace54b8fca40a343c7aea
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ghost_fire_impact_explosion_6frames_clean_transparent_0: 308637081005348510
+      ghost_fire_impact_explosion_6frames_clean_transparent_1: -8635463189614070437
+      ghost_fire_impact_explosion_6frames_clean_transparent_10: 1424175045747600636
+      ghost_fire_impact_explosion_6frames_clean_transparent_11: 9124467070292819708
+      ghost_fire_impact_explosion_6frames_clean_transparent_12: -8581293472462568556
+      ghost_fire_impact_explosion_6frames_clean_transparent_13: -5107766139365288560
+      ghost_fire_impact_explosion_6frames_clean_transparent_14: -1946592525795200680
+      ghost_fire_impact_explosion_6frames_clean_transparent_15: -3660631005181484294
+      ghost_fire_impact_explosion_6frames_clean_transparent_16: -5863478499828589237
+      ghost_fire_impact_explosion_6frames_clean_transparent_17: -5564376441938716902
+      ghost_fire_impact_explosion_6frames_clean_transparent_18: -4693379407664955748
+      ghost_fire_impact_explosion_6frames_clean_transparent_19: -5210860906215157863
+      ghost_fire_impact_explosion_6frames_clean_transparent_2: -8396345332477900848
+      ghost_fire_impact_explosion_6frames_clean_transparent_20: 2238526267362623934
+      ghost_fire_impact_explosion_6frames_clean_transparent_21: 4879207485595132791
+      ghost_fire_impact_explosion_6frames_clean_transparent_22: 272689222437892420
+      ghost_fire_impact_explosion_6frames_clean_transparent_23: -3751850262589586109
+      ghost_fire_impact_explosion_6frames_clean_transparent_24: -3108282270135994509
+      ghost_fire_impact_explosion_6frames_clean_transparent_25: 4610008346674739030
+      ghost_fire_impact_explosion_6frames_clean_transparent_26: -7634679903479604229
+      ghost_fire_impact_explosion_6frames_clean_transparent_27: 2287910290337112456
+      ghost_fire_impact_explosion_6frames_clean_transparent_28: 330717233857731463
+      ghost_fire_impact_explosion_6frames_clean_transparent_29: -1417907229717243949
+      ghost_fire_impact_explosion_6frames_clean_transparent_3: -1376376213316392452
+      ghost_fire_impact_explosion_6frames_clean_transparent_30: -4301452031840484532
+      ghost_fire_impact_explosion_6frames_clean_transparent_31: -2375087843917164504
+      ghost_fire_impact_explosion_6frames_clean_transparent_32: 3321495976314950522
+      ghost_fire_impact_explosion_6frames_clean_transparent_33: 1050176989701096093
+      ghost_fire_impact_explosion_6frames_clean_transparent_34: -2555492193487416281
+      ghost_fire_impact_explosion_6frames_clean_transparent_35: -8923889573286455586
+      ghost_fire_impact_explosion_6frames_clean_transparent_36: 8230493323598309068
+      ghost_fire_impact_explosion_6frames_clean_transparent_37: -8975894926875814602
+      ghost_fire_impact_explosion_6frames_clean_transparent_38: -1062241410105129038
+      ghost_fire_impact_explosion_6frames_clean_transparent_39: -3831097471188111987
+      ghost_fire_impact_explosion_6frames_clean_transparent_4: -9034114326985418404
+      ghost_fire_impact_explosion_6frames_clean_transparent_40: -4705467153139348398
+      ghost_fire_impact_explosion_6frames_clean_transparent_41: 7989854069964183833
+      ghost_fire_impact_explosion_6frames_clean_transparent_42: -2128588110596349572
+      ghost_fire_impact_explosion_6frames_clean_transparent_43: 7674921714751930305
+      ghost_fire_impact_explosion_6frames_clean_transparent_44: -4974096758544188655
+      ghost_fire_impact_explosion_6frames_clean_transparent_45: 8599187138672746337
+      ghost_fire_impact_explosion_6frames_clean_transparent_46: -628237950648461877
+      ghost_fire_impact_explosion_6frames_clean_transparent_47: -7824382941540250881
+      ghost_fire_impact_explosion_6frames_clean_transparent_48: 2778237781966670915
+      ghost_fire_impact_explosion_6frames_clean_transparent_49: -5939550950983921797
+      ghost_fire_impact_explosion_6frames_clean_transparent_5: -3700384480841706841
+      ghost_fire_impact_explosion_6frames_clean_transparent_50: -5293864792476280593
+      ghost_fire_impact_explosion_6frames_clean_transparent_51: -3814549879929121963
+      ghost_fire_impact_explosion_6frames_clean_transparent_52: 7620388706981219578
+      ghost_fire_impact_explosion_6frames_clean_transparent_53: -4484652991377000562
+      ghost_fire_impact_explosion_6frames_clean_transparent_54: -7352213164970678830
+      ghost_fire_impact_explosion_6frames_clean_transparent_55: -1884738398286095518
+      ghost_fire_impact_explosion_6frames_clean_transparent_56: -989974639014279418
+      ghost_fire_impact_explosion_6frames_clean_transparent_57: 8217019895834946246
+      ghost_fire_impact_explosion_6frames_clean_transparent_6: 4427034291229963647
+      ghost_fire_impact_explosion_6frames_clean_transparent_7: 1305606534278445242
+      ghost_fire_impact_explosion_6frames_clean_transparent_8: 7179132973135679352
+      ghost_fire_impact_explosion_6frames_clean_transparent_9: 1570079847988231002
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

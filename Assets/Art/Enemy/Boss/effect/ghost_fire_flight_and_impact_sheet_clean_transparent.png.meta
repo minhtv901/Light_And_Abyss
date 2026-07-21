@@ -1,0 +1,574 @@
+fileFormatVersion: 2
+guid: e70d85acf2977964d90835f772321fbb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -955281852681221342
+    second: ghost_fire_flight_and_impact_sheet_clean_transparent_0
+  - first:
+      213: 5193074944068197576
+    second: ghost_fire_flight_and_impact_sheet_clean_transparent_1
+  - first:
+      213: -2119379924979197508
+    second: ghost_fire_flight_and_impact_sheet_clean_transparent_2
+  - first:
+      213: 5619310387512035941
+    second: ghost_fire_flight_and_impact_sheet_clean_transparent_3
+  - first:
+      213: -1488182467670245621
+    second: ghost_fire_flight_and_impact_sheet_clean_transparent_4
+  - first:
+      213: 7502182744249253539
+    second: ghost_fire_flight_and_impact_sheet_clean_transparent_5
+  - first:
+      213: 35906164947909517
+    second: ghost_fire_flight_and_impact_sheet_clean_transparent_6
+  - first:
+      213: -7790886455005087332
+    second: ghost_fire_flight_and_impact_sheet_clean_transparent_7
+  - first:
+      213: -2159220960004162576
+    second: ghost_fire_flight_and_impact_sheet_clean_transparent_8
+  - first:
+      213: 4842858888161937932
+    second: ghost_fire_flight_and_impact_sheet_clean_transparent_9
+  - first:
+      213: -1513275838482335530
+    second: ghost_fire_flight_and_impact_sheet_clean_transparent_10
+  - first:
+      213: -5523445061371960742
+    second: ghost_fire_flight_and_impact_sheet_clean_transparent_11
+  - first:
+      213: 5337695288802057825
+    second: ghost_fire_flight_and_impact_sheet_clean_transparent_12
+  - first:
+      213: 5000015110194111554
+    second: ghost_fire_flight_and_impact_sheet_clean_transparent_13
+  - first:
+      213: 8452163295722857247
+    second: ghost_fire_flight_and_impact_sheet_clean_transparent_14
+  - first:
+      213: 1804337173136824803
+    second: ghost_fire_flight_and_impact_sheet_clean_transparent_15
+  - first:
+      213: 5998992069599788652
+    second: ghost_fire_flight_and_impact_sheet_clean_transparent_16
+  - first:
+      213: 9199212310382906638
+    second: ghost_fire_flight_and_impact_sheet_clean_transparent_17
+  - first:
+      213: 2479150183908767154
+    second: ghost_fire_flight_and_impact_sheet_clean_transparent_18
+  - first:
+      213: 8449875119388934995
+    second: ghost_fire_flight_and_impact_sheet_clean_transparent_19
+  - first:
+      213: -7811170962061980330
+    second: ghost_fire_flight_and_impact_sheet_clean_transparent_20
+  - first:
+      213: -911168698826188656
+    second: ghost_fire_flight_and_impact_sheet_clean_transparent_21
+  - first:
+      213: 6427836893965021264
+    second: ghost_fire_flight_and_impact_sheet_clean_transparent_22
+  - first:
+      213: -949498588170012743
+    second: ghost_fire_flight_and_impact_sheet_clean_transparent_23
+  - first:
+      213: 2776983568211119917
+    second: ghost_fire_flight_and_impact_sheet_clean_transparent_24
+  - first:
+      213: -6324161809934802516
+    second: ghost_fire_flight_and_impact_sheet_clean_transparent_25
+  - first:
+      213: -1709153275416271963
+    second: ghost_fire_flight_and_impact_sheet_clean_transparent_26
+  - first:
+      213: 1448750057328737416
+    second: ghost_fire_flight_and_impact_sheet_clean_transparent_27
+  - first:
+      213: -3495473825240143929
+    second: ghost_fire_flight_and_impact_sheet_clean_transparent_28
+  - first:
+      213: -3505002138898178439
+    second: ghost_fire_flight_and_impact_sheet_clean_transparent_29
+  - first:
+      213: 7274187412970507733
+    second: ghost_fire_flight_and_impact_sheet_clean_transparent_30
+  - first:
+      213: 708879390858641299
+    second: ghost_fire_flight_and_impact_sheet_clean_transparent_31
+  - first:
+      213: -2481672702216299689
+    second: ghost_fire_flight_and_impact_sheet_clean_transparent_32
+  - first:
+      213: 6089395329487525940
+    second: ghost_fire_flight_and_impact_sheet_clean_transparent_33
+  - first:
+      213: 6553310283769197392
+    second: ghost_fire_flight_and_impact_sheet_clean_transparent_34
+  - first:
+      213: 7799497346624194195
+    second: ghost_fire_flight_and_impact_sheet_clean_transparent_35
+  - first:
+      213: 3865284918686803936
+    second: ghost_fire_flight_and_impact_sheet_clean_transparent_36
+  - first:
+      213: 3705942715409122625
+    second: ghost_fire_flight_and_impact_sheet_clean_transparent_37
+  - first:
+      213: 55045816053696015
+    second: ghost_fire_flight_and_impact_sheet_clean_transparent_38
+  - first:
+      213: 362947825295986679
+    second: ghost_fire_flight_and_impact_sheet_clean_transparent_39
+  - first:
+      213: 7622078856623848366
+    second: ghost_fire_flight_and_impact_sheet_clean_transparent_40
+  - first:
+      213: 160280610685948333
+    second: ghost_fire_flight_and_impact_sheet_clean_transparent_41
+  - first:
+      213: 2952067439167175338
+    second: ghost_fire_flight_and_impact_sheet_clean_transparent_42
+  - first:
+      213: 3933119393851918220
+    second: ghost_fire_flight_and_impact_sheet_clean_transparent_43
+  - first:
+      213: -2561942122271071800
+    second: ghost_fire_flight_and_impact_sheet_clean_transparent_44
+  - first:
+      213: 7872460227278071933
+    second: ghost_fire_flight_and_impact_sheet_clean_transparent_45
+  - first:
+      213: -6517546352698342449
+    second: ghost_fire_flight_and_impact_sheet_clean_transparent_46
+  - first:
+      213: -5723596795579830390
+    second: ghost_fire_flight_and_impact_sheet_clean_transparent_47
+  - first:
+      213: -504295940666334298
+    second: ghost_fire_flight_and_impact_sheet_clean_transparent_48
+  - first:
+      213: 7645043683503325608
+    second: ghost_fire_flight_and_impact_sheet_clean_transparent_49
+  - first:
+      213: 4801893435945105319
+    second: ghost_fire_flight_and_impact_sheet_clean_transparent_50
+  - first:
+      213: -5619173027245453699
+    second: ghost_fire_flight_and_impact_sheet_clean_transparent_51
+  - first:
+      213: 6772979085344651934
+    second: ghost_fire_flight_and_impact_sheet_clean_transparent_52
+  - first:
+      213: 5262600758110354028
+    second: ghost_fire_flight_and_impact_sheet_clean_transparent_53
+  - first:
+      213: -6449004168862487317
+    second: ghost_fire_flight_and_impact_sheet_clean_transparent_54
+  - first:
+      213: -4042533491085753300
+    second: ghost_fire_flight_and_impact_sheet_clean_transparent_55
+  - first:
+      213: 5763982982287304377
+    second: ghost_fire_flight_and_impact_sheet_clean_transparent_56
+  - first:
+      213: -6350157395357868947
+    second: ghost_fire_flight_and_impact_sheet_clean_transparent_57
+  - first:
+      213: -3962426054275324227
+    second: ghost_fire_flight_and_impact_sheet_clean_transparent_58
+  - first:
+      213: 8411413780470970737
+    second: ghost_fire_flight_and_impact_sheet_clean_transparent_59
+  - first:
+      213: -3152840675076161823
+    second: ghost_fire_flight_and_impact_sheet_clean_transparent_60
+  - first:
+      213: 3140816620468360239
+    second: ghost_fire_flight_and_impact_sheet_clean_transparent_61
+  - first:
+      213: 834732285096995790
+    second: ghost_fire_flight_and_impact_sheet_clean_transparent_62
+  - first:
+      213: 2836982794480640430
+    second: ghost_fire_flight_and_impact_sheet_clean_transparent_63
+  - first:
+      213: 8521506967582249704
+    second: ghost_fire_flight_and_impact_sheet_clean_transparent_64
+  - first:
+      213: 1881813639847090902
+    second: ghost_fire_flight_and_impact_sheet_clean_transparent_65
+  - first:
+      213: 4815087816754732481
+    second: ghost_fire_flight_and_impact_sheet_clean_transparent_66
+  - first:
+      213: 1832616200230444627
+    second: ghost_fire_flight_and_impact_sheet_clean_transparent_67
+  - first:
+      213: -4121070891020355087
+    second: ghost_fire_flight_and_impact_sheet_clean_transparent_68
+  - first:
+      213: 3660802248379456729
+    second: ghost_fire_flight_and_impact_sheet_clean_transparent_69
+  - first:
+      213: -7316828016143335250
+    second: ghost_fire_flight_and_impact_sheet_clean_transparent_70
+  - first:
+      213: -7009055887914909977
+    second: ghost_fire_flight_and_impact_sheet_clean_transparent_71
+  - first:
+      213: -4017300316984440234
+    second: ghost_fire_flight_and_impact_sheet_clean_transparent_72
+  - first:
+      213: 40481985631082546
+    second: ghost_fire_flight_and_impact_sheet_clean_transparent_73
+  - first:
+      213: 2581276154253723435
+    second: ghost_fire_flight_and_impact_sheet_clean_transparent_74
+  - first:
+      213: -3322197778943273378
+    second: ghost_fire_flight_and_impact_sheet_clean_transparent_75
+  - first:
+      213: 2351412842045160742
+    second: ghost_fire_flight_and_impact_sheet_clean_transparent_76
+  - first:
+      213: 4412719343144464601
+    second: ghost_fire_flight_and_impact_sheet_clean_transparent_77
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 6
+      rect:
+        serializedVersion: 2
+        x: 1661
+        y: 398
+        width: 331
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cc9a25c522811840800000000000000
+      internalID: 5193074944068197576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5
+      rect:
+        serializedVersion: 2
+        x: 1295
+        y: 384
+        width: 331
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c99f40c0c0631e390800000000000000
+      internalID: -7790886455005087332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 373
+        width: 324
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e95ad3691b4a0910800000000000000
+      internalID: 1804337173136824803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 368
+        width: 331
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6e71e6d083b04350800000000000000
+      internalID: 5998992069599788652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 376
+        width: 331
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b5f9b805f5b76220800000000000000
+      internalID: 2479150183908767154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 388
+        width: 331
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b734619014b2d2f0800000000000000
+      internalID: -949498588170012743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 44e0cbc4a0442fd40add909a58db1325
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      1: 1804337173136824803
+      2: 5998992069599788652
+      3: 2479150183908767154
+      4: -949498588170012743
+      5: -7790886455005087332
+      6: 5193074944068197576
+      ghost_fire_flight_and_impact_sheet_clean_transparent_0: -955281852681221342
+      ghost_fire_flight_and_impact_sheet_clean_transparent_10: -1513275838482335530
+      ghost_fire_flight_and_impact_sheet_clean_transparent_11: -5523445061371960742
+      ghost_fire_flight_and_impact_sheet_clean_transparent_12: 5337695288802057825
+      ghost_fire_flight_and_impact_sheet_clean_transparent_13: 5000015110194111554
+      ghost_fire_flight_and_impact_sheet_clean_transparent_14: 8452163295722857247
+      ghost_fire_flight_and_impact_sheet_clean_transparent_17: 9199212310382906638
+      ghost_fire_flight_and_impact_sheet_clean_transparent_19: 8449875119388934995
+      ghost_fire_flight_and_impact_sheet_clean_transparent_2: -2119379924979197508
+      ghost_fire_flight_and_impact_sheet_clean_transparent_20: -7811170962061980330
+      ghost_fire_flight_and_impact_sheet_clean_transparent_21: -911168698826188656
+      ghost_fire_flight_and_impact_sheet_clean_transparent_22: 6427836893965021264
+      ghost_fire_flight_and_impact_sheet_clean_transparent_24: 2776983568211119917
+      ghost_fire_flight_and_impact_sheet_clean_transparent_25: -6324161809934802516
+      ghost_fire_flight_and_impact_sheet_clean_transparent_26: -1709153275416271963
+      ghost_fire_flight_and_impact_sheet_clean_transparent_27: 1448750057328737416
+      ghost_fire_flight_and_impact_sheet_clean_transparent_28: -3495473825240143929
+      ghost_fire_flight_and_impact_sheet_clean_transparent_29: -3505002138898178439
+      ghost_fire_flight_and_impact_sheet_clean_transparent_3: 5619310387512035941
+      ghost_fire_flight_and_impact_sheet_clean_transparent_30: 7274187412970507733
+      ghost_fire_flight_and_impact_sheet_clean_transparent_31: 708879390858641299
+      ghost_fire_flight_and_impact_sheet_clean_transparent_32: -2481672702216299689
+      ghost_fire_flight_and_impact_sheet_clean_transparent_33: 6089395329487525940
+      ghost_fire_flight_and_impact_sheet_clean_transparent_34: 6553310283769197392
+      ghost_fire_flight_and_impact_sheet_clean_transparent_35: 7799497346624194195
+      ghost_fire_flight_and_impact_sheet_clean_transparent_36: 3865284918686803936
+      ghost_fire_flight_and_impact_sheet_clean_transparent_37: 3705942715409122625
+      ghost_fire_flight_and_impact_sheet_clean_transparent_38: 55045816053696015
+      ghost_fire_flight_and_impact_sheet_clean_transparent_39: 362947825295986679
+      ghost_fire_flight_and_impact_sheet_clean_transparent_4: -1488182467670245621
+      ghost_fire_flight_and_impact_sheet_clean_transparent_40: 7622078856623848366
+      ghost_fire_flight_and_impact_sheet_clean_transparent_41: 160280610685948333
+      ghost_fire_flight_and_impact_sheet_clean_transparent_42: 2952067439167175338
+      ghost_fire_flight_and_impact_sheet_clean_transparent_43: 3933119393851918220
+      ghost_fire_flight_and_impact_sheet_clean_transparent_44: -2561942122271071800
+      ghost_fire_flight_and_impact_sheet_clean_transparent_45: 7872460227278071933
+      ghost_fire_flight_and_impact_sheet_clean_transparent_46: -6517546352698342449
+      ghost_fire_flight_and_impact_sheet_clean_transparent_47: -5723596795579830390
+      ghost_fire_flight_and_impact_sheet_clean_transparent_48: -504295940666334298
+      ghost_fire_flight_and_impact_sheet_clean_transparent_49: 7645043683503325608
+      ghost_fire_flight_and_impact_sheet_clean_transparent_5: 7502182744249253539
+      ghost_fire_flight_and_impact_sheet_clean_transparent_50: 4801893435945105319
+      ghost_fire_flight_and_impact_sheet_clean_transparent_51: -5619173027245453699
+      ghost_fire_flight_and_impact_sheet_clean_transparent_52: 6772979085344651934
+      ghost_fire_flight_and_impact_sheet_clean_transparent_53: 5262600758110354028
+      ghost_fire_flight_and_impact_sheet_clean_transparent_54: -6449004168862487317
+      ghost_fire_flight_and_impact_sheet_clean_transparent_55: -4042533491085753300
+      ghost_fire_flight_and_impact_sheet_clean_transparent_56: 5763982982287304377
+      ghost_fire_flight_and_impact_sheet_clean_transparent_57: -6350157395357868947
+      ghost_fire_flight_and_impact_sheet_clean_transparent_58: -3962426054275324227
+      ghost_fire_flight_and_impact_sheet_clean_transparent_59: 8411413780470970737
+      ghost_fire_flight_and_impact_sheet_clean_transparent_6: 35906164947909517
+      ghost_fire_flight_and_impact_sheet_clean_transparent_60: -3152840675076161823
+      ghost_fire_flight_and_impact_sheet_clean_transparent_61: 3140816620468360239
+      ghost_fire_flight_and_impact_sheet_clean_transparent_62: 834732285096995790
+      ghost_fire_flight_and_impact_sheet_clean_transparent_63: 2836982794480640430
+      ghost_fire_flight_and_impact_sheet_clean_transparent_64: 8521506967582249704
+      ghost_fire_flight_and_impact_sheet_clean_transparent_65: 1881813639847090902
+      ghost_fire_flight_and_impact_sheet_clean_transparent_66: 4815087816754732481
+      ghost_fire_flight_and_impact_sheet_clean_transparent_67: 1832616200230444627
+      ghost_fire_flight_and_impact_sheet_clean_transparent_68: -4121070891020355087
+      ghost_fire_flight_and_impact_sheet_clean_transparent_69: 3660802248379456729
+      ghost_fire_flight_and_impact_sheet_clean_transparent_70: -7316828016143335250
+      ghost_fire_flight_and_impact_sheet_clean_transparent_71: -7009055887914909977
+      ghost_fire_flight_and_impact_sheet_clean_transparent_72: -4017300316984440234
+      ghost_fire_flight_and_impact_sheet_clean_transparent_73: 40481985631082546
+      ghost_fire_flight_and_impact_sheet_clean_transparent_74: 2581276154253723435
+      ghost_fire_flight_and_impact_sheet_clean_transparent_75: -3322197778943273378
+      ghost_fire_flight_and_impact_sheet_clean_transparent_76: 2351412842045160742
+      ghost_fire_flight_and_impact_sheet_clean_transparent_77: 4412719343144464601
+      ghost_fire_flight_and_impact_sheet_clean_transparent_8: -2159220960004162576
+      ghost_fire_flight_and_impact_sheet_clean_transparent_9: 4842858888161937932
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

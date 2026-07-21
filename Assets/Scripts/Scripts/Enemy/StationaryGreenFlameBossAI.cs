@@ -50,6 +50,25 @@ public class StationaryGreenFlameBossAI : MonoBehaviour
     public bool usePillarSpawnPoints = true;
     public bool randomizePillarSpawnPoints = true;
 
+    [Header("Ultimate New Orb System")]
+    public GameObject ultimateOrbPrefab;
+    public GameObject ultimateExplosionPrefab;
+    public GameObject ultimateFireStripPrefab;
+
+    public Transform ultimateOrbSpawnPoint;
+    public float ultimateOrbStartHeight = 7f;
+    public float ultimateOrbSpeed = 8f;
+
+    public Collider2D groundSurface;
+    public List<Collider2D> ultimatePlatformSurfaces = new List<Collider2D>();
+
+    public LayerMask ultimateImpactLayer;
+
+    public int ultimateFireDamagePerTick = 1;
+    public float ultimateFireTickInterval = 0.6f;
+    public float ultimateFireDuration = 3f;
+    public float ultimateFireHeight = 1.2f;
+
     [Header("Start")]
     public bool startOnAwake = false;
     public bool autoFindPlayer = true;
@@ -718,62 +737,140 @@ public class StationaryGreenFlameBossAI : MonoBehaviour
     private IEnumerator CastUltimateRoutine()
     {
         state = BossState.Casting;
-        BeginProtectedCast("Ultimate");
         StopPhysics();
         FacePlayer();
 
-        nextUltimateTime = Time.time + ultimateCooldown;
-
-        if (debugLog) Debug.Log("Green Flame Boss: Ultimate.");
-
-        int waveCount = Mathf.Max(0, ultimateWaveCount);
-        float delaysBetweenWaves = Mathf.Max(0, waveCount - 1) * ultimateDelayBetweenWaves;
-        float effectDurationAfterStart =
-            waveCount * (ultimateWarningTime + ultimateWaveActiveTime) +
-            delaysBetweenWaves;
-
-        float requestedDuration = ultimateTargetDuration;
-
-        if (autoExtendDurationForSkillEffects && waveCount > 0)
-        {
-            float minimumDuration = GetMinimumDurationForTimedEffects(
-                ultimateWaveStartNormalizedTime,
-                effectDurationAfterStart
-            );
-            requestedDuration = Mathf.Max(requestedDuration, minimumDuration);
-        }
-
-        float castDuration = PlayStateWithDuration(
+        float duration = PlayStateWithDuration(
             ultimateStateName,
-            requestedDuration,
+            ultimateTargetDuration,
             ultimateFallbackDuration
         );
-        float waveStartTime = Mathf.Clamp(castDuration * ultimateWaveStartNormalizedTime, 0.01f, castDuration);
-        float elapsed = 0f;
+
+        nextUltimateTime = Time.time + ultimateCooldown;
+
+        if (debugLog) Debug.Log("Green Flame Boss: Ultimate Orb Rain.");
+
+        float waveStartTime = Mathf.Clamp(duration * ultimateWaveStartNormalizedTime, 0.01f, duration);
 
         yield return new WaitForSeconds(waveStartTime);
-        elapsed += waveStartTime;
 
-        for (int i = 0; i < waveCount; i++)
+        SpawnUltimateOrbsByPlayerSurface();
+
+        yield return new WaitForSeconds(Mathf.Max(0f, duration - waveStartTime));
+
+        ReturnToIdle();
+    }
+
+    private void SpawnUltimateOrbsByPlayerSurface()
+    {
+        if (ultimateOrbPrefab == null) return;
+
+        if (IsPlayerOnPlatform())
         {
-            if (IsPlayerOnPlatform())
-                yield return UltimatePlatformWave();
-            else
-                yield return UltimateGroundWave();
+            SpawnUltimateOrbsOnPlatforms();
+        }
+        else
+        {
+            SpawnUltimateOrbOnGround();
+        }
+    }
 
-            elapsed += ultimateWarningTime + ultimateWaveActiveTime;
-
-            if (i < waveCount - 1)
-            {
-                yield return new WaitForSeconds(ultimateDelayBetweenWaves);
-                elapsed += ultimateDelayBetweenWaves;
-            }
+    private void SpawnUltimateOrbsOnPlatforms()
+    {
+        if (ultimatePlatformSurfaces == null || ultimatePlatformSurfaces.Count == 0)
+        {
+            SpawnUltimateOrbOnGround();
+            return;
         }
 
-        yield return new WaitForSeconds(Mathf.Max(0f, castDuration - elapsed));
+        for (int i = 0; i < ultimatePlatformSurfaces.Count; i++)
+        {
+            Collider2D surface = ultimatePlatformSurfaces[i];
 
-        EndProtectedCast();
-        ReturnToIdle();
+            if (surface == null) continue;
+            if (!surface.gameObject.activeInHierarchy) continue;
+
+            SpawnUltimateOrbForSurface(surface);
+        }
+    }
+
+    private void SpawnUltimateOrbOnGround()
+    {
+        if (groundSurface != null)
+        {
+            SpawnUltimateOrbForSurface(groundSurface);
+            return;
+        }
+
+        // Fallback nếu chưa gán groundSurface.
+        Vector3 fallbackPosition = groundWaveCenter != null
+            ? groundWaveCenter.position
+            : new Vector3(transform.position.x, fallbackGroundY, 0f);
+
+        GameObject obj = Instantiate(
+            ultimateOrbPrefab,
+            fallbackPosition + Vector3.up * ultimateOrbStartHeight,
+            Quaternion.identity
+        );
+
+        BossUltimateOrb orb = obj.GetComponent<BossUltimateOrb>();
+
+        if (orb != null)
+        {
+            orb.Init(
+                null,
+                Vector2.down,
+                ultimateOrbSpeed,
+                ultimateExplosionPrefab,
+                ultimateFireStripPrefab,
+                ultimateFireDamagePerTick,
+                ultimateFireTickInterval,
+                ultimateFireDuration,
+                ultimateFireHeight,
+                ultimateImpactLayer
+            );
+        }
+    }
+
+    private void SpawnUltimateOrbForSurface(Collider2D surface)
+    {
+        if (surface == null) return;
+        if (ultimateOrbPrefab == null) return;
+
+        Bounds bounds = surface.bounds;
+
+        Vector3 spawnPosition = new Vector3(
+            bounds.center.x,
+            bounds.max.y + ultimateOrbStartHeight,
+            0f
+        );
+
+        Vector2 targetPoint = new Vector2(bounds.center.x, bounds.max.y);
+        Vector2 direction = (targetPoint - (Vector2)spawnPosition).normalized;
+
+        GameObject obj = Instantiate(
+            ultimateOrbPrefab,
+            spawnPosition,
+            Quaternion.identity
+        );
+
+        BossUltimateOrb orb = obj.GetComponent<BossUltimateOrb>();
+
+        if (orb != null)
+        {
+            orb.Init(
+                surface,
+                direction,
+                ultimateOrbSpeed,
+                ultimateExplosionPrefab,
+                ultimateFireStripPrefab,
+                ultimateFireDamagePerTick,
+                ultimateFireTickInterval,
+                ultimateFireDuration,
+                ultimateFireHeight,
+                ultimateImpactLayer
+            );
+        }
     }
 
     private IEnumerator UltimateGroundWave()
@@ -816,54 +913,72 @@ public class StationaryGreenFlameBossAI : MonoBehaviour
     {
         List<Vector3> positions = new List<Vector3>();
 
-        if (usePillarSpawnPoints && pillarSpawnPoints != null && pillarSpawnPoints.Count > 0)
-        {
-            List<Transform> validPoints = new List<Transform>();
-
-            for (int i = 0; i < pillarSpawnPoints.Count; i++)
-            {
-                if (pillarSpawnPoints[i] != null && pillarSpawnPoints[i].gameObject.activeInHierarchy)
-                {
-                    validPoints.Add(pillarSpawnPoints[i]);
-                }
-            }
-
-            if (validPoints.Count > 0)
-            {
-                int count = Mathf.Min(pillarCount, validPoints.Count);
-
-                for (int i = 0; i < count; i++)
-                {
-                    int selectedIndex = randomizePillarSpawnPoints
-                        ? Random.Range(0, validPoints.Count)
-                        : 0;
-
-                    Transform selectedPoint = validPoints[selectedIndex];
-
-                    positions.Add(selectedPoint.position);
-
-                    // Xóa khỏi list để không spawn trùng 1 điểm trong cùng 1 lần cast.
-                    validPoints.RemoveAt(selectedIndex);
-                }
-
-                return positions;
-            }
-        }
-
-        // Fallback nếu chưa gán spawn point.
         if (player == null)
         {
             positions.Add(new Vector3(transform.position.x, fallbackGroundY + pillarSize.y * 0.5f, 0f));
             return positions;
         }
 
-        positions.Add(GetFloorPointBelow(player.position, pillarSize));
+        // Lấy vị trí hiện tại của Player tại thời điểm boss bắt đầu tạo pillar.
+        Vector3 playerCurrentPosition = player.position;
+
+        // Cột đầu tiên luôn rơi ngay vị trí Player đang đứng.
+        Vector3 firstPillar = GetFloorPointBelow(playerCurrentPosition, pillarSize);
+        positions.Add(firstPillar);
+
+        // Các cột còn lại random quanh vị trí hiện tại của Player.
+        int maxTry = 20;
+        float minDistanceBetweenPillars = 1.2f;
 
         for (int i = 1; i < pillarCount; i++)
         {
-            float randomX = player.position.x + Random.Range(-pillarRandomXRange, pillarRandomXRange);
-            Vector3 source = new Vector3(randomX, player.position.y + groundRayDistance * 0.5f, 0f);
-            positions.Add(GetFloorPointBelow(source, pillarSize));
+            bool foundValidPosition = false;
+
+            for (int t = 0; t < maxTry; t++)
+            {
+                float randomX = playerCurrentPosition.x + Random.Range(-pillarRandomXRange, pillarRandomXRange);
+
+                Vector3 source = new Vector3(
+                    randomX,
+                    playerCurrentPosition.y + groundRayDistance * 0.5f,
+                    0f
+                );
+
+                Vector3 candidate = GetFloorPointBelow(source, pillarSize);
+
+                bool tooClose = false;
+
+                for (int j = 0; j < positions.Count; j++)
+                {
+                    float distance = Mathf.Abs(candidate.x - positions[j].x);
+
+                    if (distance < minDistanceBetweenPillars)
+                    {
+                        tooClose = true;
+                        break;
+                    }
+                }
+
+                if (tooClose) continue;
+
+                positions.Add(candidate);
+                foundValidPosition = true;
+                break;
+            }
+
+            // Nếu random nhiều lần vẫn trùng quá gần, cứ spawn fallback quanh Player.
+            if (!foundValidPosition)
+            {
+                float offsetX = (i % 2 == 0 ? 1f : -1f) * minDistanceBetweenPillars * i;
+
+                Vector3 fallbackSource = new Vector3(
+                    playerCurrentPosition.x + offsetX,
+                    playerCurrentPosition.y + groundRayDistance * 0.5f,
+                    0f
+                );
+
+                positions.Add(GetFloorPointBelow(fallbackSource, pillarSize));
+            }
         }
 
         return positions;

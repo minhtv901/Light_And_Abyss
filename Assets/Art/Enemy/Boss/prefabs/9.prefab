@@ -212,8 +212,8 @@ MonoBehaviour:
   obstacleLayer:
     serializedVersion: 2
     m_Bits: 128
-  visualRoot: {fileID: 0}
-  rotateVisualToDirection: 0
-  flipVisualByDirection: 1
+  visualRoot: {fileID: 5161332436703195281}
+  rotateVisualToDirection: 1
+  flipVisualByDirection: 0
   invertVisualFlip: 1
   visualRotationOffset: 0

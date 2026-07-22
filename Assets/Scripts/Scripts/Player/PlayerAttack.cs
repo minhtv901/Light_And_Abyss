@@ -87,7 +87,6 @@ public class PlayerAttack : MonoBehaviour
         HandleComboReset();
         HandleAttackInput();
 
-        // Emergency reset for testing.
         if (Input.GetKeyDown(KeyCode.R))
         {
             ForceStopAttack();
@@ -208,7 +207,6 @@ public class PlayerAttack : MonoBehaviour
 
             int finalDamage = GetFinalDamage();
 
-            // Normal enemies.
             EnemyAI enemy = hit.GetComponentInParent<EnemyAI>();
 
             if (enemy != null && !damagedObjects.Contains(enemy.gameObject))
@@ -236,20 +234,16 @@ public class PlayerAttack : MonoBehaviour
                 continue;
             }
 
-            // Boss.
             StationaryGreenFlameBossAI boss = hit.GetComponentInParent<StationaryGreenFlameBossAI>();
 
             if (boss != null && !damagedObjects.Contains(boss.gameObject))
             {
                 boss.TakeDamage(finalDamage);
-
-                // Boss should not be launched by Attack 4.
                 damagedObjects.Add(boss.gameObject);
                 hitCount++;
                 continue;
             }
 
-            // Breakable props.
             BreakableBarrel barrel = hit.GetComponentInParent<BreakableBarrel>();
 
             if (barrel != null && !damagedObjects.Contains(barrel.gameObject))
@@ -264,14 +258,9 @@ public class PlayerAttack : MonoBehaviour
 
     private int GetFinalDamage()
     {
-        int finalDamage = baseDamage;
-
-        if (playerMovement != null && playerMovement.currentWeapon != null)
-        {
-            finalDamage += Mathf.RoundToInt(playerMovement.currentWeapon.damageBoost);
-        }
-
-        return finalDamage;
+        // Route transformation no longer changes weapon or normal attack damage.
+        // Purified/Dark only unlock ultimate, so normal combat stays exactly the same.
+        return baseDamage;
     }
 
     public void ForceStopAttack()

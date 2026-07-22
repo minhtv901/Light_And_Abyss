@@ -245,6 +245,11 @@ public class StationaryGreenFlameBossAI : MonoBehaviour
     public float hitFlashDuration = 0.06f;
     public GameObject hitParticlePrefab;
 
+    [Header("Defeat Dialogue")]
+    public BossDefeatChoiceDialogue defeatDialogueManager;
+    public bool useDefeatDialogue = true;
+    public float defeatDialogueDelay = 1.2f;
+
     [Header("Debug")]
     public bool debugLog = true;
 
@@ -1293,7 +1298,22 @@ public class StationaryGreenFlameBossAI : MonoBehaviour
             defeatFallbackDuration
         );
 
+        if (useDefeatDialogue && defeatDialogueManager != null)
+        {
+            StartCoroutine(ShowDefeatDialogueAfterDelay());
+        }
+
         if (debugLog) Debug.Log("Green Flame Boss defeated.");
+    }
+
+    private IEnumerator ShowDefeatDialogueAfterDelay()
+    {
+        yield return new WaitForSeconds(defeatDialogueDelay);
+
+        if (defeatDialogueManager != null)
+        {
+            defeatDialogueManager.StartDialogue();
+        }
     }
 
     private void ReturnToIdle()

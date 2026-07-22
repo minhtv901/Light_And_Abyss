@@ -3,6 +3,13 @@ using UnityEngine;
 
 public class PlayerMovement : MonoBehaviour
 {
+    public enum PlayerRouteForm
+    {
+        Normal,
+        Purified,
+        Dark
+    }
+
     [Header("Movement Settings")]
     public float speed = 7f;
     public float jumpForce = 6f;
@@ -29,17 +36,40 @@ public class PlayerMovement : MonoBehaviour
     [Header("Animator")]
     public Animator animator;
 
-    [Header("Weapon System")]
-    public WeaponData currentWeapon;
-    public SpriteRenderer weaponRenderer;
-
-    [Header("Light Route Settings")]
+    [Header("Assist / Summon - Optional")]
+    [Tooltip("Currently OFF by default. The transformed forms should keep the same combat style and only unlock ultimate.")]
+    public bool enableAssistSummon = false;
+    public KeyCode summonKey = KeyCode.Q;
     public GameObject strikerPrefab;
     public float summonCooldown = 2f;
 
-    [Header("Route Weapons")]
-    public WeaponData swordData;
-    public WeaponData staffData;
+    [Header("Dialogue Route Result")]
+    public PlayerRouteForm currentRouteForm = PlayerRouteForm.Normal;
+
+    [Tooltip("Purified result maps to GameManager.GameRoute.Light. Dark result maps to GameManager.GameRoute.Abyss.")]
+    public bool updateGameManagerRoute = true;
+
+    [Tooltip("After the boss dialogue result, the player keeps the same attacks and only unlocks route ultimate.")]
+    public bool unlockUltimateAfterRouteChoice = true;
+
+    [Tooltip("Optional. Enable only if your Animator has this trigger parameter.")]
+    public bool playEvolutionAnimationTrigger = false;
+    public string evolveTriggerName = "Evolve";
+
+    [Tooltip("Optional. Keep OFF if all forms use exactly the same animation controller and attacks.")]
+    public bool setAnimatorFormParameter = false;
+    public string formAnimatorIntName = "Form";
+    public int normalFormValue = 0;
+    public int purifiedFormValue = 1;
+    public int darkFormValue = 2;
+
+    [Tooltip("Optional visual-only form objects. Leave null if you do not swap model visuals yet.")]
+    public GameObject normalFormVisual;
+    public GameObject purifiedFormVisual;
+    public GameObject darkFormVisual;
+    public bool swapFormVisuals = false;
+
+    public bool debugRouteEvolution = true;
 
     [Header("Evolution Settings")]
     public float evolveDuration = 1.5f;
@@ -57,14 +87,20 @@ public class PlayerMovement : MonoBehaviour
     private bool isFacingRight = true;
     private bool isEvolving = false;
     private bool isDashing = false;
+    private bool routeUltimateUnlocked = false;
 
     private float nextSummonTime = 0f;
     private float nextDashTime = 0f;
+    private Coroutine evolveCoroutine;
 
     public bool IsGrounded => isGrounded;
     public bool IsFacingRight => isFacingRight;
     public bool IsEvolving => isEvolving;
     public bool IsDashing => isDashing;
+    public bool RouteUltimateUnlocked => routeUltimateUnlocked;
+    public bool HasRouteUltimate => routeUltimateUnlocked;
+    public bool IsPurifiedRoute => currentRouteForm == PlayerRouteForm.Purified;
+    public bool IsDarkRoute => currentRouteForm == PlayerRouteForm.Dark;
 
     private void Start()
     {
@@ -79,7 +115,7 @@ public class PlayerMovement : MonoBehaviour
             animator = GetComponent<Animator>();
         }
 
-        UpdateWeaponVisual();
+        ApplyRouteVisualAndAnimator(false);
     }
 
     private void Update()
@@ -159,10 +195,8 @@ public class PlayerMovement : MonoBehaviour
     private void Jump()
     {
         if (!Input.GetKeyDown(KeyCode.Space)) return;
-
-        Debug.Log("Bấm Space. isGrounded = " + isGrounded + " | jumpCount = " + jumpCount);
-
         if (jumpCount >= maxJumpCount) return;
+        if (rb == null) return;
 
         rb.linearVelocity = new Vector2(rb.linearVelocity.x, 0f);
 
@@ -174,7 +208,6 @@ public class PlayerMovement : MonoBehaviour
         }
 
         rb.AddForce(Vector2.up * finalJumpForce, ForceMode2D.Impulse);
-
         jumpCount++;
 
         if (animator != null)
@@ -251,7 +284,6 @@ public class PlayerMovement : MonoBehaviour
         }
 
         SetDashInvincible(false);
-
         isDashing = false;
     }
 
@@ -315,33 +347,74 @@ public class PlayerMovement : MonoBehaviour
 
     private void Summon()
     {
-        if (Input.GetKeyDown(KeyCode.Q))
-        {
-            if (GameManager.instance != null &&
-                GameManager.instance.currentRoute == GameManager.GameRoute.Light)
-            {
-                if (Time.time >= nextSummonTime)
-                {
-                    SummonStriker();
-                    nextSummonTime = Time.time + summonCooldown;
-                }
-            }
-            else
-            {
-                Debug.Log("Route Abyss không gọi đệ được đâu đại ca!");
-            }
-        }
+        if (!enableAssistSummon) return;
+        if (!Input.GetKeyDown(summonKey)) return;
+        if (Time.time < nextSummonTime) return;
+
+        SummonStriker();
+        nextSummonTime = Time.time + summonCooldown;
     }
 
+    // Kept as a no-op for compatibility with older scripts.
+    // Weapon switching is intentionally removed from the route transformation flow.
     public void UpdateWeaponVisual()
     {
-        if (currentWeapon != null && weaponRenderer != null)
+    }
+
+    public void ApplyBossDialogueResult(bool darkWins)
+    {
+        if (darkWins)
         {
-            weaponRenderer.sprite = currentWeapon.weaponSprite;
+            EvolveToDarkRoute();
+        }
+        else
+        {
+            EvolveToPurifiedRoute();
         }
     }
 
-    public IEnumerator EvolveRoutine(WeaponData newData)
+    public void EvolveToPurifiedRoute()
+    {
+        StartRouteEvolution(GameManager.GameRoute.Light, PlayerRouteForm.Purified, "Purified");
+    }
+
+    public void EvolveToDarkRoute()
+    {
+        StartRouteEvolution(GameManager.GameRoute.Abyss, PlayerRouteForm.Dark, "Dark");
+    }
+
+    public void ChangeWeaponByRoute(GameManager.GameRoute route)
+    {
+        // Kept for compatibility with old code names.
+        // It now only changes route state and ultimate availability, not weapon/combat style.
+        if (route == GameManager.GameRoute.Light)
+        {
+            StartRouteEvolution(GameManager.GameRoute.Light, PlayerRouteForm.Purified, "Purified");
+        }
+        else if (route == GameManager.GameRoute.Abyss)
+        {
+            StartRouteEvolution(GameManager.GameRoute.Abyss, PlayerRouteForm.Dark, "Dark");
+        }
+    }
+
+    private void StartRouteEvolution(GameManager.GameRoute route, PlayerRouteForm routeForm, string routeLabel)
+    {
+        if (updateGameManagerRoute && GameManager.instance != null)
+        {
+            GameManager.instance.currentRoute = route;
+        }
+
+        if (evolveCoroutine != null)
+        {
+            StopCoroutine(evolveCoroutine);
+            evolveCoroutine = null;
+            isEvolving = false;
+        }
+
+        evolveCoroutine = StartCoroutine(EvolveRoutine(routeForm, routeLabel));
+    }
+
+    private IEnumerator EvolveRoutine(PlayerRouteForm routeForm, string routeLabel)
     {
         isEvolving = true;
 
@@ -350,15 +423,72 @@ public class PlayerMovement : MonoBehaviour
             rb.linearVelocity = Vector2.zero;
         }
 
-        Debug.Log("ĐANG TIẾN HÓA...");
+        if (animator != null && playEvolutionAnimationTrigger && !string.IsNullOrEmpty(evolveTriggerName))
+        {
+            animator.ResetTrigger(evolveTriggerName);
+            animator.SetTrigger(evolveTriggerName);
+        }
+
+        if (debugRouteEvolution)
+        {
+            Debug.Log($"ĐANG MỞ KHÓA ROUTE: {routeLabel} - giữ nguyên lối đánh, chỉ mở ultimate.");
+        }
 
         yield return new WaitForSeconds(evolveDuration);
 
-        currentWeapon = newData;
-        UpdateWeaponVisual();
+        currentRouteForm = routeForm;
 
-        Debug.Log("TIẾN HÓA THÀNH CÔNG!");
+        if (unlockUltimateAfterRouteChoice)
+        {
+            routeUltimateUnlocked = true;
+        }
+
+        ApplyRouteVisualAndAnimator(true);
+        NotifyRouteChanged(routeLabel);
+
+        if (debugRouteEvolution)
+        {
+            Debug.Log($"ROUTE READY: {routeLabel} | Ultimate unlocked = {routeUltimateUnlocked}");
+        }
+
         isEvolving = false;
+        evolveCoroutine = null;
+    }
+
+    private void ApplyRouteVisualAndAnimator(bool notify)
+    {
+        if (swapFormVisuals)
+        {
+            if (normalFormVisual != null)
+                normalFormVisual.SetActive(currentRouteForm == PlayerRouteForm.Normal);
+
+            if (purifiedFormVisual != null)
+                purifiedFormVisual.SetActive(currentRouteForm == PlayerRouteForm.Purified);
+
+            if (darkFormVisual != null)
+                darkFormVisual.SetActive(currentRouteForm == PlayerRouteForm.Dark);
+        }
+
+        if (animator != null && setAnimatorFormParameter && !string.IsNullOrEmpty(formAnimatorIntName))
+        {
+            int formValue = normalFormValue;
+
+            if (currentRouteForm == PlayerRouteForm.Purified)
+                formValue = purifiedFormValue;
+            else if (currentRouteForm == PlayerRouteForm.Dark)
+                formValue = darkFormValue;
+
+            animator.SetInteger(formAnimatorIntName, formValue);
+        }
+    }
+
+    private void NotifyRouteChanged(string routeLabel)
+    {
+        // Optional hooks for your future skill/ultimate scripts.
+        // These do not require receiver scripts, so they are safe for the demo.
+        gameObject.SendMessage("OnRouteUltimateUnlocked", currentRouteForm, SendMessageOptions.DontRequireReceiver);
+        gameObject.SendMessage("OnPlayerRouteChanged", currentRouteForm, SendMessageOptions.DontRequireReceiver);
+        gameObject.SendMessage("UnlockUltimate", routeLabel, SendMessageOptions.DontRequireReceiver);
     }
 
     private void Flip()
@@ -372,25 +502,13 @@ public class PlayerMovement : MonoBehaviour
 
     private void SummonStriker()
     {
+        if (strikerPrefab == null) return;
+
         Vector3 spawnPos = transform.position + new Vector3(isFacingRight ? 1.5f : -1.5f, 0.5f, 0f);
         GameObject striker = Instantiate(strikerPrefab, spawnPos, Quaternion.identity);
         Destroy(striker, 1f);
 
         Debug.Log("Assist time!");
-    }
-
-    public void ChangeWeaponByRoute(GameManager.GameRoute route)
-    {
-        if (route == GameManager.GameRoute.Light)
-        {
-            currentWeapon = swordData;
-        }
-        else if (route == GameManager.GameRoute.Abyss)
-        {
-            currentWeapon = staffData;
-        }
-
-        UpdateWeaponVisual();
     }
 
     private void OnDrawGizmosSelected()

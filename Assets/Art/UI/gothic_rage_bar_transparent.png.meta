@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 9a3d8abd8b98dea49bab130c47716450
+guid: e3e7ed8da0022c9429eb87c86d09454b
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -7455948309748356329
-    second: rage_bar_full_transparent_0
+      213: -1386064055232204765
+    second: gothic_rage_bar_transparent_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -113,13 +113,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: rage_bar_full_transparent_0
+      name: gothic_rage_bar_transparent_0
       rect:
         serializedVersion: 2
-        x: 67
-        y: 125
-        width: 1914
-        height: 419
+        x: 455
+        y: 263
+        width: 1138
+        height: 157
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -128,8 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 71b66cdf386278890800000000000000
-      internalID: -7455948309748356329
+      spriteID: 32072ffd516b3cce0800000000000000
+      internalID: -1386064055232204765
       vertices: []
       indices: 
       edges: []
@@ -148,7 +148,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      rage_bar_full_transparent_0: -7455948309748356329
+      gothic_rage_bar_transparent_0: -1386064055232204765
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

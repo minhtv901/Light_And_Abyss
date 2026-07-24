@@ -1861,7 +1861,7 @@ Canvas:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 508609811}
-  m_Enabled: 0
+  m_Enabled: 1
   serializedVersion: 3
   m_RenderMode: 0
   m_Camera: {fileID: 0}
@@ -3812,12 +3812,25 @@ MonoBehaviour:
   groundCheckSize: {x: 0.8, y: 0.25}
   groundCheckExtraDistance: 0.1
   animator: {fileID: 1245500832}
-  currentWeapon: {fileID: 11400000, guid: 5f69debb11b46c442b89eea7420b54cf, type: 2}
-  weaponRenderer: {fileID: 1973961807}
+  enableAssistSummon: 0
+  summonKey: 113
   strikerPrefab: {fileID: 8095007356695962811, guid: fa8033029ae26854b857c164f5a349c1, type: 3}
   summonCooldown: 2
-  swordData: {fileID: 11400000, guid: 94bbfbe47c52c574aaf9e167dbdeddda, type: 2}
-  staffData: {fileID: 11400000, guid: 8f756b53e4a04364ba3ccb4aa31eceef, type: 2}
+  currentRouteForm: 0
+  updateGameManagerRoute: 1
+  unlockUltimateAfterRouteChoice: 1
+  playEvolutionAnimationTrigger: 0
+  evolveTriggerName: Evolve
+  setAnimatorFormParameter: 0
+  formAnimatorIntName: Form
+  normalFormValue: 0
+  purifiedFormValue: 1
+  darkFormValue: 2
+  normalFormVisual: {fileID: 0}
+  purifiedFormVisual: {fileID: 0}
+  darkFormVisual: {fileID: 0}
+  swapFormVisuals: 0
+  debugRouteEvolution: 1
   evolveDuration: 1.5
 --- !u!61 &1245500828
 BoxCollider2D:
@@ -4557,7 +4570,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9daeea826a38f1b49ad0197f72e274ed, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::NewMonoBehaviourScript
-  weaponToGive: {fileID: 11400000, guid: e7584a26f5ad0fa40b9b6080e3c550f4, type: 2}
 --- !u!61 &1422385769
 BoxCollider2D:
   m_ObjectHideFlags: 0
